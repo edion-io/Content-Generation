@@ -2,11 +2,16 @@
 import fitz
 import glob
 import spacy
+import re
+
+# Specify the page range to process
+PAGE_MIN = 5
+PAGE_MAX = 99
+# Specify the folder containing the PDF files
+FOLDER = 'books/Computer Science/Primary'
 
 # Load the English NLP model
 nlp = spacy.load('en_core_web_sm')
-# Specify the folder containing the PDF files
-folder = 'books/Computer Science/Primary'
 
 def find_first_number(string: str) -> str:
     """Find the first occurrence of a number in a string.
@@ -159,17 +164,23 @@ def is_near_top_or_bottom(block: dict, page_height: float, threshold=200) -> tup
     return near_top, near_bottom
 
 if __name__ == "__main__":
-    for i, path in enumerate(glob.glob(f"{folder}/*.pdf")):
+    for i, path in enumerate(glob.glob(f"{FOLDER}/*.pdf")):
         print(f"Processing {path}")
         # Open the PDF file
         pdf_document = fitz.open(path)
 
         # Save the subject
-        subject = folder.split('/')[1]
+        subject = FOLDER.split('/')[1]
 
         # Iterate through all the pages
         for page_num in range(len(pdf_document)):
+            # Load the page
             page = pdf_document.load_page(page_num)
+
+            # Skip the first few pages (e.g., table of contents, glossary)
+            if page_num < PAGE_MIN or page_num > PAGE_MAX:
+                continue
+            
             # Get page height
             page_height = page.rect.height
 
@@ -209,7 +220,8 @@ if __name__ == "__main__":
                     if has_imperative(combined_block['text']):
                         near_top, near_bottom = is_near_top_or_bottom(combined_block, page_height)
                         if near_top or near_bottom:
-                            f.write(f"{subject} T D {i + 1} M")
+                            f.write(f"{subject} T D {i + 1} M\n")
+                            f.write(f"{combined_block['text']}\n")
 
         # Close the PDF file
         pdf_document.close()
