@@ -4,7 +4,11 @@ import spacy
 import glob
 import fitz
 import json
-from imgurpython import ImgurClient
+import cloudinary
+import cloudinary.uploader
+import cloudinary.api
+from openai import OpenAI
+
 
 def find_first_number(string: str) -> str:
     """Find the first occurrence of a number in a string.
@@ -158,7 +162,7 @@ def is_near_top_or_bottom(block: dict, page_height: float, threshold=200) -> tup
     near_bottom = bottom_distance <= threshold
     return near_top, near_bottom
 
-def PDF_to_images(folder: str, min: int, max, int) -> None:
+def PDF_to_images(folder: str, min: int, max: int) -> None:
     """Convert PDF files in a folder to images.
 
     Args:
@@ -180,21 +184,36 @@ def PDF_to_images(folder: str, min: int, max, int) -> None:
             pix = page.get_pixmap()
             pix.save(f'imgs/{subject}_{grade}_page_{page_num + 1}.png')
 
-def upload_image(client: ImgurClient, image_path: str) -> tuple:
+def upload_image(image_path: str, api_key: str, api_secret: str) -> tuple:
     """ Upload an image to Imgur and get the URL.
 
     Args:
-        client (ImgurClient): The Imgur client.
         image_path (str): The path to the image file.
+        api_key (str): The Cloudinary API key.
+        api_secret (str): The Cloudinary API secret.
 
     Returns:
         tuple: A tuple containing the subject, grade, and the URL of the uploaded image.
     """
-    response = client.upload_from_path(image_path)
-    subject, grade = image_path.split('/')[-1].split('_')[:2]
-    return subject, grade, response['link']
+    # Configure Cloudinary with your credentials
+    cloudinary.config(
+      cloud_name='duxnyytva',
+      api_key=api_key,
+      api_secret=api_secret 
+    )
 
-def batch_vision(urls: list, prompt: str, filename: str) -> str:
+    name = image_path.split('/')[-1]
+    subject, grade = name.split('_')[:2]
+
+    try:
+        response = cloudinary.uploader.upload(image_path, public_id=name)
+        print("Upload Successful:", response['url'])
+        return subject, grade, response['url']
+    except Exception as e:
+        print(f"Error uploading file {image_path}: {e}")
+        return None
+
+def batch_vision(urls: list, prompt: str) -> str:
     """Create a batch of chat completion tasks for a list of image URLs.
     
     Args:
@@ -205,9 +224,11 @@ def batch_vision(urls: list, prompt: str, filename: str) -> str:
     Returns:
         str: The name of the file containing the batch of tasks.
     """
-    tasks = []
+    batches, current_batch = [], []
+    current_tokens = 0
+    item_tokens = len(prompt.split())
     for i, (subject, grade, url) in enumerate(urls):
-        tasks.append({
+        item = ({
         "custom_id": f"{subject}_{grade}_{i}",
         "method": "POST",
         "url": "/v1/chat/completions",
@@ -215,7 +236,7 @@ def batch_vision(urls: list, prompt: str, filename: str) -> str:
             # Chat Completions API call
             "model": "gpt-4o-mini",
             "temperature": 0.2,
-            "max_tokens": 2000,
+            "max_tokens": 3000,
             "messages": [
                 {
                     "role": "system",
@@ -235,12 +256,74 @@ def batch_vision(urls: list, prompt: str, filename: str) -> str:
             ]            
         }
     })
-        
-     # Creating the file
-    file_name = f"tasks/{filename}.jsonl"
+        if current_tokens + item_tokens > 190000:
+            batches.append(current_batch)
+            current_batch = [item]
+            current_tokens = item_tokens
+        else:
+            current_batch.append(item)
+            current_tokens += item_tokens
 
-    with open(file_name, 'w') as file:
-        for obj in tasks:
-            file.write(json.dumps(obj) + '\n')   
+    # Add the last batch if not empty
+    if current_batch:
+        batches.append(current_batch)
 
-    return file_name
+    # Save the smaller batches as separate files
+    for i, batch in enumerate(batches):
+        with open(f'tasks/input_file_batch_{i+1}.jsonl', 'w') as f:
+            for item in batch:
+                f.write(json.dumps(item) + '\n')
+
+def submit_batch(client: OpenAI, file=None, files=False) -> None:
+    """Submit a batch job to process a batch of chat completion tasks.
+
+    Args:
+        client (OpenAI): The OpenAI client.
+        file (str): The name of the batch file to submit.
+        files (bool): A flag indicating if multiple batch files should be submitted.
+    """
+    if files:
+        # Submit all batch files
+        for file in glob.glob('tasks/input_file_batch_*.json'):
+            submit(client, file)
+    else:
+        # Submit a single batch file
+        submit(client, "tasks/"+file)
+
+def submit(client: OpenAI, file: str) -> None:
+    """Submit a batch job to process a batch of chat completion tasks.
+
+    Args:
+        client (OpenAI): The OpenAI client.
+        file (str): The name of the batch file to submit.
+    """
+
+    # Create a batch job for the file
+    batch_file = client.files.create(
+        file=open(file, "rb"),
+        purpose="batch"
+    )
+    # Create the job to process the batch
+    batch_job = client.batches.create(
+        input_file_id=batch_file.id,
+        endpoint="/v1/chat/completions",
+        completion_window="24h"
+    )
+    # Store the id of the batch job
+    with open("batch_job_id.txt", "a") as f:
+        f.write("\n"+batch_job.id)
+
+def modify_jsonl(file_path: str, output_path: str, new_prompt: str):
+    """ Modify the content of a JSONL file.
+
+    Args:
+        file_path (str): The path to the input JSONL file.
+        output_path (str): The path to the output JSONL file.
+        new_prompt (str): The new prompt to replace the content with.
+    """
+    with open(file_path, 'r') as f, open(output_path, 'w') as out:
+        for line in f:
+            obj = json.loads(line)
+            obj['body']['messages'][0]['content'] = new_prompt
+            json.dump(obj, out)
+            out.write('\n')
