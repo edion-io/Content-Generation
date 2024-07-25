@@ -5,20 +5,15 @@ import glob
 import sys
 import json
 
-#
-
-# Specify the page range to process
-PAGE_MIN = 5
-PAGE_MAX = 99
 # Specify the folder containing the PDF files
-FOLDER = 'books/Computer Science/Primary'
+FOLDER = 'books/English/Primary'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the Imgur client ID and secret
 CLOUDINARY_API = "667797151493891"
 CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 # Specify the prompt for the chat completion task
-prompt = "Using the given image, modify the 'Think again', 'Extra challenge' or 'Activity' bits for a blind person with zero knowledge or resources to use it. If a question refers to outside material, make it general so that one could do this without the specific material and add a '[MATERIAL] [Description of needed material] segment below each question that needs it as well.  Output the occurrence(s) in this format:\n *NEW*\n[Replace with type of text] \n [Replace with question]\n If the extracted text needs an image to make sense, give a description of the image in the format '[STARTDGM] [Replace with description of diagram] [STOPDGM]' below the extracted text. Separate multiple occurrences with a newline. If there are no occurrences then output 'No text\n'."
+prompt = "Extract any exercise you see on the page. Output the occurrence(s) in this format:\n *NEW*\n[Replace with type of exercise (be detailed)] \n [Replace with question]\n If the extracted text needs an image to make sense, give a description of the image in the format '[STARTDGM] [Replace with description of diagram] [STOPDGM]' below the extracted text. Separate multiple occurrences with a newline. If there are no occurrences then output 'No text\n'."
 
 if __name__ == "__main__":
     # Initialize the OpenAI API
@@ -30,7 +25,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
         # Convert the PDFs to images
-        #PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
+        PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
 
         # Upload the images to Cloudinary and get the URLs
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]
@@ -74,6 +69,6 @@ if __name__ == "__main__":
                     exercises = extracted_text.split("*NEW*")[1:]
                     for exercise in exercises:
                         f.write(f"{subject} T D {grade} M\n")
-                        f.write(exercise)
+                        f.write(exercise + '\n')
     else:
         print("Invalid argument. Use -e to extract text, -r to retrieve results,\n -sb to submit a batch job or -ab to submit all batches")

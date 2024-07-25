@@ -171,7 +171,7 @@ def PDF_to_images(folder: str, min: int, max: int) -> None:
         max (int): The maximum page number to process.
     """
     # Split the PDFs into images
-    for path in glob.glob(f"{folder}/*.pdf"):
+    for path in glob.glob(f"{folder}/Nelson*.pdf"):
         grade = find_first_number(path)
         # Save the subject
         subject = folder.split('/')[1]
@@ -311,7 +311,7 @@ def submit(client: OpenAI, file: str) -> None:
     )
     # Store the id of the batch job
     with open("batch_job_id.txt", "a") as f:
-        f.write("\n"+batch_job.id)
+        f.write(batch_job.id+"\n")
 
 def modify_jsonl(file_path: str, output_path: str, new_prompt: str):
     """ Modify the content of a JSONL file.
