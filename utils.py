@@ -171,7 +171,7 @@ def PDF_to_images(folder: str, min: int, max: int) -> None:
         max (int): The maximum page number to process.
     """
     # Split the PDFs into images
-    for path in glob.glob(f"{folder}/Nelson*.pdf"):
+    for path in glob.glob(f"{folder}/*.pdf"):
         grade = find_first_number(path)
         # Save the subject
         subject = folder.split('/')[1]
@@ -270,7 +270,7 @@ def batch_vision(urls: list, prompt: str) -> str:
 
     # Save the smaller batches as separate files
     for i, batch in enumerate(batches):
-        with open(f'tasks/input_file_batch_{i+1}.jsonl', 'w') as f:
+        with open(f'tasks/batch_{i+1}.jsonl', 'w') as f:
             for item in batch:
                 f.write(json.dumps(item) + '\n')
 
@@ -288,7 +288,7 @@ def submit_batch(client: OpenAI, file=None, files=False) -> None:
             submit(client, file)
     else:
         # Submit a single batch file
-        submit(client, "tasks/"+file)
+        submit(client, f"tasks/{file}.jsonl")
 
 def submit(client: OpenAI, file: str) -> None:
     """Submit a batch job to process a batch of chat completion tasks.

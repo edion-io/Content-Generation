@@ -6,14 +6,14 @@ import sys
 import json
 
 # Specify the folder containing the PDF files
-FOLDER = 'books/English/Primary'
+FOLDER = 'books/History/Primary'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the Imgur client ID and secret
 CLOUDINARY_API = "667797151493891"
 CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 # Specify the prompt for the chat completion task
-prompt = "Extract any exercise you see on the page. Output the occurrence(s) in this format:\n *NEW*\n[Replace with type of exercise (be detailed)] \n [Replace with question]\n If the extracted text needs an image to make sense, give a description of the image in the format '[STARTDGM] [Replace with description of diagram] [STOPDGM]' below the extracted text. Separate multiple occurrences with a newline. If there are no occurrences then output 'No text\n'."
+prompt = "Extract any activities, challenges or review questions you find. If the question refers to a picture or fictional character from the page/book, skip it, unless you can turn it into a question that doesn't need this knowledge. Output the occurrence(s) in this format:\n *NEW*\n[Replace with type of text] \n [Replace with extracted text]\n Separate multiple occurrences with a newline. If there are no occurrences then output 'No text\n'."
 
 if __name__ == "__main__":
     # Initialize the OpenAI API
@@ -65,6 +65,7 @@ if __name__ == "__main__":
                 for result in batch_results:
                     task_id = result['custom_id']
                     subject, grade, _ = task_id.split('_')
+                    grade = grade if int(grade) % 2 == 1 else str(int(grade) // 2)
                     extracted_text = result['response']['body']['choices'][0]['message']['content']
                     exercises = extracted_text.split("*NEW*")[1:]
                     for exercise in exercises:
