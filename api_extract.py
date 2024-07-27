@@ -12,8 +12,9 @@ IMAGE_FOLDER = 'imgs'
 # Specify the Imgur client ID and secret
 CLOUDINARY_API = "667797151493891"
 CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
+
 # Specify the prompt for the chat completion task
-prompt = "Extract any activities, challenges or review questions you find. If the question refers to a picture or fictional character from the page/book, skip it, unless you can turn it into a question that doesn't need this knowledge. Output the occurrence(s) in this format:\n *NEW*\n[Replace with type of text] \n [Replace with extracted text]\n Separate multiple occurrences with a newline. If there are no occurrences then output 'No text\n'."
+prompt = "Extract any 'Activities', or other questions you find. Ensure that for Review sections you extract all questions in full, with options (a,b,c,d, etc) or the prompt of the question. Output the occurrence(s) in this format:\n *NEW*\n[Replace with type of text] \n [Replace with extracted text]\n Separate multiple occurrences with a newline.  For activities do not split them into parts. If there are no occurrences then output 'No text\n'."
 
 if __name__ == "__main__":
     # Initialize the OpenAI API
@@ -25,7 +26,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
         # Convert the PDFs to images
-        PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
+        #PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
 
         # Upload the images to Cloudinary and get the URLs
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]
@@ -65,7 +66,6 @@ if __name__ == "__main__":
                 for result in batch_results:
                     task_id = result['custom_id']
                     subject, grade, _ = task_id.split('_')
-                    grade = grade if int(grade) % 2 == 1 else str(int(grade) // 2)
                     extracted_text = result['response']['body']['choices'][0]['message']['content']
                     exercises = extracted_text.split("*NEW*")[1:]
                     for exercise in exercises:

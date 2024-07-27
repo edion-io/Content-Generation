@@ -171,7 +171,7 @@ def PDF_to_images(folder: str, min: int, max: int) -> None:
         max (int): The maximum page number to process.
     """
     # Split the PDFs into images
-    for path in glob.glob(f"{folder}/*.pdf"):
+    for path in glob.glob(f"{folder}/Oxford*.pdf"):
         grade = find_first_number(path)
         # Save the subject
         subject = folder.split('/')[1]
