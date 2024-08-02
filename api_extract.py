@@ -1,12 +1,12 @@
 # Copyright (C) 2024  Edion Management Systems
 from openai import OpenAI
-from utils import PDF_to_images, upload_image, batch_vision, submit_batch
+from utils import PDF_to_images, upload_image, batch_vision, submit_batch, save_multiple_pages_as_image
 import glob
 import sys
 import json
 
 # Specify the folder containing the PDF files
-FOLDER = 'books/History/Primary'
+FOLDER = 'books/Dutch/Get Started in Dutch A Teach Yourself Guide (Quist Gerdi, Strik Dennis.) (Z-Library).pdf'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the Imgur client ID and secret
@@ -14,7 +14,7 @@ CLOUDINARY_API = "667797151493891"
 CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 
 # Specify the prompt for the chat completion task
-prompt = "Extract any 'Activities', or other questions you find. Ensure that for Review sections you extract all questions in full, with options (a,b,c,d, etc) or the prompt of the question. Output the occurrence(s) in this format:\n *NEW*\n[Replace with type of text] \n [Replace with extracted text]\n Separate multiple occurrences with a newline.  For activities do not split them into parts. If there are no occurrences then output 'No text\n'."
+prompt = "Extract any 'Activiteiten' as well as their answers in the image exactly as they are. Ensure that if the question refers to an example or text that you also find and extract that together. Output the occurrence(s) in this format:\n *NEW*\n[Replace with type of text] \n [Replace with extracted text]\n [Replace with answers]\n Separate multiple occurrences with a newline."
 
 if __name__ == "__main__":
     # Initialize the OpenAI API
@@ -26,7 +26,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
         # Convert the PDFs to images
-        #PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
+        PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
 
         # Upload the images to Cloudinary and get the URLs
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]
@@ -65,7 +65,7 @@ if __name__ == "__main__":
             with open("questions.txt", "a") as f:
                 for result in batch_results:
                     task_id = result['custom_id']
-                    subject, grade, _ = task_id.split('_')
+                    subject, grade = task_id.split('_')
                     extracted_text = result['response']['body']['choices'][0]['message']['content']
                     exercises = extracted_text.split("*NEW*")[1:]
                     for exercise in exercises:

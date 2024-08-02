@@ -8,6 +8,7 @@ import cloudinary
 import cloudinary.uploader
 import cloudinary.api
 from openai import OpenAI
+from PIL import Image
 
 
 def find_first_number(string: str) -> str:
@@ -327,3 +328,40 @@ def modify_jsonl(file_path: str, output_path: str, new_prompt: str):
             obj['body']['messages'][0]['content'] = new_prompt
             json.dump(obj, out)
             out.write('\n')
+
+def save_multiple_pages_as_image(pdf_path, page_numbers, output_image_path):
+    # Open the PDF file
+    pdf_document = fitz.open(pdf_path)
+    
+    # List to hold PIL images of each page
+    page_images = []
+
+    # Loop through each page number
+    for page_number in page_numbers:
+        # Load the page
+        page = pdf_document.load_page(page_number)
+        
+        # Get the page's image as a Pixmap
+        pix = page.get_pixmap()
+        
+        # Convert the Pixmap to a PIL Image
+        image = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+        
+        # Append the image to the list
+        page_images.append(image)
+    
+    # Calculate the total height of the combined image
+    total_height = sum(image.height for image in page_images)
+    max_width = max(image.width for image in page_images)
+    
+    # Create a new blank image with the combined size
+    combined_image = Image.new("RGB", (max_width, total_height))
+    
+    # Paste each page image into the combined image
+    y_offset = 0
+    for image in page_images:
+        combined_image.paste(image, (0, y_offset))
+        y_offset += image.height
+    
+    # Save the combined image
+    combined_image.save(output_image_path)
