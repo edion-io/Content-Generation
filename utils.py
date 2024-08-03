@@ -9,6 +9,7 @@ import cloudinary.uploader
 import cloudinary.api
 from openai import OpenAI
 from PIL import Image
+import numpy as np
 
 
 def find_first_number(string: str) -> str:
@@ -172,7 +173,7 @@ def PDF_to_images(folder: str, min: int, max: int) -> None:
         max (int): The maximum page number to process.
     """
     # Split the PDFs into images
-    for path in glob.glob(f"{folder}/Oxford*.pdf"):
+    for path in glob.glob(f"{folder}/*.pdf"):
         grade = find_first_number(path)
         # Save the subject
         subject = folder.split('/')[1]
@@ -214,7 +215,82 @@ def upload_image(image_path: str, api_key: str, api_secret: str) -> tuple:
         print(f"Error uploading file {image_path}: {e}")
         return None
 
-def batch_vision(urls: list, prompt: str) -> str:
+def extract_raw_questions(header: str, file:str) -> list:
+    """ Extracts all the questions from a file or text.
+
+    Args:
+        header (str): The header to search for.
+        file (str): The file to extract questions from.
+
+    Returns:
+        list: A list of questions.
+    """
+    first = True
+    segment = ''
+    prompts = []
+    with open (file, "r") as f:
+        for line in f:
+            if header in line:
+                if not first:
+                    prompts.append(segment)
+                else:
+                    first = False
+                segment = line
+            else:
+                segment += line
+    return prompts
+    
+def batch_text(texts: list, prompt: str) -> None:
+    """ Create a batch of chat completion tasks for a list of texts.
+
+    Args:
+        texts (list): A list of texts.
+        prompt (str): The prompt for the chat completion task.
+    """
+    batches, current_batch = [], []
+    current_tokens = 0
+    for i, text in enumerate(texts):
+        item = ({
+        "custom_id": f"item_{i}",
+        "method": "POST",
+        "url": "/v1/chat/completions",
+        "body": {
+            # Chat Completions API call
+            "model": "gpt-4o-mini",
+            "temperature": 0.2,
+            "max_tokens": 3000,
+            "messages": [
+                {
+                    "role": "system",
+                    "content": prompt
+                },
+                {
+                    "role": "user",
+                    "content": text
+                }
+            ]            
+        }
+    })  
+        item_tokens = len(prompt.split()) + len(text.split())
+        if current_tokens + item_tokens > 190000:
+            batches.append(current_batch)
+            current_batch = [item]
+            current_tokens = item_tokens
+        else:
+            current_batch.append(item)
+            current_tokens += item_tokens
+
+    # Add the last batch if not empty
+    if current_batch:
+        batches.append(current_batch)
+
+    # Save the smaller batches as separate files
+    for i, batch in enumerate(batches):
+        with open(f'tasks/batch_{i+1}.jsonl', 'w') as f:
+            for item in batch:
+                f.write(json.dumps(item) + '\n')
+
+def batch_vision(urls: list, prompt: str) -> None:
     """Create a batch of chat completion tasks for a list of image URLs.
     
     Args:
