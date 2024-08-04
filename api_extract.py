@@ -6,7 +6,7 @@ import sys
 import json
 
 # Specify the folder containing any relevant files
-FOLDER = 'spanish.txt'
+FOLDER = 'german.txt'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the Imgur client ID and secret
@@ -14,7 +14,7 @@ CLOUDINARY_API = "667797151493891"
 CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 
 # Specify the prompt for the chat completion task
-prompt = "Take this exercise. First format the exercise and answers such that it's more readable. Then output it in this format:\n 'Spanish ([Replace with Concise Exercise Type]) D G (With Answer)\n [Replace with formatted exercise and answers]' Do NOT deviate from the format."
+prompt = "1. Reformat the text such that it's more readable. 2. Then put it in this exact format; DO NOT FORGET TO ENCLOSE THE EXERCISE TYPE IN PARENTHESES AND DO NOT EVER REPLACE IT AS 'T D G': 'German ([Replace the T with a concise exercise type]) D G (With Answer)\n [Replace with exercise]\n Answers\n[Replace with Answers]"
 
 
 if __name__ == "__main__":
@@ -39,7 +39,7 @@ if __name__ == "__main__":
             print("Usage: python api_extract.py -et")
             sys.exit(1)
         # Extract all the questions from the file
-        questions = extract_raw_questions('Spanish T D G (With Answer)', file=FOLDER)
+        questions = extract_raw_questions('German T D G (With Answer)', file=FOLDER)
 
         # Create multiple completions and store them in batches
         batch_text(questions, prompt)
