@@ -43,7 +43,6 @@ if __name__ == "__main__":
 
         # Create multiple completions and store them in batches
         batch_text(questions, prompt)
-
     elif sys.argv[1] == "-sb":
         if len(sys.argv) != 3:
             print("Usage: python api_extract.py -b <batch_file_name>")

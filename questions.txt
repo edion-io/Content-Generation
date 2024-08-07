@@ -25372,6 +25372,7 @@ Social Studies T D 3 M
 
 Activities  
 No text.
+
 Social Studies T D 4 M
 
 Activity  
@@ -25839,6 +25840,7 @@ Social Studies T D 5 M
 Activities  
 1 Design a building or a garden that has Islamic elements.  
 2 Find out about three buildings or structures in your country and explain why they are good examples of Islamic architecture.  
+
 Dutch (Word Completion) D G (With Answer, With Hint)
 Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
 1. b_o_r
