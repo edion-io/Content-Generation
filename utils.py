@@ -404,40 +404,61 @@ def modify_jsonl(file_path: str, output_path: str, new_prompt: str):
             obj['body']['messages'][0]['content'] = new_prompt
             json.dump(obj, out)
             out.write('\n')
+def combine(images: list, output_path: str) -> None:
+    """ Combines images into a single image.
 
-def save_multiple_pages_as_image(pdf_path, page_numbers, output_image_path):
-    # Open the PDF file
-    pdf_document = fitz.open(pdf_path)
-    
-    # List to hold PIL images of each page
-    page_images = []
+    Args:
+        images (list): The list of images to combine.
+        output_path (str): The path to save the combined image to.
+    """
+    # Assuming all images are the same width and height
+    width, height = images[0].size
 
-    # Loop through each page number
-    for page_number in page_numbers:
-        # Load the page
-        page = pdf_document.load_page(page_number)
-        
-        # Get the page's image as a Pixmap
-        pix = page.get_pixmap()
-        
-        # Convert the Pixmap to a PIL Image
-        image = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
-        
-        # Append the image to the list
-        page_images.append(image)
-    
-    # Calculate the total height of the combined image
-    total_height = sum(image.height for image in page_images)
-    max_width = max(image.width for image in page_images)
-    
-    # Create a new blank image with the combined size
-    combined_image = Image.new("RGB", (max_width, total_height))
-    
-    # Paste each page image into the combined image
+    # Create a new image with appropriate height to hold all the images
+    total_height = height * len(images)
+    combined_image = Image.new('RGB', (width, total_height))
+
+    # Paste each image below the previous one
     y_offset = 0
-    for image in page_images:
-        combined_image.paste(image, (0, y_offset))
-        y_offset += image.height
-    
+    for img in images:
+        combined_image.paste(img, (0, y_offset))
+        y_offset += height
+
     # Save the combined image
-    combined_image.save(output_image_path)
+    combined_image.save(output_path)
+def get_images(file: str, pages: list, offset: int, spec: str) -> list:
+    """ Extracts related images (in a range) from a PDF file.
+
+    Args:
+        file (str): The path to the PDF file.
+        pages (list): The list of page ranges to extract images from.
+        offset (int): The offset to add to the page number.
+        spec (str): A string to add to the image name to differentiate it.
+
+    Returns:
+        list: The list of images extracted from the PDF.
+    """
+    images = []
+    i = 0
+    doc = fitz.open(file)
+    start, stop = pages.pop(0)
+    for page_num in range(doc.page_count):
+        # Check if the page number is within the range
+        if start + offset <= page_num <= stop + offset:
+            page = doc.load_page(page_num)
+            pix = page.get_pixmap()
+            img_data = pix.tobytes("ppm") # Get pixmap in PPM format
+            img = Image.open(io.BytesIO(img_data))  # Convert bytes to PIL Image
+            images.append(img)
+
+            # Combine images if the range is complete
+            if page_num == stop + offset:
+                combine(images, f'imgs/{spec}_{i}.png')
+                i += 1
+                if len(pages) == 0:
+                    break
+                start, stop = pages.pop(0)
+                images.clear()
+        else:
+            continue
+    return images
