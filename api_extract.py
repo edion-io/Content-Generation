@@ -6,7 +6,7 @@ import sys
 import json
 
 # Specify the folder containing any relevant files
-FOLDER = 'german.txt'
+FOLDER = 'books/Science/Primary'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the Imgur client ID and secret
@@ -14,7 +14,7 @@ CLOUDINARY_API = "667797151493891"
 CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 
 # Specify the prompt for the chat completion task
-prompt = "1. Reformat the text such that it's more readable. 2. Then put it in this exact format; DO NOT FORGET TO ENCLOSE THE EXERCISE TYPE IN PARENTHESES AND DO NOT EVER REPLACE IT AS 'T D G': 'German ([Replace the T with a concise exercise type]) D G (With Answer)\n [Replace with exercise]\n Answers\n[Replace with Answers]"
+prompt = "1. Extract all exercises from the pages .\n2. Output them in this format:\n*NEW*\n[Type or Topic of Activity/Exercises]\n[Replace with given exercise(s) of given page, separated by newline ]\n\n 3. Output exercises per page as if it was one large activity (one single 'NEW' and one label). 4. If an activity or exercise needs or refers to one or more images or tables, add a description of the image(s) to the above template in the form:\n[STRDGRM] [Detailed description of the image that a blind person can use to visualize what is needed, without even seeing the image] [STPDGRM]\n\n5. Only output what is asked of you."
 
 
 if __name__ == "__main__":
@@ -27,7 +27,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
         # Convert the PDFs to images
-        PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
+        #PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
 
         # Upload the images to Cloudinary and get the URLs
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]
@@ -83,7 +83,7 @@ if __name__ == "__main__":
             with open("questions.txt", "a") as f:
                 for result in batch_results:
                     task_id = result['custom_id']
-                    subject, grade = task_id.split('_')
+                    subject, grade, _ = task_id.split('_')
                     extracted_text = result['response']['body']['choices'][0]['message']['content']
                     exercises = extracted_text.split("*NEW*")[1:]
                     for exercise in exercises:

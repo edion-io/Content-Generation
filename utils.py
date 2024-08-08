@@ -9,8 +9,7 @@ import cloudinary.uploader
 import cloudinary.api
 from openai import OpenAI
 from PIL import Image
-import numpy as np
-
+import io
 
 def find_first_number(string: str) -> str:
     """Find the first occurrence of a number in a string.
@@ -427,7 +426,7 @@ def combine(images: list, output_path: str) -> None:
     # Save the combined image
     combined_image.save(output_path)
 def get_images(file: str, pages: list, offset: int, spec: str) -> list:
-    """ Extracts related images (in a range) from a PDF file.
+    """ Extracts related images (in a range) from a PDF file and combines them into a single image.
 
     Args:
         file (str): The path to the PDF file.
@@ -455,10 +454,10 @@ def get_images(file: str, pages: list, offset: int, spec: str) -> list:
             if page_num == stop + offset:
                 combine(images, f'imgs/{spec}_{i}.png')
                 i += 1
+                images.clear()
                 if len(pages) == 0:
                     break
                 start, stop = pages.pop(0)
-                images.clear()
         else:
             continue
     return images
