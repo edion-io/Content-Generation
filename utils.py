@@ -172,7 +172,7 @@ def PDF_to_images(folder: str, min: int, max: int) -> None:
         max (int): The maximum page number to process.
     """
     # Split the PDFs into images
-    for path in glob.glob(f"{folder}/Singapore Math - Primary Mathematics 3B Workbook Part 2*.pdf"):
+    for i, path in enumerate(glob.glob(f"{folder}/Singapore Primary*.pdf")):
         grade = find_first_number(path)
         # Save the subject
         subject = folder.split('/')[1]
@@ -183,7 +183,7 @@ def PDF_to_images(folder: str, min: int, max: int) -> None:
                 continue
             page = doc.load_page(page_num)
             pix = page.get_pixmap()
-            pix.save(f'imgs/{subject}_{grade}_{page_num + 1}.png')
+            pix.save(f'imgs/{subject}_{grade}_{(10 ** i + 1) * page_num + 1}.png')
 
 def upload_image(image_path: str, api_key: str, api_secret: str) -> tuple:
     """ Upload an image to Imgur and get the URL.
