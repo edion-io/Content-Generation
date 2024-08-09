@@ -1,6 +1,6 @@
 # Copyright (C) 2024  Edion Management Systems
 from openai import OpenAI
-from utils import PDF_to_images, upload_image, batch_vision, submit_batch, batch_text, extract_raw_questions
+from utils import upload_image, batch_vision, submit_batch, batch_text, extract_raw_questions
 import glob
 import sys
 import json
@@ -25,7 +25,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
         # Convert the PDFs to images
-        PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
+        #PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
 
         # Upload the images to Cloudinary and get the URLs
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]
