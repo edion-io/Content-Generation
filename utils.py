@@ -172,14 +172,14 @@ def PDF_to_images(folder: str, min: int, max: int) -> None:
         max (int): The maximum page number to process.
     """
     # Split the PDFs into images
-    for path in glob.glob(f"{folder}/Hodder*.pdf"):
+    for path in glob.glob(f"{folder}/Singapore Math - Primary Mathematics 3B Workbook Part 2*.pdf"):
         grade = find_first_number(path)
         # Save the subject
         subject = folder.split('/')[1]
         doc = fitz.open(path)
         for page_num in range(doc.page_count):
-            # Skip the first few pages (e.g., table of contents, glossary)
-            if page_num < min or page_num > max or page_num in [10, 17, 24, 31, 38, 44, 50, 56, 62, 68, 74]:
+            # Skip the first few pages
+            if page_num < min or page_num > max:
                 continue
             page = doc.load_page(page_num)
             pix = page.get_pixmap()
