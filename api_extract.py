@@ -16,11 +16,9 @@ CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 # Specify the prompt for the chat completion task
 prompt = "1. Extract all exercises from the pages .\n2. Output them in this format:\n*NEW*\n[Max 5 words describing the type of exercise]\n[Replace with extracted text]\n[Situational: Diagram description]\n\n 3. Some exercises continue over to another page, make sure you get that too (should not be separate). 4. If an activity or exercise needs or refers to one or more images or tables, add a description of the image(s) to the above template in the form:\n[STRDGRM] [Detailed description of the image that a blind person can use to visualize what is needed, without even seeing the image] [STPDGRM]\n\n5. Only output what is asked of you."
 
-
 if __name__ == "__main__":
     # Initialize the OpenAI API
     client = OpenAI(api_key="sk-proj-ltmkMm6qZ8oQCsusN5IOT3BlbkFJmsPopivPYwLtY7jlx5Pl")
-
     if sys.argv[1] == "-e":
         if len(sys.argv) != 4:
             print("Usage: python api_extract.py -e <min_page> <max_page>")
@@ -70,7 +68,6 @@ if __name__ == "__main__":
 
             # Parse each line as a separate JSON object
             batch_results = [json.loads(line) for line in lines]
-        
         if sys.argv[2] == "-t":
             with open("questions.txt", "a") as f:
                 for result in batch_results:
@@ -89,6 +86,5 @@ if __name__ == "__main__":
                     for exercise in exercises:
                         f.write(f"{subject} T D {grade} M\n")
                         f.write(exercise + '\n')
-
     else:
         print("Invalid argument. Use -e to extract text, -r to retrieve results,\n -sb to submit a batch job or -ab to submit all batches")
