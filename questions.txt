@@ -38432,7 +38432,7 @@ French (Exercise) D G (With Answer)
 9. Ils exigent que vous (parler)          une langue étrangère.  
 10. Vous savez que cet ordinateur (être)          obsolète.  
 
-**Answers**  
+Answers  
 1. est  
 2. fasse  
 3. puissent  
@@ -89603,3 +89603,230 @@ Math T D 1 M
 76 + 10 + 4 =  
 76 + 14 =  
 [STRDGRM] The layout consists of two columns of addition problems, each with two rows. Each problem is presented in a simple format, with spaces for students to write their answers. [STPDGRM]
+
+
+Math (Decimal Conversion) D 5 (With Answer)
+Express \( \frac{58}{8} \) as a decimal correct to 2 decimal places.
+   
+Answer
+\[ 7.25 \]
+
+
+
+Math (Multiplication and Division) D 5 (With Answer)
+Multiply or divide.    
+   
+   (a) \( 515.02 \times 43 \) 
+
+   (b) \( 81 \times 1.29 \) 
+
+   (c) \( 2.8 \div 400 \) 
+
+   (d) \( 1421 \div 7000 \) 
+
+Answers
+   (a) \( 22,145.86 \)
+
+   (b) \( 104.49 \) 
+
+   (c) \( 0.007 \) 
+
+   (d) \( 0.203 \)
+
+Math (Measurement Conversion) D 5 (With Answer)
+Find the equivalent measures.  
+
+   (a) \( 0.4 \) m = ________ cm
+
+   (b) \( 1.25 \) kg = ______ kg ______ g 
+
+   (c) \( 305 \) ml = ________ L
+
+   (d) \( 0.75 \) ft = ________ in. 
+
+   (e) \( 6.25 \) lb = _____ lb _____ oz 
+
+   (f) \( 3.25 \) gal = ______ gal _____ c 
+
+Answers
+   (a) \( 40 \) cm 
+
+   (b) \( 1 \) kg \( 250 \) g 
+
+   (c) \( 0.305 \) L 
+
+   (d) \( 9 \) in. 
+
+   (e) \( 6 \) lb \( 4 \) oz 
+
+   (f) \( 3 \) gal \( 4 \) c 
+
+
+
+Math (Percentage Conversion) D 5 (With Answer)
+Express each as a percentage.    
+
+   (a) \( 0.47 \) 
+
+   (b) \( \frac{6}{15} \) 
+
+   (c) \( 215 \) out of \( 500 \) 
+
+Answers
+   (a) \( 47\% \) 
+
+   (b) \( 40\% \) 
+
+   (c) \( 43\% \)
+
+
+
+Math (Percentage to Decimal and Fraction) D 5 (With Answer)
+Express each percentage as a decimal and as a fraction in its simplest form.  
+
+   (a) \( 85\% \)  Decimal: _________  Fraction: __________ 
+
+   (b) \( 16\% \)  Decimal: _________  Fraction: __________ 
+
+Answers
+   (a) \( 0.85 \), \( \frac{17}{20} \) 
+
+   (b) \( 0.16 \), \( \frac{4}{25} \)
+
+
+
+Math (Percentage Calculation) D 5 (With Answer)
+Find \( 32\% \) of \( \$96 \). 
+
+Answers
+\[ \$30.72 \]
+
+
+
+Math (Average Calculation) D 5 (With Answer)
+Find the average of \( 21.4 \), \( 18.2 \), and \( 65.7 \). 
+
+Answers
+\[ 35.1 \]
+
+
+
+Math (Average with Missing Value) D 5 (With Answer)
+Fill in the blank: The average of \( 42 \), \( 36 \), ______ , and \( 25 \) is \( 30 \). 
+
+Answers
+\[ 17 \]
+
+
+
+Math (Percentage of Remaining Money) D 5 (With Answer)
+John had \( \$75 \). He spent \( \$15 \) on a book. What percentage of his money does he have left? 
+
+Answers
+\[ 80\% \]
+
+
+
+Math (Discount Calculation) D 5 (With Answer)
+The normal price of a camera was \( \$76 \). At a sale it was sold at a discount of \( 15\% \). What was the selling price of the camera? 
+
+Answers
+\[ \$64.60 \]
+
+
+
+Math (Average Weight Calculation) D 5 (With Answer)
+The average weight of \( 3 \) packages is \( 2 \) kg \( 750 \) g. The average weight of \( 2 \) of them is \( 3 \) kg \( 200 \) g. Find the weight of the third package. Give your answer in kg and g. 
+
+Answers
+\( 1 \) kg \( 850 \) g
+
+
+
+Math (Taxi Fare Calculation) D 5 (With Answer)
+In a city, the rate for taxi fare for the first kilometer is \( \$2.60 \) and for every additional kilometer it is \( \$0.80 \). Find the taxi fare for a journey of \( 6.5 \) km. 
+
+Answers
+\[ \$7.40 \]
+
+
+Math (Angle Calculation) D 5 (With Answer)
+
+[STRDGM] Descriptions of diagrams:
+- (a) A straight line \( ABC \) with \( BCD \) forming an equilateral triangle at point \( B \).
+- (b) A parallelogram \( ABCD \).
+- (c) A straight line \( ABC \) with \( BCDE \) forming a rhombus at point \( B \).
+[STPDGM]
+
+The following figures are not drawn to scale. Find the unknown marked angle in each. 
+
+(a) \( ABC \) is a straight line. \( BCD \) is an equilateral triangle.
+
+(b) \( ABCD \) is a parallelogram.
+
+(c) \( ABC \) is a straight line. \( BCDE \) is a rhombus.
+
+Answers
+(a) \( 85° \)
+
+(b) \( 32° \)
+
+(c) \( 65° \)
+
+
+
+Math (Volume Calculation with Flow Rate) D 5 (With Answer)
+
+[STRDGM] A rectangular tank with dimensions \( 50 \) cm (length) \( \times \) \( 20 \) cm (width) \( \times \) \( 33 \) cm (height), filled to a height of \( 12 \) cm in \( 2 \) minutes. 
+[STPDGM]
+
+A rectangular tank measures \( 50 \) cm by \( 20 \) cm by \( 33 \) cm. It is to be filled with water from a tap. It takes \( 2 \) minutes to fill it to a height of \( 12 \) cm. 
+
+(a) What is the rate of flow from the tap in liters per minute?
+
+(b) How many more minutes will it take to fill the tank?
+
+Answers
+(a) \( 6 \) L/min
+
+(b) \( 3.5 \) min
+
+
+
+Math (Volume Calculation) D 5 (With Answer)
+A rectangular container \( 8 \) cm long and \( 9 \) cm wide was filled with water to a depth of \( 6 \) cm. When \( 12 \) marbles of equal size were added to the container, the depth of the water became \( 7.5 \) cm. Find the volume of one marble. 
+
+Answers
+\[ 9 \text{cm}^3 \]
+
+
+
+Math (Volume Calculation of Cubes) D 5 (With Answer)
+How many \( 4 \)-cm cubes can fit into a rectangular box \( 1 \) m long, \( 0.4 \) m wide, and \( 0.6 \) m high?
+
+Answers
+\[ 3750 \] 4-cm cubes
+
+
+
+Math (Money Distribution) D 5 (With Answer)
+Sam had \( \$85 \) and John had \( \$220 \). They were each given an equal amount of money. Then John had twice as much money as Sam. How much money did each boy receive?
+
+Answers
+\[ \$50 \]
+
+
+
+Math (Ratio Calculation) D 5 (With Answer)
+Alice has \( 50\% \) of the amount of money Betty has, and Carrie has \( \frac{2}{5} \) of what Alice has. If Betty has \( \$364 \) more than Carrie, how much money does Alice have?
+
+Answers
+\[ \$227.50 \]
+
+
+
+Math (Volume Calculation in Cubic Inches) D 5 (With Answer)
+The length of one side of a cube is \( 1 \) ft. What is its volume in cubic inches?
+
+Answers
+\[ 1728 \text{ in}^3 \]
