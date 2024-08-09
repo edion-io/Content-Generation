@@ -6,7 +6,7 @@ import sys
 import json
 
 # Specify the folder containing any relevant files
-FOLDER = 'books/Science/Primary'
+FOLDER = 'books/Math/Primary'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the Imgur client ID and secret
@@ -27,7 +27,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
         # Convert the PDFs to images
-        #PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
+        PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
 
         # Upload the images to Cloudinary and get the URLs
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]

@@ -62644,3 +62644,1330 @@ Math T D 6 M
 1. How many liters of liquid can the jug hold?
 2. Describe how to measure it accurately.
 [STRDGRM] The image shows a jug with a measurement scale and a person pouring liquid into it. [STPDGRM]
+
+Math T D 2 M
+
+[Calculations: Addition and Division]
+45 + 5 = ___  
+60 ÷ 10 = ___  
+20 ÷ 2 = ___  
+40 + 5 = ___  
+50 + 10 = ___  
+18 ÷ 2 = ___  
+35 + 5 = ___  
+40 + 10 = ___  
+16 ÷ 2 = ___  
+15 ÷ 3 = ___  
+15 + 5 = ___  
+16 ÷ 3 = ___  
+16 + 5 = ___  
+17 ÷ 3 = ___  
+17 + 5 = ___  
+
+
+Math T D 2 M
+
+[Word Problems: Shells and Flags]
+The children had 12 shells. They put 4 shells on each sandcastle.  
+How many sandcastles are there? ___  
+The children had 13 flags. They put 4 flags on each sandcastle.  
+How many sandcastles are there? ___  
+How many flags are left over? ___  
+
+
+Math T D 2 M
+
+[Word Problems: Sandwiches]
+There are 14 sandwiches at the picnic. There are 4 sandwiches for each child.  
+How many children are there? ___  
+How many sandwiches are left? ___  
+
+
+Math T D 2 M
+
+[Word Problems: Figs]
+There are 15 figs at the picnic. There are 4 figs for each child.  
+How many figs are left over? ___  
+[Situational: None]
+Math T D 2 M
+
+[Counting and problem solving]
+a. Count in 2s, 5s, and 10s to find the number of wellington boots.  
+[STRDGRM] A row of pink wellington boots, each boot is identical and evenly spaced. [STPDGRM]
+
+
+Math T D 2 M
+
+[Counting and problem solving]
+b. Count the number of arms on the starfish.  
+[STRDGRM] A row of pink starfish, each starfish has five arms and is identical. [STPDGRM]
+
+
+Math T D 2 M
+
+[Counting and problem solving]
+c. Count the total amount of money represented by the bills.  
+[STRDGRM] A row of pink bills, each showing a value of $10, with five bills in total. [STPDGRM]
+
+
+Math T D 2 M
+
+[Coloring and circling]
+a. Colour in the multiples of 3.  
+[STRDGRM] A grid of numbers from 1 to 100, arranged in rows of ten. [STPDGRM]
+
+
+Math T D 2 M
+
+[Coloring and circling]
+b. Circle the multiples of 4.  
+[STRDGRM] A grid of numbers from 1 to 100, arranged in rows of ten. [STPDGRM]
+Math T D 2 M
+
+[Symmetry in shapes]
+Draw a line of symmetry on each shape: circle, triangle, square, rectangle, hexagon, and other polygons.
+[STRDGRM] A series of geometric shapes including a circle, triangle, hexagon, and rectangle, arranged in a row for symmetry analysis. [STPDGRM]
+
+
+Math T D 2 M
+
+[Pattern completion]
+Complete the patterns to make them symmetrical.
+[STRDGRM] Two grids with partial patterns, where students need to fill in the missing sections to achieve symmetry. [STPDGRM]
+
+
+Math T D 2 M
+
+[Symmetry in patterns]
+Draw a line of symmetry on each pattern.
+[STRDGRM] Two grids filled with squares, where students must identify and draw lines of symmetry. [STPDGRM]
+Math T D 2 M
+
+[Pattern completion]
+1. Complete the patterns: 2, 4, 8, 10, ___; 5, 10, 20, 25, ___; 10, 20, 40, 50, ___.
+[STRDGRM] No diagram needed. [STPDGRM]
+
+
+Math T D 2 M
+
+[Number rounding]
+2. Round the numbers to the nearest multiple of ten: 51 ___; 35 ___; 19 ___.
+[STRDGRM] No diagram needed. [STPDGRM]
+
+
+Math T D 2 M
+
+[Partitioning numbers]
+1. Partition the numbers into tens and ones:
+a. 25: 2 tens, 5 ones; 20 + 5 = 25.
+b. 34: ___ tens, ___ ones; ___ + ___ = ___.
+c. 68: ___ tens, ___ ones; ___ + ___ = ___.
+d. 96: ___ tens, ___ ones; ___ + ___ = ___.
+[STRDGRM] No diagram needed. [STPDGRM]
+
+
+Math T D 2 M
+
+[Number problem solving]
+2. a. Kadir thinks of a number. He adds 10. The answer is 41. What number was he thinking of? ___.
+b. Rosy thinks of a number. She subtracts 10. The answer is 76. What number was she thinking of? ___.
+c. Lucia thinks of a number. She adds 1. The answer is 95. What number was she thinking of? ___.
+[STRDGRM] No diagram needed. [STPDGRM]
+Math T D 2 M
+
+[Addition and subtraction exercises]
+20 + 10 = _____  
+20 + 20 = _____  
+20 + 30 = _____  
+50 + 10 = _____  
+50 + 20 = _____  
+50 + 30 = _____  
+
+1 a  
+20 + 7 = _____  
+22 + 7 = _____  
+30 + 7 = _____  
+32 + 7 = _____  
+
+2  
+a 22 + 27 = _____  
+32 + 27 = _____  
+b 45 + 13 = _____  
+45 + 23 = _____  
+c 64 + 23 = _____  
+64 + 33 = _____  
+
+[STRDGRM] The image shows blocks stacked in groups, representing numbers for addition exercises. Each group has a different height corresponding to the numbers being added. [STPDGRM]
+Math T D 2 M
+
+[Matching shapes to names]
+a. Match the shapes to their names: hexagon, square, rectangle, circle, pentagon, triangle.
+[Situational: Diagram of various shapes including a clock, window, soccer ball, and triangle.]
+
+
+Math T D 2 M
+
+[Describing shapes]
+b. Complete the table and describe each shape.
+[Shape: Circle, Number of sides and corners: 1 curved side, 0 corners; Triangle, 3 sides, 3 corners; Square, Rectangle, Pentagon, Hexagon (to be filled in).]
+
+
+Math T D 2 M
+
+[Drawing examples]
+1. Think of an example around you for each shape. Draw a picture.
+[Shape: Circle, Name: (to be filled in), Picture: (to be drawn); Shape: Triangle, Name: (to be filled in), Picture: (to be drawn); Shape: Square, Name: (to be filled in), Picture: (to be drawn); Shape: Rectangle, Name: (to be filled in), Picture: (to be drawn).]
+Math T D 2 M
+
+[Colouring exercise]
+Colour all the circles. How many circles can you see? 
+[STRDGRM] The image shows a night scene with a supermarket, a clock displaying 10:00, a boy riding a bicycle, a cat, and various circles including the moon and shapes on the building. [STPDGRM]
+
+
+Math T D 2 M
+
+[Matching exercise]
+Match the 3-D shape to its face. Some will match more than one face.
+[STRDGRM] The image includes various 3-D shapes like cubes, a cylinder, a pyramid, and a triangular prism, alongside flat shapes like a triangle, rectangle, and circle for matching. [STPDGRM]
+Math T D 2 M
+
+[Word problem]
+There are 18 motorbikes and 21 cars on the ferry. How many vehicles are there altogether?
+
+
+Math T D 2 M
+
+[Table completion]
+Choose the best method to solve the calculations. Complete the table.
+Find the difference (counting on) | Take away (counting back)
+57 – 54 = | 82 – 3 =  
+81 – 78 = | 73 – 69 =  
+63 – 60 = | 95 – 91 =  
+52 – 49 = | 76 – 12 =  
+53 – 8 = | 49 – 7 =  
+86 – 5 = | 28 – 23 =  
+
+
+Math T D 2 M
+
+[Calculation solving]
+Solve the calculations.
+a 89 – 87 =  
+b 46 – 45 =  
+c 55 – 4 =  
+d 78 – 7 =  
+e 38 – 32 =  
+f 29 – 4 =  
+
+
+Math T D 2 M
+
+[Table completion]
+There are 67 seats on an aeroplane. Complete the table.
+Day | Empty seats | Passengers  
+Monday | 4 |  
+Tuesday | 5 |  
+Wednesday | 61 |  
+Thursday | 59 |  
+Math T D 2 M
+
+[Comparison exercise]
+Compare the amounts using the < and > signs.
+a) [Thermometers showing different temperatures]  
+b) [Two clocks showing different times]  
+c) [Two dollar amounts: $5 and $10]  
+d) [A bunch of bananas]  
+[STRDGRM] Two thermometers, one showing a higher temperature than the other. Two clocks, one showing a later time than the other. Two dollar bills, one with a lower value than the other. A bunch of bananas compared to a single banana. [STPDGRM]
+
+
+Math T D 2 M
+
+[Comparison exercise]
+Compare the amounts using the < and > signs.
+a) $2 and $12  
+b) $3 and $30  
+c) 12°C and 2°C  
+d) 29°C and 32°C  
+
+
+Math T D 2 M
+
+[Sentence completion exercise]
+Complete the sentences to make them true.  
+Choose measurements from the list:  
+77 cm, 20 cm, 35 cm, 6 cm, 53 cm  
+a) cm > cm  
+b) cm < cm  
+c) cm > cm  
+d) cm < cm  
+
+
+Math T D 2 M
+
+[Ordering exercise]
+Write the sets of numbers in order from smallest to biggest.  
+20, 2, 22, 72, 12  
+30, 3, 23, 63, 34  
+Math T D 2 M
+
+[Colouring and counting]
+Colour in 1/2 the objects in each set. Write how many.
+[STRDGRM] The first row shows sets of butterflies, the second row shows snails, and the third row shows tadpoles. Each set has a specific number of objects to be halved. [STPDGRM]
+
+
+Math T D 2 M
+
+[Colouring and counting]
+Colour in 1/4 of the objects in each set. Write how many.
+[STRDGRM] The first row shows sets of fish, and the second row shows buttons. Each set has a specific number of objects to be quartered. [STPDGRM]
+
+
+Math T D 2 M
+
+[Word problem]
+The baker has 12 eggs. He uses half the eggs. How many are left?
+[STRDGRM] A visual representation of 12 eggs, with half of them crossed out to indicate usage. [STPDGRM]
+
+
+Math T D 2 M
+
+[Word problem]
+A farmer has 16 goats. He sells 1/4 of the goats. How many are left?
+[STRDGRM] A visual representation of 16 goats, with a portion indicated to show the goats sold. [STPDGRM]
+Math T D 2 M
+
+[Division Problem]
+Jade had 28 marbles. She put them into groups of 4. How many groups are there?  
+28 ÷ 4 = 7  
+[STRDGRM] A visual representation of marbles grouped in sets of four, showing a total of 28 marbles. [STPDGRM]
+
+
+Math T D 2 M
+
+[Division Problem]
+Julio had 20 marbles. He put them into groups of 5. How many groups are there?  
+[Blank space for answer]
+
+
+Math T D 2 M
+
+[Division Problem]
+Manuel had 15 toy cars. He put them in rows of 3. How many rows were there?  
+[Blank space for answer]
+
+
+Math T D 2 M
+
+[Division Problem]
+Maya had 45 toy bricks. She built towers of 5 bricks. How many towers did she build?  
+[Blank space for answer]
+Math T D 2 M
+
+[Matching exercise]
+Match each number to its double. Draw lines.
+[Situational: Two rows of numbers, the first row has single-digit numbers from 1 to 10, and the second row has their corresponding doubles.]
+
+
+Math T D 2 M
+
+[Array drawing and sentence writing]
+Draw an array for each question and write a number sentence to complete the table.
+[STRDGRM] A table with two columns: one for questions about the number of pencils in boxes (two to six) and another for drawing arrays. The first row has a completed example showing two boxes with five pencils each, totaling ten. [STPDGRM]
+Math T D 2 M
+
+[Colouring exercise]
+Colour in \( \frac{1}{2} \) of each shape.
+[STRDGRM] Three shapes: a circle, a square, and a rectangle, each divided into equal parts. The circle is divided into two halves, the square into four equal sections, and the rectangle into two equal parts. [STPDGRM]
+
+
+Math T D 2 M
+
+[Colouring exercise]
+Colour in \( \frac{1}{4} \) of each shape.
+[STRDGRM] Three shapes: a circle, a square, and a rectangle, each divided into equal parts. The circle is divided into four quarters, the square into four equal sections, and the rectangle into four equal parts. [STPDGRM]
+
+
+Math T D 2 M
+
+[Colouring exercise]
+Colour in \( \frac{3}{4} \) of each shape.
+[STRDGRM] Three shapes: a circle, a square, and a rectangle, each divided into equal parts. The circle is divided into four quarters, the square into four equal sections, and the rectangle into four equal parts. [STPDGRM]
+
+
+Math T D 2 M
+
+[Matching exercise]
+Match the equivalent fractions. Draw lines.
+[STRDGRM] Four shapes: two squares and two rectangles, each showing different shaded areas representing fractions. The first square has half shaded, the second has a quarter shaded, and the rectangles show equivalent fractions visually. [STPDGRM]
+Math T D 2 M
+
+[Missing number problems]
+1. There are 20 counters. Carlos hides some under the cup. How many counters are under the cup?
+[STRDGRM] Three pink cups are shown, with a total of 20 counters represented as dots. The first cup has some dots under it, the second cup has more dots, and the third cup has the most dots. [STPDGRM]
+
+
+Math T D 2 M
+
+[Calculations]
+2. Solve the calculations.
+46 – 45 = ___
+___ – 2 = 65
+63 + ___ = 69
+___ + 7 = 99
+37 – 31 = ___
+___ – 26 = 1
+
+
+Math T D 2 M
+
+[Story creation]
+3. Make up a story for each number sentence.
+Example: 12 + ___ = 20
+Rosi had 12 marbles. She was given more marbles. She then had 20 marbles. How many marbles was Rosi given?
+
+a. 18 + ___ = 20
+b. 30 – ___ = 25
+Math T D 2 M
+
+[Counting in Threes]
+Use the number line to count in threes: 0, 3, 6, ___, ___, ___, ___, ___, ___.
+[STRDGRM] A horizontal number line from 0 to 20 with tick marks at each integer, showing the numbers 0, 3, 6 highlighted. [STPDGRM]
+
+
+Math T D 2 M
+
+[Counting in Fours]
+Use the number line to count in fours: 0, 4, 8, ___, ___, ___, ___, ___, ___.
+[STRDGRM] A horizontal number line from 0 to 25 with tick marks at each integer, showing the numbers 0, 4, 8 highlighted. [STPDGRM]
+
+
+Math T D 2 M
+
+[Guided Path Exercise]
+Guide the bird across the water to her nest. Circle the numbers she must follow. The bird must step on multiples of 5 to miss the hippos. Each move must be horizontal, vertical, or diagonal to the move before. Start on 40.
+[STRDGRM] A grid of numbers with a bird illustration on the left, showing numbers like 32, 22, 24, etc., arranged in rows. The bird starts at 40, with a path to follow. [STPDGRM]
+Math T D 2 M
+
+[Clock drawing exercise]
+Draw the hands on the clock to show half past 9.
+[Situational: A clock face showing numbers 1 to 12 with hands indicating half past 9.]
+
+
+Math T D 2 M
+
+[Money counting exercise]
+Draw a circle around three coins to make each total: $1.05, $1.25, $1.75.
+[Situational: Images of coins including $1, 50c, 25c, and 10c.]
+
+
+Math T D 2 M
+
+[Money calculation exercise]
+Use two notes and three coins to make $20.75.
+[Situational: A mix of banknotes and coins to represent the total amount.]
+
+
+Math T D 2 M
+
+[Lemon and orange cost problem]
+Calculate change for Mia who buys 5 lemons and 2 oranges.
+[Situational: A representation of lemons and oranges with their respective prices.]
+
+
+Math T D 2 M
+
+[Lemon and orange cost problem]
+Calculate change for Kadir who buys 3 lemons and 3 oranges.
+[Situational: A representation of lemons and oranges with their respective prices.]
+Math T D 2 M
+
+[Estimating capacity]
+Estimate the capacity of these containers. Draw lines to match.
+[STRDGRM] The image shows a wheelbarrow, a carton of milk, a cup, and a box, each representing different capacities: 10 liters, 100 liters, 250 milliliters, and 2 liters respectively. [STPDGRM]
+
+
+Math T D 2 M
+
+[Comparing amounts]
+Use <, > or = to compare the amounts.
+[STRDGRM] The image features containers labeled with different volumes: a carton of fresh milk (100 ml), a bottle of water (200 ml), a bottle of oil (1 liter), and a pitcher (3 liters), along with a can of cola (250 ml). [STPDGRM]
+Math T D 2 M
+
+[Number Sentences Completion]
+Complete the number sentences.
+34 + 1 = ___  
+34 + 10 = ___  
+34 - 1 = ___  
+34 - 10 = ___  
+52 + 1 = ___  
+52 + 10 = ___  
+52 - 1 = ___  
+52 - 10 = ___  
+67 - 1 = ___  
+67 + 10 = ___  
+67 + 1 = ___  
+67 - 10 = ___  
+[STPDGRM]
+
+
+Math T D 2 M
+
+[Word Problems]
+Solve the following problems.
+a Rosi picked 14 apples. Matias picked 10 more apples than Rosi. How many apples did Matias pick?  
+14 + 10 = ___  
+
+b Lola picked 10 apples less than Matias. How many apples did Lola pick?  
+___  
+
+c Rashid picked 17 apples. He ate 1 apple. How many apples were left?  
+17 - 1 = ___  
+
+d Nina had 22 apples in her basket. She picked 1 more. How many apples did Nina have?  
+22 + 1 = ___  
+[STPDGRM]
+Math T D 2 M
+
+[Number guessing exercise]
+Guess the numbers.
+a) I think of a number. I add 10. The answer is 13. What number did I start with?
+b) I think of a number. I subtract 10. The answer is 13. What number did I start with?
+c) I think of a number. I add 1. The answer is 76. What number did I start with?
+d) I think of a number. I subtract 1. The answer is 76. What number did I start with?
+e) Write your own number problem.
+[STRDGRM] The page features cartoon-style illustrations of children thinking and interacting, with speech bubbles containing the number problems. Each character is depicted with a playful expression, enhancing the engaging nature of the exercise. [STPDGRM]
+Math T D 2 M
+
+[Shape identification]
+Write a shape name for each item.
+[STRDGRM] The first image is a rectangular screen resembling a television or computer monitor. The second image is a cluster of hexagons, suggesting a honeycomb pattern. The third image is a circular object, likely a bicycle wheel. The fourth image is a triangular shape, resembling a simple triangle. The fifth image is a square window with four panes. [STPDGRM]
+
+
+Math T D 2 M
+
+[Matching shapes]
+Match each shape, name and description. Draw lines.
+[STRDGRM] The first shape is a square with four equal sides. The second shape is a pentagon with five sides. The third shape is a rectangle with four sides, where opposite sides are equal. The fourth shape is a triangle with three sides. The fifth shape is a hexagon with six sides. [STPDGRM]
+
+
+Math T D 2 M
+
+[Shape selection]
+Tick each shape with three corners.
+[STRDGRM] The shapes include a triangle, a square, a rectangle, a hexagon, a circle, and another triangle. [STPDGRM]
+Math T D 2 M
+
+[3-D Shapes Naming]
+Name these 3-D shapes.
+[STRDGRM] The image shows various 3-D shapes including a rectangular prism, sphere, pyramid, cube, and cylinder, each outlined with dotted lines for clarity. [STPDGRM]
+
+
+Math T D 2 M
+
+[2-D Shapes Matching]
+Match each picture to its shape name. Draw lines.
+[STRDGRM] The image contains a series of 2-D shapes: a square, circle, hexagon, triangle, rectangle, and pentagon, arranged for matching. [STPDGRM]
+
+
+Math T D 2 M
+
+[Symmetry Identification]
+Tick each shape that has a line of symmetry.
+[STRDGRM] The image displays several 2-D shapes, including a triangle, square, rectangle, hexagon, and circle, arranged for symmetry identification. [STPDGRM]
+Math T D 2 M
+
+[Labeling exercise]
+Label the picture. Choose the words from the list: sphere, cuboid, cylinder, prism, pyramid, cone.
+[STRDGRM] The image features various geometric shapes in a space-themed setting, including a rocket, planets, and a house. There are blank labels pointing to different shapes that need to be identified. [STPDGRM]
+
+
+Math T D 2 M
+
+[Colouring exercise]
+Colour the picture: a. Colour the spheres blue. b. Colour the cylinder green. c. Colour the cuboid orange. d. Colour the pyramid purple. e. Colour the cone yellow. f. Colour the prism red.
+[STRDGRM] The image includes several geometric shapes that need to be coloured according to the specified instructions. [STPDGRM]
+Math T D 2 M
+
+[Comparing numbers exercise]
+Draw a circle around the bigger number.
+a: 14, 17
+b: 27, 24
+c: 34, 37
+[STRDGRM] Three pairs of block representations with numbers below each pair, showing the numbers to compare. [STPDGRM]
+
+
+Math T D 2 M
+
+[Fill in missing numbers exercise]
+Fill in the missing numbers.
+a: 40, __, 50
+b: 50, __, 60
+[STRDGRM] Two lines with numbered cards hanging from them, with some cards missing numbers between the given numbers. [STPDGRM]
+
+
+Math T D 2 M
+
+[Rounding numbers exercise]
+Round the numbers to the nearest multiple of 10.
+a: 53
+b: 71
+c: 47
+d: 89
+[STRDGRM] A list of numbers with arrows pointing to empty boxes for rounding. [STPDGRM]
+Math T D 2 M
+
+[Counting exercise]
+Take a handful of items like crayons, pebbles, shells, paper-clips or dried pasta. Count them in twos, fives and tens. How many are there?
+I counted in _________________. There are _________________.  
+I counted in _________________. There are _________________.  
+I counted in _________________. There are _________________.  
+[STRDGRM] Image of various items like crayons and pebbles for counting. [STPDGRM]
+
+
+Math T D 2 M
+
+[Number line exercise]
+Draw the frog jumps on the number line. Circle each number the frog lands on.
+a Count in twos.  
+b Count in fives.  
+c Count in tens.  
+[STRDGRM] Number lines with specified ranges for counting in twos, fives, and tens, with a frog illustration jumping on them. [STPDGRM]
+Math T D 2 M
+
+[Shape identification and drawing]
+My shape has 6 square faces, 8 vertices and 12 edges. What is my shape?
+Draw the shape.
+[STRDGRM] A character with a cheerful expression, wearing a striped shirt, is describing a 3D shape with 6 square faces, 8 vertices, and 12 edges. The background is simple and colorful, enhancing the playful theme. [STPDGRM]
+
+
+Math T D 2 M
+
+[Shape identification and drawing]
+My shape has 1 square face, 4 triangular faces, 5 vertices and 8 edges. What is my shape?
+Draw the shape.
+[STRDGRM] A character with a friendly smile and a headband is describing a 3D shape with 1 square face, 4 triangular faces, 5 vertices, and 8 edges. The background is similarly colorful and engaging. [STPDGRM]
+
+
+Math T D 2 M
+
+[3-D shape description]
+Choose four 3-D shapes with straight edges. Complete the table. Describe the four shapes.
+Shape | Number of faces | Number of vertices | Number of edges
+[STRDGRM] A blank table with four rows for students to fill in details about their chosen 3-D shapes, encouraging them to think about the properties of each shape. [STPDGRM]
+Math T D 2 M
+
+[Symmetrical picture completion]
+Complete the symmetrical pictures.
+[STRDGRM] Four images are presented, each divided vertically. The left side of each image is partially drawn, and the right side is blank, requiring completion. The images include a robot, a rocket, a butterfly, and a flower in a pot. [STPDGRM]
+Math T D 2 M
+
+[Measurement exercise]
+Choose five items to measure. Complete the table.
+[STRDGRM] The image shows four children: two boys and two girls. They are standing next to a long jump pit, with one child measuring the jump distance. The background features grass and trees, creating a playful outdoor setting. [STPDGRM]
+
+
+Math T D 2 M
+
+[Jump measurement]
+Complete the table based on jump distances.
+[STRDGRM] The table includes names (Carlos, Tessa, Victor, Lucia) and their respective jump lengths in centimeters. Carlos jumped 87 cm, Tessa 85 cm, Victor's jump needs to be calculated, and Lucia jumped 91 cm. [STPDGRM]
+
+
+Math T D 2 M
+
+[Comparison questions]
+Answer questions about jump distances.
+[STRDGRM] The questions ask who jumped the furthest, whose jump was the shortest, and to list the jump lengths in order from shortest to longest. [STPDGRM]
+Math T D 2 M
+
+[Memory recall exercise]
+a One less than 6 is __.  
+b Ten less than 32 is __.  
+c One more than 14 is __.  
+d Ten more than 8 is __.  
+[Situational: None]
+
+
+Math T D 2 M
+
+[Matching exercise]
+Match the number names to the two-digit numbers.  
+fourteen - __  
+twenty-five - __  
+thirty-six - __  
+forty-seven - __  
+[STRDGRM] Four number names on the left side and four two-digit numbers on the right side, with spaces for matching. [STPDGRM]
+
+
+Math T D 2 M
+
+[Fill in the blanks]
+Fill in the missing numbers.  
+[STRDGRM] A grid with numbers from 1 to 100, with some numbers missing, requiring students to fill in the blanks. [STPDGRM]
+Math T D 2 M
+
+[Measuring lengths]
+a Estimate the length of each line.  
+b Use a ruler to measure the length of each line in centimetres.  
+[Situational: A table with lines labeled A to H for estimation and measurement.]
+
+
+Math T D 2 M
+
+[Identifying lengths]
+a Which is the shortest line?  
+b Which is the longest line?  
+c Write the line lengths in order from shortest to longest.  
+[Situational: Questions related to the lines measured in the previous exercise.]
+Math T D 2 M
+
+[Symmetry exercise]
+Draw a line of symmetry on each shape.
+[Situational: Six geometric shapes including a square, hexagon, rectangle, diamond, circle, and triangle arranged in two rows.]
+
+
+Math T D 2 M
+
+[Pattern design exercise]
+Design and colour a symmetrical pattern.
+[Situational: A grid with multiple squares, providing space for creating a symmetrical pattern.]
+Math T D 2 M
+
+[Fill in the blanks]
+Make 10 in different ways. Fill in the missing numbers.
+a) 1 + ___ = 10  
+b) 3 + ___ = 10  
+c) 4 + ___ = 10  
+d) 5 + ___ = 10  
+[STRDGRM] Four sets of circles with numbers and blanks, each set showing a different equation that sums to 10. [STPDGRM]
+
+
+Math T D 2 M
+
+[Coloring activity]
+Use a different colour for each number. Shade in the blocks to match each number sentence.
+a) 6 + 2 = ___  
+b) 5 + 4 = ___  
+c) 3 + 4 = ___  
+d) 7 + 2 = ___  
+[STRDGRM] A grid with empty blocks corresponding to each number sentence, with a reminder to add in any order. [STPDGRM]
+Math T D 2 M
+
+[Clock drawing exercise]
+Draw the hands on each clock to show the time: half past 2, half past 11, half past 6.
+[STRDGRM] Three analog clocks showing different times with empty spaces for drawing clock hands. [STPDGRM]
+
+
+Math T D 2 M
+
+[Digital time writing exercise]
+Write the digital time for each clock.
+[STRDGRM] Four analog clocks with different times and empty spaces for writing the corresponding digital times. [STPDGRM]
+
+
+Math T D 2 M
+
+[Time writing exercise]
+The clock shows the time the train arrived. Write the time.
+[STRDGRM] An analog clock showing a specific time next to an illustration of a train station with people. [STPDGRM]
+Math T D 2 M
+  
+[Drawing exercise]  
+Draw a picture of five children standing in a line. The 1st child is wearing a blue T-shirt. The 2nd child is the tallest. The 3rd child is wearing a hat. The 4th child is wearing a green T-shirt. The 5th child is the shortest.  
+[STRDGRM] Five children standing in a line, each with distinct characteristics: one in a blue T-shirt, one being the tallest, one wearing a hat, one in a green T-shirt, and one being the shortest. [STPDGRM]  
+
+
+Math T D 2 M
+  
+[Ordering exercise]  
+The pictures of the plant are mixed up. Put the pictures in the correct order. Start with the seed that you plant. The first one has been done for you.  
+[STRDGRM] Five images of a plant's growth stages: A seed with roots, a sprouting seed, a small plant, a flowering plant, and a fully grown plant. [STPDGRM]
+Math T D 2 M
+
+[Hands-on activity]
+Make your own place value apparatus.
+You will need a packet of drinking straws, string/ribbon/elastic bands. Method: Make tens: Count out ten straws. Tie them together with string. Repeat four times. Make ones: Use individual straws. 
+[STRDGRM] A visual representation of bundled straws tied together with string to form groups of ten, alongside individual straws for ones. [STPDGRM]
+
+
+Math T D 2 M
+
+[Number sorting]
+Sort the numbers. Write them in the Venn diagram.
+Numbers to sort: 22, 42, 21, 32, 23, 25, 26, 52.
+[STRDGRM] A Venn diagram with two overlapping circles labeled "2 tens" and "2 ones," with space for numbers to be placed in the appropriate sections. [STPDGRM]
+
+
+Math T D 2 M
+
+[Number selection]
+Choose your own numbers. Write each number in the correct place in the Venn diagram.
+[STRDGRM] A blank Venn diagram similar to the previous one, ready for new numbers to be added. [STPDGRM]
+Math T D 2 M
+
+[Fill in the blanks]
+a Complete the table. Fill in the missing days of the week.
+[STRDGRM] A table with six rows, where Tuesday, Wednesday, and Saturday are filled in, leaving blanks for the other days of the week. [STPDGRM]
+
+
+Math T D 2 M
+
+[Fill in the blanks]
+b Complete the table. Fill in the missing months of the year.
+[STRDGRM] A table with six columns, where January, March, April, June, September, and December are filled in, leaving blanks for the other months. [STPDGRM]
+
+
+Math T D 2 M
+
+[Matching exercise]
+Match the lengths of time.
+[STRDGRM] A list of time durations on the left and a list of corresponding time periods on the right, with one match already completed. [STPDGRM]
+
+
+Math T D 2 M
+
+[Drawing exercise]
+Draw the hands on each clock to show the time.
+[STRDGRM] Four clock faces showing different times: 3 o’clock, 5 o’clock, 9 o’clock, and 12 o’clock, with blank hands for students to fill in. [STPDGRM]
+Math T D 2 M
+
+[Repeated Addition]
+Draw dots to show repeated addition for:
+a) 4 + 4 + 4 = 4 × 3 = 
+b) 3 + 3 + 3 + 3 = 3 × 4 = 
+c) 2 + 2 + 2 = 2 × 3 = 
+[STRDGRM] The diagram shows groups of dots representing repeated addition, with the first group already drawn as four dots. Each subsequent group needs to be filled in to represent the addition. [STPDGRM]
+
+
+Math T D 2 M
+
+[Complete Number Sentences]
+Complete the number sentences for each array.
+[STRDGRM] The arrays consist of various groups of objects, such as shells, buttons, leaves, and flowers, arranged in rows and columns. Each array needs a numerical sentence to describe the total count based on the arrangement. [STPDGRM]
+Math T D 2 M
+
+[Matching exercise]
+Match each purse or hand to the correct amount of money.
+[STRDGRM] The image shows various purses and hands holding different amounts of money represented by coins and bills. Each purse or hand is labeled with a monetary value, and the task is to match them correctly. [STPDGRM]
+
+
+Math T D 2 M
+
+[Coin selection exercise]
+Tick three coins to make each total.
+[STRDGRM] The image displays several groups of coins with different values. Each group has a total amount indicated, and the task is to select three coins that add up to that total. [STPDGRM]
+Math T D 2 M
+
+[Stationery cost calculation]
+Items bought: Glue, $2; Glue, $6. Work out the total cost: $2 + $6 = $8. Draw notes and coins to make the amount: $5, $1, $2.
+[STRDGRM] The image shows various stationery items with their prices labeled, including a writing pad for $17, a color pencil for $3, a glue bottle for $6, and others. The table has spaces for calculating total costs and drawing currency. [STPDGRM]
+
+
+Math T D 2 M
+
+[Change from $20]
+How much change do you get from $20? Items listed for calculation: a) Writing pad, b) Pen, c) Stapler, d) Glue.
+[STRDGRM] The section prompts the calculation of change from $20 based on the prices of the listed items. [STPDGRM]
+Math T D 2 M
+
+[Counting sequences]
+Can you remember?  
+26, 36, 46, __, 66, __  
+98, __, 78, 58, __, 48, __  
+33, 34, __, __, 38  
+
+[STRDGRM] A series of numbers with blanks for students to fill in, focusing on counting patterns. [STPDGRM]
+
+
+Math T D 2 M
+
+[Counting patterns]
+a Count on in tens.  
+44, __, __, __, 45, __, __  
+b Count back in tens.  
+87, __, __, __, 86, __, __  
+
+[STRDGRM] A sequence of numbers with blanks for students to fill in, emphasizing counting forward and backward in tens. [STPDGRM]
+
+
+Math T D 2 M
+
+[Mass comparison]
+Letter B has a mass of 70g.  
+a Letter A is 10 g heavier than letter B. Letter A’s mass is __ g.  
+b Letter C is 10 g lighter than letter B. Letter C’s mass is __ g.  
+c Draw arrows on the scales to show the masses for letters A and C.  
+
+[STRDGRM] Three scales showing different weights with labels A, B, and C, where B is 70g, A is heavier, and C is lighter. [STPDGRM]
+Math T D 2 M
+
+[Number and place value exercise]
+Write the tens and ones. The first one has been done for you.
+[STRDGRM] The image shows several groups of blocks representing tens and ones. The first group has one ten block and six one blocks, totaling sixteen. The subsequent groups vary in the number of ten and one blocks. [STPDGRM]
+Math T D 2 M
+
+[Circle multiples]
+Circle the multiples of 2: 20, 18, 12, 16  
+Circle the multiples of 10: 50, 40, 100, 60, 20, 80  
+[STRDGRM] A grid with numbers from 1 to 100, where specific multiples are highlighted or circled. [STPDGRM]
+
+
+Math T D 2 M
+
+[Colour multiples]
+Colour the multiples of 5 in the grid from 1 to 100.  
+[STRDGRM] A 10x10 grid filled with numbers from 1 to 100, where multiples of 5 should be coloured. [STPDGRM]
+
+
+Math T D 2 M
+
+[Colour balloons]
+a. Colour the balloons with even numbers blue: 2, 14, 26, 38, 40  
+b. Colour the balloons with odd numbers yellow: 45, 33, 27, 13  
+[STRDGRM] Five balloon shapes with numbers inside, some are even and some are odd. [STPDGRM]
+Math T D 2 M
+
+[Number line exercises]
+Draw the jumps on the number lines. Complete the number sentences.
+[STRDGRM] Four horizontal number lines labeled with numbers, each with a small character holding a bag of marbles. The first line ranges from 50 to 60, the second from 40 to 50, the third from 70 to 80, and the fourth from 80 to 90. [STPDGRM]
+
+
+Math T D 2 M
+
+[Word problem]
+Gabriel had 38 marbles. He gave six to his friend. How many does he have left?
+[STRDGRM] A simple illustration of marbles, with a character looking at a pile of marbles and another character receiving some. [STPDGRM]
+
+
+Math T D 2 M
+
+[Word problem]
+Sofia had 45 colouring pencils. She lost three pencils. How many does she have left?
+[STRDGRM] An illustration of a character holding a box of colouring pencils, with some pencils scattered on the ground. [STPDGRM]
+
+
+Math T D 2 M
+
+[Word problem]
+Julio thought of a number. He took away four. He has 83 left. What number did Julio start with?
+[STRDGRM] An illustration of a character thinking, with a thought bubble showing the number 83 and a subtraction symbol. [STPDGRM]
+Math T D 2 M
+
+[Comparison Exercise]
+a Use the < and > signs to compare the numbers.  
+37 ___ 26, 12 ___ 92, 34 ___ 44, 35 ___ 53, 64 ___ 46, 79 ___ 63  
+b Choose numbers to complete the number sentences.  
+18 ___ 36, 53 ___ 18, 36 ___ 18  
+[STRDGRM] No specific diagram, just numbers to compare and fill in. [STPDGRM]
+
+
+Math T D 2 M
+
+[Ordering Exercise]
+Put the pictures in order. Label them 1st, 2nd, 3rd and 4th.  
+[STRDGRM] Four images: a butterfly, a fish, a caterpillar, and a pupa. [STPDGRM]
+
+
+Math T D 2 M
+
+[Number Sorting Exercise]
+Write the numbers in order from smallest to biggest.  
+71, 24, 53, 21, 34, 68, 13, 2, 93, 51, 23, 6, 18, 84, 31, 17, 7, 77, 47, 27, 98, 99, 9, 19, 29  
+[STRDGRM] A list of numbers to be sorted. [STPDGRM]
+Math T D 2 M
+
+[Matching exercise]
+Match the flower to the correct pot to total 100.
+[STRDGRM] Eight flowers are illustrated, each with a number on them: 30, 60, 70, 80, 90, 100. Below, there are five pots labeled with numbers: 50, 60, 70, 80, 90, and 100. The task is to connect each flower to the pot that, when added together, equals 100. [STPDGRM]
+
+
+Math T D 2 M
+
+[Balancing exercise]
+Choose two items from the picture to balance each scale.
+[STRDGRM] A scale is shown with a 20g weight on one side. Various items are displayed with their weights: a horse (16g), a ball (3g), a soccer ball (17g), a toy car (10g), a book (18g), a train (10g), a pencil (1g), a puzzle piece (4g), and a doll (19g). The task is to select two items that, when combined, equal 20g. [STPDGRM]
+
+
+Math T D 2 M
+
+[Fill-in-the-blank exercise]
+Fill in the missing numbers.
+[STRDGRM] A series of equations are presented with missing numbers: 1 + 7 = __, 4 + __ = 7, 2 + __ = 15, 11 + 5 = __, 14 + __ = 17. The task is to determine the missing numbers to complete each equation. [STPDGRM]
+Math T D 2 M
+
+[Estimation exercise]
+Estimate how many fish there are in the fish tanks altogether. Tick one.
+10 30 50 100
+
+[Situational: Diagram description]
+A pet shop interior with fish tanks, a birdcage, and rabbit hutches.
+
+
+Math T D 2 M
+
+[Multiplication exercise]
+Each hutch has 2 rabbits. How many rabbits are there in ...
+4 hutches? 5 hutches? 6 hutches? 7 hutches?
+
+[Situational: Diagram description]
+A pet shop with multiple rabbit hutches, each containing rabbits.
+
+
+Math T D 2 M
+
+[Cost calculation exercise]
+The fish food costs $5 for 1 tin. What is the cost of ...
+6 tins? 7 tins? 8 tins? 9 tins?
+
+[Situational: Diagram description]
+Cans of fish food displayed on a shelf in the pet shop.
+Math T D 2 M
+
+[Comparing numbers]
+Use the < and > signs to compare the numbers.
+[STRDGRM] The first row shows two groups of caterpillars, the second row has two groups of butterflies, the third row has two groups of birds, and the fourth row has two groups of fish. Each group is represented by a different number of images. [STPDGRM]
+
+
+Math T D 2 M
+
+[Drawing pictures]
+Draw pictures to make the sentences true.
+[STRDGRM] Two empty boxes are provided for drawing, with a < sign between them and another two empty boxes below with a > sign between them. [STPDGRM]
+Math T D 2 M
+
+[Addition and subtraction exercise]
+Write down six different ways to complete the boxes:  
+[ +  +  = 9]  
+[ +  +  = 9]  
+[ +  +  = 9]  
+[ +  +  = 9]  
+[ +  +  = 9]  
+[ +  +  = 9]  
+[STRDGRM] Six empty boxes with a plus sign and an equals sign, all summing to 9. [STPDGRM]
+
+
+Math T D 2 M
+
+[Game scoring exercise]
+The children are playing a game. Each child tries to throw a hoop over the cones. They take turns to throw three hoops each.  
+[STRDGRM] Two children are depicted, one throwing a hoop and the other watching, with cones in the background. [STPDGRM]
+
+
+Math T D 2 M
+
+[Score calculation exercise]
+The table shows the children’s scores. Work out the totals.  
+[Name, 1st hoop, 2nd hoop, 3rd hoop, Total]  
+[Tessa, 7, 7, 3, ]  
+[Bruno, 5, 5, 7, ]  
+[Jade, 3, 5, 7, ]  
+[Manuel, 3, 3, 3, ]  
+[STRDGRM] A table with columns for names and scores, with some scores filled in. [STPDGRM]
+
+
+Math T D 2 M
+
+[Lowest score question]
+Who has the lowest score?  
+[STRDGRM] A blank space for the answer. [STPDGRM]
+
+
+Math T D 2 M
+
+[Score possibilities exercise]
+Write the different scores you could get with four hoops.  
+[STRDGRM] A blank space for writing scores. [STPDGRM]
+Math T D 2 M
+
+[Fill in the missing numbers]
+1. Can you remember?
+1 + 19 = ___  
+6 + ___ = 20  
+3 + 17 = ___  
+20 – 18 = ___  
+20 – ___ = 7  
+20 – ___ = 11  
+[Situational: No diagram]
+
+
+Math T D 2 M
+
+[Fill in the missing numbers]
+2. Fill in the missing numbers in the triangles:  
+3 + 4 = ___  
+4 + 3 = ___  
+___ – 3 = 4  
+___ – 4 = 3  
+30 + 40 = ___  
+40 + 30 = ___  
+___ – 30 = 40  
+___ – 40 = 30  
+8 + 5 = 8  
+5 + ___ = 8  
+8 – 5 = ___  
+___ – 5 = 8  
+80 + 50 = 80  
+50 + ___ = 80  
+80 – 50 = ___  
+80 – ___ = 50  
+[Situational: Triangles with numbers inside]
+
+
+Math T D 2 M
+
+[Draw jumps of ten]
+3. Draw jumps of ten to complete the calculations:  
+a. 28 + 20 = ___  
+b. 28 + 30 = ___  
+[Situational: Number line with jumps marked]
+Math T D 2 M
+
+[Money matching exercise]
+Match each purse or hand to the correct amount of money.
+[STRDGRM] The image shows various purses and hands holding different amounts of money, including bills and coins. [STPDGRM]
+
+
+Math T D 2 M
+
+[Table completion exercise]
+You buy fruit at the fruit stall. Complete the table.
+[STRDGRM] The table has columns for "Item bought," "Note used to pay," "Calculation," and "Your change," with images of fruits and money notes. [STPDGRM]
+Math T D 2 M
+
+[Matching exercise]
+Match each parcel to its mass on the scale. Draw lines.
+[Situational: Diagram description: The image shows several scales with different parcels on them, each displaying a specific weight in grams (160g, 190g, 180g, 250g, 170g).]
+
+
+Math T D 2 M
+
+[Calculation exercise]
+Almonds cost $2 per 100 g. What is the mass of each of these?
+[Situational: Diagram description: The image includes three bags of roasted almonds with prices ($2, $3, $4, $5) displayed on them, with empty spaces for the mass in grams next to each bag.]
+Math T D 2 M
+
+[Math problem: High jump differences]
+How much higher did each child jump on the second jump? Count on to work out the difference. 
+Sofia: 86 cm – 83 cm = 3 cm
+Carlos: 75 – 73 = ___
+Bruno: ___ – ___ = ___
+Lucia: ___ – ___ = ___
+Tim: ___ – ___ = ___
+[STRDGRM] The image shows five children practicing high jump. There is a high jump bar set up, and the children are positioned around it, with two of them preparing to jump. A table lists their names along with their jump heights. [STPDGRM]
+Math T D 2 M
+
+[Clock drawing exercise]
+Draw the hands on the clocks for the times: 6:00, 1:30, 12:00, 5:30.
+[STRDGRM] Four analogue clocks showing different times: 6:00, 1:30, 12:00, and 5:30, each with empty clock faces for drawing. [STPDGRM]
+
+
+Math T D 2 M
+
+[Ordering times exercise]
+Write the times in order from earliest to latest.
+[STRDGRM] Five analogue clocks showing various times, with the hands positioned at different hours and minutes. [STPDGRM]
+
+
+Math T D 2 M
+
+[Time calculation exercise]
+What time did Julio come out of the dentist?
+[STRDGRM] A question about Julio's visit to the dentist, stating he entered at 4 o'clock and was there for 1 hour. [STPDGRM]
+
+
+Math T D 2 M
+
+[Duration calculation exercise]
+How long was Mia at the hairdresser?
+[STRDGRM] A question about Mia's visit to the hairdresser, stating she entered at 1 o'clock and left at 3 o'clock. [STPDGRM]
+Math T D 2 M
+
+[Data interpretation exercise]
+Jade and Matias asked children how they travel to school. They started a block graph showing data for Bike (4), Walk (5), Bus (3), and Car (8). Complete the graph and answer questions about the data.
+[STRDGRM] A block graph with a vertical axis labeled from 0 to 10 and a horizontal axis representing different modes of transport: Bike, Walk, Bus, and Car. Each mode has a corresponding bar indicating the number of children using that mode. [STPDGRM]
+Math T D 2 M
+
+[Matching exercise]
+Match each division number sentence to its multiplication number sentence. Draw lines.
+[STRDGRM] The exercise includes a list of division sentences on the left and multiplication sentences on the right, with lines to connect matching pairs. [STPDGRM]
+
+
+Math T D 2 M
+
+[Division with remainders]
+Complete the division sentences and identify remainders.
+[STRDGRM] The exercise presents division problems with spaces to fill in answers, some of which will have remainders indicated by the word "remainder." [STPDGRM]
+
+
+Math T D 2 M
+
+[Word problem]
+Solve the problem about Rosi's toy bricks.
+[STRDGRM] The problem states that Rosi had 16 toy bricks and built towers of 3, with questions about the number of towers and leftover bricks. [STPDGRM]
+Math T D 2 M
+
+[Measurement exercise]
+How much water is in each measuring jug?
+[STRDGRM] Four measuring jugs are shown, each filled with varying amounts of water. The jugs are labeled with milliliters (ml) markings from 0 to 1000 ml. [STPDGRM]
+
+
+Math T D 2 M
+
+[Practical activity]
+You will need a measuring jug and water.
+[STRDGRM] The instruction to pour specific amounts of water (200 ml, 250 ml, 450 ml, and 1000 ml) into a measuring jug is provided. [STPDGRM]
+
+
+Math T D 2 M
+
+[Question]
+Will the total amount fill a 2-litre bottle?
+[STRDGRM] A question asking if the combined total of the poured amounts will fit into a 2-litre bottle. [STPDGRM]
+Math T D 2 M
+
+[Table completion exercise]
+Choose five items and complete the table.
+[STRDGRM] A blank table with three columns labeled "Item," "Estimate the mass," and "Weigh your item," with space for five rows. [STPDGRM]
+
+
+Math T D 2 M
+
+[Ordering exercise]
+Put your items in order from lightest to heaviest. Draw pictures.
+[STRDGRM] A horizontal line labeled "lightest" on the left and "heaviest" on the right, with space for drawings in between. [STPDGRM]
+
+
+Math T D 2 M
+
+[Comparison exercise]
+Use the < and > signs to compare the weights.
+[STRDGRM] Images of weights: one labeled "1 kg," another labeled "50 g," and two more labeled "1 kg," arranged to indicate a comparison. [STPDGRM]
+Math T D 2 M
+
+[Table drawing exercise]
+Draw a table to show how many items there are.
+[STRDGRM] The image shows various items: seashells, flowers, and other shapes, which need to be counted and recorded in a table format. [STPDGRM]
+
+
+Math T D 2 M
+
+[Sorting shapes exercise]
+Sort the shapes and complete the Carroll diagram.
+[STRDGRM] The image includes various geometric shapes: pentagon, semi-circle, trapezium, triangle, circle, square, rectangle, hexagon, oval, and kite, which need to be categorized based on the number of sides. [STPDGRM]
+
+
+Math T D 2 M
+
+[Curved sides identification]
+Identify which shapes have curved sides.
+[STRDGRM] The shapes that need to be analyzed for curved sides include semi-circle, circle, and oval. [STPDGRM]
+Math T D 2 M
+
+[Direction following exercise]
+Follow the directions. Which shape does the robot walk to?
+a. Forwards 3 squares, left turn, forwards 3 squares, right turn, backwards 2 squares. 
+b. Forwards 3 squares, left turn, forwards 3 squares, right turn, forwards 4 squares, left turn, forwards 4 squares. 
+c. Forwards 3 squares, left turn, forwards 3 squares, right turn, forwards 1 square, left turn, forwards 4 squares. 
+d. Forwards 3 squares, left turn, forwards 3 squares, right turn, forwards 3 squares, right turn, forwards 3 squares, left turn, forwards 2 squares. 
+[STRDGRM] A grid with squares marked, showing the robot's path based on the directions given. Each square represents a unit of movement. [STPDGRM]
+
+
+Math T D 2 M
+
+[Shape identification exercise]
+The shape moves a quarter-turn anti-clockwise. Tick the correct shape in each row.
+a. 
+b. 
+[STRDGRM] Two rows of shapes, with arrows indicating the direction of movement for each shape. The first row shows different orientations of a shape, while the second row presents variations of another shape. [STPDGRM]
+Math T D 2 M
+
+[Venn Diagram Sorting]
+Sort the numbers. Write them in the Venn diagram: 50, 45, 52, 54, 40, 30, 35, 25, 20, 22, 18. Now add six more of your own numbers.
+[STRDGRM] A Venn diagram with two overlapping circles labeled "even numbers" and "multiples of 5." The circles are empty for students to fill in. [STPDGRM]
+
+
+Math T D 2 M
+
+[Venn Diagram Headings]
+Look at the Venn diagram. Write the headings in the boxes.
+[STRDGRM] A Venn diagram with two overlapping circles containing the numbers 3, 6, 9, 12, 15, 18, 21, 24, 27 in one circle and 2, 4, 8, 10 in the other. The circles are labeled with empty boxes above them for headings. [STPDGRM]
+Math T D 2 M
+
+[Day of the week calculation]
+Manuel visited his grandmother on Monday. He stayed for three days. On which day of the week did Manuel return home? 
+
+
+Math T D 2 M
+
+[Day of the week calculation]
+It is a Saturday today. Lucia’s birthday is in four days’ time. On which day of the week is Lucia’s birthday this year? 
+
+
+Math T D 2 M
+
+[Day of the week calculation]
+Carlos posted a parcel on Wednesday to a friend. The parcel took two days to arrive at his friend’s house. On which day of the week did the parcel arrive? 
+
+
+Math T D 2 M
+
+[Time matching exercise]
+Match the times to the digital clocks. Draw lines.
+half past 10
+half past 6
+3 o’clock
+11 o’clock
+4 o’clock
+[STRDGRM] [Digital clocks showing times: 3:00, 4:00, 6:30, 10:30, 11:00] [STPDGRM]
+Math T D 2 M
+
+[Data collection and analysis]
+Dylan asked his friends which shape they like best. He recorded the data in a table. Help Dylan complete the table.
+[STRDGRM] A table with columns for Shape, Tally, and Number of people. The shapes include a star, circle, square, and triangle, with corresponding tally marks and numbers. [STPDGRM]
+
+
+Math T D 2 M
+
+[Pictogram creation]
+Draw a pictogram using the data Dylan collected.
+[STRDGRM] A blank space for a pictogram, with a key section for symbols representing the shapes. [STPDGRM]
+
+
+Math T D 2 M
+
+[Question and answer]
+a Which shape is the most popular?  
+b Which shape is the least popular?  
+c How many children chose triangles?  
+d How many children chose stars?  
+[STRDGRM] A series of questions related to the data collected, with spaces for answers. [STPDGRM]
+Math T D 2 M
+
+[Matching exercise]
+Choose the best unit to measure the time of each event. Draw lines to match brushing your teeth, a plane journey, and winking your eye with seconds, minutes, and hours.
+[STRDGRM] The image shows a girl with pigtails brushing her teeth, an airplane, and a boy smiling and waving. Each image is connected to a time unit: seconds, minutes, and hours. [STPDGRM]
+
+
+Math T D 2 M
+
+[Short answer questions]
+a) How many days are there in five weeks?  
+b) How many months are there in two years?  
+[STRDGRM] No specific image is provided for this section. [STPDGRM]
+Math T D 2 M
+
+[Clock drawing exercise]
+Draw hands on the analogue clocks for the time on the digital clocks: 12:00, 3:30, 8:00.
+[STRDGRM] Three analogue clocks showing different times: one at 12:00, one at 3:30, and one at 8:00. Each clock has hour and minute markings. [STPDGRM]
+
+
+Math T D 2 M
+
+[Digital time writing exercise]
+Write the digital times for the following: a) half past 8, b) 1 o’clock, c) half past 2, d) 7 o’clock.
+[STRDGRM] Four digital clocks with empty displays, each associated with a character indicating the time verbally. [STPDGRM]
+Math T D 2 M
+
+[Data interpretation exercise]
+An explorer recorded the number of animals he saw in the rainforest. He used the data to create a pictogram. Help Macie complete the table by writing in the totals.
+[Situational: A pictogram showing various rainforest animals with corresponding tallies and a key indicating that each symbol represents one animal.]

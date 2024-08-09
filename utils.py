@@ -172,18 +172,18 @@ def PDF_to_images(folder: str, min: int, max: int) -> None:
         max (int): The maximum page number to process.
     """
     # Split the PDFs into images
-    for path in glob.glob(f"{folder}/*.pdf"):
+    for path in glob.glob(f"{folder}/Hodder*.pdf"):
         grade = find_first_number(path)
         # Save the subject
         subject = folder.split('/')[1]
         doc = fitz.open(path)
         for page_num in range(doc.page_count):
             # Skip the first few pages (e.g., table of contents, glossary)
-            if page_num < min or page_num > max:
+            if page_num < min or page_num > max or page_num in [10, 17, 24, 31, 38, 44, 50, 56, 62, 68, 74]:
                 continue
             page = doc.load_page(page_num)
             pix = page.get_pixmap()
-            pix.save(f'imgs/{subject}_{grade}_page_{page_num + 1}.png')
+            pix.save(f'imgs/{subject}_{grade}_{page_num + 1}.png')
 
 def upload_image(image_path: str, api_key: str, api_secret: str) -> tuple:
     """ Upload an image to Imgur and get the URL.
