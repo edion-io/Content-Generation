@@ -2,7 +2,10 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 import re
 
-question_tags = ["Computer Science", "Science", "Math", "Spanish Language", "French", "German", "Dutch",
+# TODO:     1. Implement config for chunk size and regex
+#           2. Automated header (+ footer?) annotation
+
+question_tags = ["Computer Science", "Science", "Math", "Spanish", "French", "German", "Dutch",
                  "Social Studies", "English"]
 
 
@@ -49,7 +52,7 @@ class TextEditor:
         self.file_old = None
         self.filepath_new = None
         self.file_new = None
-        self.chunk_size = 1000  # Characters per chunk
+        self.chunk_size = 10000  # Characters per chunk
         self.start_chunk = 0
         self.current_chunk = 0
         self.chunks = []
