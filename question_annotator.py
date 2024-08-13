@@ -5,8 +5,10 @@ import re
 # TODO:     1. Implement config for chunk size and regex
 #           2. Automated header (+ footer?) annotation
 
-question_tags = ["Computer Science", "Science", "Math", "Spanish", "French", "German", "Dutch",
-                 "Social Studies", "English"]
+SEP = "\n\n\n"
+
+SUBJECTS = ["Computer Science", "Science", "Math", "Social Studies", "History", "Geography",
+            "Spanish", "French", "German", "Dutch", "English"]
 
 
 class TextEditor:
@@ -34,6 +36,9 @@ class TextEditor:
         self.next_button = tk.Button(self.button_frame, text="Next Section (F4)", command=self.next_section)
         self.next_button.pack(side='left')
 
+        self.type_button = tk.Button(self.button_frame, text="Detect Type (F5)", command=self.detect_type)
+        self.type_button.pack(side='left')
+
         self.jump_chunk = tk.Button(self.button_frame, text="Jump To Chunk", command=self.jump_chunk)
         self.jump_chunk.pack(side='right')
 
@@ -52,23 +57,24 @@ class TextEditor:
         self.file_old = None
         self.filepath_new = None
         self.file_new = None
-        self.chunk_size = 10000  # Characters per chunk
+        self.chunk_size = 100  # lines per chunk
         self.start_chunk = 0
         self.current_chunk = 0
         self.chunks = []
         self.current_section = 0
         self.last_viewed_section = 0
         self.sections = []
-        self.subs = re.compile("\(?(" + "|".join(question_tags) + ")")
+        self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
 
         self.root.bind("<F1>", lambda _: self.load_files())
         self.root.bind("<F2>", lambda _: self.save_sections())
         self.root.bind("<F3>", lambda _: self.previous_section())
         self.root.bind("<F4>", lambda _: self.next_section())
+        self.root.bind("<F5>", lambda _: self.detect_type())
 
     def load_files(self):
         if self.chunks and not messagebox.askokcancel("Warning", "Loading new files will overwrite any unsaved progress. "
-                                             "Do you want to continue?"):
+                                                                 "Do you want to continue?"):
             return
 
         self.filepath_old = filedialog.askopenfilename(title="Select a Text File to read from",
@@ -83,11 +89,15 @@ class TextEditor:
 
         with open(self.filepath_old, 'r', encoding="utf8") as file:
             self.chunks = []
-            while True:
-                text_chunk = file.read(self.chunk_size)
-                if not text_chunk:
-                    break
-                self.chunks.append(text_chunk)
+            text_chunk = ""
+            count = 0
+            for line in file:
+                text_chunk += line
+                count += 1
+                if count == self.chunk_size:
+                    self.chunks.append(text_chunk)
+                    text_chunk = ""
+                    count = 0
 
         self.current_chunk = 0
         self.current_section = 0
@@ -104,7 +114,9 @@ class TextEditor:
 
         with open(self.filepath_new, 'w', encoding="utf8") as file:
             for section in self.sections[:self.last_viewed_section+1]:
-                file.write(section + "\n")
+                while section and section[-1] == "\n":
+                    section = section[:-1]
+                file.write(section + f"\n\n\n")
 
         messagebox.showinfo("Saved Sections", f"Saved {self.last_viewed_section + 1} sections in chunks "
                                               f"{self.start_chunk} to {self.current_chunk}")
@@ -180,9 +192,42 @@ class TextEditor:
             self.start_chunk = start_chunk
             self._show_section()
 
-    def _update_chunk_label(self):
-        self.chunk_entry.delete(0, tk.END)
-        self.chunk_entry.insert(1, str(self.current_chunk - 1))
+    def detect_type(self):
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+
+        self._update_section()
+        lines = self.sections[self.current_section].split("\n")
+        result = re.search(r" T ", lines[0])
+
+        # If type is already present, move on
+        if result is None:
+            return
+
+        # If type is not present, use the first line to determine the type
+        question_type = lines[1] if lines[1] else lines[2]
+
+        while question_type[-1] == " ":
+            question_type = question_type[:-1]
+
+        if question_type[0] == "[" or question_type[0] == "(" or question_type[0] == "{":
+            question_type = question_type[1:-1]
+
+        if len(question_type) > 40:
+            question_type = question_type[:40]
+
+        # Replace the type in the header
+        lines[0] = f"{lines[0][:result.span()[0]]} ({question_type}) {lines[0][result.span()[1]:]}"
+
+        # Remove the first line from the section
+        if lines[1].replace(" ", "") == "":
+            del lines[2]
+        else:
+            del lines[1]
+
+        self.sections[self.current_section] = "\n".join(lines)
+        self._show_section()
 
     def _load_sections(self):
 
@@ -225,6 +270,10 @@ class TextEditor:
             self.textbox.delete(1.0, tk.END)
             self.textbox.insert(tk.END, self.sections[self.current_section])
             self._update_chunk_label()
+
+    def _update_chunk_label(self):
+        self.chunk_entry.delete(0, tk.END)
+        self.chunk_entry.insert(1, str(self.current_chunk - 1))
 
     def _update_section(self):
         self.sections[self.current_section] = self.textbox.get(1.0, tk.END).strip()
