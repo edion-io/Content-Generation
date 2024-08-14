@@ -25,7 +25,10 @@ separated by the name of the subject enclosed in parentheses. The file is roughl
 
 
 
-## Moduls
+## Modules
+
+### Extractor by API
+
 
 ### Question Annotator
 **Description**: 
