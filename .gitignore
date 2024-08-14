@@ -2,3 +2,4 @@ books
 imgs
 tasks
 __pycache__
+.venv
