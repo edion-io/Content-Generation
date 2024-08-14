@@ -214,7 +214,7 @@ def upload_image(image_path: str, api_key: str, api_secret: str) -> tuple:
         print(f"Error uploading file {image_path}: {e}")
         return None
 
-def extract_raw_questions(header: str, file:str) -> list:
+def extract_raw_questions(header: str, file: str) -> list:
     """ Extracts all the questions from a file or text.
 
     Args:

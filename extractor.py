@@ -76,6 +76,7 @@ if __name__ == "__main__":
 
             # Parse each line as a separate JSON object
             batch_results = [json.loads(line) for line in lines]
+        # Iterate through each result and save the extracted text
         if sys.argv[2] == "-t":
             with open("questions.txt", "a") as f:
                 for result in batch_results:
@@ -84,7 +85,6 @@ if __name__ == "__main__":
                     extracted_text = result['response']['body']['choices'][0]['message']['content']
                     f.write(extracted_text + '\n\n')
         elif sys.argv[2] == "-p":
-            # Iterate through each result and save the extracted text
             with open("questions.txt", "a") as f:
                 for result in batch_results:
                     task_id = result['custom_id']
@@ -95,4 +95,4 @@ if __name__ == "__main__":
                         f.write(f"{subject} T D {grade} M\n")
                         f.write(exercise + '\n')
     else:
-        print("Invalid argument. Use -e to extract text, -r to retrieve results,\n -sb to submit a batch job or -ab to submit all batches")
+        print("Invalid argument. Use -e to extract text, -et to improve text,\n -r to retrieve results, -sb to submit a batch job, -ab to submit all batches,\n or -s to check the status of a batch job.")
