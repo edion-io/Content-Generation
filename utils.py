@@ -289,10 +289,11 @@ def batch_text(texts: list, prompt: str) -> None:
             for item in batch:
                 f.write(json.dumps(item) + '\n')
 
-def batch_vision(urls: list, prompt: str) -> None:
+def batch_vision(batch_folder: str, urls: list, prompt: str) -> None:
     """Create a batch of chat completion tasks for a list of image URLs.
     
     Args:
+        batch_folder (str): The folder to save the batch files to.
         urls (list): A list of image URLs.
         prompt (str): The prompt for the chat completion task.
         filename (str): The name of the file to save the batch file to.
@@ -346,25 +347,26 @@ def batch_vision(urls: list, prompt: str) -> None:
 
     # Save the smaller batches as separate files
     for i, batch in enumerate(batches):
-        with open(f'tasks/batch_{i+1}.jsonl', 'w') as f:
+        with open(f'{batch_folder}/batch_{i+1}.jsonl', 'w') as f:
             for item in batch:
                 f.write(json.dumps(item) + '\n')
 
-def submit_batch(client: OpenAI, file=None, files=False) -> None:
+def submit_batch(batch_folder: str, client: OpenAI, file=None, files=False) -> None:
     """Submit a batch job to process a batch of chat completion tasks.
 
     Args:
+        batch_folder (str): The folder containing the batch files.
         client (OpenAI): The OpenAI client.
         file (str): The name of the batch file to submit.
         files (bool): A flag indicating if multiple batch files should be submitted.
     """
     if files:
         # Submit all batch files
-        for file in glob.glob('tasks/input_file_batch_*.json'):
+        for file in glob.glob(f'{batch_folder}/input_file_batch_*.json'):
             submit(client, file)
     else:
         # Submit a single batch file
-        submit(client, f"tasks/{file}.jsonl")
+        submit(client, f"{batch_folder}/{file}.jsonl")
 
 def submit(client: OpenAI, file: str) -> None:
     """Submit a batch job to process a batch of chat completion tasks.
@@ -387,7 +389,13 @@ def submit(client: OpenAI, file: str) -> None:
     )
     # Store the id of the batch job
     with open("batch_job_id.txt", "a") as f:
-        f.write(batch_job.id+"\n")
+        first_char = f.read(1)
+        # If the file is empty, write the id without a newline
+        if not first_char:
+            f.write(batch_job.id)
+        else:
+            f.write(f"\n{batch_job.id}")
+
 
 def modify_jsonl(file_path: str, output_path: str, new_prompt: str):
     """ Modify the content of a JSONL file.
