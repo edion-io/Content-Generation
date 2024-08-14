@@ -1,3 +1,4 @@
+# Copyright (C) 2024  Edion Management Systems
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import re

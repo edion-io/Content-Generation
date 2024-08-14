@@ -27,7 +27,8 @@ separated by the name of the subject enclosed in parentheses. The file is roughl
 
 ## Modules
 
-### Extractor by API
+### Extractor
+The extractor module is responsible for extracting questions from either images or text-embedded pdf files. 
 
 
 ### Question Annotator
