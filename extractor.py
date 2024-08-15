@@ -2,8 +2,38 @@
 from openai import OpenAI
 from utils import upload_image, batch_items, submit_batch, extract_raw_questions, PDF_to_images
 import glob
-import sys
 import json
+import argparse
+
+# Create the parser and subparsers
+argparser = argparse.ArgumentParser(description="Extract text from images or reformat text using the OpenAI API.")
+subparsers = argparser.add_subparsers(dest="key", help="Subcommand description")
+
+# Subcommand for extracting text from images
+parser_e = subparsers.add_parser("e", help="Extract text from images")
+parser_e.add_argument("-sp", help="Split the given PDF into images before extracting text", action="store_true")
+parser_e.add_argument('start_page', help="The starting page number", type=int)
+parser_e.add_argument('end_page', help="The ending page number", type=int)
+
+# Subcommand for improving extracted text
+parser_et = subparsers.add_parser("et", help="Improve extracted text")
+
+# Subcommand for submitting batch jobs
+parser_sb = subparsers.add_parser("sb", help="Submit a specific batch job")
+parser_sb.add_argument('batch_file_name', help="The name of the batch file (without the extension)")
+parser_ab = subparsers.add_parser("ab", help="Submit all batch jobs")
+
+# Subcommand for checking the status of a batch job
+parser_s = subparsers.add_parser("s", help="Check the status of a batch job")
+parser_s.add_argument('batch_job_id', help="The ID of the batch job")
+
+# Subcommand for retrieving the results of a batch job
+parser_r = subparsers.add_parser("r", help="Retrieve the results of a batch job")
+parser_r.add_argument("-t", help="Retrieve the results from a text reformatting job", action="store_true")
+parser_r.add_argument("-p", help="Retrieve the results from a text extraction job", action="store_true")
+
+# Parse the arguments
+args = argparser.parse_args()
 
 # Specify the folder containing any relevant files
 FOLDER = 'books/Math/Primary'
@@ -23,46 +53,30 @@ PROMPT = "1. Extract all exercises from the pages .\n2. Output them in this form
 if __name__ == "__main__":
     # Initialize the OpenAI API
     client = OpenAI(api_key="sk-proj-ltmkMm6qZ8oQCsusN5IOT3BlbkFJmsPopivPYwLtY7jlx5Pl")
-    if sys.argv[1] == "-e":
-        if len(sys.argv) < 4:
-            print("Usage: python api_extract.py -e [-s] <min_page> <max_page>")
-            sys.exit(1)
-
-        if sys.argv[2] != "-s":
+    if args.key == "e":
+        if args.sp:
             # Convert the PDFs to images
-            PDF_to_images(FOLDER, int(sys.argv[2]), int(sys.argv[3]))
+            PDF_to_images(FOLDER, args.start_page, args.end_page)
 
         # Upload the images to Cloudinary and get the URLs
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]
 
         # Create multiple completions and store them in batches
         batch_items(BATCH_FOLDER, image_urls, PROMPT)
-    elif sys.argv[1] == "-et":
-        if len(sys.argv) != 2:
-            print("Usage: python api_extract.py -et")
-            sys.exit(1)
+    elif args.key == "et":
         # Extract all the questions from the file
         questions = extract_raw_questions(HEADER, file=FOLDER)
 
         # Create multiple completions and store them in batches
         batch_items(BATCH_FOLDER, questions, PROMPT)
-    elif sys.argv[1] == "-sb":
-        if len(sys.argv) != 3:
-            print("Usage: python api_extract.py -b <batch_file_name>")
-            sys.exit(1)
-        submit_batch(BATCH_FOLDER, client, sys.argv[2])
-    elif sys.argv[1] == "-ab":
+    elif args.key == "sb":
+        submit_batch(BATCH_FOLDER, client, args.batch_file_name)
+    elif args.key == "ab":
         submit_batch(BATCH_FOLDER, client, files=True)
-    elif sys.argv[1] == '-s':
-        if len(sys.argv) != 3:
-            print("Usage: python api_extract.py -s <batch_job_id>")
-            sys.exit(1)
-        batch_job = client.batches.retrieve(sys.argv[2])
+    elif args.key == 's':
+        batch_job = client.batches.retrieve(args.batch_job_id)
         print(batch_job)
-    elif sys.argv[1] == "-r":  
-        if len(sys.argv) != 2:
-            print("Usage: python api_extract.py -r [-t | -p]")
-            sys.exit(1)
+    elif args.key == "r":  
         # Retrieve the results of the batch job
         with open("batch_job_id.txt", "r") as f:
             batch_job_ids = f.readlines()
@@ -77,14 +91,14 @@ if __name__ == "__main__":
             # Parse each line as a separate JSON object
             batch_results = [json.loads(line) for line in lines]
         # Iterate through each result and save the extracted text
-        if sys.argv[2] == "-t":
+        if args.t:
             with open("questions.txt", "a") as f:
                 for result in batch_results:
                     task_id = result['custom_id']
                     subject, grade = task_id.split('_')
                     extracted_text = result['response']['body']['choices'][0]['message']['content']
                     f.write(extracted_text + '\n\n')
-        elif sys.argv[2] == "-p":
+        elif args.p:
             with open("questions.txt", "a") as f:
                 for result in batch_results:
                     task_id = result['custom_id']
@@ -95,4 +109,4 @@ if __name__ == "__main__":
                         f.write(f"{subject} T D {grade} M\n")
                         f.write(exercise + '\n')
     else:
-        print("Invalid argument. Use -e to extract text, -et to improve text,\n -r to retrieve results, -sb to submit a batch job, -ab to submit all batches,\n or -s to check the status of a batch job.")
+        argparser.print_help()
