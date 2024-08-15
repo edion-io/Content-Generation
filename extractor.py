@@ -1,6 +1,6 @@
 # Copyright (C) 2024  Edion Management Systems
 from openai import OpenAI
-from utils import upload_image, batch_vision, submit_batch, batch_text, extract_raw_questions, PDF_to_images
+from utils import upload_image, batch_items, submit_batch, extract_raw_questions, PDF_to_images
 import glob
 import sys
 import json
@@ -36,7 +36,7 @@ if __name__ == "__main__":
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]
 
         # Create multiple completions and store them in batches
-        batch_vision(BATCH_FOLDER, image_urls, PROMPT)
+        batch_items(BATCH_FOLDER, image_urls, PROMPT)
     elif sys.argv[1] == "-et":
         if len(sys.argv) != 2:
             print("Usage: python api_extract.py -et")
@@ -45,7 +45,7 @@ if __name__ == "__main__":
         questions = extract_raw_questions(HEADER, file=FOLDER)
 
         # Create multiple completions and store them in batches
-        batch_text(questions, PROMPT)
+        batch_items(BATCH_FOLDER, questions, PROMPT)
     elif sys.argv[1] == "-sb":
         if len(sys.argv) != 3:
             print("Usage: python api_extract.py -b <batch_file_name>")

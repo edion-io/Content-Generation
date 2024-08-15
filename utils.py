@@ -239,117 +239,95 @@ def extract_raw_questions(header: str, file: str) -> list:
                 segment += line
     return prompts
     
-def batch_text(texts: list, prompt: str) -> None:
-    """ Create a batch of chat completion tasks for a list of texts.
+def batch_items(batch_folder: str, items: list, prompt: str, is_text = False) -> None:
+    """ Create a batch of chat completion tasks for a list of texts or images.
 
     Args:
-        texts (list): A list of texts.
+        batch_folder (str): The folder to save the batch files to.
+        items (list): A list of texts or image urls.
         prompt (str): The prompt for the chat completion task.
+        is_text (bool): A flag indicating if the items are text or images.
     """
-    batches, current_batch = [], []
-    current_tokens = 0
-    for i, text in enumerate(texts):
-        item = ({
-        "custom_id": f"item_{i}",
-        "method": "POST",
-        "url": "/v1/chat/completions",
-        "body": {
-            # Chat Completions API call
-            "model": "gpt-4o-mini",
-            "temperature": 0.2,
-            "max_tokens": 3000,
-            "messages": [
-                {
-                    "role": "system",
-                    "content": prompt
-                },
-                {
-                    "role": "user",
-                    "content": text
-                }
-            ]            
-        }
-    })  
-        item_tokens = len(prompt.split()) + len(text.split())
-        if current_tokens + item_tokens > 190000:
-            batches.append(current_batch)
-            current_batch = [item]
-            current_tokens = item_tokens
-        else:
-            current_batch.append(item)
-            current_tokens += item_tokens
+    batches, current_batch, current_tokens = [], [], 0
+    if is_text:
+        # Process each text item
+        for i, text in enumerate(items):
+            name = f"text_{i}"
+            batch(text, name, current_tokens, current_batch, batches, prompt, is_text)
+    else:
+        # Process each image item
+        for i, (subject, grade, url) in enumerate(items):
+            name = f"{subject}_{grade}_{i}"
+            batch(url, name, current_tokens, current_batch, batches, prompt)
 
     # Add the last batch if not empty
     if current_batch:
         batches.append(current_batch)
 
     # Save the smaller batches as separate files
-    for i, batch in enumerate(batches):
-        with open(f'tasks/batch_{i+1}.jsonl', 'w') as f:
-            for item in batch:
+    for i, items in enumerate(batches):
+        with open(f'{batch_folder}/batch_{i+1}.jsonl', 'w') as f:
+            for item in items:
                 f.write(json.dumps(item) + '\n')
 
-def batch_vision(batch_folder: str, urls: list, prompt: str) -> None:
-    """Create a batch of chat completion tasks for a list of image URLs.
+def batch(content: str, name: str, current_tokens: int, current_batch: list, batches: list, prompt: str, is_text = False) -> None:
+    """ Create a single chat completion task for a text or image.
     
     Args:
-        batch_folder (str): The folder to save the batch files to.
-        urls (list): A list of image URLs.
+        content (str): The text or image URL to process.
+        name (str): The name of the task.
+        current_tokens (int): The current number of tokens in the batch.
+        current_batch (list): The current batch of tasks.
+        batches (list): The list of batches.
         prompt (str): The prompt for the chat completion task.
-        filename (str): The name of the file to save the batch file to.
-
-    Returns:
-        str: The name of the file containing the batch of tasks.
+        is_text (bool): A flag indicating if the content is text or an image.
     """
-    batches, current_batch = [], []
-    current_tokens = 0
-    item_tokens = len(prompt.split())
-    for i, (subject, grade, url) in enumerate(urls):
-        item = ({
-        "custom_id": f"{subject}_{grade}_{i}",
-        "method": "POST",
-        "url": "/v1/chat/completions",
-        "body": {
-            # Chat Completions API call
-            "model": "gpt-4o-mini",
-            "temperature": 0.2,
-            "max_tokens": 3000,
-            "messages": [
-                {
+    # Build the messages for the chat completion task
+    messages = [{
                     "role": "system",
                     "content": prompt
                 },
                 {
+                    "role": "user",
+                    "content": content
+                } if is_text else {
                     "role": "user",
                     "content": [
                         {
                             "type": "image_url",
                             "image_url": {
-                                "url": url
+                                "url": content
                             }
-                        },
-                    ],
-                }
-            ]            
+                        }
+                    ]
+                }]
+    
+    # Create one task for the batch
+    task = ({
+        "custom_id": name,
+        "method": "POST",
+        "url": "/v1/chat/completions",
+        "body": {
+            # Chat Completions API call
+            "model": "gpt-4o-mini",
+            "temperature": 0.2,
+            "max_tokens": 3000,
+            "messages": messages
         }
-    })
-        if current_tokens + item_tokens > 190000:
-            batches.append(current_batch)
-            current_batch = [item]
-            current_tokens = item_tokens
-        else:
-            current_batch.append(item)
-            current_tokens += item_tokens
+    })  
 
-    # Add the last batch if not empty
-    if current_batch:
+    # Check if the current batch is full
+    task_tokens = len(prompt.split()) + (len(content.split()) if is_text else 0)
+    if current_tokens + task_tokens > 190000:
+        # If it is full, add the current batch to the list of batches
         batches.append(current_batch)
-
-    # Save the smaller batches as separate files
-    for i, batch in enumerate(batches):
-        with open(f'{batch_folder}/batch_{i+1}.jsonl', 'w') as f:
-            for item in batch:
-                f.write(json.dumps(item) + '\n')
+        current_batch.clear()
+        current_batch.append(task)
+        current_tokens = task_tokens
+    else:
+        # Otherwise, add the task to the current batch
+        current_batch.append(task)
+        current_tokens += task_tokens
 
 def submit_batch(batch_folder: str, client: OpenAI, file=None, files=False) -> None:
     """Submit a batch job to process a batch of chat completion tasks.
@@ -396,7 +374,6 @@ def submit(client: OpenAI, file: str) -> None:
         else:
             f.write(f"\n{batch_job.id}")
 
-
 def modify_jsonl(file_path: str, output_path: str, new_prompt: str):
     """ Modify the content of a JSONL file.
 
@@ -411,6 +388,7 @@ def modify_jsonl(file_path: str, output_path: str, new_prompt: str):
             obj['body']['messages'][0]['content'] = new_prompt
             json.dump(obj, out)
             out.write('\n')
+
 def combine(images: list, output_path: str) -> None:
     """ Combines images into a single image.
 
@@ -433,6 +411,7 @@ def combine(images: list, output_path: str) -> None:
 
     # Save the combined image
     combined_image.save(output_path)
+
 def get_images(file: str, pages: list, offset: int, spec: str) -> list:
     """ Extracts related images (in a range) from a PDF file and combines them into a single image.
 
