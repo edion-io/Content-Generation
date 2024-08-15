@@ -252,13 +252,11 @@ def batch_items(batch_folder: str, items: list, prompt: str, is_text = False) ->
     if is_text:
         # Process each text item
         for i, text in enumerate(items):
-            name = f"text_{i}"
-            batch(text, name, current_tokens, current_batch, batches, prompt, is_text)
+            batch(text, f"text_{i}", current_tokens, current_batch, batches, prompt, is_text)
     else:
         # Process each image item
         for i, (subject, grade, url) in enumerate(items):
-            name = f"{subject}_{grade}_{i}"
-            batch(url, name, current_tokens, current_batch, batches, prompt)
+            batch(url, f"{subject}_{grade}_{i}", current_tokens, current_batch, batches, prompt)
 
     # Add the last batch if not empty
     if current_batch:
