@@ -32,11 +32,11 @@ What does ‘algorithm’ mean? Write or say the answer in your own words.
 
 Imagine that the x coordinate of an apple is any random value between -260 and 260.  
 
-\begin{enumitem}[label=\alph*.]
+\begin{enumerate}[label=\alph*.]
 \item What does x coordinate mean?  
 \item What does random mean?  
 \item What other value is used with the x coordinate to set the position of a sprite?  
-\end{enumitem}
+\end{enumerate}
 
 \subsection{Materials}
 \begin{itemize}
