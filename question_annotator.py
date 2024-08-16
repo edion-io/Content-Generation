@@ -8,7 +8,7 @@ import re
 
 SEP = "\n\n\n"
 
-SUBJECTS = ["Computer Science", "Science", "Math", "Social Studies", "History", "Geography",
+SUBJECTS = ["Computer Science", "Science", "Mathematics", "Social Studies", "History", "Geography",
             "Spanish", "French", "German", "Dutch", "English"]
 
 
@@ -43,6 +43,9 @@ class TextEditor:
         self.type_button = tk.Button(self.button_frame, text="Delete Section (F6)", command=self.delete_section)
         self.type_button.pack(side='left')
 
+        self.type_button = tk.Button(self.button_frame, text="Next Subject", command=self.next_subject)
+        self.type_button.pack(side='left')
+
         self.jump_chunk = tk.Button(self.button_frame, text="Jump To Chunk", command=self.jump_chunk)
         self.jump_chunk.pack(side='right')
 
@@ -66,6 +69,7 @@ class TextEditor:
         self.current_chunk = 0
         self.chunks = []
         self.current_section = 0
+        self.current_subject = "Computer Science"
         self.last_viewed_section = 0
         self.sections = []
         self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
@@ -137,6 +141,10 @@ class TextEditor:
         if self.current_section + 1 == len(self.sections):
             messagebox.showinfo("End of File", "No more sections to display.")
 
+        # Update the current subject if we have moved to a new one
+        if self.current_subject not in self.sections[self.current_section]:
+            self.current_subject = self.subs.search(self.sections[self.current_section]).group(0).replace("(", "").replace(")", "")
+
         self._update_section()
         self.current_section += 1
         self.last_viewed_section = max(self.last_viewed_section, self.current_section)
@@ -172,6 +180,38 @@ class TextEditor:
         # If the current section is the last section, move back one section instead of forward
         if self.current_section == len(self.sections):
             self.current_section -= 1
+        self._show_section()
+    
+    def next_subject(self):
+        """ Move to the next subject.
+        """
+        # Failsafe to make sure a file is loaded
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+        # Update section parameters
+        self._update_section()
+        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
+        # Find the next subject
+        for i in range(self.current_section + 1, len(self.sections)):
+                subj = self.subs.search(self.sections[i]).group(0).replace("(", "").replace(")", "")
+                if  subj != self.current_subject and "(" + subj + ")" in self.sections[i]:
+                    self.current_section = i
+                    self.current_subject = subj
+                    break
+        found = False
+        for j in range(self.current_chunk + 1, len(self.chunks)):
+            self.current_chunk = j
+            self._load_sections()
+            for i in range(self.current_section + 1, len(self.sections)):
+                subj = self.subs.search(self.sections[i]).group(0).replace("(", "").replace(")", "")
+                if  subj != self.current_subject and "(" + subj + ")" in self.sections[i]:
+                    self.current_section = i
+                    self.current_subject = subj
+                    found = True
+                    break
+            if found:
+                break
         self._show_section()
 
     def jump_chunk(self):
