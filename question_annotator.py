@@ -40,6 +40,9 @@ class TextEditor:
         self.type_button = tk.Button(self.button_frame, text="Detect Type (F5)", command=self.detect_type)
         self.type_button.pack(side='left')
 
+        self.type_button = tk.Button(self.button_frame, text="Delete Section (F6)", command=self.delete_section)
+        self.type_button.pack(side='left')
+
         self.jump_chunk = tk.Button(self.button_frame, text="Jump To Chunk", command=self.jump_chunk)
         self.jump_chunk.pack(side='right')
 
@@ -72,6 +75,7 @@ class TextEditor:
         self.root.bind("<F3>", lambda _: self.previous_section())
         self.root.bind("<F4>", lambda _: self.next_section())
         self.root.bind("<F5>", lambda _: self.detect_type())
+        self.root.bind("<F6>", lambda _: self.delete_section())
 
     def load_files(self):
         if self.chunks and not messagebox.askokcancel("Warning", "Loading new files will overwrite any unsaved progress. "
@@ -151,6 +155,18 @@ class TextEditor:
         self._update_section()
         self.last_viewed_section = max(self.last_viewed_section, self.current_section)
         self.current_section -= 1
+        self._show_section()
+    
+    def delete_section(self):
+        ## Delete the current section
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+        self._update_section()
+        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
+        self.sections.pop(self.current_section)
+        if self.current_section == len(self.sections):
+            self.current_section -= 1
         self._show_section()
 
     def jump_chunk(self):
