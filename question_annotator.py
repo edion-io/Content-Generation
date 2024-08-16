@@ -43,6 +43,9 @@ class TextEditor:
         self.type_button = tk.Button(self.button_frame, text="Delete Section (F6)", command=self.delete_section)
         self.type_button.pack(side='left')
 
+        self.type_button = tk.Button(self.button_frame, text="Previous Subject", command=self.previous_subject)
+        self.type_button.pack(side='left')
+
         self.type_button = tk.Button(self.button_frame, text="Next Subject", command=self.next_subject)
         self.type_button.pack(side='left')
 
@@ -68,8 +71,10 @@ class TextEditor:
         self.start_chunk = 0
         self.current_chunk = 0
         self.chunks = []
-        self.current_section = 0
         self.current_subject = "Computer Science"
+        self.subject_idx = [(0, 0)]
+        self.current_sub_idx = 0
+        self.current_section = 0
         self.last_viewed_section = 0
         self.sections = []
         self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
@@ -193,25 +198,30 @@ class TextEditor:
         self._update_section()
         self.last_viewed_section = max(self.last_viewed_section, self.current_section)
         # Find the next subject
-        for i in range(self.current_section + 1, len(self.sections)):
-                subj = self.subs.search(self.sections[i]).group(0).replace("(", "").replace(")", "")
-                if  subj != self.current_subject and "(" + subj + ")" in self.sections[i]:
-                    self.current_section = i
-                    self.current_subject = subj
-                    break
-        found = False
-        for j in range(self.current_chunk + 1, len(self.chunks)):
+        for j in range(self.current_chunk, len(self.chunks)):
             self.current_chunk = j
             self._load_sections()
-            for i in range(self.current_section + 1, len(self.sections)):
-                subj = self.subs.search(self.sections[i]).group(0).replace("(", "").replace(")", "")
-                if  subj != self.current_subject and "(" + subj + ")" in self.sections[i]:
-                    self.current_section = i
-                    self.current_subject = subj
-                    found = True
-                    break
-            if found:
+            if self._find_subject():
+                if all((c != j and s != self.current_section) for s, c in self.subject_idx):
+                    self.subject_idx.append((self.current_section, j))
+                self.current_sub_idx += 1
                 break
+        self._show_section()
+
+    def previous_subject(self):
+        """ Move to the previous subject.
+        """
+        # Failsafe to make sure a file is loaded
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+        # Update section parameters
+        self._update_section()
+        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
+        self.current_sub_idx = max(0, self.current_sub_idx - 1)
+        self.current_chunk = self.subject_idx[self.current_sub_idx][1]
+        self.current_section = self.subject_idx[self.current_sub_idx][0]
+        self.current_subject = self.subs.search(self.sections[self.current_section]).group(0).replace("(", "").replace(")", "")
         self._show_section()
 
     def jump_chunk(self):
@@ -335,12 +345,26 @@ class TextEditor:
 
     def _update_chunk_label(self):
         self.chunk_entry.delete(0, tk.END)
-        self.chunk_entry.insert(1, str(self.current_chunk - 1))
+        if self.current_chunk != 0:
+            self.chunk_entry.insert(1, str(self.current_chunk - 1))
 
     def _update_section(self):
         self.sections[self.current_section] = self.textbox.get(1.0, tk.END).strip()
 
+    def _find_subject(self) -> bool:
+        """ Find the next subject in the sections list.
 
+        Returns:
+            bool: True if a new subject was found in this section, False otherwise.
+        """
+        for i in range(self.current_section + 1, len(self.sections)):
+            subj = self.subs.search(self.sections[i]).group(0).replace("(", "").replace(")", "")
+            if  subj != self.current_subject and "(" + subj + ")" in self.sections[i] and " D " in self.sections[i]:
+                self.current_section = i
+                self.current_subject = subj
+                return True
+        return False
+                
 if __name__ == "__main__":
     root = tk.Tk()
     app = TextEditor(root)
