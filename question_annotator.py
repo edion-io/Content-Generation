@@ -158,13 +158,18 @@ class TextEditor:
         self._show_section()
     
     def delete_section(self):
-        ## Delete the current section
+        """ Delete the current section.
+        """
+        # Failsafe to make sure a file is loaded
         if not self.chunks:
             messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
             return
+        # Update section parameters
         self._update_section()
         self.last_viewed_section = max(self.last_viewed_section, self.current_section)
+        # Delete the current section
         self.sections.pop(self.current_section)
+        # If the current section is the last section, move back one section instead of forward
         if self.current_section == len(self.sections):
             self.current_section -= 1
         self._show_section()
