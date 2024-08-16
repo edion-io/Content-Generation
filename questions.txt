@@ -582,2658 +582,1834 @@ Think about a time when you faced a problem while using a computer.
 \end{enumerate}
 
 
+(Computer Science) (Activity) D 2 (With Material)
+
+\begin{enumerate}
+\item Open a file and call it ‘My hobby’. Add a shape to the page. Add an important message inside the shape. For example, have you made friends doing your hobby? Make the box look the way you want. Save your file.
+\item Can you work out how to change the colour or size of the text inside your text box?
+\end{enumerate}
+
+\subsection{Materials}
+\begin{itemize}
+\item A text editing app like Word or Pages, or an image editing app like Gimp or Photoshop.
+\end{itemize}
+
+
+(Computer Science) (Short Answer) D 2 M
+
+Imagine you have a text document. Why could it be useful to have text in a different shape?
+
+
+(Computer Science) (Activity) D 2 (Exercise on using formulas with spreadsheets, With Material)
+
+Open a blank spreadsheet. Create a column with different animal names as rows. We will use this to track the number of animals in a nature reserve. Add numbers in a separate column, on the same rows as each animal. Give that column a label and then create another column called "Transferred" filled with numbers that are equal to or less than the previous column. Finally, in a new column enter a label and a formula to show how many animals are left in the nature reserve. 
+
+\paragraph{Think With Me}
+In this lesson you made a new formula. Write out the formula you made.
+
+\paragraph{Bonus Question}
+Change the number of a certain animal in the reserve by typing a new number. What happens to the total?
+
+\subsection{Materials}  
+\begin{itemize}
+\item A computer or device with spreadsheet software.
+\end{itemize}
+
+
+(Computer Science) (Creative Exercise) D 2 (With Material)
+
+Make an advert for a nature reserve. Draw the animals. Say how many there are. For example, “We have got 3 giraffes!” 
+
+\subsection{Materials}  
+\begin{itemize}
+\item Paper and drawing materials (pencils, markers, etc.).
+\end{itemize}
+
+
+(Computer Science) (Activity) D 2 (With Material)
+
+\begin{enumerate}
+\item	Open a file called ‘My hobby'. Can you make any improvements to the poster? You can: 
+	\begin{itemize}
+		\item add new text and images  
+		\item change the size of text boxes  
+		\item change the size of images  
+		\item move text and images around.  
+	\end{itemize}
+\item How can you improve the title of the poster? Think about the text, the color, the size...
+
+
+\subsection{Materials} 
+\begin{itemize}
+\item A file or document where you can create or edit a poster about your hobbies.
+\end{itemize}
+
+
 (Computer Science) (Activity) D 2 M
 
-Open your file called ‘My hobby’. Add a shape to your poster. Add an important message inside the shape. For example, have you made friends doing your hobby? Make the box look the way you want. Save your file.
-
-
-
-(Computer Science) T D 2 M
-
-Think again  
-Why could it be useful to have your text in a different shape?  
-
-(Computer Science) T D 2 M
-
-Extra challenge  
-Can you work out how to change the colour or size of the text inside your text box?  
-
-[MATERIAL] [Access to a computer with word processing software]  
-[MATERIAL] [Basic understanding of how to navigate the software]  
-[MATERIAL] [Instructions on how to change text properties in the software]  (Computer Science) T D 2 M
-
-Activity  
-Open the file you made in the last lesson. Enter the label and a formula to show how many animals are left in the nature reserve. 
-
-\subsection{Materials}  
-A computer or device with spreadsheet software.
-
-(Computer Science) T D 2 M
-
-Extra challenge  
-Change the number of zebras in the reserve by typing a new number. What happens to the total? You will learn more about this in the next lesson. 
-
-\subsection{Materials}  
-A computer or device with spreadsheet software.
-
-(Computer Science) T D 2 M
-
-Think again  
-In this lesson you made a new formula. Write out the formula you made. 
-
-\subsection{Materials}  
-A writing tool or device to record your thoughts. 
-
-(Computer Science) T D 2 M
-
-Be creative  
-Make an advert for the nature reserve. Draw the animals. Say how many there are. For example, “We have got 3 giraffes!” 
-
-\subsection{Materials}  
-Paper and drawing materials (pencils, markers, etc.).
-
-(Computer Science) T D 2 M
-
-Activity  
-Open your ‘My hobby’ file. Can you make any improvements to your poster? You can:  
-- add new text and images  
-- change the size of text boxes  
-- change the size of images  
-- move text and images around.  
-
-\subsection{Materials} [A file or document where you can create or edit a poster about your hobbies.]
-
-(Computer Science) T D 2 M
-
-Extra challenge  
 Make a poster about your favourite school subject.  
-- Use text boxes.  
-- Use images.  
-- Save your file.  
+\begin{itemize}
+\item Use text boxes.  
+\item Use images.  
+\item Save your file.
+\end{itemize}
 
-\subsection{Materials} [A file or document where you can create or edit a poster about your favorite school subject.]
 
-(Computer Science) T D 2 M
+(Computer Science) T D 2 (With Material)
 
-Be creative  
-How can you make your title look interesting? Can you change the size, font or colour of the words?  
-
-\subsection{Materials} [A file or document where you can create or edit a poster, along with tools for changing text properties.]
-
-(Computer Science) T D 2 M
-
-Think again  
 Look at these posters about hobbies. Talk to a friend about which poster you like best. Why do you like that poster best?  
 
-\subsection{Materials} [A selection of posters about hobbies for discussion, or a description of various hobbies to facilitate conversation.]
+\subsection{Materials} 
+\begin{itemize}
+\item A selection of posters about hobbies for discussion, or a description of various hobbies to facilitate conversation.
+\end{itemize}
 
-(Computer Science) T D 1 M
 
-Activity  
+(Computer Science) (Activity) D 1 M
+
 Make a poster to tell other children what to do if they are worried about something they see on a web page.
 
-(Computer Science) T D 1 M
 
-Extra challenge  
+(Computer Science) (Activity) D 1 M
+
 Make a poster about a rainforest animal.
 
-(Computer Science) T D 1 M
 
-Think again  
+(Computer Science) (Activity) D 1 M
+
 Make a list of people you could tell if something worries you on a web page.
 
-(Computer Science) T D 1 M
 
-Digital citizen of the future  
-What could you do if your classmate tells you they have seen something online that has scared or worried them? 
+(Computer Science) (Short Answer) D 1 (Exercise on digital literacy, Exercise on responsible use of the internet)
 
-[MATERIAL] [Paper and writing materials for making posters](Computer Science) T D 6 M
+What could you do if your classmate tells you they have seen something online that has scared or worried them?
 
-Activity  
-Describe the differences between two car assembly lines: one from the 1930s and one modern assembly line with robots. Focus on aspects like the number of people working, the types of tasks being done, and the overall environment.
 
-\subsection{Materials}  
-No specific material needed; use your imagination and knowledge of how assembly lines might differ over time.
+(Computer Science) (Short Answer) D 6 M
 
-(Computer Science) T D 6 M
+\begin{enumerate}
+	\item Describe the differences between two car assembly lines: one from the 1930s and one modern assembly line with robots. Focus on aspects like the number of people working, the types of tasks being done, and the overall environment.
+	\item Which of the two assembly lines would you prefer to work in? Explain why.
+\end{enumerate}
 
-Think again  
-Which of the two assembly lines would you prefer to work in? Explain why.
 
-\subsection{Materials}  
-No specific material needed; consider factors like job satisfaction, working conditions, and the nature of tasks involved.
+(Computer Science) (Short Answer) D 6 M
 
-(Computer Science) T D 6 M
-
-Extra challenge  
 Do research on robots working in agriculture or retail. What kind of robot vehicles and machines are used in these industries?
 
-\subsection{Materials}  
-Access to a library or the internet for research on robots in agriculture and retail.(Computer Science) T D 1 M
 
-Activity  
+(Computer Science) (Activity) D 1 M
+
 Draw a picture of a computer. In your picture, show:  
-- the screen  
-- the mouse  
-- the keyboard.  
+\begin{itemize}
+\item the screen  
+\item the mouse  
+\item the keyboard.
+\end{itemize}
 
-(Computer Science) T D 1 M
 
-Extra challenge  
-What is this?  
+(Computer Science) (Activity) D 1 (At home exercise)
 
-(Computer Science) T D 1 M
+Talk to someone at home about technologies they use. Draw pictures. Bring your pictures to school.
 
-Explore more  
-Talk to someone at home about technologies they use. Draw pictures. Bring your pictures to school.  
 
-[MATERIAL] [Paper and drawing materials like pencils or crayons]  
-[MATERIAL] [A USB cable for the extra challenge]  (Computer Science) T D 2 M
+(Computer Science) (Group Activity, Short Answer) D 2 M
 
-Activity  
-Look at a computer in your classroom. Describe the computer using your senses. What do you feel when you touch it? What sounds does it make? Can you smell anything nearby? Talk to a partner about the parts you can identify and describe them. 
+Look at a computer in your classroom.
+\begin{enumerate}[label=\alpha*.]
+\item Describe the computer using your senses. What do you feel when you touch it? What sounds does it make? Can you smell anything nearby? 
+\item Talk to a partner about the parts you can identify and describe them.
+\end{enumerate}
 
-\subsection{Materials} 
-None needed.
 
-(Computer Science) T D 2 M
+(Computer Science) (Group Activity, Short Answer) D 2 M
 
-Did you know?  
-Think about how computers use electricity. Can you list different ways electricity can be generated? Discuss with a partner how renewable energy sources like sunshine or wind power work.
+\begin{enumerate}[label=\alpha*.]
+\item Think about how computers use electricity. Can you list different ways electricity can be generated? 
+\item Discuss with a partner how renewable energy sources like sunshine or wind power work.
+\end{enumerate}
 
-\subsection{Materials} 
-None needed.(Computer Science) T D 3 M
 
-Activity  
+(Computer Science) (Activity) D 3 M
+
 Write a list of all the digital devices you can imagine using in a park or playground setting.
 
-(Computer Science) T D 3 M
 
-Extra challenge  
-Choose a scenario involving people in a park. Write a paragraph about:  
-- what type of digital device they might be using,  
-- what they might be doing with it.  
-You can write about anything you like.
+(Computer Science) (Long Answer) D 3 M
 
-(Computer Science) T D 3 M
+Choose a scenario involving people in a park. Write a paragraph about:
+\begin{itemize}
+\item what type of digital device they might be using
+\item what they might be doing with it
+\end{itemize}
+You can write about anything else you like.
 
-Think again  
-What are the general differences between a smartphone and a tablet?  
 
-[MATERIAL] [You may need a quiet space to think and write down your ideas.](Computer Science) T D 5 M
+(Computer Science) (Short Answer) D 3 M
 
-Activity  
-Write a program to move the sprite as shown in this lesson. Run the program to make sure it works. Save the file.
+What are the general differences between a smartphone and a tablet?
+
+
+(Computer Science) (Activity) D 5 M
+
+Write a program to make a sprite move. Run the program to make sure it works. Save the file.
+
+\subsection{Materials}
+\begin{itemize}
+\item A computer and software or an application that lets someone use code blocks to animate or program, like Scratch.
+\end{itemize}
+
+
+(Computer Science) (Activity, Short Answer) D 5 (With Material)
+
+Program blocks in a program have numbers in them. They might represent the number of steps, the number of repeats in a loop, or the number of seconds to wait between wing flaps for a bird. Open an example program and change values like these and see how your changes affect the program. Describe these effects in writing.
+
+\subsection{Materials}
+\begin{itemize}
+\item A computer and software or an application that lets someone use code blocks to animate or program, like Scratch.
+\item A saved program made with the above application, that the student can use to follow the instructions of the activity/exercise.
+\end{itemize}
+
+
+(Computer Science) (Activity, Short Answer) D 5 M
+
+This program uses a loop. 
+\begin{enumerate}
+\item What kind of loop is it? 
+\item What is the exit condition?
+\end{enumerate}
 
 \subsection{Materials} 
-- A computer or device with programming software.
+\begin{itemize}
+\item A computer and software or an application that lets someone use code blocks to animate or program, like Scratch.
+\item A saved program made with the above application, that the student can use to follow the instructions of the activity/exercise.
+\end{itemize}
 
-(Computer Science) T D 5 M
 
-Extra challenge  
-The program blocks in your program have numbers in them: the number of steps, the number of repeats, and the number of seconds to wait between wing flaps. Change these values and see how your changes affect the program.
+(Computer Science) (Short Answer) D 2 M
+
+Here are some actions that an old lady did during a day where she made a hat:  
+\begin{itemize}
+\item Peel the potatoes  
+\item Sew flowers on the hat  
+\item Find a straw hat  
+\item Pick flowers  
+\item Drink a glass of water  
+\item Tidy the room  
+\item Put the hat on the donkey’s ears  
+\item Make holes in the hat 
+\end{itemize} 
+Which actions are necessary to make a hat?//
+
+Necessary means actions that must happen. For example, 'Tidy the room' is not necessary to make a hat. What do you think might be necessary when using the internet?
+
+
+(Computer Science) (Short Answer) D 1 M
+
+Look at the image.
+\begin{enumerate}[label=\alpha*.]
+\item What can you see on the code block?
+\item What do you think it means? How might the block function?
+\end{enumerate}
+  
+[STRDGM] An image of a code block: The block is yellow, with the shape of an irregular polygon and has the text "when clicked" on it as well as the symbol of a mouse click, indicating an action that triggers when the block is activated. [STPDGM]
+
+
+(Computer Science) (Programming Exercise) D 6 (With Material)
+
+\begin{enumerate}
+\item Open an example game. Add a snake to the game. Write a script for the snake so that it moves left to right. Use a conditional loop so that the game stops if the snake 'catches' the frog.
+\item Change the commands inside the loop so that the snake waits for two seconds, then jumps to a random position on the screen. Does this make the game easier or harder?
+\end{enumerate}
 
 \subsection{Materials} 
-- A computer or device with programming software.
+\begin{itemize}
+\item A computer and software or an application that lets someone use code blocks to animate or program, like Scratch.
+\item A saved program made with the above application, that the student can use to follow the instructions of the activity/exercise. It should consist of a game that involves a moveable frog that can be controlled using four keys.
+\end{itemize}
 
-(Computer Science) T D 5 M
 
-Think again  
-This program uses a loop. What kind of loop is it? What is the exit condition?
+(Computer Science) (Activity) D 6 M
 
-\subsection{Materials} 
-- A computer or device with programming software.(Computer Science) T D 2 M
+Make a poster or leaflet explaining what modules are and why they are used in programming. Use ideas that were taught in class. You can make the poster using word-processing software. If you have some, you include screenshots of your code as illustrations.
 
-Activity  
-Here are some actions that the old lady did that day:  
-- Peel the potatoes  
-- Sew flowers on the hat  
-- Find a straw hat  
-- Pick flowers  
-- Drink a glass of water  
-- Tidy the room  
-- Put the hat on the donkey’s ears  
-- Make holes in the hat  
 
-Which actions are necessary to make the hat?  
-Necessary means actions that must happen.  
-'Tidy the room' is not necessary to make a hat.  
+(Computer Science) (Activity, Short Answer) D 6 M
 
-(Computer Science) T D 2 M
-
-Think again  
-Write down the things the old lady did. Only write the ones that are necessary to make the hat.  
-
-(Computer Science) T D 2 M
-
-Extra challenge  
-Write the story of the donkey’s hat in your own words. Draw a picture to go with the story.  
-
-[MATERIAL] Paper and a writing tool for writing down actions and drawing a picture.(Computer Science) T D 1 M
-
-Think again  
-What is the picture on the first block? Why do you think the block shows that picture?  
-[MATERIAL] A description of the first block: The block is yellow and has the text "when clicked" on it, indicating an action that triggers when the block is activated.(Computer Science) T D 6 M
-
-Activity  
-Add a snake to the game. Write a script for the snake so that it moves left to right. Use a conditional loop so that the game stops if the snake 'catches' the frog.
-
-\subsection{Materials}  
-You will need a computer or device with programming software that allows you to create a simple game.
-
-(Computer Science) T D 6 M
-
-Extra challenge  
-Change the commands inside the loop so that the snake waits for two seconds, then jumps to a random position on the screen. Does this make the game easier or harder? For the rest of this unit, you may use either snake script.
-
-\subsection{Materials}  
-You will need a computer or device with programming software that allows you to create a simple game.
-
-(Computer Science) T D 6 M
-
-Think again  
-The loop in this program starts with a test. What is the test? What happens if the test is True?
-
-\subsection{Materials}  
-You will need a computer or device with programming software that allows you to create a simple game.(Computer Science) T D 6 M
-
-Activity  
-Use the ‘movement’ module you made to simplify the frog script.
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 6 M
-
-Explore more  
-Make a poster or leaflet explaining what modules are and why they are used in programming. Use the ideas set out in this lesson. You can make the poster using word-processing software. Then you will be able to include screenshots of your code as illustrations.
-
-\subsection{Materials}  
-Access to a computer or device with word-processing software.(Computer Science) T D 6 M
-
-Activity  
 Invent your own robot which would help with cleaning. Think of a name for your robot. List the main functions of your robot and the advantages of using it to do the cleaning.
 
-\subsection{Materials}  
-Paper and pen or any writing tool.
-
-(Computer Science) T D 6 M
-
-Extra challenge  
-Design a poster to advertise the new robot cleaner.
-
-\subsection{Materials}  
-Paper, pen, and any art supplies (like markers or colored pencils).
-
-(Computer Science) T D 6 M
-
-Think again  
+\paragraph{Think With Me}
 Is your robot cleaner humanoid or not? Why did you make that choice?
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 4 M
+\paragraph{Bonus Activity}
+Design a poster to advertise the new robot cleaner.
 
-Activity  
-Create the program shown in this lesson so the sprite tells you the solution to the quiz question.
 
-(Computer Science) T D 4 M
+(Computer Science) (Short Answer) D 4 (With Prerequisites)
 
-Think again  
 In your own words, explain what the 'join' operator does.
 
-(Computer Science) T D 4 M
+\subsection{Prerequisites} 
+\begin{itemize}
+\item Knowledge of an application that lets someone use code blocks to animate or program, like Scratch.
+\end{itemize}
 
-Extra challenge  
+
+(Computer Science) (Extra challenge) D 4 (With Prerequisites)
+
 The light blue 'Sensing' blocks include a block called 'answer'. This is a variable that stores the user's answer to the question. Add an extra block that says the user's answer.
 
-No text.(Computer Science) T D 3 M
+\subsection{Prerequisites} 
+\begin{itemize}
+\item Knowledge of an application that lets someone use code blocks to animate or program, like Scratch.
+\end{itemize}
 
-Activity  
-Write out the plan from this lesson. Here are the blocks you need to make the program. Fit the blocks together to make a program that matches the plan.
 
-\subsection{Materials}  
-None needed.
+(Computer Science) (Algorithm Practice) D 3 M
 
-(Computer Science) T D 3 M
-
-Extra challenge  
-A student made a longer version of the program. She ran the program. This is what she saw.  
-Write a plan for a program that makes this output.  
-Write a program to get this output.
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 3 M
-
-Explore more  
 Write a plan for a program that inputs a number, then outputs the number times two. Make a program to match your plan.
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 3 M
 
-Activity  
-Start a new slide show.  
-Make a title slide for your digital story.  
-Make the first slide of your digital story.  
-Save your slide show.  
+(Computer Science) (Activity, Creative Exercise) D 3 (Exercise on digital stories and slideshows)
 
-\subsection{Materials}  
-None needed.  
+\begin{enumerate}[label=\alph*.]
+\item Think of a digital story you would like to write, then start a new slide show.  
+\item Make a title slide for your digital story.  
+\item Make the first slide of your digital story. 
+Save your slide show.
 
-(Computer Science) T D 3 M
 
-Explore more  
-Tell an adult at home the story you have made up. If you wish, you can ask for ideas to change the story. If you agree with their ideas, note them down.  
+(Computer Science) (Activity) D 3 (At Home Exercise)
 
-\subsection{Materials}  
-None needed.  
+Come up with a story. Tell an adult at home the story you have made up. If you wish, you can ask for ideas to change the story. If you agree with their ideas, note them down.
 
-(Computer Science) T D 3 M
 
-Extra challenge  
-Change the font size, style or colour of your title slide. Click and drag your finger over the words you want to change. The words are highlighted.  
+(Computer Science) (Activity) D 1 M
 
-\subsection{Materials}  
-None needed.  (Computer Science) T D 1 M
-
-Activity  
-Type number values next to each label in your spreadsheet. You can choose any numbers you like. Think about how many toys children might have had long ago. Remember to save your file.
-
-(Computer Science) T D 1 M
-
-Think again  
-Think of two more toys you could add to column A in the spreadsheet.
-
-[MATERIAL] [A spreadsheet or paper to write down toy names and numbers](Computer Science) T D 1 M
-
-Activity  
-Draw two funny faces and swap noses like you see here.
-
-(Computer Science) T D 1 M
-
-Extra challenge  
-Draw two animals, such as a cat and a mouse. Use select and move to swap the animals’ tails.
-
-(Computer Science) T D 1 M
-
-Explore more  
 Paint a funny face using lots of colours and shapes. Now try to make the face using computer software. Make a display in class of both types of image.
 
-[MATERIAL] Paper and drawing tools (pencils, markers, etc.)  
-[MATERIAL] Paper and drawing tools (pencils, markers, etc.)  
-[MATERIAL] Paper, paints, and access to computer software for drawing.(Computer Science) T D 1 M
 
-Activity  
-Do as many of these activities as you can.  
-1. Start the program and move the mouse to see what happens.  
-2. Change the start block of this program.  
-3. Add the extra purple block to the program.  
-4. Change the program so the sprite says “Hello.”  
-Write or tell the teacher what you did.  
+(Computer Science) (Activity) D 1 (With Prerequisite, With Material)
+
+Do as many of these activities as you can. 
+\begin{enumerate}
+\item Start the program and move the mouse to see what happens.
+\item Change the start block of this program.
+\item Add the extra purple block to the program.
+\item Change the program so the sprite says “Hello.”  
+\end{enumerate}
+Write or tell the teacher what you did.
+
+\subsection{Prerequisites}
+\begin{itemize}
+\item A basic understanding of how to navigate the Scratch interface.
+\end{itemize}
 
 \subsection{Materials}  
-- A computer or device with Scratch installed or accessible online.  
-- A basic understanding of how to navigate the Scratch interface.  
-- A way to write down or communicate your findings (notebook, voice recorder, etc.).  (Computer Science) T D 1 M
+\begin{itemize}
+\item A computer or device with Scratch installed or accessible online.
+\item A way to write down or communicate your findings (notebook, voice recorder, etc.).
+\end{itemize}
 
-Activity  
-You will work with a programming tool designed for beginners. 
 
-[MATERIAL] [Access to a computer or device with internet connection]
+(Computer Science) (Short Answer) D 1 (With Prerequisite)
 
-(Computer Science) T D 1 M
-
-Think again  
-Imagine you are Scratch the cat. How would you move if someone clicked on you? Describe your movements.
-
-[MATERIAL] [None needed]
-
-(Computer Science) T D 1 M
-
-Extra challenge  
 Create a simple set of instructions for Scratch to follow when you click. What would you want Scratch to do?
 
-[MATERIAL] [None needed](Computer Science) T D 5 M
+\subsection{Prerequisites}
+\begin{itemize}
+\item A basic understanding of Scratch
+\end{itemize}
 
-Activity  
+
+(Computer Science) (Short Answer) D 5 (Exercise on connecting computing to real life)
+
 Describe your dream job when you grow up. How will you use a computer in your job?
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 5 M
+(Computer Science) (Activity) D 5 (At Home Exercise)
 
-Explore more  
 Find out what the adults in your family and other grown-up friends think about teleworking. Ask these questions.  
-1. Do you ever do part of your job from home using an internet link?  
-2. Could you do more of your job from home using an internet link?  
-3. Would you like to do more work from home?  
+\begin{enumerate}
+\item Do you ever do part of your job from home using an internet link?  
+\item Could you do more of your job from home using an internet link?  
+\item Would you like to do more work from home?  
+\end{enumerate}
 Ask any other questions you can think of. Write down the people’s answers so you can share them with the class.
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 5 M
+(Computer Science) (Short Answer) D 5 M
 
-Extra challenge  
 Make an advert for your dream job. Include the computer skills that are needed for the job.
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 2 M
 
-Activity  
-Which words do you think would be best for a search for foods at your secret restaurant? 
+(Computer Science) (Short Answer) D 2 M
 
-(Computer Science) T D 2 M
-
-Think again  
 What can you do if you are not sure if a link is safe?
 
-(Computer Science) T D 2 M
 
-Extra challenge  
-Visit the web page of a restaurant. Find one example of a fact on this page. Find one example of an opinion.
+(Computer Science) (Short Answer) D 2 M
 
-[MATERIAL] [Access to a computer or device with internet capability to visit a restaurant's web page.](Computer Science) T D 2 M
+Visit the web page of a restaurant. 
+\begin{enumerate}
+\item Find one example of a fact on this page. 
+\item Find one example of an opinion.
+\end{enumerate}
 
-Activity  
+
+(Computer Science) (Activity) D 2 M
+
 Make up a short play about how to talk kindly and politely to friends online.
 
-(Computer Science) T D 2 M
 
-Extra challenge  
+(Computer Science) (Short Answer) D 2 M
+
 Sometimes you may spend too much time on the internet. Can you think of any ways you can help yourself remember to do other kinds of activities?
 
-(Computer Science) T D 2 M
 
-Explore more  
-Talk to an adult about how to keep safe and happy when using computers at home.(Computer Science) T D 2 M
+(Computer Science) (Activity) D 2 (At Home Exercise)
 
-Activity  
-Think of another task that humans enjoy doing. Could computers do this task instead? 
+Talk to an adult about how to keep safe and happy when using computers at home.
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 2 M
+(Computer Science) (Short Answer) D 2 M
 
-Extra challenge  
-How can a computer help the nurses? What tasks are better for the nurses to do themselves?
+Think of another task that humans enjoy doing. Could computers do this task instead?
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 2 M
+(Computer Science) (Short Answer) D 2 M
 
-Think again  
+How can a computer help nurses? What tasks are better for nurses to do themselves?
+
+
+(Computer Science) (Short Answer) D 2 M
+
 Give one reason why we might decide not to use a computer to help with a task.
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 2 M
 
-Activity  
-Open a search engine.  
-Search for the type of restaurant you like best.  
-What kind of food is served at this type of restaurant?  
-- Does it serve delicious salads?  
-- Can you buy sweets and cakes?  
-- Can you buy warming soup?  
-What kind of imaginary secret restaurant will you have?  
+(Computer Science) (Activity, Short Answer) D 2 M
 
-\subsection{Materials}  
-A device with internet access (like a smartphone or computer) to open a search engine.  
+Open a search engine. Search for the type of restaurant you like best.  
+\begin{enumerate}
+\item What kind of food is served at this type of restaurant?  
+\item	\begin{itemize}
+		\item Does it serve delicious salads?  
+		\item Can you buy sweets and cakes?  
+		\item Can you buy warming soup?  
+	\end{itemize}
+\item What kind of imaginary secret restaurant will you have?
+\item There may be more links on the restaurant web page. Can you find them?
+\end{enumerate}
 
-(Computer Science) T D 2 M
+\paragraph{Group Work}
+\begin{enumerate}
+\item Tell your classmate one thing you like about the website you have found.  
+\item Tell your classmate one thing that could be improved on the website. 
+\end{enumerate}
 
-Extra challenge  
-There may be more links on the restaurant web page. Can you find them?  
 
-\subsection{Materials}  
-A device with internet access (like a smartphone or computer) to explore a restaurant web page.  
+(Computer Science) (Short Answer) D 2 (Exercise on using the internet responsibly)
 
-(Computer Science) T D 2 M
-
-Think again  
-Tell your classmate one thing you like about the website you have found.  
-Tell your classmate one thing that could be improved on the website.  
-
-\subsection{Materials}  
-A device with internet access (like a smartphone or computer) to view a website and discuss it.  (Computer Science) T D 2 M
-
-Think again  
 What should you do if you are not sure if you can trust a website?
 
-(Computer Science) T D 2 M
 
-Activity  
-Search for a website about healthy food for children. Ask yourself the three questions about the website:  
-1. Can I understand it?  
-2. Is it useful?  
-3. Can I trust it?  
+(Computer Science) (Activity) D 2 (Exercise on using the internet responsibly, Exercise on thinking critically)
 
-(Computer Science) T D 2 M
+Search for a website about healthy food for children. Ask yourself the three questions about the website: 
+\begin{enumerate} 
+\item Can I understand it?  
+\item Is it useful?
+\item Can I trust it?
+\end{enumerate}
 
-Extra challenge  
-As a class, make a list of easy to understand, useful, and trustworthy food websites.  
 
-[MATERIAL] [You will need a way to access the internet, such as a computer or smartphone, to search for websites.](Computer Science) T D 5 M
+(Computer Science) (Class Activity) D 2 M
 
-Activity  
+As a class, make a list of easy to understand, useful, and trustworthy food websites.
+
+
+(Computer Science) (Short Answer) D 5 M
+
 List the main internet services. Say which ones you have used. Give an example.
 
-(Computer Science) T D 5 M
 
-Extra challenge  
-Which devices do you use to connect to the internet? Which services do you prefer to access using a smartphone? Which services do you prefer to access using a computer? Give examples.
+(Computer Science) (Short Answer) D 5 M
 
-(Computer Science) T D 5 M
+Give examples to the answers of the following questions:
+\begin{enumerate}[label=\alpha*.]
+\item Which devices do you use to connect to the internet?
+\item Which services do you prefer to access using a smartphone?
+\item Which services do you prefer to access using a computer?
+\end{enumerate}
 
-Think again  
-Research smart home heating or air conditioning systems on the web. List some of the features. How do smart home air conditioning and heating systems help the environment?  
-[MATERIAL] [Access to a device with internet capability to research smart home systems and their environmental impact.](Computer Science) T D 5 M
 
-Activity  
-Carry out another web search about Tungurahua. How many results does the search return? Add some more key words to your search. What happens to the number of results?
+(Computer Science) (Short Answer, Activity) D 5 M
 
-\subsection{Materials}  
-None needed.
+\begin{enumerate}[label=\alpha*.]
+\item Research smart home heating or air conditioning systems on the web. 
+\item List some of the features. 
+\item How do smart home air conditioning and heating systems help the environment? 
+\end{enumerate}
 
-(Computer Science) T D 5 M
 
-Extra challenge  
-How many adverts are shown when you search for Tungurahua? What are the adverts for? Do the adverts give you any useful information?
+(Computer Science) (Activity, Short Answer) D 5 (Must involve Tungurahua)
 
-\subsection{Materials}  
-None needed.
+\begin{enumerate}[label=\alpha*.]
+\item Carry out a web search about Tungurahua. How many results does the search return? 
+\item Add some more key words to your search. What happens to the number of results?
+\item How many adverts are shown when you search for Tungurahua? 
+\item What are the adverts for? Do they give you any useful information?
+\end{enumerate}
 
-(Computer Science) T D 5 M
 
-Think again  
-Carry out a web search for more information about how search engines work. How many adverts are at the top of the list of results? How many of the adverts give you useful and relevant information?
+(Computer Science) (Short Answer, Activity) D 5 (Must involve search engines and advertising)
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 1 M
+\begin{enumerate}[label=\alpha*.]
+\item Carry out a web search for more information about how search engines work.
+\item How many adverts are at the top of the list of results?
+\item How many of the adverts give you useful and relevant information?
+\end{enumerate}
 
-Activity  
-You can change the size of the stage. Describe how you would change the size of a stage if you were using a computer program. What actions would you take?
 
-\subsection{Materials}  
-A computer or device with a Scratch-like program installed.
+(Computer Science) (Activity) D 1 (With Prerequisite)
 
-(Computer Science) T D 1 M
+Imagine you want to change the size of the stage on a computer program. 
+\begin{enumerate}
+\item Describe how you would change the size of a stage if you were using a computer program. 
+\item What actions would you take?
+\end{enumerate}
 
-Activity  
-You can change the backdrop. Imagine you want to change the background of a scene. Describe how you would do this without using a computer. What steps would you take to visualize a new backdrop?
+\subsection{Prerequisites}
+\begin{itemize}
+\item Knowledge or basic understanding of the Scratch programming app or a Scratch-like app.
+\end{itemize}
 
-\subsection{Materials}  
-A piece of paper and colored pencils or markers to draw a new backdrop.(Computer Science) T D 1 M
 
-Activity  
-Make a list of types of toys that children played with long ago. Think of toys like balls, dolls, games, and animals. You can say or write down any other toys you remember or think of.
+(Computer Science) (Short Answer) D 1 M
 
-\subsection{Materials} 
-None needed.
+Imagine you want to change the background of a scene. 
+\begin{enumerate}
+\item Describe how you would do this without using a computer. 
+\item What steps would you take to visualize a new backdrop?
+\end{enumerate}
 
-(Computer Science) T D 1 M
 
-Think again  
-Name one more type of toy you could add to this list. Think about toys you have seen or heard about.
+(Computer Science) (Short Answer) D 1 M
 
-\subsection{Materials} 
-None needed.(Computer Science) T D 3 M
+\begin{enumerate}[label=\alph*.}
+\item Make a list of types of toys that children played with long ago. Think of toys like balls, dolls, games, and animals. You can say or write down any other toys you remember or think of.
+\item Name one more type of toy you could add to this list. Think about toys you have seen or heard about.
+\item Can you think of a game or toy that you play with on a computer or tablet that helps you solve puzzles or learn something new? What do you learn or solve when you play it?
+\end{enumerate}
 
-Activity  
-Make a program that asks "How many degrees?" and uses the answer in the "turn" block. You can make other changes to the numbers in the program blocks. This picture was made using these values: pen size 1, change pen colour by 1, move 300 steps. The user answered the question "How many degrees?" with the number 145. Try these values and any others that you have time for.  
-[MATERIAL] [No specific material needed; just use your imagination to visualize the drawing process.]
 
-(Computer Science) T D 3 M
 
-Extra challenge  
-This block will make a random number. Set the second value to 100. Put this block into the "move... steps" block. This will make the sprite draw an interesting random pattern. What happens if you make the number of degrees random?  
-[MATERIAL] [No specific material needed; just think about how randomness could change the outcome of a drawing.]
+(Computer Science) (Activity) D 3 (Exercise to introduce someone to importing images)
 
-(Computer Science) T D 3 M
+\begin{enumerate}[label=\alph*.]
+\item Open a file on your computer.  
+\item Import an image.  
+\item Save your file.
+\end{enumerate}
 
-Think again  
-Here is a shape made by this program. What number of degrees did the user enter to make this shape? Try it for yourself.  
-[MATERIAL] [No specific material needed; just consider how different angles can create various shapes.](Computer Science) T D 3 M
 
-Activity  
-Open your saved slide show.  
-Import an image.  
-Save your file.  
+(Computer Science) (Group Activity) D 3 M
 
-(Computer Science) T D 3 M
+Talk with a classmate about what happens when a slide has too many words or pictures.
 
-Think again  
-Talk with a classmate about what happens when a slide has too many words or pictures.  
 
-(Computer Science) T D 3 M
+(Computer Science) (Short Answer) D 4 M
 
-Extra challenge  
-You can add other text to your slide using a text box. You can draw a text box and then write words in it.  
-1. In the ‘Drawing’ section, click on the text box shape.  
-2. Click, hold and drag your mouse to make a text box.  
-3. Type into the text box.  
+\begin{enumerate}
+\item What shape of box is used to show a logical test? Draw the shape.
+\item What shape of box is used to show output? Draw the shape.
+\end{enumerate}
 
-(Computer Science) T D 3 M
 
-Digital citizen of the future  
-When you search for an online image, you might see the words ‘Creative Commons’ in the search engine. Creative Commons means that the person who made the image is choosing to let other people use their work. It is still good to say or write who made the image when you use it.  
+(Computer Science) (Activity) D 4 (Exercise on using spreadsheets)
 
-[MATERIAL] [A computer or device with presentation software installed]  
-[MATERIAL] [A classmate or peer to discuss with]  
-[MATERIAL] [A writing tool or text editor for typing]  
-[MATERIAL] [Access to an internet search engine for finding images]  (Computer Science) T D 4 M
+\begin{enumerate}
+\item Use the Sum function to calculate the total value for a spreadsheet of your choice. 
+\item Print the spreadsheet. 
+\end{enumerate}
+Remember to save your work.
 
-Activity  
-Copy the program plan. Instead of ‘What is 19 + 4?’, use the question you set in your program.
 
-(Computer Science) T D 4 M
+(Computer Science) (Short Answer) D 4 M
 
-Extra challenge  
-Redraw the flowchart. Change it to show the question and solution that you choose.
-
-(Computer Science) T D 4 M
-
-Think again  
-What shape of box is used to show a logical test?  
-Draw the shape.  
-What shape of box is used to show output?  
-Draw the shape.  
-
-[MATERIAL] [Paper and pencil for drawing shapes](Computer Science) T D 4 M
-
-Activity  
-Use the Sum function to calculate the total value for your spreadsheet. Print the spreadsheet. Remember to save your work.
-
-\subsection{Materials}  
-A device with spreadsheet software (like a computer or tablet) and a printer.
-
-(Computer Science) T D 4 M
-
-Extra challenge  
 The 'AutoSum' button lets you add other functions to your spreadsheet. These include average and maximum values. Try the different functions. What results do you get?
 
-\subsection{Materials}  
-A device with spreadsheet software that includes the AutoSum feature.(Computer Science) T D 6 M
 
-Activity  
-Plan your survey.  
-- Write down your survey goal. Make sure you include information about location and times.  
-- Write down the data you will need to collect for your survey. Find quantitative and qualitative data types.  
-- Investigate the technology you can use to collect data. Are there any apps that can help you?  
+(Computer Science) (Activity) D 6 M
+
+Plan a survey:
+\begin{enumerate}[label=\alpha*.] 
+\item Write down your survey goal. Make sure you include information about location and times.  
+\item Write down the data you will need to collect for your survey. Find quantitative and qualitative data types.  
+\item Investigate the technology you can use to collect data. Are there any apps that can help you?
+\item How will you carry out your survey? Write down some ideas on how you could prepare for the survey and record your data. 
+\end{enumerate}
 
 
-(Computer Science) T D 6 M
+(Computer Science) (Short Answer) D 6 M
 
-Surveys create a lot of data. Think about how you can record this data so that you can use it to meet the survey goal.  
+Surveys create a lot of data. How can you record this data so that you can use it to meet a survey goal?
 
-(Computer Science) T D 6 M
 
-Extra challenge  
-How will you carry out your survey? Write down some ideas on how you could prepare for the survey and record your data.  
+(Computer Science) (Programming Exercise) D 6 M
 
-No text.(Computer Science) T D 6 M
+Change a program so that whenever an event of your choice happens, the program emits a sound.
 
-Activity  
-Make the Frog Maze game as shown in this lesson.
 
-(Computer Science) T D 6 M
+(Computer Science) (Programming Exercise) D 1 M
 
-Extra challenge  
-Change the Frog Maze game so that if the frog touches the maze wall, it also makes a sound.
+You learned how to add a backdrop to a program. Give a program a backdrop.
 
-(Computer Science) T D 6 M
 
-Be creative  
-There are many ways to get a maze picture. Find a picture using graphics software. Or draw or paint a maze, and scan the page to make a computer file.
+(Computer Science) (Activity) D 1 M
 
-[MATERIAL] 
-- For the Activity: Basic programming tools or software that allows for creating games.
-- For the Extra challenge: Sound editing software or tools to add sound effects.
-- For the Be creative section: Drawing materials (paper, pencils, etc.) or access to a computer with graphics software.(Computer Science) T D 1 M
+Imagine a program that is very noisy when it is used. 
+How noisy would it be in your classroom when lots of children use this program?
 
-Activity  
-Drag the green flag block to the program. When it touches the program, the blocks will join together. It is like a jigsaw puzzle. 
+Sound output can be noisy. Listening on headphones means you don't disturb anyone else.
 
-\subsection{Materials} 
-None needed.
 
-(Computer Science) T D 1 M
+(Computer Science) (Matching Exercise) D 4 M
 
-Extra challenge  
-You learned how to add a backdrop to a program. Give this program a backdrop.
+You have learned that a percentage is a different way of writing a fraction. 
+Take these percentages: 50%, 33.3%, 60%, 12.5%, 75%.\\
 
-\subsection{Materials} 
-None needed.
+Match them to these fractions: one-half, one-third, three-fifths, one-eighth, one-quarter.
 
-(Computer Science) T D 1 M
 
-Think again  
-Explain what you did in this lesson. What change did you make? What happened?
+(Computer Science) (Short Answer) D 4 (With Material)
 
-\subsection{Materials} 
-None needed.(Computer Science) T D 1 M
+Change some of the numbers stored in the spreadsheet. You will see that all the percentages change automatically. 
+\begin{enumerate}[label=\alph*.]
+\item Explore the effect of changes you make. Explain why you think these automatic changes can help people who work with spreadsheets. 
+\item What are the possible disadvantages?
+\end{enumerate}
 
-Activity  
-Press the space bar. The program starts. Scratch will chase the mouse pointer. Let Scratch catch the mouse pointer. What do you see on the screen? What do you hear? 
+\subsection{Materials}
+\begin{itemize}
+\item A spreadsheet with numbers tied to percentages by formulas.
+\end{itemize}
 
-\subsection{Materials}  
-No specific material needed; just use your imagination to visualize the screen and sounds.
 
-(Computer Science) T D 1 M
+(Computer Science) (Statistics Exercise) D 3 M
 
-Think again  
-Draw and write to show the two outputs from this program. 
+Open a spreadsheet with two columns of data.
+\begin{enumerate}
+\item Make a line chart to visualize the data.
+\item Make a bar chart to compare the growth of each column.  
+\end{enumerate}
 
-\subsection{Materials}  
-No specific material needed; you can use any paper and writing tool available to you.
 
-(Computer Science) T D 1 M
+(Computer Science) (Short Answer) D 3 M
 
-Digital citizen of the future  
-Is it noisy in your classroom when lots of children use this program? Scratch has a loud meow. Sound output can be noisy. Listening on headphones means you don't disturb anyone else. 
+A pie chart shows how a whole is divided into parts. Think of a good use for a pie chart.
 
-\subsection{Materials}  
-No specific material needed; just think about your classroom environment and how sounds affect it.(Computer Science) T D 4 M
 
-Think again  
-You have learned that a percentage is a different way of writing a fraction. Match the percentages to these fractions: one-half, one-third, three-fifths, one-eighth, one-quarter. 
+(Computer Science) (Activity) D 3 M
 
-\subsection{Materials}  
-You will need a list of the fractions: one-half, one-third, three-fifths, one-eighth, and one-quarter, along with their corresponding percentages: 50%, 33.3%, 60%, 12.5%, and 75%. 
+\begin{enumerate}[label=\alph*.]
+\item Draw a picture on a piece of paper. Think of a character. It could be a boy, a girl, an animal, a machine, a plant, or anything else you like. 
+\item Draw your character. Think of a setting. Where does your story happen? Is it now, long ago, or the future? Is it in a city, mountains, or desert? 
+\item Draw the setting. 
+\item Think of a problem for your character. Maybe a child has lost something important. Maybe an older person was lonely. 
+\item Draw the problem. Think of a solution to the problem. Maybe the child’s brother helped them find the lost thing. Maybe the older person found a friend. 
+\item Draw the solution.
+\end{enumerate}
 
-(Computer Science) T D 4 M
 
-Extra challenge  
-Change some of the numbers stored in the spreadsheet. You will see that all the percentages change automatically. Explore the effect of changes you make. Explain why you think these automatic changes can help people who work with spreadsheets. What are the possible disadvantages?
+(Computer Science) (Activity) D 3 M
 
-\subsection{Materials}  
-You will need a basic understanding of how spreadsheets work, specifically how changing one value can affect related calculations.(Computer Science) T D 3 M
+Come up with a story.
+\begin{enumerate}
+\item Make a storyboard of your story. Draw boxes on plain paper. In each box draw the next thing that happens in your story.
+\item Come up with the title and the first sentence of your story
+\end{enumerate}
 
-Activity  
-Make a line chart of the plant data. Only include the day-by-day results.  
-Click on ‘Chart Title’ and type a suitable name.  
 
-(Computer Science) T D 3 M
+(Computer Science) (Activity, Exploration) D 6 M
 
-Extra challenge  
-Make a bar chart to compare the growth of each plant.  
+Open a spreadsheet. Experiment with different table colours and styles. Which do you like best? Why?
 
-(Computer Science) T D 3 M
 
-Think again  
-A pie chart shows how a whole is divided into parts. Think of a good use for a pie chart. It does not need to be on the topic of sunflowers.  
+(Computer Science) (Short Answer) D 6 M
 
-[MATERIAL] [Paper and pencil for drawing charts, or a tactile board for creating visual representations.](Computer Science) T D 3 M
+In a data table for parcels (shipping), every parcel has a unique code number. Why does the business use code numbers to identify parcels?
 
-Activity  
-Draw a picture on a piece of paper. Think of a character. It could be a boy, a girl, an animal, a machine, a plant, or anything else you like. Draw your character. Think of a setting. Where does your story happen? Is it now, long ago, or the future? Is it in a city, mountains, or desert? Draw the setting. Think of a problem for your character. Maybe a child has lost something important. Maybe an older person was lonely. Draw the problem. Think of a solution to the problem. Maybe the child’s brother helped them find the lost thing. Maybe the older person found a friend. Draw the solution.
 
-\subsection{Materials}  
-Plain paper and drawing materials (pencils, crayons, markers).
+(Computer Science) (Short Answer) D 2 M
 
-(Computer Science) T D 3 M
-
-Extra challenge  
-Make a storyboard of your story. Draw boxes on plain paper. In each box draw the next thing that happens in your story.
-
-\subsection{Materials}  
-Plain paper and drawing materials (pencils, crayons, markers).
-
-(Computer Science) T D 3 M
-
-Think again  
-Write the title and first sentence of your story.
-
-\subsection{Materials}  
-Plain paper and a writing tool (pen or pencil).(Computer Science) T D 1 M
-
-Activity  
-Draw a square shape for the house and a triangle roof on top of it. Then, add windows and a door. Finally, make your drawing more colorful and consider adding extra features like a chimney, curtains, or a door handle.
-
-\subsection{Materials}  
-Paper and colored pencils or crayons.  
-
-(Computer Science) T D 1 M
-
-Self-evaluation  
-Reflect on your work by checking off what you have completed. You can mark if you answered questions, did activities, or completed everything.
-
-\subsection{Materials}  
-A checklist or a piece of paper to write down your reflections.(Computer Science) T D 6 M
-
-Activity  
-Open the spreadsheet titled 'Amir deliveries data'. Select all the cells that make up the spreadsheet. Format these cells as a data table. Save your work.
-
-\subsection{Materials}  
-A computer with spreadsheet software (like Microsoft Excel or Google Sheets).
-
-(Computer Science) T D 6 M
-
-Extra challenge  
-Experiment with different table colours and styles. Which do you like best? Why?
-
-\subsection{Materials}  
-A computer with spreadsheet software (like Microsoft Excel or Google Sheets).
-
-(Computer Science) T D 6 M
-
-Think again  
-In this data table, every parcel has a unique code number. Why does the business use code numbers to identify parcels?
-
-\subsection{Materials}  
-None needed.(Computer Science) T D 2 M
-
-Think again  
 Give an example of personal information that you would not share on the internet.
 
-(Computer Science) T D 2 M
 
-Activity  
+(Computer Science) (Activity) D 2 M
+
 Imagine different items or information.  
-Which things would you give to your family?  
-Which things would you give to your friends?  
-Which things would you give to anyone in real life?  
-Which things would you give to anyone on the internet?  
+\begin{enumerate}[label=\alph*.]
+\item Which things would you give to your family?  
+\item Which things would you give to your friends?  
+\item Which things would you give to anyone in real life?  
+\item Which things would you give to anyone on the internet?  
+\end{enumerate}
 
-\subsection{Materials}  
-You can use your imagination or a piece of paper to write down your thoughts.
 
-(Computer Science) T D 2 M
+(Computer Science) (Short Answer, Activity) D 2 M
 
-Extra challenge  
-Plan or describe a web page for your secret restaurant.  
+Plan or describe a web page for a secret restaurant you might own.
 
-\subsection{Materials}  
-You can use a piece of paper to sketch or write down ideas for your restaurant's web page.(Computer Science) T D 3 M
 
-Activity  
-Match the devices to the names. Describe the devices you know and their functions.
+(Computer Science) (Short Answer) D 3 (Exercise on wearable devices)
 
-\subsection{Materials}  
-[None needed; use your knowledge of digital devices.]
-
-(Computer Science) T D 3 M
-
-Extra challenge  
 Another type of digital device is called a wearable device. Have you heard of that before? Describe what a wearable device is and its uses.
 
-\subsection{Materials}  
-[None needed; use your knowledge of wearable devices.]
 
-(Computer Science) T D 3 M
+(Computer Science) (Short Answer) D 3 M
 
-Think again  
 Say something that is not a digital device. Explain your answer.
 
-\subsection{Materials}  
-[None needed; use your understanding of digital and non-digital devices.](Computer Science) T D 1 M
 
-Activity  
-Imagine you are an archaeologist finding old toys. You want to make a list of the toys you have found. You can enter labels by typing them in a cell. 
+(Computer Science) (Activity) D 1 M
 
-Click on a designated area to start.  
-Type the label: ‘Toys’.  
-Press ‘Enter’.  
+Imagine you are an archaeologist finding old toys. You want to make a list of the toys you have found. Open a spreadsheet. You can enter labels by typing them in a cell.\\
+
+Click on a designated area to start.\\  
+Type the label: ‘Toys’.\\
+Press ‘Enter’.\\  
+
+(Computer Science) (Activity) D 3 (Exercise to introduce someone to importing images)
+
+\begin{enumerate}[label=\alph*.]
+\item Open a file on your computer.  
+\item Import an image.  
+\item Save your file.
+\end{enumerate}
+
+(Computer Science) (Group Activity) D 3 M
+
+Talk with a classmate about what happens when a slide has too many words or pictures.
+
+
+(Computer Science) (Short Answer) D 4 M
+
+\begin{enumerate}
+\item What shape of box is used to show a logical test? Draw the shape.
+\item What shape of box is used to show output? Draw the shape.
+\end{enumerate}
+
+
+(Computer Science) (Activity) D 4 (Exercise on using spreadsheets)
+
+\begin{enumerate}
+\item Use the Sum function to calculate the total value for a spreadsheet of your choice. 
+\item Print the spreadsheet. 
+\end{enumerate}
+Remember to save your work.
+
+
+(Computer Science) (Short Answer) D 4 M
+
+The 'AutoSum' button lets you add other functions to your spreadsheet. These include average and maximum values. Try the different functions. What results do you get?
+
+
+(Computer Science) (Activity) D 6 M
+
+Plan a survey:
+\begin{enumerate}[label=\alpha*.] 
+\item Write down your survey goal. Make sure you include information about location and times.  
+\item Write down the data you will need to collect for your survey. Find quantitative and qualitative data types.  
+\item Investigate the technology you can use to collect data. Are there any apps that can help you?
+\item How will you carry out your survey? Write down some ideas on how you could prepare for the survey and record your data. 
+\end{enumerate}
+
+
+(Computer Science) (Short Answer) D 6 M
+
+Surveys create a lot of data. How can you record this data so that you can use it to meet a survey goal?
+
+
+(Computer Science) (Programming Exercise) D 6 M
+
+Change a program so that whenever an event of your choice happens, the program emits a sound.
+
+
+(Computer Science) (Programming Exercise) D 1 M
+
+You learned how to add a backdrop to a program. Give a program a backdrop.
+
+
+(Computer Science) (Activity) D 1 M
+
+Imagine a program that is very noisy when it is used. 
+How noisy would it be in your classroom when lots of children use this program?
+
+Sound output can be noisy. Listening on headphones means you don't disturb anyone else.
+
+
+(Computer Science) (Matching Exercise) D 4 M
+
+You have learned that a percentage is a different way of writing a fraction. 
+Take these percentages: 50%, 33.3%, 60%, 12.5%, 75%.\\
+
+Match them to these fractions: one-half, one-third, three-fifths, one-eighth, one-quarter.
+
+
+(Computer Science) (Short Answer) D 4 (With Material)
+
+Change some of the numbers stored in the spreadsheet. You will see that all the percentages change automatically. 
+\begin{enumerate}[label=\alph*.]
+\item Explore the effect of changes you make. Explain why you think these automatic changes can help people who work with spreadsheets. 
+\item What are the possible disadvantages?
+\end{enumerate}
+
+\subsection{Materials}
+\begin{itemize}
+\item A spreadsheet with numbers tied to percentages by formulas.
+\end{itemize}
+
+
+(Computer Science) (Statistics Exercise) D 3 M
+
+Open a spreadsheet with two columns of data.
+\begin{enumerate}
+\item Make a line chart to visualize the data.
+\item Make a bar chart to compare the growth of each column.  
+\end{enumerate}
+
+
+(Computer Science) (Short Answer) D 3 M
+
+A pie chart shows how a whole is divided into parts. Think of a good use for a pie chart.
+
+
+(Computer Science) (Activity) D 3 M
+
+\begin{enumerate}[label=\alph*.]
+\item Draw a picture on a piece of paper. Think of a character. It could be a boy, a girl, an animal, a machine, a plant, or anything else you like. 
+\item Draw your character. Think of a setting. Where does your story happen? Is it now, long ago, or the future? Is it in a city, mountains, or desert? 
+\item Draw the setting. 
+\item Think of a problem for your character. Maybe a child has lost something important. Maybe an older person was lonely. 
+\item Draw the problem. Think of a solution to the problem. Maybe the child’s brother helped them find the lost thing. Maybe the older person found a friend. 
+\item Draw the solution.
+\end{enumerate}
+
+
+(Computer Science) (Activity) D 3 M
+
+Come up with a story.
+\begin{enumerate}
+\item Make a storyboard of your story. Draw boxes on plain paper. In each box draw the next thing that happens in your story.
+\item Come up with the title and the first sentence of your story
+\end{enumerate}
+
+
+(Computer Science) (Activity, Exploration) D 6 M
+
+Open a spreadsheet. Experiment with different table colours and styles. Which do you like best? Why?
+
+
+(Computer Science) (Short Answer) D 6 M
+
+In a data table for parcels (shipping), every parcel has a unique code number. Why does the business use code numbers to identify parcels?
+
+
+(Computer Science) (Short Answer) D 2 M
+
+Give an example of personal information that you would not share on the internet.
+
+
+(Computer Science) (Activity) D 2 M
+
+Imagine different items or information.  
+\begin{enumerate}[label=\alph*.]
+\item Which things would you give to your family?  
+\item Which things would you give to your friends?  
+\item Which things would you give to anyone in real life?  
+\item Which things would you give to anyone on the internet?  
+\end{enumerate}
+
+
+(Computer Science) (Short Answer, Activity) D 2 M
+
+Plan or describe a web page for a secret restaurant you might own.
+
+
+(Computer Science) (Short Answer) D 3 (Exercise on wearable devices)
+
+Another type of digital device is called a wearable device. Have you heard of that before? Describe what a wearable device is and its uses.
+
+
+(Computer Science) (Short Answer) D 3 M
+
+Say something that is not a digital device. Explain your answer.
+
+
+(Computer Science) (Activity) D 1 M
+
+Imagine you are an archaeologist finding old toys. You want to make a list of the toys you have found. Open a spreadsheet. You can enter labels by typing them in a cell.\\
+
+Click on a designated area to start.\\  
+Type the label: ‘Toys’.\\
+Press ‘Enter’.\\  
 
 Your list should now include the label 'Toys'.
 
-(Computer Science) T D 1 M
 
-Think again  
-Which area in your list has a label in it?  
+(Computer Science) (Short Answer) D 3 M
 
-\subsection{Materials}  
-A blank sheet of paper and a pen or pencil.  
+Open a Scratch program. Write down all the blocks you have used that have numbers you can change. Say what each block does.
 
-(Computer Science) T D 1 M
 
-Activity  
-Save your list as a file called: ‘Toys’.  
+(Computer Science) (Group Activity) D 4 M
 
-\subsection{Materials}  
-A computer or device with spreadsheet software.  
-
-(Computer Science) T D 1 M
-
-Description of the ancient toy  
-This is an example of an ancient toy. It is a dove on wheels from the 5th century BCE.  
-
-\subsection{Materials}  
-A description of an ancient toy, such as a wooden dove on wheels.(Computer Science) T D 3 M
-
-Activity  
-Make the program shown in this lesson. Run and save the program.
-
-(Computer Science) T D 3 M
-
-Think again  
-Write down all the blocks you have used that have numbers you can change. Say what each block does.
-
-(Computer Science) T D 3 M
-
-Extra challenge  
-Make changes to the program you made:  
-- Replace the ‘forever’ loop with the loop that says ‘repeat 10’.  
-- Change the numbers in all the blocks and see what happens.
-
-[STARTDGM] The image shows a colorful programming interface with blocks arranged to create a drawing program. There is a sprite character and a rainbow line being drawn on the screen. [STOPDGM](Computer Science) T D 4 M
-
-Activity  
 Work with a partner to think of an idea for a computer game. Describe it to your partner. Working together, draw or paint some of the characters you would use in this game.
 
-(Computer Science) T D 4 M
 
-Talk about...  
-What are your favorite computer games? How could they be improved? If you could invent a new computer game, what features would you like it to have?
+(Computer Science) (Short Answer) D 4 M
 
-\subsection{Materials}  
-Paper and drawing materials (like pencils or markers) for drawing characters.(Computer Science) T D 4 M
+\begin{enumerate}
+\item What are your favorite computer games? 
+\item How could they be improved? 
+\item If you could invent a new computer game, what features would you like it to have?
+\end{enumerate}
 
-Activity  
-Follow the instructions to create a pie chart using your data. 
 
-(Computer Science) T D 4 M
+(Computer Science) (Activity) D 4 M
 
-Extra challenge  
-Explore how to change the design of your pie chart to make it clearer. 
+Open a spreadsheet of data. If you don't have any, gather some or fill a spreadsheet with random numbers. Create a pie chart using your data.
 
-(Computer Science) T D 4 M
-
-Think again  
+\paragraph{Think With Me}
 Consider what information a pie chart could represent about you or your family. Sketch an example and remember to include a title and labels.
 
-[MATERIAL] [Paper and a writing tool for sketching](Computer Science) T D 6 M
-
-Activity  
-Make a program that counts the number of inputs. Use any available method to keep track of the count, such as using a piece of paper to tally each input.
-
-(Computer Science) T D 6 M
-
-Extra challenge  
-Adapt the program to add useful messages to the user.  
-- Tell the user that the program counts the number of inputs.  
-- Tell the user that they can stop the program by indicating they want to stop.  
-- Alter the final message so that it states the total number of inputs counted.
-
-(Computer Science) T D 6 M
-
-Think again  
-Imagine that the programmer did not want to include the final input that stops the count. How could you change the method to make this happen? Consider how you would keep track of the inputs without counting the last one.
-
-[MATERIAL] [A piece of paper and a writing tool to keep track of counts](Computer Science) T D 1 M
-
-Think again  
-What are the inputs and outputs of this game? Describe them in detail.
-
-(Computer Science) T D 1 M
-
-Extra challenge  
-Talk about other computer games you know. What were the inputs and outputs? Describe them in detail.
-
-[MATERIAL] [You may need paper and a writing tool to draw or write your responses.](Computer Science) T D 1 M
-
-Activity  
-You can move the mouse pointer by using your hand to guide it. Press the space bar on the keyboard to start the Scratch character moving. Keep your hand moving to keep the pointer away from Scratch.
-
-(Computer Science) T D 1 M
-
-Think again  
-You have learned two ways to control the computer. Describe these two ways using your own words or by creating a tactile representation, like using different textures or shapes to represent each method.
-
-[MATERIAL] [Paper and various textured materials like fabric, sandpaper, or cotton balls for tactile representation]
+\paragraph{Bonus Question}
+Explore how to change the design of your pie chart to make it clearer.
 
 
-(Computer Science) T D 1 M
+(Computer Science) (Programming Exercise) D 6 M
 
-Activity  
-Draw a face. Save the face using the file name: ‘face’.
+Make a program that counts the number of inputs it gets. Use any available method to keep track of the count, such as using a piece of paper to tally each input.
 
-(Computer Science) T D 1 M
+\paragraph{Questions}
+Imagine that the programmer did not want to include the final input that stops the count. 
+\begin{enumerate}[label=\alph*.] 
+\item How could you change the method to make this happen? Consider how you would keep track of the inputs without counting the last one.
+\end{enumerate}
 
-Extra challenge  
-Start a new image. Save the new image using a new file name.
+\paragraph{CBonus Questions}
+Adapt the program to add useful messages to the user. 
+\begin{enumerate}[label=\alph*.] 
+\item Tell the user that the program counts the number of inputs.  
+\item Tell the user that they can stop the program by indicating they want to stop.  
+\item Alter the final message so that it states the total number of inputs counted.
+\end{enumerate}
 
-(Computer Science) T D 1 M
 
-Think again  
+(Computer Science) (Short Answer) D 1 M
+
+\begin{enumerate}
+\item Think of a game you like. What are the inputs and outputs of this game? Describe them in detail.
+\item Talk about other computer games you know. What were the inputs and outputs? Describe them in detail.
+\end{enumerate}
+
+
+(Computer Science) (Short Answer) D 1 M
+
+Describe two ways to control a computer using your own words or by creating a tactile representation, like using different textures or shapes to represent each method.
+
+
+(Computer Science) (Short Answer) D 1 M
+
 What makes a good file name?
 
-[MATERIAL] A quiet space to think and write down ideas.(Computer Science) T D 2 M
 
-Activity  
+(Computer Science) (Short Answer) D 2 M
+
 What devices are used for input? Describe two different devices. Write their names.
 
-(Computer Science) T D 2 M
 
-Extra challenge  
-Describe a device that has a touchscreen. Explain how you would show yourself using the touchscreen. What is the name of the device?
+(Computer Science) (Short Answer) D 2 M
 
-(Computer Science) T D 2 M
+\begin{enumerate}[label=\alph*.]
+\item Describe a device that has a touchscreen. 
+\item Explain how you would show yourself using the touchscreen. 
+\item What is the name of the device?
+\end{enumerate}
 
-Think again  
-What device can you use to input a song to the computer?
 
-[MATERIAL] [Paper and writing tools for drawing and writing](Computer Science) T D 5 M
+(Computer Science) (Short Answer) D 2 M
 
-Activity  
+What device can you use to input a song to a computer?
+
+
+(Computer Science) (Short Answer, Activity) D 5 M
+
 Carry out a search to find information about wildlife in China. Choose a method to gather information that works for you, such as asking someone knowledgeable or using a library resource. Then answer the questions below.
 
-1. List the key words or phrases you used in your search.
-2. Write down two pieces of information about wildlife in China that you found.
-3. List three sources of information you thought were useful (these could be people, books, or other resources).
-4. Which source did you choose as the best? 
-5. Give reasons why you chose that source. Provide as much detail as you can about the source you selected.
+\begin{enumerate}
+\item List the key words or phrases you used in your search.
+\item Write down two pieces of information about wildlife in China that you found.
+\item List three sources of information you thought were useful (these could be people, books, or other resources).
+\item Which source did you choose as the best? 
+\item Give reasons why you chose that source. Provide as much detail as you can about the source you selected.
+\end{enumerate}
 
-\subsection{Materials} 
-- Access to a library or knowledgeable person for information gathering.(Computer Science) T D 6 M
 
-Activity  
-Open your saved spreadsheet. Add validation to the data as shown in this lesson. Find the invalid data. Replace the circled numbers with new data that does not break the validation criteria. The circles will disappear as the data is valid.
+(Computer Science) (Activity, Short Answer) D 6 (Exercise on validation, With Material)
 
-\subsection{Materials}  
-A spreadsheet application (like Microsoft Excel or Google Sheets) and a saved spreadsheet named "Amir deliveries data."
+Open a saved spreadsheet. Add validation to the data as shown in this lesson. Find the invalid data. Replace the circled numbers with new data that does not break the validation criteria. The circles will disappear as the data is valid.
 
-(Computer Science) T D 6 M
-
-Think again  
-Amir changed the validation check. He decided that every value in the weight column must be over 100 grams. One parcel fails this check. Give the code number of this parcel.
-
-\subsection{Materials}  
-A spreadsheet application and the saved spreadsheet named "Amir deliveries data."
-
-(Computer Science) T D 6 M
-
-Extra challenge  
+\paragraph{Bonus Question}
 The app will stop you from typing invalid data. It shows an error message. Explore what happens when you enter invalid data.
 
 \subsection{Materials}  
-A spreadsheet application and a saved spreadsheet named "Amir deliveries data."(Computer Science) T D 1 M
+\begin{itemize}
+\item A spreadsheet application (like Microsoft Excel or Google Sheets) and a saved spreadsheet with filled-in data.
+\end{itemize}
 
-Activity  
-To make input you used:  
-- keyboard.  
-- mouse.  
+
+(Computer Science) (Activity) D 1 M
+
+To make an input in a computer you can use:  
+\begin{itemize}
+\item a keyboard
+\item a mouse 
+\end{itemize}
+
 Describe how you would represent these two types of input using tactile materials. For example, you could use different textures to represent the keyboard and mouse, or create a model using clay or other materials.  
 
-[MATERIAL]  
-- Tactile materials (e.g., different textured fabrics, clay, or any other craft supplies).  
-- Paper and writing tools for notes or sketches.  
+[STRDGM]A child is sitting at a desk with a keyboard in front of them and a mouse beside it. The child is smiling and appears to be engaged with the computer.[STPDGM]
 
-[STARTDGM]  
-A child is sitting at a desk with a keyboard in front of them and a mouse beside it. The child is smiling and appears to be engaged with the computer.  
-[STOPDGM](Computer Science) T D 3 M
 
-Activity  
-You will create a drawing using a pencil and ruler. Try to draw different types of stars, such as a 10-pointed star, 12-pointed star, and 16-pointed star. Focus on making them neat and colorful. Don't worry about perfection; just enjoy the process!
+(Computer Science) (Short Answer, Thought Exercise) D 3 M
 
-\subsection{Materials} 
-- A pencil
-- A ruler
-- Colored pencils or markers
-- Paper
+\begin{enumerate}
+\item Discuss how you can create art using different tools. Think about how computers can help people make art. 
+\item Is using a computer to create art a valid way to express creativity? What are your thoughts on this?
+\end{enumerate}
 
-(Computer Science) T D 3 M
 
-Talk about...  
-Discuss how you can create art using different tools. Think about how computers can help people make art. Is using a computer to create art a valid way to express creativity? What are your thoughts on this?
+(Computer Science) (Programming Exercise) D 3 M
 
-\subsection{Materials} 
-- A space to have a conversation or write down thoughts.(Computer Science) T D 3 M
-
-Activity  
 Create a one-block Scratch program to produce visual output. Run and save the program.
 
-\subsection{Materials}  
-You will need a computer with Scratch programming software installed or accessible online.
 
-(Computer Science) T D 3 M
+(Computer Science) (Activity) D 3 M
 
-Think again  
-What command block did you use in this lesson?  
-Draw a picture to show the output made by the block.
+To make a four-sided shape, you divide 360 by 4. Make a program that divides 360 by a number input by the user. Run the program and see what the output is.
 
-\subsection{Materials}  
-You will need paper and a writing tool (like a pencil or pen) to draw your picture.(Computer Science) T D 3 M
 
-Activity  
-For the test you wrote about the errors in a program, make that program now without errors. It should draw a square on the screen. 
+(Computer Science) (Activity, Short Answer) D 6 M
 
-\subsection{Materials}  
-You will need a computer or a programming environment where you can write and run code.
+\begin{enumerate}
+\item Create a version of an algorithm that counts from one number to another, with a deliberate error.  
+\item Run the program. Enter numbers from 1 to 10. What answer do you get? Is it the right answer?  
+\end{enumerate}
 
-(Computer Science) T D 3 M
 
-Activity  
-To make a four-sided shape, you divide 360 by 4. Change the program so it divides 360 by a number input by the user. Run the program and see what the output is.
+(Computer Science) (Activity) D 1 M
 
-\subsection{Materials}  
-You will need a computer or a programming environment where you can write and run code. 
-
-(Computer Science) T D 3 M
-
-Question  
-How many sides? 
-
-\subsection{Materials}  
-You will need a way to write down your answer or a method to keep track of your thoughts.(Computer Science) T D 3 M
-
-Activity  
-Open your digital story file. Describe the theme you would like to add to your story. Save your file.
-
-(Computer Science) T D 3 M
-
-Think again  
-What is the mood of your story? Describe how the theme you have chosen reflects that mood.
-
-(Computer Science) T D 3 M
-
-Extra challenge  
-Share your digital story with someone. Ask them to tell you two things they like about your story, and one thing they think you could improve.
-
-[STARTDGM] The image shows instructions on how to change the theme in a digital story presentation, with visual elements indicating different steps and themes. [STOPDGM](Computer Science) T D 6 M
-
-Activity  
-1. Create a version of the algorithm with a deliberate error.  
-Run the program.  
-Enter numbers from 1 to 10.  
-What answer do you get? Is it the right answer?  
-
-(Computer Science) T D 6 M
-
-Extra challenge  
-The number at the top of the repeat loop sets the number of loops.  
-What happens if you change this number to 0? See if you can work out the answer. Then try making this change to the algorithm and see if you were right.  
-
-(Computer Science) T D 6 M
-
-Explore more  
-The first block in this algorithm resets the total to zero. What do you think would happen if this block were left out? Make a program with this error. Run the program a few times to see what happens. Explain what you found out.  
-
-[STARTDGM] The image shows a Scratch program with blocks arranged to represent an algorithm for summing numbers. It includes blocks for setting a total, repeating commands, asking for input, and outputting the total. [STOPDGM](Computer Science) T D 6 M
-
-Activity  
-Using your notes from Lesson 5.3, create your presentation using PowerPoint or a similar app. Use a variety of slide layouts. Add the chart(s) you created in Lesson 5.3 to the presentation. Save your work.
-
-\subsection{Materials}  
-Notes from Lesson 5.3 (written notes or audio recording).
-
-(Computer Science) T D 6 M
-
-Extra challenge  
-Explore the ‘Shapes’, ‘Icons’ and ‘SmartArt’ menus on the ‘Insert’ tab. Find a place in your presentation for one or more of these illustrations. How does your new illustration help your audience understand your presentation?
-
-\subsection{Materials}  
-Access to a presentation software with ‘Insert’ options (like PowerPoint).
-
-(Computer Science) T D 6 M
-
-Think again  
-What makes a presentation interesting? Think about when someone has presented information to you. What makes it fun to listen to/watch?
-
-\subsection{Materials}  
-None needed.(Computer Science) T D 1 M
-
-Activity  
 There are two outputs:  
-- visual output  
-- sound output.  
-Draw a picture to show the two types of output.  
+\begin{itemize}
+\item visual output  
+\item sound output
+\end{itemize}
+Draw a picture to show the two types of output.
 
-\subsection{Materials}  
-- Paper and a writing tool (like a pencil or pen).  
 
-(Computer Science) T D 1 M
+(Computer Science) (Short Answer) D 1 M
 
-Extra challenge  
-Add word labels to your pictures. How can you control the program?  
+Different types of computer have different inputs and outputs. Find out as many different kinds as you can and make a list.
 
-\subsection{Materials}  
-- Paper and a writing tool (like a pencil or pen).  
 
-(Computer Science) T D 1 M
+(Computer Science) (Creative Exercise) D 1 (Involves writing)
 
-Explore more  
-Different types of computer have different inputs and outputs. Find out as many different kinds as you can.  
+Some people have never used a computer. Think of a person like that. Write a letter to them. Tell them how you use a computer at school. Draw a picture to show them.
 
-\subsection{Materials}  
-- Paper and a writing tool (like a pencil or pen).  
 
-(Computer Science) T D 1 M
+(Computer Science) (Short Answer, Activity) D 5 M
 
-Be creative  
-Some people have never used a computer. Think of a person like that. Write a letter to them. Tell them how you use a computer at school. Draw a picture to show them.  
+Think of a device you have used that connects to the internet.\\
+Describe this device using your senses:
+\begin{itemize}
+\item What does it feel like? 
+\item What sounds does it make? 
+\item What do you think it looks like?
+\end{itemize}
 
-\subsection{Materials}  
-- Paper and a writing tool (like a pencil or pen).  (Computer Science) T D 5 M
 
-Activity  
-Think of a device you have used that connects to the internet. Describe this device using your senses. What does it feel like? What sounds does it make? What do you think it looks like? 
+(Computer Science) (Short Answer) D 5 M
 
-\subsection{Materials}  
-None needed.
+Imagine you are explaining the internet to someone who has never used it. How would you describe it in simple terms?
 
-(Computer Science) T D 5 M
 
-Extra challenge  
-Imagine you are explaining the internet to someone who has never used it. How would you describe it in simple terms? 
+(Computer Science) (Short Answer) D 5 M
 
-\subsection{Materials}  
-None needed.
+Consider how you connect to the internet. Describe the process using your own words. What steps do you take to get online?
 
-(Computer Science) T D 5 M
 
-Think again  
-Consider how you connect to the internet. Describe the process using your own words. What steps do you take to get online? 
-
-\subsection{Materials}  
-None needed.(Computer Science) T D 1 M
-
-Activity  
-Draw a face using a circle for the nose. Then, erase it and replace it with a triangle. Which version do you prefer?
-
-(Computer Science) T D 1 M
-
-Extra challenge  
-Create a face by combining different shapes. After that, try drawing one using just a line. Which one do you like better?
-
-(Computer Science) T D 1 M
-
-Think again  
-Artists use various shapes for noses. Can you think of different shapes and colors that could be used in a face? 
-
-[MATERIAL] [Paper and a pencil or any drawing tool](Computer Science) T D 1 M
-
-Activity  
-You will add another hedgehog to the game. This part of the screen shows the sprites. Move the pointer to the hedgehog. Right-click the mouse. Right-click means to click the right button on the mouse. You will see this menu. Choose duplicate. Duplicate means to make two. Click anywhere on the screen, then press the space bar to start the game. Now there are two hedgehogs.
-
-(Computer Science) T D 1 M
-
-Extra challenge  
-Can you add more hedgehogs to the game? Don’t make it too hard for Scratch!
-
-(Computer Science) T D 1 M
-
-Think again  
+(Computer Science) (Short Answer) D 1 M
+ 
 A classmate wants to make a copy of a sprite. Tell her how to do it.
 
-[MATERIAL] [No specific material needed; just use your understanding of mouse functions and basic programming concepts.](Computer Science) T D 6 M
 
-Activity  
-Make a presentation to share this weather data with your classmates. Add these slides:  
-- A title slide showing the name and subject of your presentation.  
-- A slide explaining what the survey is about.  
+(Computer Science) (Activity) D 6 M
 
-\subsection{Materials}  
-- Paper and pen or a computer with presentation software.  
+Make a presentation to share some data you found or collected with your classmates. Add these slides:  
+\begin{enumerate}
+\item A title slide showing the name and subject of your presentation 
+\item A slide explaining what the data is about and 
+\item A slide showing a plot of the data
+\item A slide with one observation of yours
+\end{enumerate}
 
-(Computer Science) T D 6 M
 
-Activity  
-Add a slide showing a chart of the weather, based on the data in the spreadsheet.  
-- You can copy and paste the chart from the spreadsheet.  
-- If you have time, you can make changes to the chart.  
+(Computer Science) (Short Answer) D 6 M
 
-\subsection{Materials}  
-- Paper and pen or a computer with presentation software.  
-
-(Computer Science) T D 6 M
-
-Activity  
-Add a final slide that explains the data in the graph in no more than three bullet points.  
-- Make sure you save your work.  
-- If you have time, print out some handouts for your presentation and share them with the class.  
-
-\subsection{Materials}  
-- Paper and pen or a computer with presentation software.  (Computer Science) T D 6 M
-
-Think again  
 In your own words, explain the advantages to programmers of reusing and repurposing programs.
 
-\subsection{Materials}  
-None needed; this can be done through discussion or writing.  
 
-(Computer Science) T D 6 M
+(Computer Science) (Short Answer) D 6 M
 
-Extra challenge  
-This program lets the user input exactly 10 numbers. Adapt the program so the program asks the user how many numbers they want to input.
+\begin{enumerate}
+\item Make a program that takes 10 input numbers from the user and repeats them back to them. 
+\item Adapt the program so the program asks the user how many numbers they want to input.
+\end{enumerate}
 
-\subsection{Materials}  
-None needed; this can be done through discussion or writing.  
 
-(Computer Science) T D 6 M
+(Computer Science) (Activity) D 4 M
 
-Activity  
-Make the program shown on this page. Run the program and correct any errors. Save your work using a new file name.
+\begin{enumerate}
+\item Make a pie chart.
+\item Change your pie chart to a bar chart.  
+\item Try different chart designs and colour schemes. Choose the type of bar chart you like best – explain why.  
+\end{enumerate}
+Save and print your work.
 
-\subsection{Materials}  
-None needed; this can be done through discussion or writing.  (Computer Science) T D 4 M
+\paragraph{Bonus Questions}
+\begin{enumerate}
+\item Copy your bar chart.  
+\item Open your word processor.  
+\item Create a new document and write a short sentence explaining what data your bar chart shows.  
+\item Paste your bar chart into the new document.  
+\end{enumerate}
 
-Activity  
-Change your pie chart to a bar chart.  
-Try different chart designs and colour schemes. Choose the type of bar chart you like best – explain why.  
-Save and print your work.  
 
-(Computer Science) T D 4 M
+(Computer Science) (Short Answer) D 4 M
 
-Extra challenge  
-Copy your bar chart.  
-Open your word processor.  
-Create a new document and write a short sentence explaining what data your bar chart shows.  
-Paste your bar chart into the new document.  
+\begin{enumerate}[label=\alph*.]
+\item What kinds of document have data in them? 
+\item When is it better to use charts than numbers to show your data? Explain why.
+\end{enumerate}
 
-(Computer Science) T D 4 M
 
-Think again  
-What kinds of document have data in them? When is it better to use charts than numbers to show your data? Explain why.  
+(Computer Science) (Short Answer) D 4 M
 
-[MATERIAL] [A word processor application or paper and pen for writing](Computer Science) T D 4 M
-
-Activity  
-Make a new sprite design and upload it to use in this game.
-
-(Computer Science) T D 4 M
-
-Extra challenge  
-Take a photo (or make a picture) and upload it as the background to this game. Record a new spaceship sound and use it in this game.
-
-(Computer Science) T D 4 M
-
-Think again  
 Explain how uploading files lets you change the sounds or images of a game.
 
-(Computer Science) T D 4 M
 
-Be creative  
-Make a new game with a different background and sprites. For example, in this game a butterfly dodges dinosaurs. What other ideas can you think of? 
+(Computer Science) (Activity) D 4 M
 
-[MATERIAL] [You will need a device with a camera or drawing materials to create a picture. You may also need a computer or software that allows you to upload images and sounds.](Computer Science) T D 3 M
+Make a new Scratch game with a different background and sprites. For example, a new game might include a butterfly that dodges dinosaurs. What other ideas can you think of?
 
-Think again  
-How can you create a simple drawing program using basic commands? Describe the steps you would take to make a program that draws shapes.
 
-\subsection{Materials}  
-None needed.
+(Computer Science) (Short Answer) D 3 M
 
-(Computer Science) T D 3 M
+\begin{enumerate}[label=alph*.]
+\item How can you create a simple drawing program using basic commands? 
+\item Describe the steps you would take to make a program that draws shapes.
+\end{enumerate}
 
-Extra challenge  
-Instead of changing numbers in the program, think of different shapes you could create by changing the order of commands. Describe how you would adjust the commands to draw a square or triangle.
 
-\subsection{Materials}  
-None needed.
+(Computer Science) (Activity, Short Answer) D 3 M
 
-(Computer Science) T D 3 M
-
-Activity  
 Imagine you are creating a drawing program. Describe what you would want your program to do and how you would organize the commands to achieve that.
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 1 M
 
-Activity  
-Look at all the old toys you have found! 
+(Computer Science) (Long Answer) D 5 M
 
-Write the word 'ball'. Next to it, write down how many balls you can feel.  
-Write the word 'bear'. Next to it, write down how many bears you can feel.  
-Write the word 'car'. Next to it, write down how many cars you can feel.  
+Use a word processor to write a report about the internet. Use the headings shown. You can add images to the text if you want.
+\begin{enumerate}
+\item Internet services: Describe at least two services offered by the internet.  
+\item Working world: Describe how people might use the internet at work.  
+\item Good or bad?: Discuss at least one good and one less good feature of the internet.  
+\end{enumerate}
 
-(Computer Science) T D 1 M
 
-Explore more  
-Count the toys you can feel in your home, or in a newspaper or magazine.  
-What different kinds of toys can you feel?  
+(Computer Science) (Group Activity) D 5 M
 
-\subsection{Materials}  
-A list or a notebook to write down your observations.  
-(Computer Science) T D 5 M
+Working in a team, divide up the work you have to do. Create several fact sheets about a chosen topic.
 
-Activity  
-Use a word processor to write a report about the internet. Use the headings shown. You can add images to the text if you want.  
-1. Internet services: Describe at least two services offered by the internet.  
-2. Working world: Describe how people might use the internet at work.  
-3. Good or bad?: Discuss at least one good and one less good feature of the internet.  
 
-[MATERIAL] A word processor (like Microsoft Word or Google Docs) to write the report.
+(Computer Science) (Short Answer) D 2 M
 
-(Computer Science) T D 5 M
-
-Self-evaluation  
-I answered test questions 1 and 2.  
-I completed section 1 of the activity. I described some positive and negative changes that the internet has caused.  
-I answered test questions 1–5.  
-I completed sections 1 and 2 of the activity. I described how the internet has changed the way that people work.  
-I answered all the test questions.  
-I completed all sections of the activity.  
-Re-read any parts of the unit you feel unsure about. Try the test and activity again – can you do more this time?  
-
-[MATERIAL] A list of questions or topics from the unit to review before retaking the test.(Computer Science) T D 5 M
-
-Activity  
-Working in a team, divide up the work you have to do. Create several fact sheets about your chosen topic. 
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 5 M
-
-Extra challenge  
-Discuss the web challenge with your team. Was it a success? What websites have been particularly helpful? Were any of the topics too hard or too easy? 
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 5 M
-
-Think again  
-Make a list of the websites you used for this task. Rate how useful each one is. 
-
-\subsection{Materials}  
-None needed.(Computer Science) T D 2 M
-
-Activity  
 What devices are used for output? Describe two different output devices.
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 2 M
+(Computer Science) (Bonus Question, Exploration) D 2 M
 
-Extra challenge  
 A 3D printer makes solid objects. For example, a 3D printer can stick blobs of plastic together. See if you can find out more.
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 2 M
+(Computer Science) (Short Answer) D 2 M
 
-Think again  
 A monitor makes visual output. Say one other type of output.
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 5 M
 
-Activity  
+(Computer Science) (Short Answer, Activity) D 5 M
+
 Imagine that your friend has received threatening text messages from an anonymous person. Write a set of bullet points advising your friend how to deal with the problem.
 
-\subsection{Materials}  
-Paper and pen or a digital device for writing.  
 
-(Computer Science) T D 5 M
+(Computer Science) (Activity) D 5 M
 
-Extra challenge  
 Create a poster with the title 'Good internet / Bad internet'. Use one half of the poster to promote the positive side of the internet. Use the other half to warn about the negative side of the internet.
 
-\subsection{Materials}  
-Paper, markers or colored pencils for drawing and writing.  
 
-(Computer Science) T D 5 M
+(Computer Science) (Activity) D 5 (At Home Exercise)
 
-Explore more  
 Find out how old your parents or grandparents were when the web was invented. Do they remember the first time they used the web?
 
-\subsection{Materials}  
-A notebook or digital device to record the information.  (Computer Science) T D 5 M
 
-Activity  
-Choose a web page you have visited during this unit. Use the checklist in this lesson to write a report about the page.
+(Computer Science) (Exploration, Activity, Short Answer) D 5 M
 
-(Computer Science) T D 5 M
-
-Extra challenge  
 Search the web for information about the impacts of climate change. Find a page that you like. Is the page mainly facts or opinions? Give one example of each.
 
-[MATERIAL] [You will need a computer or smartphone with internet access to search for web pages.](Computer Science) T D 5 M
 
-Activity  
+(Computer Science) (Activity, Short Answer) D 5 M
+
 Use a search engine to answer these questions.  
-1. What is Tungurahua, and where is it?  
-2. What happened at Tungurahua in March 2016?  
-3. Find a picture of Tungurahua.  
-4. Find one interesting fact about Tungurahua.  
-5. How do you pronounce Tungurahua?  
+\begin{enumerate}
+\item What is Tungurahua, and where is it?  
+\item What happened at Tungurahua in March 2016?  
+\item Find a picture of Tungurahua.  
+\item Find one interesting fact about Tungurahua.  
+\item How do you pronounce Tungurahua?  
+\end{enumerate}
 
-\subsection{Materials}  
-A device with internet access (like a smartphone, tablet, or computer) to perform searches.
 
-(Computer Science) T D 5 M
+(Computer Science) (Group Activity) D 5 M
 
-Think again  
-Work in a small group. Discuss websites that you have found useful in your studies. Make a list of the best websites you have found. Why do you like them? What subjects do these websites help with? Present your list to the class.  
+\begin{enumerate}[label=\alph*.]
+\item Work in a small group. Discuss websites that you have found useful in your studies. 
+\item Make a list of the best websites you have found. 
+\item Why do you like them? 
+\item What subjects do these websites help with? 
+\item Present your list to the class.
+\end{enumerate}
 
-\subsection{Materials}  
-A group of people to discuss and share information with, along with a way to write down the list of websites.
+(Computer Science) (Activity) D 5 (With Hint)
 
-(Computer Science) T D 5 M
-
-Extra challenge  
 Search the web to find the name of this bird.  
-Hint: To get a list of key words, type the things you see in the picture, such as ‘black head’. What else do you see? Do an image search and find a picture that matches this one.  
 
-\subsection{Materials}  
-A device with internet access to perform searches and an image of the bird to reference.(Computer Science) T D 6 M
+\subsection{Hints}
+To get a list of key words, type the things you see in the picture, such as ‘black head’. What else do you see? Do an image search and find a picture that matches this one.  
 
-Activity  
-Open your saved spreadsheet 'Amir deliveries data'. Add list validation to your table. This task involves entering new records for the data table. Add these records: PAC019 Bank 1000 Amir No, PAC020 Warehouse Airport 250 Hasan Yes, PAC021 Train Station Head office 500 Hasan No. Save your work.
+[STRDGM]A photgraph of a red robbin.[STPDGRM]
 
-\subsection{Materials} 
-A computer with spreadsheet software (like Excel or Google Sheets) to input the data.
 
-(Computer Science) T D 6 M
+(Computer Science) (Short Answer) D 6 M
 
-Extra challenge  
-Add list validation to the 'Delivered' and 'Courier' fields. The values are stored on the 'Lists' worksheet of the spreadsheet. Input new records to the data table, using the lists you have made.
+Some columns in a data table cannot use dropdown lists. Give an example.
 
-\subsection{Materials} 
-A computer with spreadsheet software (like Excel or Google Sheets) to access and modify the data.
 
-(Computer Science) T D 6 M
+(Computer Science) (Activity) D 1 M
 
-Think again  
-Some columns in the data table could not use dropdown lists. Give an example.
+Open up a spreadsheet and add the following values and labels.
+\begin{enumerate}
+\item Add one ball.  
+\item Add three dolls.  
+\item Add two games.  
+\item Add one marble.  
+\item Add one animal.  
+\end{enumerate}
+Save your file as: ‘Found toys edited’.
 
-\subsection{Materials} 
-A computer with spreadsheet software (like Excel or Google Sheets) to review the data table and identify columns that do not have dropdown lists.(Computer Science) T D 1 M
+\paragraph{Bonus Question}
+How many toys are there altogether? Find a way to compute this using the spreadsheet.
 
-Activity  
-Change the values in your spreadsheet.  
-Add one ball.  
-Add three dolls.  
-Add two games.  
-Add one marble.  
-Add one animal.  
-Save your file as: ‘Found toys edited’.  
 
-(Computer Science) T D 1 M
+(Computer Science) (Programming Exercise) D 3 M
 
-Think again  
-How many toys are there altogether?  
-
-\subsection{Materials}  
-A calculator or paper and pencil for counting.(Computer Science) T D 3 M
-
-Activity  
 Make a program that asks for a number and then tells you that number plus five.
 
-(Computer Science) T D 3 M
 
-Extra challenge  
-Make a program that multiplies a number by seven.  
-Make a program that uses another maths operator.
+(Computer Science) (Programming Exercise) D 3 M
 
-(Computer Science) T D 3 M
+\begin{enumerate}[label=\alph*.]
+\item  Make a program that multiplies a number by seven.  
+\item Make a program that uses another maths operator.
+\end{enumerate}
 
-Explore more  
+
+(Computer Science) (Programming Exercise) D 3 M
+
 Make a program with many different sprites. Make each sprite do a different maths operation.
 
-(Computer Science) T D 3 M
 
-Digital citizen of the future  
-The work you do in this unit is about making the computer do maths. This is a common way to use computers. Many adults use technology to help with number problems. But it is also important to develop skills to solve maths problems without technology. That will help you to use technology wisely and spot mistakes if they occur.
+(Computer Science) (Programming Exercise) D 5 M
 
-[MATERIAL] [None needed](Computer Science) T D 5 M
+Web Valley Primary School has 60 network connections. The average cable used for each connection is 50 metres long. How many metres of network cable are there in the school? Make a program that finds the answer and converts it to kilometres.
 
-Activity  
-Web Valley Primary School has 60 network connections. The average cable used for each connection is 50 metres long. How many metres of network cable are there in the school? Convert your answer to kilometres.
+\paragraph{Bonus Challenge}
+Web Valley Secondary School has 140 network connections. The average cable is 65 metres long. How many kilometres of network cable are there in Web Valley Secondary School? Use your program to solve this as well.
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 5 M
+(Computer Science) (Short Answer, Thought Exercise) D 5 M
 
-Extra challenge  
-Use a method to solve the problem in the activity. Then solve this problem: Web Valley Secondary School has 140 network connections. The average cable is 65 metres long. How many kilometres of network cable are there in Web Valley Secondary School?
+\begin{enumerate}[label=\alph*.]
+\item Do you save your school work to the school network? 
+\item What is your personal area of the school network called? 
+\item Is there an area on the network that your teacher uses to share files with the class? 
+\item Where is the network equipment in your school stored?
+\end{enumerate}
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 5 M
+(Computer Science) (Activity, Short Answer) D 3 M
 
-Think again  
-Do you save your school work to the school network? What is your personal area of the school network called? Is there an area on the network that your teacher uses to share files with the class? Where is the network equipment in your school stored?
+\begin{enumerate}
+\item Record data on anything you like. Then, make a line chart of the collected data.
+\item Now make changes to the numbers in the spreadsheet. What happens to the chart?
+\item Suggest one label you can add to the chart.
+\end{enumerate}
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 3 M
 
-Activity  
-Make a line chart of your sunflower data.
+(Computer Science) (Activity) D 3 (Exercises on presenting)
 
-\subsection{Materials}  
-You will need a way to record data about sunflowers, such as a notebook or a digital device to write down numbers representing growth over time.
+\begin{enumerate}
+\item What is your favourite food? Make a short slide show about it.
+\item Add another slide with more facts about the food. For example, you could say the ingredients.
+\item Look through your slide show. Find and fix any spelling mistakes.
+\item Add an image to the slide show.
+\item This slide show is for small children. Make sure the letters are big and easy to read.  
+\item Choose a suitable presentation theme for your slide show.    
+\end{enumerate}
 
-(Computer Science) T D 3 M
 
-Extra challenge  
-Make changes to the numbers in the spreadsheet. What happens to the chart?
+(Computer Science) (Activity, Long Answer) D 6 M
 
-\subsection{Materials}  
-You will need a spreadsheet application or a piece of paper to write down numbers and observe changes.
-
-(Computer Science) T D 3 M
-
-Think again  
-Next lesson you will add labels to the chart. Suggest one label you can add to the chart.
-
-\subsection{Materials}  
-You will need a notebook or a digital device to write down your suggested label.(Computer Science) T D 3 M
-
-Activity  
-What is your favourite food? Now you will make a short slide show about it.  
-
-\subsection{Materials}  
-- A writing tool (like a pen or pencil)  
-- Paper  
-
-(Computer Science) T D 3 M
-
-Activity  
-Add another slide with more facts about the food. For example, you could say the ingredients.  
-
-\subsection{Materials}  
-- A writing tool (like a pen or pencil)  
-- Paper  
-
-(Computer Science) T D 3 M
-
-Activity  
-Look through your slide show. Find and fix any spelling mistakes.  
-
-\subsection{Materials}  
-- A writing tool (like a pen or pencil)  
-- Paper  
-
-(Computer Science) T D 3 M
-
-Activity  
-Add an image to the slide show.  
-
-\subsection{Materials}  
-- A writing tool (like a pen or pencil)  
-- Paper  
-
-(Computer Science) T D 3 M
-
-Activity  
-This slide show is for small children. Make sure the letters are big and easy to read.  
-
-\subsection{Materials}  
-- A writing tool (like a pen or pencil)  
-- Paper  
-
-(Computer Science) T D 3 M
-
-Activity  
-Choose a suitable theme for your slide show.  
-
-\subsection{Materials}  
-- A writing tool (like a pen or pencil)  
-- Paper  (Computer Science) T D 6 M
-
-Activity  
 Design your perfect robot assistant. Describe what your robot would look like, what special tools and powers it would have, and what jobs it could do to make your life easier.
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 6 M
+(Computer Science) (Long Answer) D 6 M
 
-Extra challenge  
 Think of a task you do every day. How could a robot help you with that task? Describe the robot's features and abilities that would assist you.
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 4 M
 
-Activity  
-Create a spreadsheet with the list of jobs from your survey. These are your labels. In the next column, enter the number of students who chose each job. These are your values. Use the text formatting tools to make the spreadsheet look better.
+(Computer Science) (Activity, Short Answer) D 4 (With Material)
 
-\subsection{Materials} 
-A computer with spreadsheet software (like Excel or Google Sheets) and a keyboard.
+\begin{enumerate}[label=\alph*.]
+\item Conduct a survey in your class where you ask each student what jobs they would like to do later in life. 
+\item Create a spreadsheet with the list of jobs from your survey. These are your labels. 
+\item In the next column, enter the number of students who chose each job. These are your values. 
+\item Use the text formatting tools to make the spreadsheet look better.
+\end{enumerate}
 
-(Computer Science) T D 4 M
-
-Extra challenge  
+\paragraph{Bonus Challenge}
 Try using the borders and fill color menus to make your spreadsheet more interesting. Select a range of cells and use the controls in the Font area of the menu ribbon. What colors and border work best? Explain why.
 
 \subsection{Materials} 
-A computer with spreadsheet software (like Excel or Google Sheets) and a keyboard.
+\begin{itemize}
+\item A computer with spreadsheet software (like Excel or Google Sheets) and a keyboard.
+\end{itemize}
 
-(Computer Science) T D 4 M
 
-Think again  
+(Computer Science) (Short Answer) D 4 M
+
 Look at the top of a spreadsheet screen and then at the top of a word processor screen. Which things are the same? Why are they the same? How does that help you use the software?
 
-\subsection{Materials} 
-A computer with spreadsheet software (like Excel or Google Sheets) and a word processor (like Word or Google Docs) for comparison.(Computer Science) T D 1 M
 
-Activity  
-Find the block where Scratch says: “Ouch!”. Find the word.
+(Computer Science) (Activity, Short Answer) D 1 (Outdoor exercise)
 
-(Computer Science) T D 1 M
-
-Activity  
-Click on the word. Type a new word.
-
-(Computer Science) T D 1 M
-
-Activity  
-Play the game. Scratch will say the new word instead of “Ouch!”.
-
-(Computer Science) T D 1 M
-
-Explore more  
 Talk to people about computer games. Do they like to play computer games? Find out why.
 
-(Computer Science) T D 1 M
 
-Extra challenge  
-Some blocks have numbers in them. Change some numbers. See how changing some numbers changes the game.
+(Computer Science) (Activity, Short Answer) D 1 (Exercise on using image editors)
 
-[MATERIAL] [No specific material needed; just engage in conversation or experimentation with numbers in a game context.](Computer Science) T D 1 M
+\begin{enumerate}
+\item Draw a face using your imagination. Describe it in detail, focusing on the shapes and colors you would use.
+\item Describe the steps you would take to replicate that drawing using a computer, focusing on the tools you would choose and how you would use them. 
+\item Use a drawing tool on the image editor to try to draw the face.
+\item Think about which action would change the size of your drawing tool. Experiment with different sizes to see how it feels to draw with a thicker or thinner tool.
+\end{enumerate}
 
-Activity  
-Draw a face using your imagination. Describe it in detail, focusing on the shapes and colors you would use.
 
-(Computer Science) T D 1 M
+(Computer Science) (Short Answer) D 1 M
 
-Extra challenge  
-Think about which action would change the size of your drawing tool. Experiment with different sizes by imagining how it would feel to draw with a thicker or thinner tool.
-
-(Computer Science) T D 1 M
-
-Think again  
-Visualize a drawing you want to create on paper. Describe the steps you would take to replicate that drawing using a computer, focusing on the tools you would choose and how you would use them. 
-
-[MATERIAL] [Paper and a pencil for drawing](Computer Science) T D 1 M
-
-Activity  
-Join the second block to the program.
-
-(Computer Science) T D 1 M
-
-Extra challenge  
-There is another start block on the screen. Can you find it? What happens if you use this start block?
-
-(Computer Science) T D 1 M
-
-Think again  
 What is a sprite? Say in your own words.
 
-[MATERIAL] [No specific material needed; just use your imagination to describe what a sprite could be, like a character or object in a game.] 
+[STARTDGM] [The image shows a cartoon cat sprite on a colorful space backdrop, illustrating the concept of a sprite moving in a programming environment.] [STOPDGM]
 
-[STARTDGM] [The image shows a cartoon cat sprite on a colorful space backdrop, illustrating the concept of a sprite moving in a programming environment.] [STOPDGM](Computer Science) T D 1 M
 
-Activity  
-Imagine you are creating a simple game using blocks. First, think about what happens when you want to start the game. What would you need to do to make it start? 
+(Computer Science) (Activity, Short Answer) D 1 M
+\
+\begin{enumerate}
+\item Imagine you are creating a simple game using blocks. First, think about what happens when you want to start the game. What would you need to do to make it start? 
+\item Now, think about how you would explain to someone else how to start the game. What steps would you tell them to follow?
+\end{enumerate}
 
-\subsection{Materials} 
-- None needed, just use your imagination.
 
-(Computer Science) T D 1 M
+(Computer Science) (Short Answer) D 4 M
 
-Activity  
-Now, think about how you would explain to someone else how to start the game. What steps would you tell them to follow?
+Describe in your own words what a conditional structure is and how it might be used in a program.
 
-\subsection{Materials} 
-- None needed, just use your imagination.(Computer Science) T D 6 M
 
-Think again  
-What are operator blocks? What two operators are used in this program?  
+(Computer Science) (Programming Exercise) D 3 M
 
-\subsection{Materials}  
-None needed.  
+\begin{enumerate}[label=\alph*.]
+\item Make a program that asks your name and then says your name. 
+\item Change the program so it asks your name and then says “Hello” and your name. 
+\end{enumerate}
+Save the file.
 
-(Computer Science) T D 6 M
 
-Extra challenge  
-If you have time, adapt the program so that the user inputs two values. Each value is added to the total.  
+(Computer Science) (programming Exercise) D 3 M
 
-\subsection{Materials}  
-None needed.  
-
-No text.(Computer Science) T D 2 M
-
-Activity  
-Make a list of the fruits Jai has in her basket along with their quantities. 
-
-\subsection{Materials} 
-[Paper and pen or any writing tool]
-
-(Computer Science) T D 2 M
-
-Activity  
-Count how many apricots are in the basket and write down the number.
-
-\subsection{Materials} 
-[Paper and pen or any writing tool]
-
-(Computer Science) T D 2 M
-
-Activity  
-Create a simple addition problem using the numbers of fruits Jai has. For example, if there are 5 apples and 3 bananas, what is the total?
-
-\subsection{Materials} 
-[Paper and pen or any writing tool]
-
-(Computer Science) T D 2 M
-
-Activity  
-If Jai changes the number of apples to 16, calculate the new total number of fruits in the basket. 
-
-\subsection{Materials} 
-[Paper and pen or any writing tool](Computer Science) T D 3 M
-
-Activity  
-Improve your chart by including labels.
-
-(Computer Science) T D 3 M
-
-Extra challenge  
-Change the colour and design of your chart.
-
-(Computer Science) T D 3 M
-
-Explore more  
-Print out the chart you made.  
-Make a classroom display of your charts.  
-Take the chart home and show it to a grown-up. Ask them to say what they can see in the chart. Do they understand what it shows?  
-
-[MATERIAL] Paper and writing tools for labeling the chart.  
-[MATERIAL] Materials for a classroom display, such as poster board or tape.  
-[MATERIAL] The chart you created, which can be printed or drawn out.(Computer Science) T D 4 M
-
-Activity  
-Make and add the crash detector so that the spaceship makes a sound if it hits the star. Run the program and check that it works. Save the file.
-
-(Computer Science) T D 4 M
-
-Extra challenge  
-Create a second crash detector. It will make a sound if the spaceship touches the planet. Put this second block into the forever loop.
-
-(Computer Science) T D 4 M
-
-Think again  
-Describe in your own words what a conditional structure is and how you used it in this program.
-
-[MATERIAL] [No specific material needed; use your understanding of programming concepts.](Computer Science) T D 3 M
-
-Activity  
-Make a program that asks your name and then says your name. Change the program so it asks your name and then says “Hello” and your name. Save the file.
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 3 M
-
-Extra challenge  
 Make a new program, with a new sprite and backdrop that you have chosen. This program asks for your favourite computer game and then says “I like to play” and the name of the game.
 
-\subsection{Materials}  
-None needed.
+\subsection{Questions}
+\begin{enumerate}
+\item In this program you used the ‘answer’ block. Say what the ‘answer’ block does.
+\end{enumerate}
 
-(Computer Science) T D 3 M
 
-Think again  
-In this program you used the ‘answer’ block. Say what the ‘answer’ block does.
+(Computer Science) (Programming Exercise) D 3 M
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 3 M
+Plan a program with a ‘forever’ loop. It inputs numbers and then outputs that number times two.
 
-Activity  
-Plan a program with a ‘forever’ loop. It inputs numbers and then outputs that number times two. 
 
-[MATERIAL] [You will need a way to write down your plan, such as paper and a pen or a text-to-speech tool to record your thoughts.]
+(Computer Science) (Programming Exercise) D 3 M
 
-(Computer Science) T D 3 M
+Make a plan for a new program with a ‘forever’ loop. The user enters a series of numbers. Each time the program outputs the number times 10 and then the number times 11.
 
-Extra challenge  
-Make a plan for a new program with a ‘forever’ loop. The user enters a series of numbers. Each time the program outputs the number times 10 and then the number times 11. 
 
-[MATERIAL] [You will need a way to write down your plan, such as paper and a pen or a text-to-speech tool to record your thoughts.]
+(Computer Science) (Short Answer) D 3 M
 
-(Computer Science) T D 3 M
+\begin{enumerate}
+\item What are operators?  
+\item Pick an operator that works with numbers. Describe what it does. 
+\end{enumerate}
 
-Explore more  
-What are operators?  
-Pick an operator that works with numbers. Describe what it does. 
 
-[MATERIAL] [You will need a way to write down your thoughts, such as paper and a pen or a text-to-speech tool.]
+(Computer Science) (Short Answer, Activity) D 3 (Exercise on operators)
 
-(Computer Science) T D 3 M
+\begin{enumerate}[label=\alph*.]
+\item Pick an operator that works with words and letters. Describe what it does.
+\item Make a directory of operators explaining all the ones you know. 
+\end{enumerate}
 
-Explore more  
-Pick an operator that works with words and letters. Describe what it does. 
 
-[MATERIAL] [You will need a way to write down your thoughts, such as paper and a pen or a text-to-speech tool.]
+(Computer Science) (Group Activity, Short Answer) D 6 M
 
-(Computer Science) T D 3 M
+\begin{enumerate}
+\item Work in pairs. Imagine that one of you is a robot. Write an algorithm with instructions that will guide the robot to walk from one location to another. Use your common sense to pick a suitable route and destination.
+\item Review what happened. Did it work or do you need to improve the algorithm?
+\item Swap roles. Write or report back to the rest of the class about your experiences.
+\end{enumerate}
 
-Explore more  
-If you have time, make a directory of operators explaining all the ones you know. 
 
-[MATERIAL] [You will need a way to write down your thoughts, such as paper and a pen or a text-to-speech tool.](Computer Science) T D 6 M
+(Computer Science) (Short Answer) D 1 M
 
-Activity  
-Work in pairs. Imagine that one of you is a robot. Write an algorithm with instructions that will guide the robot to walk from one location to another. Use your common sense to pick a suitable route and destination.
-
-\subsection{Materials} 
-None needed.
-
-(Computer Science) T D 6 M
-
-Extra challenge  
-Review what happened. Did it work or do you need to improve the algorithm?
-
-\subsection{Materials} 
-None needed.
-
-(Computer Science) T D 6 M
-
-Think again  
-Swap roles. Write or report back to the rest of the class about your experiences.
-
-\subsection{Materials} 
-None needed.(Computer Science) T D 1 M
-
-Extra challenge  
 Describe how you would change the start block for a character in a game.
 
-(Computer Science) T D 1 M
 
-Think again  
-List different methods you can think of to initiate a game. 
+(Computer Science) (Short Answer) D 1 M
 
-[MATERIAL] [None needed, just use your imagination and knowledge of games.](Computer Science) T D 6 M
+List different methods you can think of to initiate a game.
 
-Activity  
-Open your saved spreadsheet 'Amir deliveries data'. Add a 'Charge' field to the data table. Use a formula to calculate the charge for each delivery. Change the format of the 'Charge' field to a currency format.
 
-\subsection{Materials} 
-A computer or device with spreadsheet software (like Microsoft Excel or Google Sheets) installed.
+(Computer Science) (Activity, Short Answer) D 5 (Exercise on doing online research, Exercise on copyright)
 
-(Computer Science) T D 6 M
+\begin{enumerate}
+\item Find an online piece of text about the impacts of climate change. Describe the text you found in your own words and explain why it is important.
+\item Find a creative commons photo that illustrates your description of the text you found. Describe the photo and explain how it relates to your text.
+\item Why is it important to credit another person's work? Reflect on how it feels when someone uses your ideas without giving you credit. 
+\end{enumerate}
 
-Extra challenge  
-Make changes to the weight of the parcels. See how the app calculates a new charge based on the new weight.
 
-\subsection{Materials} 
-A computer or device with spreadsheet software (like Microsoft Excel or Google Sheets) installed, and access to the data on parcel weights. 
+(Computer Science) (Short Answer) D 2 M
 
-(Computer Science) T D 6 M
+Which jobs could a computer do? Which activities could a computer do? Write down your answers like this: A computer can work out how much to charge for food.
 
-Explore more  
-Talk to family and friends about what they think is a fair price for parcel delivery. Does this match the prices in your spreadsheet?
 
-\subsection{Materials} 
-No specific material needed; just a conversation with family and friends.(Computer Science) T D 5 M
+(Computer Science) (Short Answer) D 2 (At home exercise)
 
-Activity  
-Find a piece of text about the impacts of climate change. Describe the text you found in your own words and explain why it is important. 
-
-\subsection{Materials} 
-[No specific material needed, just your thoughts and understanding of climate change.]
-
-(Computer Science) T D 5 M
-
-Extra challenge  
-Find a creative commons photo that illustrates your description of the text you found. Describe the photo and explain how it relates to your text.
-
-\subsection{Materials} 
-[No specific material needed, just your thoughts and understanding of the relationship between the photo and the text.]
-
-(Computer Science) T D 5 M
-
-Think again  
-Why is it important to credit another person's work? Reflect on how it feels when someone uses your ideas without giving you credit. 
-
-\subsection{Materials} 
-[No specific material needed, just your thoughts and feelings on the importance of crediting work.](Computer Science) T D 2 M
-
-Activity  
-Which jobs in the picture could a computer do? Which activities in the picture could a computer do? Write down your answers like this: A computer can work out how much to charge for food.
-
-(Computer Science) T D 2 M
-
-Extra challenge  
-Can you think of any other everyday activities a computer could do?
-
-(Computer Science) T D 2 M
-
-Explore more  
 Is using a computer always the best way to carry out a task? Talk with an adult about tasks that humans do better than computers.
 
-[STARTDGM] The image depicts a busy street scene with various people engaged in different activities. There are vehicles, a florist shop, a food vendor, and people interacting in a café setting. [STOPDGM](Computer Science) T D 5 M
+[STARTDGM] The image depicts a busy street scene with various people engaged in different activities. There are vehicles, a florist shop, a food vendor, and people interacting in a café setting. [STOPDGM]
 
-Activity  
-Open your recipe document in a text editor.  
-Add your recipe text.  
-Insert descriptions of the images you want to use to illustrate your recipe.  
-Move and resize the descriptions to create a one-page document for your recipe.  
 
-(Computer Science) T D 5 M
+(Computer Science) (Activity) D 5 M
 
-Extra challenge  
-Create a cover page for your recipe. Use descriptions of some of your recipe images to create a collage. Add the recipe name at the top of the page.  
+\begin{enumerate}
+\item Choose a recipe you like online and save the text.
+\item Open a document in a text editor. Add your recipe text.  
+\item Insert descriptions of the images you want to use to illustrate your recipe.  
+\item Move and resize the descriptions to create a one-page document for your recipe.
+\item Create a cover page for your recipe. Use descriptions of some of your recipe images to create a collage. Add the recipe name at the top of the page.  
+\end{enumerate}
 
-(Computer Science) T D 5 M
 
-Think again  
-What do you need to think about when you put words and images together on a page? How do words and images work best together?  
+(Computer Science) (Short Answer) D 5 M
 
-[MATERIAL] [Text editor or word processor](Computer Science) T D 2 M
+What do you need to think about when you put words and images together on a page? How do words and images work best together?
 
-Activity  
-Describe how you would create a simple program where a character (sprite) jumps to a random location, says "Hello!", and then moves towards a point you choose. Think about the steps you would take to make this happen without needing any specific tools. 
 
-\subsection{Materials}  
-You will need a way to visualize or imagine the steps, such as a piece of paper and a pencil to sketch out your ideas.(Computer Science) T D 1 M
+(Computer Science) (Programming Exercise, Short Answer) D 2 M
 
-Extra challenge  
-Which pictures fit inside the middle of the circles?
+Describe how you would create a simple program where a character (sprite) jumps to a random location, says "Hello!", and then moves towards a point you choose. Think about the steps you would take to make this happen without needing any specific tools.
 
-(Computer Science) T D 1 M
 
-Think again  
+(Computer Science) (Thought Exercise, Reflection) D 1 M
+
 What do you like to do on a computer?
 
-[MATERIAL] [No specific material needed; just think about your own experiences with computers.](Computer Science) T D 6 M
 
-Activity  
-Your school wants to add a new page to its website. The page will tell parents about a new gymnasium that is being built. The page should include the school logo, a picture showing what the new gym will look like and text describing the gym. Design the page using a wireframe.  
-[MATERIAL] [Paper and a pencil or any writing tool]
+(Computer Science) (Activity) D 6 (Exercise on design)
 
-(Computer Science) T D 6 M
+\begin{enumerate}
+\itemYour school wants to add a new page to its website. The page will tell parents about a new gymnasium that is being built. The page should include the school logo, a picture showing what the new gym will look like and text describing the gym. Design the page using a wireframe.
+\item You need to make some changes to your web page design. The design should now include the school logo, two images – showing the inside and outside of the gym, text describing the gym and a heading for the page. 
+\end{enumerate}
 
-Extra challenge  
-You need to make some changes to your web page design. The design should now include the school logo, two images – showing the inside and outside of the gym, text describing the gym and a heading for the page.  
-[MATERIAL] [Paper and a pencil or any writing tool]
 
-(Computer Science) T D 6 M
+(Computer Science) (Activity) D 6 (With Prerequisites)
 
-Think again  
-Open a web page that you use regularly at home or for school work. Identify examples of the six components of a web page.  
-[MATERIAL] [Access to a computer or device with internet](Computer Science) T D 4 M
+Open a web page that you use regularly at home or for school work. Identify examples of the six components of a web page.
 
-Activity  
+\subsection{Prerequisites}
+\begin{itemize}
+\item Knowledge of the six components of a web page.
+\end{itemize}
+
+
+(Computer Science) (Group Activity) D 4 M
+
 Working in a group, interview your teacher to find out how using technology improves their job. Work together to write a list of three questions before you start the interview.
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 4 M
+(Computer Science) (Short Answerm Group Activity) D 4 M
 
-Extra challenge  
 Jobs that used to be done by humans are being replaced by automation and robots. Talk about this with classmates and your family. What are the good and bad things about automation?
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 4 M
+(Computer Science) (Short Answer, Reflection) D 4 (Exercise on the digital future, Multi-part)
 
-Think again  
-Do you think your teacher could be replaced by a robot? Give reasons for your answer. How would you feel about travelling to school in a bus driven by a robot?
+\begin{enumerate}
+\item Do you think your teacher could be replaced by a robot? Give reasons for your answer. 
+\item How would you feel about travelling to school in a bus driven by a robot?
+\end{enumerate}
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 2 M
 
-Activity  
-Start a new program. Choose a sprite that looks like a fish. Choose a background that looks like underwater. Make the program shown on this page. The program will make the fish swim about underwater.  
-\subsection{Materials} [You will need a computer or device with programming software that allows you to create animations or games, such as Scratch.]
+(Computer Science) (Programming Exercise, Short Answer) D 2 M
 
-(Computer Science) T D 2 M
+\begin{enumerate}[label=\alph*.]
+\item Start a new program. 
+\item Choose a sprite that looks like a fish. 
+\item Choose a background that looks like underwater. 
+\item Make a program that will make the fish swim about underwater by following your mouse
+\item Think of one change you could make to the program you made. What would happen if you made this change?  
+\item Now add a jellyfish sprite to the underwater scene. Make a program for this sprite. Use the same blocks as before. 
+\item Take out the block that says ‘follow the mouse pointer’. Add a block that says ‘if on edge bounce’ and make the number of steps 2 instead of 10.
+\end{enumerate}
 
-Think again  
-Think of one change you could make to the program you made. What would happen if you made this change?  
-\subsection{Materials} [No specific material needed; just think creatively about possible changes to your program.]
 
-(Computer Science) T D 2 M
+(Computer Science) (Activity) D 3 M
 
-Extra challenge  
-Add a jellyfish sprite to the underwater scene. Make a program for this sprite. Use the same blocks as before. Take out the block that says ‘follow the mouse pointer’. Add a block that says ‘if on edge bounce’. Make the number of steps 2 instead of 10.  
-\subsection{Materials} [You will need a computer or device with programming software that allows you to create animations or games, such as Scratch.](Computer Science) T D 2 M
+Make a tactile poster for your classroom with the three email safety rules. Use different textures to represent each rule, such as smooth for "Keep it closed," rough for "Protect," and bumpy for "Do not reply."
 
-Activity  
-Your teacher will give you a strip of paper and a pencil. Write about or draw something you are good at on your paper. Put glue on the end of your paper. Link all of your papers together. Decorate your class with your talent paper garland!
 
-\subsection{Materials} 
-- A strip of paper
-- A pencil
-- Glue
+(Computer Science) (Short Answer) D 3 M
 
-(Computer Science) T D 2 M
+Describe to someone what pharming and phishing are in your own words, focusing on how they can affect email safety.
 
-Did you know?  
-Something you do for fun can help you to feel relaxed and happy. 
 
-\subsection{Materials} 
-- None needed.(Computer Science) T D 2 M
+(Computer Science) (Group Activity) D 2 M
 
-Activity  
-Make the two-block program shown on this page.
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 2 M
-
-Extra challenge  
-Add any other block to the program. See what happens when you run the program.
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 2 M
-
-Think again  
-Say what blocks you used. Say what each block did.
-
-\subsection{Materials}  
-None needed.(Computer Science) T D 5 M
-
-Activity  
-Start Scratch. Create the program shown in this lesson. Run the program several times. The sprite will ask a random question every time. Save the file.
-
-\subsection{Materials} 
-- Scratch programming environment (accessible on a computer or tablet).
-
-(Computer Science) T D 5 M
-
-Extra challenge  
-Extend your program. Add a second random variable. Name the two random numbers 'random1' and 'random2'. Make a question that asks the user to multiply the two random numbers.
-
-\subsection{Materials} 
-- Scratch programming environment (accessible on a computer or tablet).
-
-(Computer Science) T D 5 M
-
-Explore more  
-Run the program 10 more times. Keep a tally of the random number that appears each time. Do some numbers appear more often than others? Because the numbers are random, every number has the same chance of appearing. The tally count for each number should be the same. The more times you run the program, the more even the balance should be. If you have time, run the program lots more times to check this.
-
-\subsection{Materials} 
-- Scratch programming environment (accessible on a computer or tablet).
-- A method to keep track of counts (like a piece of paper or a digital note).(Computer Science) T D 3 M
-
-Activity  
-Make a tactile poster for your classroom with the three email safety rules. Use different textures to represent each rule, such as smooth for "Keep it closed," rough for "Protect," and bumpy for "Do not reply." 
-
-(Computer Science) T D 3 M
-
-Extra challenge  
-Describe to someone what pharming and phishing are in your own words, focusing on how they can affect email safety. 
-
-[MATERIAL]  
-You will need a variety of textured materials (like fabric, sandpaper, and foam) for the tactile poster, and a quiet space to discuss or write down your thoughts on pharming and phishing.(Computer Science) T D 2 M
-
-Activity  
 Tell a partner about the last time you used a computer. What did you use it for?
 
-(Computer Science) T D 2 M
 
-Extra challenge  
+(Computer Science) (Drawing Activity) D 2 M
+
 Draw a computer. Show the wire that brings electricity to the computer. Draw a circle where you think the processor is.
 
-(Computer Science) T D 2 M
 
-Think again  
+(Computer Science) (Short Answer) D 2 (Exercise on safety while using electronics)
+
 What must you do to stay safe when you use electronic devices?
 
-[MATERIAL] [Paper and a writing tool, such as a pencil or pen, for drawing and writing responses.](Computer Science) T D 4 M
 
-Activity  
-Explore your home and make a list of the items you can find that use microprocessor technology. If a device has a display, it probably has an embedded microprocessor.
+(Computer Science) (Activity, Short Answer) D 4 (At home exercise, Multi-part, Exercise on microprocessors)
 
-\subsection{Materials}  
-You will need a notepad or a voice recording device to make your list.
+\begin{enumerate}
+\item Explore your home and make a list of the items you can find that use microprocessor technology. If a device has a display, it probably has an embedded microprocessor.
+\item Pick a device from the list you made in the activity. Talk to a parent or grandparent about that device. Is it better than similar devices they used in the past? How has technology changed since your parent or grandparent was your age?
+\end{enumerate}
 
-(Computer Science) T D 4 M
 
-Extra challenge  
+(Computer Science) (Short Answer) D 4 M
+
 Think about smart refrigerators. Make a list of the things a smart refrigerator can do.
 
-\subsection{Materials}  
-You will need access to a computer or smartphone to gather information about smart refrigerators.
 
-(Computer Science) T D 4 M
+(Computer Science) (Short Answer) D 1 (Exercise on using computers safely, Exercise on using computers responsibly)
 
-Explore more  
-Pick a device from the list you made in the activity. Talk to a parent or grandparent about that device. Is it better than similar devices they used in the past? How has technology changed since your parent or grandparent was your age?
+\begin{enumerate}
+\item How can you stay safe and happy when you use computers at school? Think of one important rule for using computers at school. Describe this rule in detail, explaining why it's important and how it can help you and others.
+\item Imagine you are teaching someone else about your rule. Create a short speech or presentation explaining your rule and why it's important for everyone to follow it.
+\end{enumerate}
 
-\subsection{Materials}  
-You will need a notepad or a voice recording device to take notes during your conversation.(Computer Science) T D 1 M
 
-Activity  
-How can you stay safe and happy when you use computers at school? Think of one important rule for using computers at school. Describe this rule in detail, explaining why it's important and how it can help you and others. 
+(Computer Science) (Long Answer, Reflection) D 1 M
 
-\subsection{Materials} 
-None needed.
+Consider how technology has changed over time. Think about what you use today compared to what people might have used 2500 years ago. Write down your thoughts on how technology has improved our lives.
 
-(Computer Science) T D 1 M
 
-Extra challenge  
-Imagine you are teaching someone else about your rule. Create a short speech or presentation explaining your rule and why it's important for everyone to follow it. 
+(Computer Science) (Activity, Short Answer) D 6 (Exercise on keeping a tidy workspace when using computers, Multi-part)
 
-\subsection{Materials} 
-None needed. 
+Look at the situation of a messy workspace. 
+\begin{enumerate}[label=\alph*.]
+\item How do you think a computer room should be organized when you arrive for class? 
+\item What issues can a messy workspace create? 
+\item Write down examples of times you've struggled to work due to broken or missing computer tools.
+\end{enumerate}
 
-(Computer Science) T D 1 M
 
-Think again  
-Consider how technology has changed over time. Think about what you use today compared to what people might have used 2500 years ago. Write down your thoughts on how technology has improved our lives. 
+(Computer Science) (Short Answer, Activity, Reflection) D 6 M
 
-\subsection{Materials} 
-None needed.(Computer Science) T D 6 M
+\begin{enumerate}[label=\alph*.]
+\item Work with a partner. Sit at the computer and ask your partner to assist you with a problem. For instance, you might ask them to explain how to create a new folder. 
+\item Let your partner guide you through the task and provide assistance.
+\item Then, talk about how helpful your partner was. Did you feel confused at any moment? Did your partner clarify anything better?
+\item Now switch roles so you can offer help.
+\end{enumerate}
 
-Activity  
-Open the web page you created in the last lesson. Add an image to the body of your page. Choose an image that works with the text on the page.  
-[MATERIAL] [No specific material needed; use any image that relates to the content of your web page.]
 
-(Computer Science) T D 6 M
+(Computer Science) (Short Answer) D 6 (Exercise on responsible usage of electronics)
 
-Extra challenge  
-In the last lesson, you added a ‘Did you know?’ section to your web page. Search for a suitable image for this section. Add the image to the ‘Did you know?’ section.  
-[MATERIAL] [No specific material needed; use any image that fits the theme of your ‘Did you know?’ section.]
-
-(Computer Science) T D 6 M
-
-Think again  
-Here are two paragraphs from a web page about robots. Which image (A, B, or C) would you choose to illustrate each paragraph?  
-[MATERIAL] [No specific material needed; think about which type of image would best represent the concepts of robot arms and teamwork in factories.](Computer Science) T D 6 M
-
-Activity  
-Look at the situation of a messy workspace. How do you think a computer room should be organized when you arrive for class? What issues can a messy workspace create? Write down examples of times you've struggled to work due to broken or missing computer tools.
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 6 M
-
-Extra challenge  
-Work with a partner. Sit at the computer and ask your partner to assist you with a problem. For instance, you might ask them to explain how to create a new folder. 
-
-Let your partner guide you through the task and provide assistance.
-
-Then, talk about how helpful your partner was. Did you feel confused at any moment? Did your partner clarify anything better?
-
-Now switch roles so you can offer help.
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 6 M
-
-Think again  
 You notice a classmate is upset about something they saw on the screen. How can you assist them?
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 1 M
 
-Activity  
-Use a search engine.  
-In the search box type: rainforest.  
-Find one fact about rainforests.  
-[MATERIAL] [You will need access to a device with internet capability to use a search engine.]
+(Computer Science) (Activity) D 1 M
 
-(Computer Science) T D 1 M
+\begin{enumerate}[label=\alph*.]
+\item Use a search engine.  
+\item In the search box type: rainforest.  
+\item Find one fact about rainforests.  
+\item Use website features to find out more facts.  
+\end{enumerate}
 
-Extra challenge  
-Use website features to find out more facts.  
-[MATERIAL] [You will need access to a device with internet capability to explore website features.]
 
-(Computer Science) T D 1 M
+(Computer Science) (Activity, Short Answer, Outdoor Exercise) D 1 M
 
-Think again  
-Write about the facts you found in this lesson.  
-[MATERIAL] [You will need paper and a writing tool to write down your thoughts.](Computer Science) T D 1 M
+\begin{enumerate}[label=\alph*.]
+\item Walk around your environment with a friend or family member.  
+\item Ask the people you meet how they use computers.  
+\item Describe the different ways people use computers in your surroundings.
+\end{enumerate}
 
-Activity  
-Walk around your environment with a friend or family member.  
-Ask the people you meet how they use computers.  
-Describe the different ways people use computers in your surroundings.
 
-(Computer Science) T D 1 M
+(Computer Science) (Short Answer) D 1 (Relates subject to the world)
 
-Think again  
 How do you think computers make it easier for adults to do their jobs in your community?
 
-(Computer Science) T D 1 M
 
-Extra challenge  
+(Computer Science) (Short Answer) D 1 (Relates subject to the world)
+
 Write one sentence about the ways adults use computers in your community.
 
-(Computer Science) T D 1 M
 
-Digital citizen of the future  
-Do you think you will use a computer in your job when you are an adult? 
+(Computer Science) (Short Answer, Reflection) D 1 (Relates subject to the world)
 
-[MATERIAL] [No specific material needed; just engage in conversation and observation.](Computer Science) T D 2 M
+Do you think you will use a computer in your job when you are an adult?
 
-Activity  
-Open the file you made in the last lesson. Type new numbers of animals into the spreadsheet. See how the total changes. Add up the numbers yourself on paper, and check that the computer has got it right!
 
-\subsection{Materials} 
-Paper and a writing tool (like a pencil or pen).
+(Computer Science) (Activity, Statistics Exercise) D 2 M
 
-(Computer Science) T D 2 M
+\begin{enumerate}
+\item Talk to family and friends about what animals they like to see in a nature reserve.
+\item Make a plan for a nature reserve. 
+\item Choose the type of animals carefully so that people will enjoy their visit. 
+\item Choose the number of animals carefully so the reserve is not too crowded. 
+\item Make a spreadsheet to show your plan.
+\end{enumerate}
 
-Extra challenge  
-Your nature reserve can have 100 animals. How many animals will there be of each type? Perhaps you will have 10 lions and 50 zebras? Type different numbers into the cells. Make sure the number of animals left in the reserve does not get bigger than 100.
 
-\subsection{Materials} 
-Paper and a writing tool (like a pencil or pen).
+(Computer Science) (Activity) D 5 M
 
-(Computer Science) T D 2 M
+\begin{enumerate}[label=\alph*.]
+\item Look at photos online and choose one.
+\item Find any areas that need retouching. 
+\item Decide what editing tool to use to retouch your image. 
+\item Use your chosen tool to retouch the images. Save your image.
+\item Compare your retouched image to the original. Write down the ways in which it changed. Have the changes made the photo better or worse? Explain why.
+\end{enumerate}
 
-Explore more  
-Talk to family and friends about what animals they like to see in a nature reserve. Make a plan for a nature reserve. Choose the type of animals carefully so that people will enjoy their visit. Choose the number of animals carefully so the reserve is not too crowded. If you have time, make a spreadsheet to show your plan.
 
-\subsection{Materials} 
-Paper and a writing tool (like a pencil or pen).(Computer Science) T D 5 M
+(Computer Science) (Short Answer) D 5 M
 
-Activity  
-Look at the photos you have been working on in this unit. Find any areas that need retouching. Decide what editing tool to use to retouch your images. Use your chosen tool to retouch the images. Save your images.
-
-\subsection{Materials} [Photos you have been working on, editing software or tools]
-
-(Computer Science) T D 5 M
-
-Extra challenge  
-Compare your retouched images to the originals. Write down the ways in which they have changed. Have the changes made the photos better or worse? Explain why.
-
-\subsection{Materials} [Retouched images and original images for comparison]
-
-(Computer Science) T D 5 M
-
-Think again  
 Find a photo in a magazine or an advert. How might this image have been changed?
 
-\subsection{Materials} [A magazine or advert containing a photo](Computer Science) T D 2 M
 
-Activity  
-Make a spreadsheet by entering the labels and values shown on this page. Save the file.
+(Computer Science) (Short Answer) D 1 (Exercise on using computers responsibly)
 
-(Computer Science) T D 2 M
+What might be unsafe or inappropriate about how children can interact with their computers?
 
-Extra challenge  
-Add an extra animal to the list. How many animals will you have in your reserve? Type the number in the correct cell.
 
-(Computer Science) T D 2 M
+(Computer Science) (Short Answer) D 1 (Exercise on using and sharing computers safely)
 
-Think again  
-What is the name of the cell with the label 'giraffes' in it?
-
-[STARTDGM] A table with two columns: the first column lists animal types (Zebras, Lions, Giraffes, Cheetahs) and the second column lists corresponding numbers (6, 4, 3, 2). [STOPDGM](Computer Science) T D 1 M
-
-Activity  
-What might be unsafe or inappropriate about how children are interacting with their computers?
-
-(Computer Science) T D 1 M
-
-Extra challenge  
 While sharing is good, what are some general practices children can follow to ensure they are using technology safely?
 
-[MATERIAL] [No specific material needed; just think about general safety practices for using computers, like not sharing personal information and taking breaks.](Computer Science) T D 6 M
 
-Activity  
- Describe something you have learned about robots, focusing on how they are used in everyday life or their potential future applications. 
+(Computer Science) (Short Answer) D 6 (Exercise on robots, Exercise that relates the subject to the world)
 
-\subsection{Materials}  
- None needed. 
+ Describe something you have learned about robots, focusing on how they are used in everyday life or their potential future applications.
 
-(Computer Science) T D 6 M
 
-Extra challenge  
+(Computer Science) (Short Answer) D 6 (Exercise on robots, Relates to the world)
+
  Think about a task you do regularly. Describe how a robot could be designed to help with that task, considering its features and functions.
 
-\subsection{Materials}  
- None needed. 
 
-(Computer Science) T D 6 M
+(Computer Science) (Short Answer) D 6 M
 
-Think again  
- Reflect on the differences between robots and humans. What are some advantages and disadvantages of using robots for certain tasks compared to humans?
+\begin{enumerate}
+\item Reflect on the differences between robots and humans. 
+\item What are some advantages and disadvantages of using robots for certain tasks compared to humans?
+\end{enumerate}
 
-\subsection{Materials}  
- None needed. 
+[STARTDGM] Two children are interacting with a humanoid robot. One child is holding a tablet, while the other is observing the robot. The robot is standing on a table, and there are various objects around it. [STOPDGM]
 
-[STARTDGM] Two children are interacting with a humanoid robot. One child is holding a tablet, while the other is observing the robot. The robot is standing on a table, and there are various objects around it. [STOPDGM](Computer Science) T D 4 M
 
-Activity  
-Enter the search string 'pizza recipe vegetarian' and look at the first page of results. Now enter 'pizza recipe vegetarian -margherita'. Are there any changes in the search results?
+(Computer Science) (Activity, Short Answer) D 4 M
 
-(Computer Science) T D 4 M
+Open a search engine. Enter the search string 'pizza recipe vegetarian' and look at the first page of results. Now enter 'pizza recipe vegetarian -margherita'. Are there any changes in the search results?
 
-Be creative  
+
+(Computer Science) (Long Answer, Creative Exercise) D 4 (Exercise on searching the web)
+
 Use your web search skills to create an advert for your favourite pizza. Write a short paragraph that tells people how good your pizza is!
 
-[MATERIAL] [No specific material needed; just use a computer or smartphone with internet access to perform the searches and write the advert.](Computer Science) T D 4 M
 
-Activity  
-Search for a review of your favourite book. Use quote marks around the book title.  
-Use an asterisk to search for a book where you are unsure of the full title.  
-[MATERIAL] [None needed; just use your imagination or memory of a book you like.]
+(Computer Science) (Activity) D 4 (Exercise on learning how to use search engines, Multi-part)
 
-(Computer Science) T D 4 M
+\begin{enumerate}
+\item Search for a review of your favourite book. Use quote marks around the book title. 
+\item Use an asterisk to search for a book where you are unsure of the full title.
+\end{enumerate}
 
-Extra challenge  
-Use your new skills to help with a piece of homework in another subject.  
-[MATERIAL] [None needed; think of any homework topic you have.]  
 
-(Computer Science) T D 4 M
+(Computer Science) (Activity) D 4 (At Home Activity)
 
-Explore more  
-Do other members of your family use the internet? You have learned some useful search skills in this unit. Share them with your family to help them when they use the internet.  
-[MATERIAL] [None needed; just discuss with your family.](Computer Science) T D 4 M
+Do other members of your family use the internet? Share some useful search skills with your family to help them when they use the internet. Report on their opinions on these skills. Do they help them?
 
-Activity  
+
+(Computer Science) (Short Answer) D 4 M
+
 How could you use a flash drive to move homework from a computer at home to a computer at school? Write your answer as a list of steps.
 
-\subsection{Materials}  
-None needed.
 
-(Computer Science) T D 4 M
+(Computer Science) (Short Answer) D 4 M
 
-Extra challenge  
-You have learned that a typical storage drive can hold 8500 hours of music. How many days would it take to play that music? (Hint: there are 24 hours in a day.)
-
-\subsection{Materials}  
-None needed.
-
-(Computer Science) T D 4 M
-
-Think again  
 What problems will you have if you don’t save your work properly?
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 3 M
 
-Activity  
-Think of a fact about an explorer. Write it down in a sentence. Then, imagine sending an email to a classmate with that fact.
+(Computer Science) (Activity, Creative Exercise) D 3 M
 
-\subsection{Materials}  
-Paper and pen or a digital device for writing.
+Think of a fact about an explorer. Write it down in a sentence. Then, imagine sending an email to a classmate with that fact. Write this email out.
 
-(Computer Science) T D 3 M
 
-Extra challenge  
-Imagine a classmate has sent you an email. Think about how you would reply to them, sharing what you found interesting about the fact.
+(Computer Science) (Short Answer) D 3 M
 
-\subsection{Materials}  
-Paper and pen or a digital device for writing.
+Imagine a classmate has sent you an email. Think and write about how you would reply to them, sharing what you found interesting about the fact.
 
-(Computer Science) T D 3 M
 
-Think again  
+(Computer Science) (Short Answer) D 3 M
+
 Consider why it might be helpful to keep a record of the emails you send. What benefits could this have?
 
-\subsection{Materials}  
-None needed.(Computer Science) T D 3 M
 
-Activity  
-Look at these ways of communicating.  
-Which way or ways are reliable?  
-Which way or ways are private?  
-Which way or ways are quick?  
-Which way or ways are easy to use?  
-[MATERIAL] [You can use a list of different communication methods, such as talking, texting, emailing, or sending letters.]
+(Computer Science) (Activity, Short Answer) D 3 M
 
-(Computer Science) T D 3 M
+Come up with as many ways of communicating as you can. Make sure to also come up with ways that rely on the usage of electronics.
+\begin{enumerate}
+\item Which way or ways are reliable?  
+\item Which way or ways are private?  
+\item Which way or ways are quick?  
+\item Which way or ways are easy to use?  
+\end{enumerate}
 
-Extra challenge  
-Can you make up your own way of communicating?  
-[MATERIAL] [You will need paper and a writing tool to create your own communication method.]
 
-(Computer Science) T D 3 M
+(Computer Science) (Short Answer) D 3 M
 
-Think again  
-Email is very popular. Why do you think email is so popular?  
-[MATERIAL] [You can think about the advantages of email, such as speed, convenience, and accessibility.](Computer Science) T D 6 M
+Email is very popular. Why do you think email is so popular?
 
-Activity  
+
+(Computer Science) (Activity, Short Answer) D 6 M
+
 You have been asked to design a robot that throws tennis balls to a student for practice. 
+\begin{enumerate}
+\item Imagine and describe what your robot would look like. Think about how it senses its environment and how it moves. 
+\item Think about what the robot needs to know to throw the ball accurately. What kind of information would help it decide where and how to throw?
+\item Consider how the robot can tell if the student has caught the ball. What kind of sensor would help with this?
+\item If the robot could throw the ball to different places, how would you change its throwing method? 
+\item Think about how the robot could learn from the student's catching skills. What steps would you take to help it improve its throwing accuracy? 
+\end{enumerate}
 
-1. Imagine and describe what your robot would look like. Think about how it senses its environment and how it moves. 
 
-2. Think about what the robot needs to know to throw the ball accurately. What kind of information would help it decide where and how to throw?
+(Computer Science) (Short Answer) D 1 M
 
-3. Consider how the robot can tell if the student has caught the ball. What kind of sensor would help with this?
+Describe how you would use a computer mouse without needing to see it. Think about the shape, how it feels in your hand, and how you would move it on a surface.
 
-4. If the robot could throw the ball to different places, how would you change its throwing method? 
 
-5. Think about how the robot could learn from the student's catching skills. What steps would you take to help it improve its throwing accuracy? 
+(Computer Science) (Short Answer) D 1 M
 
-[MATERIAL] 
-- Paper and pencil for drawing and writing descriptions. 
-- Imagination to visualize the robot and its functions. 
-- A quiet space to think about the robot's design and functions.(Computer Science) T D 1 M
+Imagine you are teaching someone else how to use a computer mouse. What steps would you explain to them?
 
-Activity  
-Describe how you would use a computer mouse without needing to see it. Think about the shape, how it feels in your hand, and how you would move it on a surface. 
 
-\subsection{Materials} 
-None needed.
+(Computer Science) (Group Activity, Creative Exercise) D 3 (Multi-part)
 
-(Computer Science) T D 1 M
+Imagine you are a mountain explorer. 
+\begin{enumerate} 
+\item Describe a mountain you have seen or imagined in one sentence.  
+\item Send this description to a classmate as an email.
+\item Open the email you received from a classmate. Describe the content of the email in one sentence.
+\end{enumerate}
 
-Extra challenge  
-Imagine you are teaching someone else how to use a computer mouse. What steps would you explain to them? 
 
-\subsection{Materials} 
-None needed.(Computer Science) T D 2 M
+(Computer Science) (Short Answer) D 3 M
 
-Activity  
-Open your 'My hobby' file.  
-Search for an image that represents your hobby. Describe the image you would choose and explain why it represents your hobby. Save your file.
+Say one thing you can attach to an email as well as a picture.
 
-(Computer Science) T D 2 M
 
-Think again  
-Why do you think the image you would choose represents your hobby?
+(Computer Science) (Short Answer) D 4 (Relates to the world, Multi-part)
 
-(Computer Science) T D 2 M
+\begin{enumerate}[label=\alph*.]
+\item How do you organise your data files at home and at school? 
+\item What can you do to improve the way you use folders and file names?
+\end{enumerate}
 
-Extra challenge  
-Change the way your poster title looks.  
-1. Imagine selecting text. Describe how you would highlight the title "My hobby is reading" using your finger or a tool.  
-2. Describe what you would do next to change the appearance of your title. What changes would you want to make to your poster title?
 
-[MATERIAL] [No specific material needed; just use imagination and verbal description.](Computer Science) T D 2 M
+(Computer Science) (Activity) D 4 (Exercise on learning to make a backup)
 
-Activity  
-Add a text box to your file about your favourite hobby. Write about your favourite hobby.  
-- What is your favourite hobby?  
-- Why do you like your hobby?  
-- What is difficult in your hobby?  
-- What is easy in your hobby?  
+On a computer, open your work area in File Explorer, either on a school computer or at home. Create a folder called 'Back-ups'. Copy a file to your 'Back-ups' folder.
 
-\subsection{Materials}  
-You will need a computer or device with a word-processing application installed.  
 
-(Computer Science) T D 2 M
+(Computer Science) (Activity, Creative Exercise) D 1 (Relates exercise to the world)
 
-Extra challenge  
-Can you move the text box to a different place on the screen?  
-Can you change the colour of the text in the box?  
-
-\subsection{Materials}  
-You will need a computer or device with a word-processing application installed.(Computer Science) T D 2 M
-
-Activity  
-Put the actions in the right order. Make an algorithm.
-
-(Computer Science) T D 2 M
-
-Think again  
-One action must come before the other. Which one comes first? Give a reason for your answer.
-
-(Computer Science) T D 2 M
-
-Extra challenge  
-Make an algorithm that includes these new actions.
-
-[MATERIAL] [You will need paper and a writing tool to create the algorithm.](Computer Science) T D 3 M
-
-Activity  
-Imagine you are a mountain explorer.  
-Describe a mountain you have seen or imagined in one sentence.  
-Send this description to a classmate.
-
-(Computer Science) T D 3 M
-
-Extra challenge  
-Open the email you received from a classmate.  
-Describe the content of the email in one sentence.
-
-(Computer Science) T D 3 M
-
-Think again  
-Say one thing you can attach to an email as well as a picture.  
-[MATERIAL] [Think of items like documents, audio files, or links that can be attached to an email.](Computer Science) T D 4 M
-
-Think again  
-How do you organise your data files at home and at school? What can you do to improve the way you use folders and file names?  
-
-\subsection{Materials}  
-No specific material needed. Reflect on your current organization methods and consider improvements.  
-
-(Computer Science) T D 4 M
-
-Extra challenge  
-Open your work area in File Explorer, either on a school computer or at home. Create a folder called 'Back-ups'. Copy a file to your 'Back-ups' folder.  
-
-\subsection{Materials}  
-No specific material needed. Use any file on your computer to practice creating a folder and copying files.  
-
-(Computer Science) T D 4 M
-
-Activity  
-Look at the list of files at the bottom of page 14. Sunny is searching for a file she knows she created using Word on 5 January 2019. Which files in the list can she dismiss? For each file, say why.  
-
-\subsection{Materials}  
-No specific material needed. Use your imagination to create a list of files and think about which ones could be dismissed based on the date.  (Computer Science) T D 1 M
-
-Activity  
 Draw a picture of one thing you can do with a computer outside school. For example, make a picture of a car. Give your picture to your teacher.
 
-\subsection{Materials} 
-Paper and drawing tools (like crayons or markers).
 
-(Computer Science) T D 1 M
+(Computer Science) (Short Answer) D 1 (Relates subject to the world)
 
-Extra challenge  
-What else could you do with a computer outside school? 
+What could you do with a computer outside school?
 
-\subsection{Materials} 
-None needed.
 
-(Computer Science) T D 1 M
+(Computer Science) (Reflection, Short Answer) D 1 M
 
-Think again  
-How will you use computers when you are grown up? 
-
-\subsection{Materials} 
-None needed.
+How will you use computers when you are grown up?
 
 
 (English) T D 5 M
