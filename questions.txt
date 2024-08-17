@@ -49119,193 +49119,208 @@ Copy and complete the table below in your Investigation Notebook. List the solid
 [STRDGRM] The image shows various pieces of laboratory equipment used for separating mixtures, including a sieve, beaker, funnel, filter paper, and a magnet. Each piece is labeled with a letter corresponding to the questions. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Drawing Shapes) D 1 M
 
-[Drawing Shapes]
 Draw a triangle, square, and circle.
 [STRDGRM] Three shapes: a triangle, a square, and a circle, each clearly outlined for drawing. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Coloring Shapes) D 1 M
 
-[Coloring Shapes]
 Color the shapes in the box.
 [STRDGRM] A box containing various shapes including circles, triangles, and squares, ready for coloring. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Identifying Shapes) D 1 M
 
-[Identifying Shapes]
 Identify the number of each shape.
 [STRDGRM] A collection of shapes: circles, triangles, and squares, with spaces to write the count of each. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Drawing Shapes) D 1 M
 
-[Drawing Shapes]
 Draw the shapes in the box.
 [STRDGRM] A box with outlines of a square, circle, and triangle for drawing. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Sorting Shapes) D 1 M
 
-[Sorting Shapes]
 Sort the shapes into groups.
 [STRDGRM] Various shapes displayed, including circles, triangles, and squares, for sorting into groups. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Drawing Shapes) D 1 M
 
-[Drawing Shapes]
 Draw the shapes in the box.
 [STRDGRM] A box with outlines of a rectangle and a triangle for drawing. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Identifying Shapes) D 1 M
 
-[Identifying Shapes]
 Identify the shapes and write their names.
 [STRDGRM] A collection of shapes including a triangle, square, and circle, with spaces for writing names. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Drawing Shapes) D 1 M
 
-[Drawing Shapes]
 Draw the shapes in the box.
 [STRDGRM] A box with outlines of a circle and a triangle for drawing. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Choosing Shapes) D 1 M
 
-[Choosing Shapes]
-Choose different variations of each shape.
-[STRDGRM] A selection of shapes with spaces to draw variations of each. [STPDGRM]
-
-
-(Mathematics) T D 1 M
-
-[Completing the Table]
-Complete the table with shapes and descriptions.
-[STRDGRM] A table with columns for shape names and descriptions, ready for completion. [STPDGRM]
+Draw different variations of each shape.
+[STRDGRM] A selection of shapes with spaces to draw variations of each. It includes a rectangle, a circle, a triangle and a hexagon. [STPDGRM]
 
 
-(Mathematics) T D 1 M
+(Mathematics) (Completing the Table) D 1 (Exercise on shapes or geometry)
 
-[Identifying Differences]
-What is the same and what is different?
-[STRDGRM] A comparison of a cube and a square, with prompts for identifying similarities and differences. [STPDGRM]
-(Mathematics) T D 6 M
+Complete the table with shapes and descriptions. For instance, the description of the shape might mention the number of sides, their arrangement, and/or their length.
 
-[Area estimation]
-Estimate the area of this triangle.
+\begin{table}[]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Shape} & \textbf{Description} \\ \hline
+Cube           &                      \\ \hline
+Square         &                      \\ \hline
+Triangle       &                      \\ \hline
+Circle         &                      \\ \hline
+Rectangle      &                      \\ \hline
+Rhomboid       &                      \\ \hline
+\end{tabular}
+\caption{}
+\label{tab:my-table}
+\end{table}
+
+
+(Mathematics) (Identifying Differences) D 1 M
+
+What is the same and what is different? 
+
+\begin{table}[]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Characteristics}    & \textbf{Different/Same} \\ \hline
+Number of dimensions        &                         \\ \hline
+Total number of sides       &                         \\ \hline
+Number of same length sides &                         \\ \hline
+Number of corners/angles    &                         \\ \hline
+Number of sides per face    &                         \\ \hline
+\end{tabular}
+\caption{}
+\end{table}
+
+[STRDGRM] A cube and a square, side-by-side. [STPDGRM]
+
+
+(Mathematics) (Area estimation) D 6 M
+
+One square is equal to \[1 cm\]. Estimate the area of this triangle.
+
 [STRDGRM] A grid with a triangle overlay, showing squares covered by the triangle. [STPDGRM]
 
 
-(Mathematics) T D 6 M
+(Mathematics) (Rectangle area calculation) D 6 M
 
-[Rectangle area calculation]
-1. What is the area of this rectangle?
+\begin{enumerate}
+\item What is the area of this rectangle?
 [STRDGRM] A rectangle with dimensions labeled as 3 cm and 4 cm. [STPDGRM]
 
-2. Divide the area of the rectangle by 2 to find the area of the triangles. What is the area of the triangle?
+\item Divide the area of the rectangle by 2 to find the area of the triangles. What is the area of the triangle?
 [STRDGRM] A rectangle divided into two triangles. [STPDGRM]
+\end{enumerate}
 
 
-(Mathematics) T D 6 M
+(Mathematics) (Triangle estimation) D 6 M
 
-[Triangle estimation]
-Estimate the area of each triangle to the nearest half centimeter.
-[STRDGRM] A diagram showing two triangles within a grid. [STPDGRM]
+One square is equal to \[1 cm\] Estimate the area of each triangle to the nearest half centimeter.
+[STRDGRM] A diagram showing two triangles of different sizes within a grid. [STPDGRM]
 
 
-(Mathematics) T D 6 M
+(Mathematics) (Missing side calculation) D 6 M
 
-[Missing side calculation]
 Work out the length of the missing side.
 [STRDGRM] A triangle with one side labeled as 5 m and the area as 12.5 m². [STPDGRM]
 
 
-(Mathematics) T D 6 M
+(Mathematics) (Geometry Exercise) D 6 (Exercise on drawing shapes)
 
-[Right triangle drawing]
 Draw some different right-angled triangles on the squares that have an area of 6 cm².
+
+One square is equal to 1cm
+
 [STRDGRM] A grid with squares marked for drawing triangles. [STPDGRM]
 
 
-(Mathematics) T D 6 M
+(Mathematics) (Visual Problem, Geometry Exercise) D 6 (Exercise on triangles)
 
-[Paint calculation]
-What is the total number of paint pots that will need to buy to cover 75 tiles?
-[STRDGRM] A mosaic pattern with triangular tiles, dimensions labeled as 2 m and 15 m. [STPDGRM]
+One pot of paint covers \[5 m^2\] What is the total number of paint pots that must be to bought to cover 75 tiles?
+
+[STRDGRM] A mosaic pattern with triangular tiles, dimensions labeled as 2 m for the legs and 15 m for the base. [STPDGRM]
 
 
-(Mathematics) T D 6 M
+(Mathematics) (Area Computation Exercise) D 6 (Exercise on triangles)
 
-[Area questions]
 What is the area of the large square? What is the area of each white triangle? What is the area of the gray square?
-[STRDGRM] A large square with smaller triangles inside, dimensions labeled. [STPDGRM]
-(Mathematics) T D 3 M
 
-[Direction and Positioning Exercise]
-1. Draw the shapes in the right direction.
-2. Write the names of your favorite shapes.
-[STRDGRM] A grid with various shapes (triangle, square, rectangle) positioned in different orientations. [STPDGRM]
+[STRDGRM] A large square with three smaller triangles inside: two small white triangles that connect together to form the base of the square, and one grey triangle that is the same dimension as the two white triangles combined. The base of one white triangle is labeled as \[5 cm\], while the height of the grey triangle is labeled as \[4 cm\] [STPDGRM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Direction and Positioning Exercise) D 3 M
 
-[Identifying Directions Exercise]
-1. Write two different ways to get from the school to the hospital.
-[STRDGRM] Images of a school and a hospital with arrows indicating possible paths. [STPDGRM]
+\begin{enumerate}
+\item Draw the shapes in the right direction.
+\item Write the names of your favorite shapes.
+\end{enumerate}
+
+[STRDGRM] A grid with various shapes (triangle, square, rectangle) positioned in different unconventional orientations (upside down, rightside up, leftside up). [STPDGRM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Shape Description Exercise) D 3 M
 
-[Shape Description Exercise]
-1. Write the names of the shapes.
-2. Describe the characteristics of each shape.
+\begin{enumerate}
+\item Write the names of the shapes.
+\item Describe the characteristics of each shape.
+\end{enumerate}
+
 [STRDGRM] An image showing various shapes (heart, star, etc.) with a grid background. [STPDGRM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Geometry Exercise) D 3 (Exercises on different kinds of angles)
 
-[Movement and Direction Challenge]
-1. Draw the angles that match the given shapes.
-2. Count how many angles there are in each shape.
-[STRDGRM] Diagrams of various angles and shapes (acute, obtuse, etc.) with a grid background. [STPDGRM]
+\begin{enumerate}
+\item Draw the angles that match the given shapes.
+\item Count how many angles there are in each shape.
+\end{enumerate}
 
-
-(Mathematics) T D 3 M
-
-[Map Navigation Exercise]
-1. Write directions to reach the treasure.
-2. Describe the landmarks you see along the way.
-[STRDGRM] A map with various landmarks (trees, animals, etc.) and a path leading to a treasure. [STPDGRM]
-(Mathematics) T D 3 M
-
-[Fraction addition exercise]
-1 What addition is shown on this diagram?
-[STRDGRM] A diagram showing fractions represented as bars, with segments labeled 1/10. [STPDGRM]
+[STRDGRM] Diagrams of various angles (acute, obtuse, etc.) and shapes (square, parallelogram, triangle) with a grid background. [STPDGRM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Fraction Addition Exercise) D 3 M
 
-[Fraction completion exercise]
-2 Complete the numerators to make this calculation correct. Find three different solutions.
-[STRDGRM] A series of fraction equations with missing numerators, labeled a, b, and c. [STPDGRM]
+What addition is shown on this diagram?
 
-
-(Mathematics) T D 3 M
-
-[Fraction subtraction exercise]
-3 What subtraction is shown on this diagram?
-[STRDGRM] A diagram showing fractions represented as bars, with segments labeled 8/10 and 1/10. [STPDGRM]
+[STRDGRM] A diagram showing two fractions labeled as bars (1/10, 3/5), being added together. [STPDGRM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Fraction Completion Exercise) D 3 M
 
-[Time calculation exercise]
-4 A television programme goes for 1/5 of an hour. How many minutes is that?
+Complete the numerators to make this calculation correct. Find three different solutions.
+
+[STRDGRM] A series of fraction equations with missing numerators, labeled as a / 10 +  b / 5 + c / 20 = 2. [STPDGRM]
+
+(Mathematics) (Fraction Subtraction Exercise) D 3 M
+
+What subtraction is shown on this diagram?
+[STRDGRM] A diagram showing a subtraction of fractions represented as bars, with segments labeled 8/10 and 1/10. [STPDGRM]
+
+
+(Mathematics) (Time Calculation Exercise) D 3  (Exercise on converting hours to minutes)
+
+A television programme goes for 1/5 of an hour. How many minutes is that?
+
 [STRDGRM] A visual of a living room with a television showing a program. [STPDGRM]
 
 
