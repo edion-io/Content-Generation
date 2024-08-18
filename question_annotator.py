@@ -12,8 +12,17 @@ SUBJECTS = ["Computer Science", "Science", "Math", "Social Studies", "History", 
 
 
 class TextEditor:
+    """
+    A simple text editor for annotating questions in the specified format
+    """
 
-    def __init__(self, root):
+    def __init__(self, root: tk.Tk):
+        """
+        Initialize the TextEditor class.
+
+        Args:
+            root: Tkinter root object
+        """
         self.root = root
         self.root.title("Text Section Editor")
 
@@ -73,6 +82,12 @@ class TextEditor:
         self.root.bind("<F5>", lambda _: self.detect_type())
 
     def load_files(self):
+        """
+        Load a text file to read from and a text file to write to.
+
+        Returns:
+
+        """
         if self.chunks and not messagebox.askokcancel("Warning", "Loading new files will overwrite any unsaved progress. "
                                                                  "Do you want to continue?"):
             return
@@ -106,6 +121,12 @@ class TextEditor:
         self.chunk_number_label.config(text=f"/ {len(self.chunks)}")
 
     def save_sections(self):
+        """
+        Saves loaded sections to file
+
+        Returns: None
+        """
+
         if not self.chunks:
             messagebox.showwarning("No Sections", "No sections to save. Load a file first.")
             return
@@ -122,6 +143,11 @@ class TextEditor:
                                               f"{self.start_chunk} to {self.current_chunk}")
 
     def next_section(self):
+        """
+        Displays the next section in the textbox
+
+        Returns: None
+        """
         if not self.chunks:
             messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
             return
@@ -138,6 +164,11 @@ class TextEditor:
         self._show_section()
 
     def previous_section(self):
+        """
+        Displays the previous section in the textbox
+
+        Returns: None
+        """
         if not self.chunks:
             messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
             return
@@ -153,6 +184,11 @@ class TextEditor:
         self._show_section()
 
     def jump_chunk(self):
+        """
+        Loads sections from a desired chunk
+
+        Returns: None
+        """
         if not self.chunks:
             messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
             return
@@ -160,6 +196,8 @@ class TextEditor:
         # Show warning dialog before loading a specific chunk
         if messagebox.askokcancel("Warning", "Loading a specific chunk will overwrite any unsaved progress. "
                                              "Do you want to continue?"):
+
+            # check input
             try:
                 chunk_num = int(self.chunk_entry.get())
             except ValueError:
@@ -193,6 +231,11 @@ class TextEditor:
             self._show_section()
 
     def detect_type(self):
+        """
+        If no type parameter is present, remove the first line and set it as the type parameter
+
+        Returns: None
+        """
         if not self.chunks:
             messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
             return
@@ -230,7 +273,14 @@ class TextEditor:
         self._show_section()
 
     def _load_sections(self):
+        """
+        Loads all sections from the current chunk and move to next chuck.
 
+        Sections are detected by subject names (SUBJECTS). The last section
+        might contain contents of next chuck.
+
+        Returns: None
+        """
         # Find the start of the first section, there should always be one
         result = self.subs.search(self.chunks[self.current_chunk])
         if result is None:
@@ -266,16 +316,31 @@ class TextEditor:
         self.sections.append(text)
 
     def _show_section(self):
+        """
+        Load current section into textbox
+
+        Returns:
+        """
         if self.current_section < len(self.sections):
             self.textbox.delete(1.0, tk.END)
             self.textbox.insert(tk.END, self.sections[self.current_section])
             self._update_chunk_label()
 
     def _update_chunk_label(self):
+        """
+        Set the chunk label to current chunk
+
+        Returns: None
+        """
         self.chunk_entry.delete(0, tk.END)
         self.chunk_entry.insert(1, str(self.current_chunk - 1))
 
     def _update_section(self):
+        """
+        Replace local contents of the current section with contents of the textbox
+
+        Returns: None
+        """
         self.sections[self.current_section] = self.textbox.get(1.0, tk.END).strip()
 
 
