@@ -47027,6 +47027,7 @@ Complete the numerators to make this calculation correct. Find three different s
 
 [STRDGRM] A series of fraction equations with missing numerators, labeled as a / 10 +  b / 5 + c / 20 = 2. [STPDGRM]
 
+
 (Mathematics) (Fraction Subtraction Exercise) D 3 M
 
 What subtraction is shown on this diagram?
@@ -47035,518 +47036,598 @@ What subtraction is shown on this diagram?
 
 (Mathematics) (Time Calculation Exercise) D 3  (Exercise on converting hours to minutes)
 
-A television programme goes for 1/5 of an hour. How many minutes is that?
+A television programme goes for \[ \frac{1/5} \] of an hour. How many minutes is that?
 
 [STRDGRM] A visual of a living room with a television showing a program. [STPDGRM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Estimation Exercise) D 3 M
 
-[Estimation exercise]
-5 Use diagrams or fraction strips to help you complete each calculation. Estimate before you calculate.
-[STRDGRM] A series of fraction calculations labeled a, b, c, and d with space for estimates. [STPDGRM]
-
-
-(Mathematics) T D 3 M
-
-[Fraction solution exercise]
-6 Find all the possible solutions for this calculation.
-1/3 = 3/3
-[STRDGRM] A fraction equation with missing elements for exploration. [STPDGRM]
+Use diagrams or fraction strips to help you complete each calculation. Estimate before you calculate.
+\begin{enumerate}[label=\alph*.]
+\item \[ \frac{2}{7} + \frac{5}{7} = \]
+\item \[ \frac{10}{12} + \frac{8}{12} = \]
+\item \[ \frac{1}{3} + \frac{2}{6} = \]
+\item \[ \frac{4}{3} + \frac{8}{12} = \]
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Fraction Solution Exercise) D 3 M
 
-[Price calculation exercise]
-7 Mariposa buys a shirt in the sale. Its price was $30 originally, but then reduced by 1/5. How much does Mariposa pay for the shirt?
+Find all the possible modifications you can make to the calculation below to make it correct.
+\begin{align} 
+\frac{1}{3} = \frac{3}{3}
+\end{align}
+
+
+(Mathematics) (Price Calculation Exercise, Fraction Exercise) D 3 (With Illustration)
+
+Mariposa buys a shirt in the sale. Its price was $30 originally, but then reduced by \[ \frac{1}{5} \]. How much does Mariposa pay for the shirt?
+
 [STRDGRM] An image of a shirt with a price tag showing $30. [STPDGRM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Fraction Exercise) D 3 (With Illustration, Themed with juice)
 
-[Juice mixture exercise]
-8 Hien mixes 200 millilitres of orange juice, 200 millilitres of pineapple juice and 200 millilitres of lemonade. What fraction of a litre is the drink that he makes?
+Hien mixes 200 millilitres of orange juice, 200 millilitres of pineapple juice and 200 millilitres of lemonade. What fraction of a litre is the drink that he makes?
+
 [STRDGRM] An image of juice containers and a measuring jug. [STPDGRM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Calculation Verification Exercise) D 3 (With Answer)
 
-[Calculation verification exercise]
-9 Use diagrams or fraction strips to help you check each calculation. Tick the correct answers. If the calculation is incorrect, correct it.
-[STRDGRM] A series of fraction calculations labeled a, b, c, d, and e with space for corrections. [STPDGRM]
+Use diagrams or fraction strips to help you check each calculation. Tick the correct answers. If the calculation is incorrect, correct it.
 
-(Mathematics) T D 3 M
+\begin{enumerate}[label=\alph*.]
+\item \[ \frac{1}{4} + \frac{3}{4} = \frac{5}{4} \]
+\item \[ \frac{2}{5} - \frac{2}{10} = \frac{1}{5} \]
+\item \[ \frac{32}{4} + \frac{-12}{2} = 2\]
+\item \[ \frac{3}{4} \times \frac{7}{2} = \frac{11}{4} \]
+\item \[ \frac{2}{3} \frac{5}{6} = \frac{5}{9} \]
+\end{enumerate}
 
-[Fabric usage exercise]
-10 Inaya buys 20 metres of fabric to make some curtains. She uses 7/10 of the fabric. How much fabric is left over?
+\subsection{Answers}
+\begin{enumerate}[label=\alph*.]
+\item x, \[ \frac{1}{4} + \frac{3}{4} = 1 \]
+\item √
+\item √
+\item x, \[ \frac{3}{4} \times \frac{7}{2} = \frac{21}{8} \]
+\item √
+\end{enumerate}
+
+
+(Mathematics) (Problem with Fractions) D 3 (With Illustration)
+
+Inaya buys 20 metres of fabric to make some curtains. She uses \[ \frac{7}{10} \] of the fabric. How much fabric is left over?
+
 [STRDGRM] An image of fabric rolls and a measuring tape. [STPDGRM]
 
-(Mathematics) T D 4 M
 
-[Coloring exercise]
-1. Draw one hundred squares. Color all the multiples of 2 a different color. 
+(Mathematics) (Coloring exercise) D 4 M
+
+Color all the squares containing multiples of 2 a different color. 
+
 [STRDGRM] A grid of 100 squares numbered from 1 to 100, arranged in a 10x10 format. Each square represents a number. [STPDGRM]
 
-(Mathematics) T D 4 M
 
-[Cross number puzzle]
-3. Complete this cross number puzzle.
-[STRDGRM] A crossword-style grid with numbers and clues for both across and down. The grid has empty boxes for answers. [STPDGRM]
+(Mathematics) (Factoring Exercise) D 4 (Exercise with factor pairs)
 
-(Mathematics) T D 4 M
-
-[Factor pairs exercise]
-4. The factor pairs of 18 are: 
 Write all the factor pairs of 18.
-[STRDGRM] A table format with two columns for factor pairs, with empty spaces for answers. [STPDGRM]
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Factoring exercise) D 4 (Exercise with factor trees)
 
-[Factor tree exercise]
-5. Complete the factor tree for 36 and 48.
-[STRDGRM] A branching diagram starting with the numbers 36 and 48 at the top, leading to their prime factors. [STPDGRM]
+Complete the factor tree for 36 and 48.
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Factoring Exercise) D 4 (Exercise with multiples)
 
-[Multiples identification]
-8. Circle the numbers that are multiples of 7.
-[STRDGRM] A list of numbers, with some highlighted for identification as multiples of 7. [STPDGRM]
+Circle the numbers that are multiples of 7.
 
-
-(Mathematics) T D 4 M
-
-[Hexagon problem]
-10. Here is a hexagon problem.
-You need to go from the center to one of the outside hexagons in two steps.
-[STRDGRM] A hexagonal grid with a center hexagon and surrounding hexagons, some marked with numbers. [STPDGRM]
-
-
-(Mathematics) T D 4 M
-
-[Multiplication triangles]
-12. Complete these multiplication triangles.
-[STRDGRM] A diagram with triangles where the product of the two base numbers equals the number at the top. [STPDGRM]
+\begin{enumerate}[label=\alph*]
+\item 61
+\item 28
+\item 42
+\item 1
+\item 0
+\item -7
+\end{enumerate}
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Multiplication Exercise) D 4 (Exercise that uses images)
 
-[Grid completion]
-13. Complete the multiplication grids.
-[STRDGRM] A grid with empty cells where multiplication results need to be filled in based on given numbers. [STPDGRM]
+Complete these multiplication triangles.
 
-
-(Mathematics) T D 4 M
-
-[Code creation]
-14. Use each card once to make a total that is a multiple of 7.
-[STRDGRM] A set of cards with numbers on them, arranged to create a sum that is a multiple of 7. [STPDGRM]
+[STRDGRM] A diagram with a triangle where the product of the two base numbers (7, 8) equals the number at the top (x). [STPDGRM]
+[STRDGRM] A diagram with a triangle where the product of the two base numbers (4, x) equals the number at the top (20). [STPDGRM]
+[STRDGRM] A diagram with a triangle where the product of the two base numbers (x, 8) equals the number at the top (40). [STPDGRM]
+[STRDGRM] A diagram with a triangle where the product of the two base numbers (6, -5) equals the number at the top (x). [STPDGRM]
+[STRDGRM] A diagram with a triangle where the product of the two base numbers (-8, x) equals the number at the top (8). [STPDGRM]
+[STRDGRM] A diagram with a triangle where the product of the two base numbers (7, x) equals the number at the top (x). [STPDGRM]
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Multiplication Exercise, Addition Exercise) D 4 M
 
-[Cross out exercise]
-15. Cross out the numbers to find the sum of the remaining numbers in each row and column in this grid.
-[STRDGRM] A grid with numbers arranged in rows and columns, with some numbers to be crossed out. [STPDGRM]
-(Mathematics) T D 5 M
+Use each card once to make a total that is a multiple of 7.
 
-[Fill in the blank]
-Complete the sentence for this number.
-[Situational: Number line showing positions of 33, 34, and 35]
+[STRDGRM] A set of cards, four on top and five on the bottom, side by side, with the numbers 3, 27, 4, 10, 50, 11, 21, 15 and 6. [STPDGRM]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Rounding Exercise) D 5 M
 
-[Multiple choice rounding]
-Zara rounds these numbers to 36.
-[Situational: Four number cards showing 36.5, 35.4, 36.4, and 35.1]
+Zara rounds these numbers to 36. Verify whether she is correct.
+
+\begin{enumerate}
+\item 36.5
+\item 35.4
+\item 36.4
+\item 35.1
+\end{enumerate}
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Matching Exercise) D 5 (Exercise with decimals)
 
-[Matching exercise]
 Draw a line to match each number to the nearest whole number.
+
 [Situational: Number line with numbers 7.4, 8.5, 9.9, 10.7, 10.1, and 11.5]
+[STRDGM] Two columns of numbers, one with decimals (7.4, 8.5, 9.9, 10.7, 10.1, and 11.5) and the other with whole numbers (7, 8, 10, 11, 10) [STPDGM]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Fill in the Blank) D 5 (Exercise on rounding)
 
-[Fill in the blank]
 Write a number with 1 decimal place to complete each sentence.
-[Situational: Two blank sentences regarding rounding]
+
+\begin{enumerate}
+\item _____ rounds to 7.
+\item _____ rounds to 13.
+\item _____ rounds to 45.
+\item _____ rounds to 2.
+\end{enumerate}
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Rounding Exercise) D 5 (Exercise that uses visuals)
 
-[Multiple choice rounding]
 Use each card once to make a number that rounds to the nearest whole number.
-[Situational: Three number cards showing 9, 1, and 5]
+
+[STRDGM] Three number cards showing 9, 1, and 5 [STPDGM]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Rounding Exercise) D 5 M
 
-[Smallest and largest number]
-What is the smallest number that rounds to 20?
-[Situational: Number with 1 decimal place]
+What is the smallest number with one decimal place that rounds to 20?
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Rounding Exercise) D 5 M
 
-[Letter identification]
 Write the letters of all the numbers that round to 10.
-[Situational: List of numbers with letters A to Z]
 
+\begin{enumerate}[label=\alph*]
+\item 10.1
+\item 9.3
+\item 9.9
+\item 10.4
+\item 10.8
+\item 9.7
+\item 10.2
+\item 9.6
+\item 10.12
+\item 9.51
+\item 10.01
+\item 10.501
+\item 9.82
+\item 9.5
+\item 10.5
+\end{enumerate}
 
-(Mathematics) T D 5 M
+(Mathematics) (Rounding Exercise) D 5 (Exercise that uses a table)
 
-[Drawing exercise]
-Draw a ring around the number that these clues are describing.
-[Situational: Eight numbers including 19.4, 19.9, 21.1, etc.]
-
-
-(Mathematics) T D 5 M
-
-[Addition and rounding]
-Which two cards did he choose?
-[Situational: Number cards showing 1.4, 2.4, 3.4, and 4.4]
-
-
-(Mathematics) T D 5 M
-
-[Table completion]
 Complete the table.
-[Situational: Table with columns for rounding to different whole numbers]
-(Mathematics) T D 5 M
 
-[Triangle identification]
+\begin{table}[]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Number} & \textbf{Rounded} \\ \hline
+10.1           &                      \\ \hline
+27.5         &                      \\ \hline
+	       &  20                    \\ \hline
+         &  38                    \\ \hline
+33.8      &                      \\ \hline
+       &  93                    \\ \hline
+\end{tabular}
+\caption{}
+\end{table}
+
+
+(Mathematics) (True or False Exercise, Geometry Exercise) D 5  (Exercise with triangles)
+
 Is this triangle isosceles?
-[Situational: A triangle with two equal sides and one different side is shown.]
+
+[STRDGM] A triangle with two equal sides and one different side [STPDGM]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Geometry Exercise) D 5 (Exercise with triangles)
 
-[Measurement exercise]
 Measure the length of each side of the triangle.
-[Situational: A triangle with sides labeled 4 cm, 5 cm, and a third side is shown.]
+
+[STRDGM] A triangle with sides labeled 4 cm, 5 cm, and a third unlabeled side. [STPDGM]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Geometry Exercise) D 5 M
 
-[Labeling exercise]
 Label the angles of each triangle.
-[Situational: Two triangles are displayed, one with angles labeled A, B, C, and the other with angles labeled D, E, F.]
+
+[STRDGM] Two triangles are displayed, one with angles labeled A, B, C, and the other with angles labeled D, E, F. [STPDGM]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Geometry Exercise, Drawing Exercise) D 5 M
 
-[Drawing exercise]
 Draw a scalene triangle using a ruler and pencil.
-[Situational: A blank space is provided for drawing a triangle with all sides of different lengths.]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Geometry Exercise) D 5 M
 
-[Sentence writing]
 Write a sentence about the sides of an equilateral triangle.
-[Situational: A blank space is provided for writing.]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Geometry Exercise) D 5 M
 
-[Sentence writing]
 Write a sentence about the angles of an equilateral triangle.
-[Situational: A blank space is provided for writing.]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Geometry Exercise, Drawing Exercise) D 5 M
 
-[Drawing exercise]
 Draw an isosceles triangle with two sides 6 cm long.
-[Situational: A blank space is provided for drawing.]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Geometry Exercise, Drawing Exercise) D 5 M
 
-[Drawing exercise]
 Draw an isosceles triangle with one side 6 cm long.
-[Situational: A blank space is provided for drawing.]
 
 
-(Mathematics) T D 5 M
+(Mathematics) (Pattern Completion, Geometry Exercise) D 5 M
 
-[Pattern completion]
 Trace the triangles to complete the pattern.
-[Situational: A series of incomplete triangles is shown, requiring tracing to complete the design.]
 
+[STRDGM] An incomplete scalene triangle requiring tracing to complete the design. [STPDGM]
+[STRDGM] An incomplete equilateral triangle requiring tracing to complete the design. [STPDGM]
+[STRDGM] An incomplete right triangle requiring tracing to complete the design. [STPDGM]
+[STRDGM] An incomplete isosceles triangle requiring tracing to complete the design. [STPDGM]
 
-(Mathematics) T D 5 M
 
-[Crossword puzzle]
-This is a crossword filled with words about triangles.
-[Situational: A grid with numbered squares for filling in words related to triangles is displayed.]
-(Mathematics) T D 4 M
+(Mathematics) (Calculation Exercise, Fill in the Blank) D 4 M
 
-[Calculation Exercise]
-1. Complete this calculation.  
-   6 × 15 = 6 × 5 + 6 × 10  
-   = 30 + 60  
-   = 90
+Complete this calculation.  
+\begin{align*}
+   6 \times 15 = 6 \times \_\_\_ + 6 \times \_\_\_  \\
+   = \_\_\_ + \_\_\_ \\
+   = \_\_\_
+\end{align*}
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Diagram Exercise) D 4 (Exercise that uses visuals)
 
-[Diagram Exercise]
-2. The numbers in the circles are multiplied together to give the numbers in the squares between them. Fill in the missing numbers.  
-   [STRDGRM] A diagram with circles labeled 3, 4, 7, and 8 connected to squares that need to be filled in with the products of the numbers in the circles. [STPDGRM]
+The numbers in the circles are multiplied together to give the numbers in the squares between them. Fill in the missing numbers. 
+ 
+[STRDGRM] A diagram with circles labeled 3, 4, 7, and 8, where 3 and 4 are connected to a square and 7 and 8 are connected to another square, with both squares side by side, under the circles. These two squares are then connected to one last square, situated below the two other squares. [STPDGRM]
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Calculation Exercise, Arithmetic Exercise) D 4 M
 
-[Calculation Exercise]
-3. What is double 78?  
-   78 × 2 = 156
+What is double 78?  
+\begin(equation*}
+   78 \times 2 = \_\_\_
+\end{equation}
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Calculation Exercise, Arithmetic Exercise) D 4 M
 
-[Calculation Exercise]
-4. Find the product of 58 and 8.  
-   58 × 8 = 464
+Find the product of 58 and 8.  
 
+\begin{equation*}
+   58 \times 8 = \_\_\_
+\end{equation*}
 
-(Mathematics) T D 4 M
 
-[Card Matching Exercise]
-5. Here are some number cards. Use each card once to make these products with the same answer.  
-   [STRDGRM] A set of number cards labeled 2, 3, 4, 6, 12, 16 arranged for matching. [STPDGRM]
+(Mathematics) (Card Matching Exercise, Arithmetic Exercise) D 4 M
 
+Here are some number cards. Use each card once to make products with the same answer.  
 
-(Mathematics) T D 4 M
+[STRDGRM] A set of number cards labeled 2, 3, 4, 12, 16, 24 arranged for matching. [STPDGRM]
 
-[Calculation Exercise]
-6. Emma and Astrid calculate 9 × 2 = 5. Complete their calculations. Who chose the better method?  
-   Emma's method:  
-   9 × 2 = 18  
-   Astrid's method:  
-   9 × 2 = 5
 
+(Mathematics) (Calculation Exercise, Arithmetic Exercise) D 4 M
 
-(Mathematics) T D 4 M
+Emma and Astrid are trying to calculate \[ 9 \times 2 \]. Who chose the better method?  
 
-[Calculation Exercise]
-7. Work out these calculations. Show your methods.  
-   Remember to estimate first.  
-   25 × 6  
-   76 × 9
+\subsection{Emma's method}
+\begin{equation*}
+   9 \times 2 = 18  
+\end{equation*}
 
+\subsection{Astrid's method}  
+\begin{equation*}
+   9 \times 2 = 5
+\end{equation*}
 
-(Mathematics) T D 4 M
 
-[Product Identification Exercise]
-8. Circle all the products equal to 2400.  
-   900 × 3  
-   300 × 8  
-   600 × 4
+(Mathematics) (Calculation Exercise, Arithmetic Exercise) D 4 M
 
+Work out these calculations. Show your methods. Remember to estimate first.  
 
-(Mathematics) T D 4 M
+\begin{enumerate}
+\item \[ 25 \times 6 \]
+\item \[ 76 \times 9 \]
+\end{enumerate}
 
-[Problem Solving Exercise]
-9. Write what the missing digits could be.  
-   ___ × 7 = 70
 
+(Mathematics) (Product Identification Exercise, Arithmetic Exercise) D 4 M
 
-(Mathematics) T D 4 M
+Circle all the products equal to 2400.  
+\begin{enumerate}[label=\alph*.]
+\item \[ 900 \times 3  \]
+\item \[ 300 \times 8  \]
+\item \[ 600 \times 4  \]
+\end{enumerate}
 
-[Calculation Exercise]
-10. How many different answers can you find?  
-    ___ × ___ = 70
 
+(Mathematics) (Fill in the Blank, Arithmetic Exercise) D 4 M
 
-(Mathematics) T D 4 M
+Write what the missing digits could be.  
 
-[Word Problem Exercise]
-13. Aisha is thinking of a number. She divides that number by 3 and her answer is 234. What number is Aisha thinking of?  
-    ___
+\begin{equation*}
+	\_\_\_ \times 7 = 70
+\end{equation*}
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Arithmetic Exercise) D 4 M
 
-[Calculation Exercise]
-14. Write the same digit in each box to make the calculation correct.  
-    3 × ___ = ___
+How many different answers can you find?  
+\begin{equation*}
+    \_\_\_ \times \_\_\_ = 70
+\end{equation*}
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Word Problem) D 4 M
 
-[Maximization Exercise]
-15. Use the digits 2, 6, and 4 to make the largest product.  
-    ___ × ___ = ___
-(Mathematics) T D 3 M
+Aisha is thinking of a number. She divides that number by 3 and her answer is 234. What number is Aisha thinking of?
 
-[Marking fractions on a number line]
-1. Mark \( \frac{1}{4} \) and \( \frac{2}{3} \) on this number line.
-[Situational: A horizontal line labeled from 0 to 1, with tick marks indicating fractions.]
 
+(Mathematics) (Arithmetic Exercise) D 4 M
 
-(Mathematics) T D 3 M
+Write the same digit in each box to make the calculation correct. 
 
-[Identifying fractions on a number line]
-2. Which fractions would be marked on a number line between 0 and \( \frac{1}{2} \)?
-[Situational: A number line with fractions marked between 0 and \( \frac{1}{2} \).]
+\begin{equation*} 
+    3 \times \_\_\_ = \_\_\_
+\end{equation*}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Arithmetic Exercise) D 4 (Exercise on maximization)
 
-[Completing inequalities]
-3. Use the fraction strips to help complete the inequalities.
-[Situational: A set of fraction strips with fractions \( \frac{1}{3}, \frac{1}{4}, \frac{1}{2} \) to compare.]
+Use the digits 2, 6, and 4 to make the largest product.
 
+\begin{equation*}  
+    \_\_\_ \times \_\_\_ = \_\_\_
+\end{equation*}
 
-(Mathematics) T D 3 M
 
-[Finding equivalent fractions]
-4. Use the fraction wall to help find three pairs of equivalent fractions.
-[Situational: A visual representation of fractions arranged in a wall format, showing equivalence.]
+(Mathematics) (Fraction Exercise) D 3 M
 
+Mark \( \frac{1}{4} \) and \( \frac{2}{3} \) on this number line.
 
-(Mathematics) T D 3 M
+[STRDGM] A horizontal line labeled from 0 to 1, with large tick marks for 0.1 increments and small tickmarks for 0.01 increments. [STPDGM]
 
-[Marking fractions on a number line]
-5. Mark \( \frac{5}{3}, \frac{7}{4}, \) and \( \frac{9}{10} \) on this number line.
-[Situational: A horizontal line labeled from 0 to 1, with tick marks indicating fractions.]
 
+(Mathematics) (Fraction Exercise) D 3 M
 
-(Mathematics) T D 3 M
+Which fractions would be marked on a number line between 0 and \( \frac{1}{2} \)?
 
-[Identifying fractions on a number line]
-6. Which fractions would be marked on a number line between \( \frac{1}{2} \) and \( \frac{3}{4} \)?
-[Situational: A number line with fractions marked between \( \frac{1}{2} \) and \( \frac{3}{4} \).]
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{3} \)
+\item \( \frac{5}{6} \)
+\item \( \frac{1}{4} \)
+\item \( \frac{2}{7} \)
+\item \( \frac{4}{9} \)
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Fraction Exercise, Completing inequalities) D 3 (Exercise with inequalities)
 
-[Comparing lengths of number lines]
-7. Whose 0 to 1 number line is shorter? How do you know?
-[Situational: Two number lines labeled with different fractions for comparison.]
+Use the fraction strips to help complete the inequalities.
 
+\begin{gather*}
 
-(Mathematics) T D 3 M
+	\_\_\_ \geq 0.5 \\
+	\frac{1}{6} < \_\_\_ \\
+	\_\_\_ > 0.3
 
-[Choosing the biggest fraction]
-8. Which fraction will give you the biggest amount?
-a. \( \frac{1}{3} \) of \( \frac{2}{3} \) of a cake?
-b. \( \frac{2}{5} \) of $32 or \( \frac{3}{4} \) of $27?
-c. \( \frac{1}{10} \) of \( \frac{2}{3} \) of a pizza?
-[Situational: A list of fractions with corresponding amounts for comparison.]
+\end{gather*}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Fractions Exercise) D 3 (Exercise on finding equivalent fractions)
 
-[Completing inequalities]
-9. Use the fraction strips to help complete the inequalities.
-[Situational: A set of fraction strips with fractions \( \frac{1}{2}, \frac{1}{3}, \frac{1}{4} \) to compare.]
+Find three pairs of equivalent fractions among these fractions.
 
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{3} \)
+\item \( \frac{5}{40} \)
+\item \( \frac{4}{7} \)
+\item \( \frac{30}{60} \)
+\item \( \frac{2}{5} \)
+\item \( \frac{3}{9} \)
+\item \( \frac{3}{20} \)
+\item \( \frac{2}{12} \)
+\item \( \frac{12}{80} \)
+\item \( \frac{24}{32} \)
+\item \( \frac{1}{8} \)
+\end{enumerate}
 
-(Mathematics) T D 3 M
 
-[True or false statements]
-10. Each statement true or false? Draw a ring around the correct answer.
-a. \( \frac{3}{4} \) is less than \( \frac{5}{10} \).
-b. \( \frac{2}{4} \) is equal to \( \frac{1}{2} \).
-c. \( \frac{4}{10} \) is greater than \( \frac{2}{5} \).
-d. \( \frac{1}{2} \) is equal to \( \frac{5}{10} \).
-[Situational: A list of statements with options for true or false.]
+(Mathematics) (Fractions Exercise) D 3 (Exercise on marking fractions on a number line)
 
+Mark \( \frac{5}{3}, \frac{7}{4}, \) and \( \frac{9}{10} \) on this number line.
 
-(Mathematics) T D 3 M
+[STRDGM] A horizontal line labeled from 0 to 1, with large tick marks for 0.1 increments and small tickmarks for 0.01 increments. [STPDGM]
 
-[Finding fractions on a number line]
-11. Which fraction lies between \( \frac{2}{3} \) and \( \frac{7}{10} \) on a number line?
-[Situational: A number line with fractions marked for comparison.]
 
+(Mathematics) (Fraction Exercise) D 3 (Exercise on identifying a fraction on a number line)
 
-(Mathematics) T D 3 M
+Which fractions would be marked on a number line between \( \frac{1}{2} \) and \( \frac{3}{4} \)?
 
-[Comparing fractions]
-12. Use the fraction strips to help you compare some fractions.
-[Situational: A set of fraction strips for visual comparison.]
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{2}{3} \)
+\item \( \frac{5}{6} \)
+\item \( \frac{5}{8} \)
+\item \( \frac{4}{7} \)
+\item \( \frac{8}{10} \)
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Fraction Exercise) D 3 M
 
-[Completing statements]
-13. Use <, >, or = to complete each statement.
-a. \( \frac{2}{6} \) ___ \( \frac{1}{3} \) of 18
-b. \( \frac{3}{4} \) ___ \( \frac{1}{2} \) of 32
-c. \( \frac{3}{5} \) ___ \( \frac{2}{5} \) of 60
-d. \( \frac{2}{3} \) ___ \( \frac{2}{6} \) of 30
-[Situational: A set of statements with options for comparison.]
+Whose 0 to 1 number line is shorter? How do you know?
 
+[STRDGM] A number line with a tick and the fraction 5/8 [STPDGM]
+[STRDGM] A number line with a tick and the fraction 4/6 [STPDGM]
 
-(Mathematics) T D 3 M
 
-[Finding equivalent fractions]
-14. Find three fractions that are equivalent to \( \frac{1}{3} \).
-[Situational: A blank space for writing equivalent fractions.]
-(Mathematics) T D 3 M
+(Mathematics) (Choosing the Biggest Fraction, Fraction Exercise) D 3 M
 
-[Timetable questions]
-1. Which activity has the longest duration?
-2. What time does the first flight take off?
-3. Which flight has the shortest journey?
-4. Which flight has the longest journey?
-5. How long did the activity take?
+Which fraction will give you the biggest amount?
 
-[STRDGRM] A timetable showing various activities with their respective durations and times. The first column lists activities, followed by their start and end times. The last column indicates the duration of each activity. [STPDGRM]
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{5}{6} \) or \( \frac{2}{3} \) of a cake?
+\item \( \frac{2}{5} \) of $32 or \( \frac{3}{4} \) of $27?
+\item \( \frac{1}{10} \) or \( \frac{2}{3} \) of a pizza?
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Fraction Exercise) D 3 (Exercise on Completing Inequalities)
 
-[Timetable questions]
-1. How long does the bus take?
-2. What time does the bus leave?
-3. How long does the train take?
-4. What time does the train leave?
+Use the fractions \( \frac{1}{2}, \frac{1}{3}, \frac{1}{4} \) to help complete the inequalities.
 
-[STRDGRM] A timetable comparing bus and train schedules, including departure times and durations for each mode of transport. [STPDGRM]
+\begin{gather*}
+\_\_\_ > \_\_\_ \\
+\_\_\_ > \frac{2}{5}
+\end{gather*}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (True or False Statements, Fraction Exercise) D 3 M
 
-[Timetable questions]
-1. Which is the longer journey for the train service?
-2. What time does the train arrive at the destination?
-3. How long is the journey from Goldham to the destination?
+Each statement true or false? Draw a ring around the correct answer.
+\begin{enumerate}[label=\alph*]
+\item \( \frac{3}{4} \) is less than \( \frac{5}{10} \).
+\item \( \frac{2}{4} \) is equal to \( \frac{1}{2} \).
+\item \( \frac{4}{10} \) is greater than \( \frac{2}{5} \).
+\item \( \frac{1}{2} \) is equal to \( \frac{5}{10} \).
+\end{enumerate}
 
-[STRDGRM] A timetable showing train services with departure and arrival times, along with journey durations. [STPDGRM]
 
+(Mathematics) (Fractions Exercise) D 3 M
 
-(Mathematics) T D 3 M
+Which fraction lies between \( \frac{2}{3} \) and \( \frac{7}{10} \) on a number line?
 
-[Timetable questions]
-1. How long does the bus take from the station?
-2. What time does the bus leave the station?
-3. How long does the train take from the station?
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{4}{7} \)
+\item \( \frac{6}{8} \)
+\item \( \frac{4}{6} \)
+\end{enumerate}
 
-[STRDGRM] A timetable displaying bus and train schedules, including departure and arrival times, and total journey durations. [STPDGRM]
 
+(Mathematics) (Complete the Statement, Fraction Exercise) D 3 M
 
-(Mathematics) T D 3 M
+Use \(<\), \(>\), or \(=\) to complete each statement.
 
-[Data analysis]
-1. Create a table summarizing the travel times.
-2. Compare the travel times of different routes.
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{2}{6} \) ___ \( \frac{1}{3} \) of 18
+\item \( \frac{3}{4} \) ___ \( \frac{1}{2} \) of 32
+\item \( \frac{3}{5} \) ___ \( \frac{2}{5} \) of 60
+\item \( \frac{2}{3} \) ___ \( \frac{2}{6} \) of 30
+\end{enumerate}
 
-[STRDGRM] A blank table for summarizing travel times, with columns for route, duration, and any notes. [STPDGRM]
-(Mathematics) T D 6 M
+
+(Mathematics) (Fraction Exercise) D 3 (Exercise on finding equivalent fractions)
+
+Find three fractions that are equivalent to \( \frac{1}{3} \).
+
+
+(Mathematics) (Temporal Exercises) D 3 (Exercise that uses a timetable)
+
+\begin{table}[]
+\centering
+\begin{tabular}{|c|c|l|}
+\hline
+\textbf{Transport} & \textbf{Departure} & \textbf{Arrival} \\ \hline
+Train              & 12:06 PM           & 4:23 AM          \\ \hline
+Bus                & 7:39 AM            & 1:42 AM          \\ \hline
+\end{tabular}
+\caption{}
+\end{table}
+
+\begin{enumerate}
+\item How long does the bus take?
+\item What time does the bus leave?
+\item How long does the train take?
+\item What time does the train leave?
+\end{enumerate}
+
+
+(Mathematics) (Temporal Exercise) D 3 M
+
+\begin{table}[]
+\centering
+\begin{tabular}{|ccc|}
+\hline
+\multicolumn{3}{|c|}{\textbf{Train Timetable}}                              \\ \hline
+\multicolumn{1}{|c|}{\textbf{Destination}} & \multicolumn{1}{c|}{\textbf{Departure}} & \multicolumn{1}{l|}{\textbf{Arrival}} \\ \hline
+\multicolumn{1}{|c|}{Porto Santo} & \multicolumn{1}{c|}{12:34 AM} & 4:22 AM \\ \hline
+\multicolumn{1}{|c|}{Madrid}      & \multicolumn{1}{c|}{7:39 AM}  & 2:50 PM \\ \hline
+\multicolumn{1}{|c|}{São Paulo}   & \multicolumn{1}{c|}{3:00 AM}  & 6:25PM  \\ \hline
+\multicolumn{1}{|c|}{Vilnius}     & \multicolumn{1}{c|}{2:46 PM}  & 3:51 AM \\ \hline
+\multicolumn{1}{|c|}{Ouagadougou} & \multicolumn{1}{c|}{1:47 PM}  & 1:45 PM \\ \hline
+\end{tabular}
+\caption{}
+\label{tab:my-table}
+\end{table}
+
+\begin{enumerate}
+\item Which is the longer journey for the train service?
+\item What time does the train arrive at the destination?
+\item How long is the journey from Goldham to the destination?
+\end{enumerate}
+
+
+(Mathematics) (Temporal Exercise) D 3 (Exercise that uses timetables but doesn't require calculation)
+
+\begin{table}[]
+\centering
+\begin{tabular}{|cccc|}
+\hline
+\multicolumn{4}{|c|}{\textbf{Train Timetable}}                                                            \\ \hline
+\multicolumn{1}{|c|}{\textbf{Transport}} & \multicolumn{1}{c|}{\textbf{Departure}} & \multicolumn{1}{c|}{\textbf{Arrival}} & \textbf{Duration} \\ \hline
+\multicolumn{1}{|c|}{Train}    & \multicolumn{1}{c|}{12:50 PM} & \multicolumn{1}{c|}{1:50 PM} & 1h        \\ \hline
+\multicolumn{1}{|c|}{Ferry}    & \multicolumn{1}{c|}{8:00 AM}  & \multicolumn{1}{c|}{3:00 PM} & 7h        \\ \hline
+\multicolumn{1}{|c|}{Airplane} & \multicolumn{1}{c|}{3:00 AM}  & \multicolumn{1}{c|}{6:25 PM} & 15h 25min \\ \hline
+\multicolumn{1}{|c|}{Bus}      & \multicolumn{1}{c|}{2:00 PM}  & \multicolumn{1}{c|}{1:00 AM} & 11h       \\ \hline
+\end{tabular}
+\caption{}
+\end{table}
+
+\begin{enumerate}
+\item How long does the bus take from the station?
+\item What time does the bus leave the station?
+\item How long does the train take from the station?
+\end{enumerate}
+
+
+(Mathematics) (Fraction simplification) D 6 M
   
-[Fraction simplification]  
-1. Write these fractions in their simplest form.  
-a) 5/10  
-b) 8/20  
-c) 9/12  
+Write these fractions in their simplest form.  
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{5}{10} \)
+\item \( \frac{8}{20} \)
+\item \( \frac{9}{12} \)
+\end{enumerate}
 
 
 (Mathematics) T D 6 M
