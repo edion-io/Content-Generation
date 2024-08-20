@@ -12128,2453 +12128,854 @@ Come up with a list of tips on how to make less rubbish while shopping.
 Describe the dangers of litter to wildlife and pets.
 
 
-(Geography) (Research Activity, Map Search Exercise) D 2 M
+(Geography) (Research Activity, Map Search Exercise, Data Collection Exercise) D 2 M
 
-Find and look at the map above showing where most earthquakes occur.
-Now compare the map with an atlas that shows the populations of cities.
-
-(Geography) T D 2 M
-
-Activity 
- Write a list of ten cities with a population of more than one million people that are in areas where earthquakes are most likely to occur.
-
-(Geography) T D 2 M
-
-Activity 
- Work in a group. Imagine that earthquakes are quite common where you live. Write a plan for dealing with a severe earthquake. Decide how you would:
-
-(Geography) T D 2 M
-
-Activity 
- deal with the injured (is the local hospital damaged?)
-
-(Geography) T D 2 M
-
-Activity 
- find shelter for the homeless
-
-(Geography) T D 2 M
-
-Activity 
- deal with dangerous buildings
-
-(Geography) T D 2 M
-
-Activity 
- put out fires
-
-(Geography) T D 2 M
-
-Activity 
- provide food and water for the survivors.
-(Geography) T D 5 M
-
-Activity 
- Nomads do not build permanent homes. Write down why you think this is.
- 
-
-(Geography) T D 5 M
-
-Activity 
- Use reference books to find out about the kinds of homes people have in hot desert areas.
- 
-
-(Geography) T D 5 M
-
-Activity 
- a What are the homes made of?
- 
-
-(Geography) T D 5 M
-
-Activity 
- b Why are so many houses in desert areas painted white?
- 
-
-(Geography) T D 5 M
-
-Activity 
- c Why do they often have thick walls and small windows?
- 
-
-(Geography) T D 5 M
-
-Activity 
- d Collect pictures of different kinds of desert house and make a class display of them.
- 
-
-(Geography) T D 5 M
-
-Activity 
- a What kind of clothes do people wear in hot deserts?
- 
-
-(Geography) T D 5 M
-
-Activity 
- b What colours are the clothes?
- 
-
-(Geography) T D 5 M
-
-Activity 
- c What materials are the clothes made from?
- 
-
-(Geography) T D 5 M
-
-Activity 
- d Draw pictures of the kind of clothes people wear in hot deserts.
-(Geography) T D 5 M
-
-Activity 
-Many large cities around the world have serious problems caused by road traffic. Choose one of the following cities and use reference books or the Internet to find out what traffic problems the city has: Cairo, Dubai, Athens, Bangkok, Tokyo, Mexico City, Los Angeles and Jakarta. Write a paragraph on what you found out.
+\begin{enumerate}[label=\alph*.]
+\item Find and look at the map showing where most earthquakes occur.
+\item Now compare the map with an atlas that shows the populations of cities.
+\item Write a list of ten cities with a population of more than one million people that are in areas where earthquakes are most likely to occur.
+\end{enumerate}
 
 
-(Geography) T D 5 M
+(Geography) (Group Activity) D 2 M
 
-Activity 
-Find out what is being done to solve the traffic problems. Write a paragraph on what you found out.
+Work in a group. Imagine that earthquakes are quite common where you live. Write a plan for dealing with a severe earthquake. Decide how you would:
+\begin{enumerate}[label=\alph*.]
+\item deal with the injured (is the local hospital damaged?)
+\item find shelter for the homeless
+\item deal with dangerous buildings
+\item put out fires
+\item provide food and water for the survivors.
+\end{enumerate}
 
 
-(Geography) T D 5 M
+(Geography) (Short Answer) D 5 M
 
-Activity 
+Nomads do not build permanent homes. Write down why you think this is.
+
+
+(Geography) (Research Activity) D 5 M
+
+Use reference books to find out about the kinds of homes people have in hot desert areas.
+\begin{enumerate}[label=\alph*.]
+\item What are the homes made of?
+\item Why are so many houses in desert areas painted white?
+\item Why do they often have thick walls and small windows?
+\end{enumerate} 
+
+
+(Geography) (Class Activity, Research Exercise) D 5 M
+
+Collect pictures of different kinds of desert house and make a class display of them.
+
+
+(Geography) (Short Answer, Drawing Exercise) D 5 M
+
+\begin{enumerate}[label=\alph*.]
+\item What kind of clothes do people wear in hot deserts?
+\item What colours are the clothes?
+\item What materials are the clothes made from?
+\item Draw pictures of the kind of clothes people wear in hot deserts.
+\end{enumerate}
+
+
+(Geography) (Research Activity, Short Answer) D 5 M
+
+\begin{enumerate}[label=\alph*.]
+\item Many large cities around the world have serious problems caused by road traffic. Choose one of the following cities and use reference books or the Internet to find out what traffic problems the city has: Cairo, Dubai, Athens, Bangkok, Tokyo, Mexico City, Los Angeles and Jakarta. Write a paragraph on what you found out.
+\item Find out what is being done to solve the traffic problems. Write a paragraph on what you found out.
+\end{enumerate}
+
+
+(Geography) (Research, Short Answer) D 5 M
+
 Traffic accidents are a major problem caused by motor vehicles. Find out how many serious traffic accidents resulting in death or injury occurred last year in your local area.
-(Geography) T D 1 M
 
-Activity  
+
+(Geography) (Short Answer, Map Exercise, Class Activity) D 1 M
+
 Look at a world map or a globe. Choose an island. Write a sentence or two saying where it is and what it is like.
-
-
-(Geography) T D 1 M
-
-Activity  
 Use reference books or the Internet to find out more about your chosen island. Share your work with your class.
-(Geography) T D 1 M
 
-Activity 
- Use a map or an atlas to find the seaside place nearest to your home.
+
+(Geography) (Map Search Exercise) D 1 M
+
+Use a map or an atlas to find the seaside place nearest to your home.
  
 
-(Geography) T D 1 M
+(Geography) (Research Activity, Short Answer, Map Search Exercise) D 1 M
 
-Activity 
- Look at the pictures of seaside places on these two pages. Which would you most like to visit? Say why.
-(Geography) T D 1 M
+Find out what kinds of fish and shellfish are sold in your local supermarket. Try to find out where the fish or shellfish were caught. This may be written on the packet or you could ask the fishmonger. Can you find these places on a map or atlas? 
+
+
+(Geography) (Class Activity) D 1 M
   
-Activity  
-Find out what kinds of fish and shellfish are sold in your local supermarket. Try to find out where the fish or shellfish were caught. This may be written on the packet or you could ask the fishmonger. Can you find these places on a map or atlas?  
-
-
-(Geography) T D 1 M
-  
-Activity  
 Collect postcards and photographs from magazines that show the different methods of fishing. Make a class display of your pictures.  
-(Geography) T D 1 M
-
-Activity 
-How many children in your class write with their left hand?
-
-(Geography) T D 1 M
-
-Activity 
-How many write with their right hand?
-
-(Geography) T D 1 M
-
-Activity 
-Can any children write equally well with both hands?
-
-(Geography) T D 1 M
-
-Activity 
-Write your answers in a table like this.
-(Geography) T D 1 M
-
-Activity 
- We all like to go on holiday. People go on holiday for different reasons. Why do you go on holiday?
- 
-
-(Geography) T D 1 M
-
-Activity 
- If we want to go on holiday at the seaside, we choose a place that is warm and sunny.
 
 
-(Geography) T D 1 M
+(Geography) (Data Collection Exercise, Class Activity) D 1 M
 
-Activity 
- If we want to go skiing or snowboarding, we go to a place where it is cold and snowy. 
-
-[STARTDGM] The image shows two scenes: one of children playing at the beach, building a sandcastle, and another of children skiing and sledding in the snow. [STOPDGM]
-(Geography) T D 1 M
-
-Activity 
- We wear different kinds of clothes for different kinds of holiday weather.
-Here are some things you might wear on holiday.
+\begin{enumerate}[label=\alph*.]
+\item How many children in your class write with their left hand?
+\item How many write with their right hand?
+\item Can any children write equally well with both hands?
+\item Write your answers in a table.
+\end{enumerate}
 
 
-(Geography) T D 1 M
+(Geography) (Short Answer) D 1 M
 
-Activity 
- a Which of these would you wear for a skiing holiday? Why?
-b Which of these would you wear at the seaside? Why?
-(Geography) T D 1 M
-
-Activity 
- Do you know which is your right hand? Which is your left hand?
+We all like to go on holiday. People go on holiday for different reasons. Why do you go on holiday?
 
 
-(Geography) T D 1 M
+(Geography) (Activity) D 1 M
 
-Activity 
- This is Ali's right hand.
-
-
-(Geography) T D 1 M
-
-Activity 
- This is Ali's left hand.
+Do you know which is your right hand? Which is your left hand?
 
 
-(Geography) T D 1 M
+(Geography) (Short Answer) D 1 M
 
-Activity 
- Aisha has her back to you.
-
-
-(Geography) T D 1 M
-
-Activity 
- This is Sophia's left hand.
+What is the seaside?
 
 
-(Geography) T D 1 M
+(Geography) (Data Collection Activity) D 1 (With Illustration)
 
-Activity 
- This is Sophia's right hand.
-(Geography) T D 1 M
-
-Activity 
-Fish traps
-Some fish are caught in a trap like this. The trap contains food for the fish to eat. When the fish go into the trap to eat the food, they cannot get out.
-
-
-(Geography) T D 1 M
-
-Activity 
-Long nets
-Some fish are caught by fishing from the beach. A long net is dragged through the water. The net surrounds the fish which are then pulled ashore.
-(Geography) T D 1 M
-
-Activity 
- What is the seaside?
- 
-
-(Geography) T D 1 M
-
-Activity 
- What is the beach made of in this picture?
-
-
-(Geography) T D 1 M
-
-Activity 
- This beach is made of mud.
-
-
-(Geography) T D 1 M
-
-Activity 
- This beach is covered in rocks.
-(Geography) T D 1 M
-
-Activity 
- Look at the map on pages 44 and 45. How many islands can you find? 
+Look at the map below. How many islands can you find? 
 
 [STARTDGM] A diagram showing a map with various islands marked on it. [STOPDGM]
-(Geography) T D 5 M
 
-Activity 
-Traffic jams
-[STARTDGM] A congested street filled with various vehicles, including cars and trucks, indicating slow movement and heavy traffic. [STOPDGM]
 
+(Geography) (Short Answer) D 1 M
 
-(Geography) T D 5 M
+How do we learn about the world around us? Our senses tell us what is happening. What are the five main senses?
 
-Activity 
-Noise and vibration
-[STARTDGM] A depiction of a busy road with vehicles, highlighting the noise and vibration caused by motor vehicles, especially large trucks. [STOPDGM]
 
+(Geography) (Research Activity, Timeline Drawing Exercise) D 3 M
 
-(Geography) T D 5 M
+Use reference books and the Internet to help you draw a timeline showing major famines across the world. Show where each famine occurred and how many people are believed to have died.
 
-Activity 
-Air pollution
-[STARTDGM] An illustration showing exhaust fumes from vehicles, emphasizing the harmful effects of soot, carbon monoxide, and other pollutants on the environment and health. [STOPDGM]
-(Geography) T D 5 M
 
-Activity  
-People built towns and villages around oases and waterholes in the desert. 
+(Geography) (Reserach Activity, Short Answer) D 3 M
 
+Many aid organisations, such as the Red Cross and Red Crescent, Oxfam, Save the Children Fund, ActionAid, and UNICEF, work hard to try to help people affected by famines. Choose one of these organisations. Find out where in the world it is helping famine victims and what it is doing to help them.
 
-(Geography) T D 5 M
 
-Activity  
-People grow food plants such as vegetables, dates, figs, olives, and apricots in the oases.
+(Geography) (Creative Writing Exercise) D 3 M
 
+Imagine you are working in Africa on the edge of the Sahara Desert, helping people affected by a famine. Write a letter to a friend saying why life is so hard for these people. Give at least four reasons.
 
-(Geography) T D 5 M
 
-Activity  
-Nomads or wanderers travel from one oasis to another with their herds of sheep, goats, and camels.
+(Geography) (Group Activity) D 1 M
 
+Work with a group of friends. Act out all the stages of going on holiday to another country.
+\begin{enumerate}[label=\alph*.]
+\item First, book your holiday and then pack your suitcase.
+\item Next, put your suitcase in your car, or check it in at the airport or station.
+\item Then travel by car, airplane or train.
+\item Lastly, enjoy your holiday!
+\end{enumerate}
 
-(Geography) T D 5 M
 
-Activity  
-The Bedouin travel during the daytime and travel at night when it is cool.
+(Geography) (Mapping Exercise) D 1 M
 
+On a blank outline map of the world, mark and label some cities and resorts that are on the East Coast of North America.
 
-(Geography) T D 5 M
 
-Activity  
-People irrigate crops with groundwater pumped from a well.
-(Geography) T D 2 M
+(Geography) (Survey Activity, Chart Drawing Exercise) D 1 M
 
-Activity 
- Map of the World
+Carry out a survey. Ask your friends and relatives:
+\begin{enumerate}[label=\alph*.]
+\item Where is their favourite holiday resort?
+\item Is it a city, a town or a village?
+\item Why do they like it best?
+\end{enumerate}
 
-[STARTDGM] A colorful map showing North and South America with countries labeled, including Canada, the United States, Mexico, Colombia, Brazil, Chile, and Argentina. The background is green with circular patterns. [STOPDGM]
-(Geography) T D 2 M
+Draw a bar chart of your findings and show them to the class.
 
-Activity 
- Packed with activities, discussion points and case studies
 
+(Geography) (Drawing Activity) D 1 M
 
-(Geography) T D 2 M
+Draw and label something that you can: see; hear; feel; smell; taste.
 
-Activity 
- Uses carefully selected language to make content accessible for EAL learners
 
+(Geography) (Short Answer) D 1 M
 
-(Geography) T D 2 M
+How can your eyes help you to keep safe? Write down five different ways.
 
-Activity 
- Write-in workbooks for extra activities in class or at home
-(Geography) T D 2 M
 
-Activity 
- Volcanoes are formed when magma erupts through a hole or crack in the Earth's crust, releasing molten rock, smoke, dust, ashes, and gases.
+(Geography) (Short Answer) D 5 M
 
-
-(Geography) T D 2 M
-
-Activity 
- Magma collects in large pools below the surface and can flow up a passage called the vent.
-
-
-(Geography) T D 2 M
-
-Activity 
- The top of the vent is a hollow called the crater of the volcano.
-
-[STARTDGM] The image shows a cross-section of a volcano, illustrating the internal structure, including the magma pool, vent, crater, and the cone of ash, rock, and lava. Erupting lava, smoke, dust, and volcanic bombs are depicted at the surface. [STOPDGM]
-(Geography) T D 5 M
-
-Activity 
- Tropical rainforests are found in the tropical regions between the Tropic of Cancer and the Tropic of Capricorn. 
-
-
-(Geography) T D 5 M
-
-Activity 
- The map on this page shows where the world's tropical rainforests are found. 
-
-
-(Geography) T D 5 M
-
-Activity 
- Tropical rainforests produce about 40 per cent of the oxygen in the Earth’s atmosphere. 
-
-
-(Geography) T D 5 M
-
-Activity 
- The trees in a rainforest are very large and close together. 
-
-
-(Geography) T D 5 M
-
-Activity 
- The trees are evergreen and, because of the very warm, wet weather, they are able to grow all the year round. 
-
-
-(Geography) T D 5 M
-
-Activity 
- About 8 per cent of the world’s land area consists of tropical rainforests. 
-
-
-(Geography) T D 5 M
-
-Activity 
- Tropical rainforests are home to almost half of the different kinds of plant and animal in the world.
-(Geography) T D 1 M
-
-Activity 
- How do we learn about the world around us? Our senses tell us what is happening. What are the five main senses?
-
-
-(Geography) T D 1 M
-
-Activity 
- We see with our eyes. Sight is an important sense. If you really look hard, you can see things you have never noticed before. This is called being observant.
-
-[STARTDGM] The image shows a close-up of an eye, highlighting the pupil and iris, with labels pointing to each part. [STOPDGM]
-(Geography) T D 1 M
-
-Activity  
-Look at an atlas or map of the world.  
-[STARTDGM] A world map or atlas showing various towns and cities near the sea. [STOPDGM]
-
-
-(Geography) T D 1 M
-
-Activity  
-Some towns and cities are situated where a river meets the sea.  
-[STARTDGM] A diagram illustrating the confluence of a river and the sea. [STOPDGM]
-(Geography) T D 3 M
-
-Activity 
- Use reference books and the Internet to help you draw a timeline showing major famines across the world. Show where each famine occurred and how many people are believed to have died.
-
-
-(Geography) T D 3 M
-
-Activity 
- Many aid organisations, such as the Red Cross and Red Crescent, Oxfam, Save the Children Fund, ActionAid, and UNICEF, work hard to try to help people affected by famines. Choose one of these organisations. Find out where in the world it is helping famine victims and what it is doing to help them.
-
-
-(Geography) T D 3 M
-
-Activity 
- Imagine you are working in Africa on the edge of the Sahara Desert, helping people affected by a famine. Write a letter to a friend saying why life is so hard for these people. Give at least four reasons.
-(Geography) T D 1 M
-
-Activity 
- Use an atlas to find the route the Sharif family probably took to go on their holiday. What places did they go through to reach Muscat?
-
-
-(Geography) T D 1 M
-
-Activity 
- Work with a group of friends. Act out all the stages of going on holiday to another country.
+Manaus is a city in the Amazon rainforest in Brazil. How is the climate of Manaus different from the climate where you live?
  
 
-(Geography) T D 1 M
+(Geography) (Pair Activity) D 5 M
 
-Activity 
- First, book your holiday and then pack your suitcase.
-
-
-(Geography) T D 1 M
-
-Activity 
- Next, put your suitcase in your car, or check it in at the airport or station.
+Discuss, with a friend, why so few people live in the tropical rainforests.
 
 
-(Geography) T D 1 M
+(Geography) (Short Answer) D 5 (With Illustration)
 
-Activity 
- Then travel by car, airplane or train.
-
-
-(Geography) T D 1 M
-
-Activity 
- Lastly, enjoy your holiday!
-(Geography) T D 1 M
-
-Activity  
-Going on holiday to Muscat in Oman
-
-
-(Geography) T D 1 M
-
-Activity  
-Packing cases with clothes and toys
-
-
-(Geography) T D 1 M
-
-Activity  
-Setting out on a long journey in the car
-
-
-(Geography) T D 1 M
-
-Activity  
-Reaching the border between the United Arab Emirates and Oman
-
-
-(Geography) T D 1 M
-
-Activity  
-A police officer checking the family's passports at the border
-
-
-(Geography) T D 1 M
-
-Activity  
-Reaching the hotel in Muscat after six hours
-(Geography) T D 3 M
-
-Activity 
-Drought is described as a period of abnormally dry weather affecting plants, water sources, and food prices.
-
-
-(Geography) T D 3 M
-
-Activity 
-The impact of locusts on food shortages in Madagascar in 2013 is mentioned.
-
-
-(Geography) T D 3 M
-
-Activity 
-Drought's effect on rice crops in China is highlighted.
-(Geography) T D 1 M
-
-Activity 
- On a blank outline map of the world, mark and label some cities and resorts that are on the coast.
-
-
-(Geography) T D 1 M
-
-Activity 
- Carry out a survey. Ask your friends and relatives:
-• Where is their favourite holiday resort?
-• Is it a city, a town or a village?
-• Why do they like it best?
-
-
-(Geography) T D 1 M
-
-Activity 
- Draw a bar chart of your findings and show them to the class.
-(Geography) T D 1 M
-
-Activity 
- Draw and label something that you can: see; hear; feel; smell; taste.
- 
-
-(Geography) T D 1 M
-
-Activity 
- How can your eyes help you to keep safe? Write down five different ways.
-(Geography) T D 5 M
-
-Activity 
- Look at the graph on the right. Manaus is a city in the Amazon rainforest in Brazil. How is the climate of Manaus different from the climate where you live?
- 
-
-(Geography) T D 5 M
-
-Activity 
- Discuss, with a friend, why so few people live in the tropical rainforests.
-
-
-(Geography) T D 5 M
-
-Activity 
- How does your local area compare with a tropical rainforest area? Think about the weather, plants, animals, landscape and people. 
+How does your local area compare with a tropical rainforest area? Think about the weather, plants, animals, landscape and people. 
 
 [STARTDGM] Graph showing the temperature and rainfall in the city of Manaus. [STOPDGM]
-(Geography) T D 2 M
 
-Activity 
- Find out if there is an active volcano in your country.
 
+(Geography) (Research Activity) D 2 M
 
-(Geography) T D 2 M
+Find out if there is an active volcano in your country.
 
-Activity 
- Here are the names of some volcanoes on islands: Mount Pelee, Krakatoa, Mauna Loa, Fujiyama, Mount Etna, Mayon, Mount Erebus, Ruapehu. Find out the name of the island or island group where each volcano belongs.
 
+(Geography) (Research Activity, Data Collection Exercise, Chart Drawing Exercise) D 2 M
 
-(Geography) T D 2 M
+Here are the names of some volcanoes on islands: Mount Pelee, Krakatoa, Mauna Loa, Fujiyama, Mount Etna, Mayon, Mount Erebus, Ruapehu.
+\begin{enumerate}[label=\alph*.]
+\item Find out the name of the island or island group where each volcano belongs.
+\item Use reference books or the Internet to find out the heights of some volcanoes.
+\item Draw a block graph to show their heights.
+\end{enumerate}
 
-Activity 
- Use reference books or the Internet to find out the heights of some volcanoes.
 
+(Geography) (Short Answer) D 2 M
 
-(Geography) T D 2 M
+Describe the location of Balad Sayt village based on a map.
 
-Activity 
- Draw a block graph to show their heights.
-(Geography) T D 2 M
 
-Activity  
-Describing the location of Balad Sayt village based on a map.
+(Geography) (Short Answer) D 2 M
 
+Explain the layout and structure of houses in Balad Sayt.
 
-(Geography) T D 2 M
 
-Activity  
-Explaining the layout and structure of houses in Balad Sayt.
+(Geography) (Short Answer) D 2 M
 
+Discuss the historical significance of the ruined fort above the Balad Sayt.
 
-(Geography) T D 2 M
 
-Activity  
-Discussing the historical significance of the ruined fort above the village.
+(Geography) (Short Answer) D 2 M
 
+Describe the water sources and their uses in Balad Sayt.
 
-(Geography) T D 2 M
 
-Activity  
-Describing the water sources and their uses in Balad Sayt.
+(Geography) (Short Answer) D 2 M
 
+Explain the agricultural practices, including crop irrigation and types of crops grown in Balad Sayt.
 
-(Geography) T D 2 M
 
-Activity  
-Explaining the agricultural practices, including crop irrigation and types of crops grown.
+(Geography) (Creative Writing Exercise, Drawing Activity) D 3 M
 
+Write a short story or draw a cartoon describing the journey of a particle of water along the River Amazon, from its source to its mouth. Make sure that you state how pollution or flooding affect the water at each stage.
 
-(Geography) T D 2 M
 
-Activity  
-Describing the flow of water in the wadi and its geographical features.
-(Geography) T D 2 M
+(Geography) (Pair Activity, Quiz Wriitng Exercise) D 3 M
 
-Activity 
- Leisure time is time that is free from school, work, and chores, allowing you to do what you like.
- 
+\begin{enumerate}[label=\alph*.]
+\item Write a quiz consisting of ten questions about the River Amazon.
+\item Try out your quiz with a friend.
+\end{enumerate}
 
-(Geography) T D 2 M
 
-Activity 
- Leisure activities can be done alone or with others, and can be indoors or outdoors.
+(Geography) (Pair Activity, Creative Activity) D 3 M
 
+Work with a friend. Make a model of a river and the surrounding landscape in a cardboard box by following these steps:
+\begin{enumerate}
+\item Begin by cutting away the lid and front of the box to make a frame for your model.
+\item Build up the landscape using egg cartons, pieces of screwed-up paper or other recycled materials.
+\item Cover the whole surface of your model with papier mâché.
+\item Paint your model and label the various features.
+\end{enumerate}
 
-(Geography) T D 2 M
 
-Activity 
- Leisure activities you can do on your own include reading, watching television, listening to music, playing a computer game, and playing with toys.
-(Geography) T D 3 M
+(Geography) (Drawing Activity) D 1 M
 
-Activity  
-Bringing life back to the village  
-[STARTDGM] A description of efforts to revitalize the village of Dana, including the installation of electricity, water, sewage systems, and telephone lines, as well as the rebuilding of old houses for tourists. [STOPDGM]
+Think of an interesting building, near your home or school, which you use. Draw it and label interesting things about it. 
 
 
-(Geography) T D 3 M
+(Geography) (Research Activity, Data Collection Exercise, Short Answer) D 1 M
 
-Activity  
-Growing crops and making jams and soaps  
-[STARTDGM] A description of local farmers growing crops and producing jams and soaps for tourists. [STOPDGM]
+Look at the different shops near your school. What kinds of things do they sell? 
 
 
-(Geography) T D 3 M
+(Geography) (Class Activity) D 1 M
 
-Activity  
-Designing and making silver jewellery  
-[STARTDGM] A description of local people designing and creating silver jewellery. [STOPDGM]
-(Geography) T D 5 M
+Draw pictures or take photographs of the shops near your school. Make a wall display with them. 
 
-Activity 
-Hurricanes are powerful swirling storms found in the tropical parts of the Atlantic Ocean.
 
+(Geography) (Data Collection Exercise, Short Answer) D 1 M
 
-(Geography) T D 5 M
+Write a list of all the kinds of street furniture you see on your way to school.
 
-Activity 
-Hurricanes usually begin over tropical parts of the world's oceans where the temperature is more than 27°C.
 
+(Geography) (Mapping Exercise, Drawing Activity) D 1 M
 
-(Geography) T D 5 M
+Draw a map showing how you get from your home to your school. Add drawings of some of the buildings and street furniture you pass on the way.
 
-Activity 
-When the wind speed reaches 120 kilometres an hour, a storm is called a hurricane.
 
+(Geography) (Creative Activity, Mapping Exercise) D 1 M
 
-(Geography) T D 5 M
+Make a food map of the world for a class display.
 
-Activity 
-Weather scientists give hurricanes names.
 
+(Geography) (Class Activity) D 1 M
 
-(Geography) T D 5 M
-
-Activity 
-As it crosses the ocean, the hurricane pushes up huge waves.
-
-
-(Geography) T D 5 M
-
-Activity 
-The water level near or under a hurricane can be over 5 metres higher than the water level in the ocean around it. 
-
-[STARTDGM] A satellite photograph of Hurricane Irene approaching Florida, United States in August 2011. The 'eye' of the hurricane the skies are clear. [STOPDGM]
-(Geography) T D 1 M
-  
-Activity  
-Food helps us to grow and stay healthy.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-It also gives us the energy to walk, talk, run, sleep and do all the other things we do.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-Some foods come from animals, some come from plants.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-Some of our food is grown in our own country.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-Some of it comes from other countries.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-After the food is packed, it is sent to the nearest port by truck.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-A ship carries the food to a port in our country.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-Trucks then take the food to our local shop or supermarket.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-Most people have to buy their food from shops, markets, supermarkets and other places.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-The labels on food tell us what is inside each container.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-They often also tell us the name of the town or country where the food was grown or packed.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-These bananas were picked on an island in the Caribbean Sea.  
-
-
-(Geography) T D 1 M
-  
-Activity  
-The boat will take them to a large ship.  
-(Geography) T D 3 M
-
-Activity 
- Write a short story or draw a cartoon describing the journey of a particle of water along the River Amazon, from its source to its mouth. Make sure that you state how pollution or flooding affect the water at each stage.
-
-
-(Geography) T D 3 M
-
-Activity 
- Write a quiz consisting of ten questions about the River Amazon.
-
-
-(Geography) T D 3 M
-
-Activity 
- Try out your quiz with a friend.
-
-
-(Geography) T D 3 M
-
-Activity 
- Work with a friend. Make a model of a river and the surrounding landscape in a cardboard box by following these steps:
-Step 1: Begin by cutting away the lid and front of the box to make a frame for your model.
-Step 2: Build up the landscape using egg cartons, pieces of screwed-up paper or other recycled materials.
-Step 3: Cover the whole surface of your model with papier mâché.
-Step 4: Paint your model and label the various features.
-(Geography) T D 1 M
-
-Activity 
- Think of an interesting building, near your home or school, which you use. 
-
-(Geography) T D 1 M
-
-Activity 
- Draw it and label interesting things about it. 
-
-(Geography) T D 1 M
-
-Activity 
- Look at the different shops near your school. What kinds of things do they sell? 
-
-(Geography) T D 1 M
-
-Activity 
- Draw pictures or take photographs of the shops near your school. Make a wall display with them. 
-(Geography) T D 1 M
-
-Activity 
- Write a list of all the kinds of street furniture you see on your way to school.
-
-
-(Geography) T D 1 M
-
-Activity 
- Draw a map showing how you get from your home to your school. Add drawings of some of the buildings and street furniture you pass on the way.
-(Geography) T D 1 M
-
-Activity 
-What is the street like where you live? If your area is quite old, the streets may be narrow. This is because there were no cars, trucks or buses when those streets were built. People had to walk everywhere or use horses or camels.
-
-
-(Geography) T D 1 M
-
-Activity 
-If you live in a newer area, the roads may be much wider. There may be plenty of places to park cars. There are pavements for people to walk on, safe from cars and trucks.
-
-
-(Geography) T D 1 M
-
-Activity 
-Are the buildings in your street new or old? New buildings may have lots of glass, concrete and plastic in them. Long ago, plastic had not been invented and it was expensive to make large glass windows.
-(Geography) T D 1 M
-
-Activity 
- We use other buildings besides our home and school. Here are some buildings you might see or use. Are there any buildings like these near your home or school?
- 
-[STARTDGM] The image shows various buildings: a fire station, a garage, a bakery, a supermarket, a hospital, and a bank, each labeled accordingly. [STOPDGM]
-(Geography) T D 3 M
-
-Activity  
-The River Amazon flows for about 6440 kilometres across South America. It begins as hundreds of tiny streams more than 5000 metres above sea level in the Andes mountains of Peru. 
-
-
-(Geography) T D 3 M
-
-Activity  
-The River Amazon pours 200,000 cubic metres of water into the Atlantic Ocean every single second. 
-
-
-(Geography) T D 3 M
-
-Activity  
-The River Amazon is so deep near its mouth that large ocean-going ships can sail 1500 kilometres up the river from its mouth to the city of Manaus in Brazil. 
-
-
-(Geography) T D 3 M
-
-Activity  
-Many different groups of people live in villages along the River Amazon and its tributaries. They eat food from the forest and fish from the rivers.
-(Geography) T D 1 M
-
-Activity 
- Make a food map, like the one shown, for a class display.
-
-
-(Geography) T D 1 M
-
-Activity 
  Make a class collection of pictures of different foods. Make sets of your pictures. You could have:
-• a set of foods which come from plants and a set of foods which come from animals
-• a set of foods grown or made in your country and a set which come from other countries
-• a set of fresh foods and a set of frozen or dried food.
-(Geography) T D 5 M
-
-Activity  
-Collect newspaper cuttings or Internet news articles describing the damaging effects of the wind in various parts of the world.
+\begin{enumerate}[label=\alph*.]
+\item a set of foods which come from plants and a set of foods which come from animals
+\item a set of foods grown or made in your country and a set which come from other countries
+\item a set of fresh foods and a set of frozen or dried food.
+\end{enumerate}
 
 
-(Geography) T D 5 M
+(Geography) (Research Activity) D 5 M
 
-Activity  
-Use the Internet to find out more details of these events.
-
-
-(Geography) T D 5 M
-
-Activity  
-Write a list of the things you would need if a hurricane was approaching your area.
+\begin{enumerate}[label=\alph*.]
+\item Collect newspaper cuttings or Internet news articles describing the damaging effects of the wind in various parts of the world.
+\item Use the Internet to find out more details of these events.
+\end{enumerate}
 
 
-(Geography) T D 5 M
+(Geography) (Short Answer) D 5 M
 
-Activity  
-Write them in order of importance.
+Write a list of the things you would need if a hurricane was approaching your area. Write them in order of importance.
 
 
-(Geography) T D 5 M
+(Geography) (Creative Writing Activity) D 5 M
 
-Activity  
 Imagine that you are living in an area that has been hit by a hurricane.
+\begin{enumerate}[label=\alph*.]
+\item Write an account of what has happened to you, your family and your home.
+\item Describe what you were thinking when the hurricane was at its worst.
+\item Describe the scene that met you when you went out after the hurricane had passed by.
+\end{enumerate}
 
 
-(Geography) T D 5 M
+(Geography) (Short Answer, Comparison Exercise) D 3 M
 
-Activity  
-Write an account of what has happened to you, your family and your home.
-
-
-(Geography) T D 5 M
-
-Activity  
-Describe what you were thinking when the hurricane was at its worst.
+\begin{enumerate}[label=\alph*.]
+\item Write two lists to compare where you live with Dana: one list of the things that are the same and the other of the things that are different.
+\item Would you like to live in Dana? Give reasons for your answer.
+\end{enumerate}
 
 
-(Geography) T D 5 M
+(Geography) (Activity, Short Answer) D 3 M
 
-Activity  
-Describe the scene that met you when you went out after the hurricane had passed by.
-(Geography) T D 3 M
-
-Activity 
- Write two lists to compare where you live with Dana: one list of the things that are the same and the other of the things that are different.
-
-
-(Geography) T D 3 M
-
-Activity 
- Would you like to live in Dana? Give reasons for your answer.
-
-
-(Geography) T D 3 M
-
-Activity 
- In many parts of the world, villages are changing. Some villages are growing. Others are getting smaller. Write a list of all the reasons you can think of why a village might change. Think about the people, jobs, shops, roads and transport, communications, farm machinery and money.
-(Geography) T D 2 M
-
-Activity  
-Draw a 24-hour clock like the one in this activity box.
+In many parts of the world, villages are changing. Some villages are growing. Others are getting smaller. Write a list of all the reasons you can think of why a village might change. Think about the people, jobs, shops, roads and transport, communications, farm machinery and money.
 
 
 (Geography) T D 2 M
 
-Activity  
-Draw lines from the centre of the clock to show how many hours you spend resting or asleep on a school day.
+\begin{enumerate}[label=\alph*.]
+\item Draw a 24-hour clock.
+\item Draw lines from the centre of the clock to show how many hours you spend resting or asleep on a school day.
+\item Draw lines to show how many hours you spend doing different things every day, such as going to school, having meals and leisure time.
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (Short Answer) D 2 M
 
-Activity  
-Draw lines to show how many hours you spend doing different things every day, such as going to school, having meals and leisure time.
-
-
-(Geography) T D 2 M
-
-Activity  
 Approximately how much leisure time do you have each school day?
 
 
-(Geography) T D 2 M
+(Geography) (Short Answer) D 2 M
 
-Activity  
 How much leisure time do you have at weekends?
 
 
-(Geography) T D 2 M
+(Geography) (Chart Drawing Activity, Group Activity) D 2 M
 
-Activity  
 Ask your friends what type of leisure activities they like to do. Draw a bar chart to show your results.
 
 
-(Geography) T D 2 M
+(Geography) (Mapping Activity, Short Answer) D 2 M
 
-Activity  
-Draw a map of your local area to show all the different kinds of leisure activities that are available. Use symbols to represent each kind of activity.
+\begin{enumerate}[label=\alph*.]
+\item Draw a map of your local area to show all the different kinds of leisure activities that are available. Use symbols to represent each kind of activity.
+\item What other leisure activities would you like to be able to do in your local area?
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (List Writing Activity) D 2 M
 
-Activity  
-What other leisure activities would you like to be able to do in your local area?
-(Geography) T D 2 M
+Write a list of the features that make Balad Sayt a village rather than a town or city.
 
-Activity 
- Write a list of the features that make Balad Sayt a village rather than a town or city.
 
+(Geography) (Short Answer) D 2 M
 
-(Geography) T D 2 M
+Would you like to live in a small village like Balad Sayt? Why?
 
-Activity 
- a Would you like to live in a small village like Balad Sayt?  
- b Say why.
 
+(Geography) (Pair Activity, Short Answer) D 2 M
 
-(Geography) T D 2 M
+\begin{enumerate}[label=\alph*.]
+\item Discuss with a friend how Balad Sayt is similar to a village you both know.  
+\item How is it different?
+\item Write down what you have decided.
+\end{enumerate}
 
-Activity 
- Discuss with a friend how Balad Sayt is similar to a village you both know.  
- How is it different?  
- Write down what you have decided.
-(Geography) T D 2 M
 
-Activity 
- Write a list of the things that would make people in Indian villages want to stay in the country?
+(Geography) (Short Answer), List Writing Activity D 2 M
 
+Write a list of the things that would make people in Indian villages want to stay in the country?
 
-(Geography) T D 2 M
 
-Activity 
- Write a list of the things that would make people in Indian villages want to move to a city, such as Kolkata.
+(Geography) (Short Answer, List Writing Activity) D 2 M
 
+Write a list of the things that would make people in Indian villages want to move to a city, such as Kolkata.
 
-(Geography) T D 2 M
 
-Activity 
- Write a short description of what you think you would see, hear and smell on a busy street in Kolkata.
+(Geography) (Short Answer) D 2 M
 
+Write a short description of what you think you would see, hear and smell on a busy street in Kolkata.
 
-(Geography) T D 2 M
 
-Activity 
- Write a list of all the different ways in which people travel from place to place in India.
+(Geography) (Short Answer, List Writing Exercise) D 2 M
 
+Write a list of all the different ways in which people travel from place to place in India.
 
-(Geography) T D 2 M
 
-Activity 
- Most people in India use public transport, particularly in the towns and cities. How do most people in your country travel?
-(Geography) T D 2 M
+(Geography) (Short Answer) D 2 M
 
-Activity 
- Look at a large-scale map of a country area.
+Most people in India use public transport, particularly in the towns and cities. How do most people in your country travel?
 
 
-(Geography) T D 2 M
+(Geography) (Map Search Activity, Short Answer) D 2 M
 
-Activity 
- Choose four or five villages shown on the map.
+\begin{enumerate}[label=\alph*.]
+\item Look at a large-scale map of a country area. Choose four or five villages shown on the map.
+\item For each village try to decide why it was built where it was.
+\item Write down what you have discovered.
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (Map Search Activity) D 2 M
 
-Activity 
- For each village try to decide why it was built where it was.
+Choose a village on a large-scale map. Identify all the symbols on or near that village. Write a list of what each of the symbols shows. Now choose a second village and compare the two.
 
 
-(Geography) T D 2 M
+(Geography) (List Writing Activity, Data Collection Exercise, Atlas Search Exercise) D 3 M
 
-Activity 
- Write down what you have discovered.
+Some newspapers and websites show how much rain falls each day in the larger towns and cities of the world. Choose a country, collect these figures for a week and record them.
+\begin{enumerate}[label=\alph*.]
+\item Write a list of the places from your country with the wettest town or city at the top and the driest at the bottom.
+\item Use an atlas to find out where these towns and cities are.
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (Creative Writing Activity) D 3 M
 
-Activity 
- Choose a village on a large-scale map. Identify all the symbols on or near that village. Write a list of what each of the symbols shows. Now choose a second village and compare the two.
-(Geography) T D 3 M
+Find a picture of a weather event such as flooding or heavy snow somewhere in the world. Pretend you are a newspaper reporter. Write a news report about what happened before, during and after the flooding or heavy snow.
 
-Activity 
- Some newspapers and websites show how much rain falls each day in the larger towns and cities of the world.
 
+(Geography) (Group Activity, List Writing Exercise, Short Answer, Atlas Search Activity, Map Search Activity) D 3 M
 
-(Geography) T D 3 M
+Work in groups and use an atlas or maps to find the names of ten villages in your area, or from any area that you know.
+\begin{enumerate}[label=\alph*.]
+\item How is each village set out? Is it a single street or grouped around a square?
+\item What features does each village have? Write a list for each village.
+\end{enumerate}
 
-Activity 
- Choose a country, collect these figures for a week and record them.
 
+(Geography) (Research Activity) D 3 M
 
-(Geography) T D 3 M
+Do you know any villages in other countries? Use reference books or the Internet to find out what some of them are like.
 
-Activity 
- Write a list of the places from your country with the wettest town or city at the top and the driest at the bottom.
 
+(Geography) (Map Activity, Research Exercise) D 1 M
 
-(Geography) T D 3 M
+Look at a map of the world. If you were to fly from your home to Beijing, which countries, seas and mountains might you fly over? Find something out about each of the countries you might fly over.
 
-Activity 
- Use an atlas to find out where these towns and cities are.
 
+(Geography) (Class Activity) D 1 M
 
-(Geography) T D 3 M
+\begin{enumerate}[label=\alph*.]
+\item Make a class collection of pictures and small things that show what life is like in China.
+\item Label each picture and thing.
+\item Say what it shows about China.
+\end{enumerate}
 
-Activity 
- Find a picture of a weather event such as flooding or heavy snow somewhere in the world. Pretend you are a newspaper reporter. Write a news report about what happened before, during and after the flooding or heavy snow.
-(Geography) T D 3 M
 
-Activity 
- Work in groups and use an atlas or maps to find the names of ten villages in your area, or from any area that you know.
+(Geography) (Short Answer) D 1 M
 
+Where do you live? Do you live in the countryside or in a town or city? 
 
-(Geography) T D 3 M
 
-Activity 
- How is each village set out? Is it a single street or grouped around a square?
+(Geography) (Creative Group Activity) D 1 M
 
+Collect pictures of as many different kinds of homes as you can. Cut up the pictures to make jigsaw puzzles. Can your friends put your jigsaws together again? 
 
-(Geography) T D 3 M
 
-Activity 
- What features does each village have? Write a list for each village.
+(Geography) (Creative Activity) D 1 M
 
+Use scrap materials to build a model of a house on stilts. What could you use to make the water around the house? 
 
-(Geography) T D 3 M
 
-Activity 
- Do you know any villages in other countries? Use reference books or the Internet to find out what some of them are like.
-(Geography) T D 3 M
+(Geography) (Drawing Activity, Writing Activity) D 5 M
 
-Activity 
-Rain and melted snow: When rain falls or snow melts, some of the water flows over the surface of the land and forms tiny streams. These streams may join up to form rivers. The rivers flow downhill until they reach an ocean or a sea.
-
-
-(Geography) T D 3 M
-
-Activity 
-Springs: Some of the water from rain or melted snow soaks into the soil. It passes through permeable rocks until it reaches a layer of impermeable rock that will not let the water pass through it. If the layer of impermeable rock comes to the surface of the ground, the water runs out of the ground as a spring.
-
-
-(Geography) T D 3 M
-
-Activity 
-Lakes and glaciers: A few rivers have a lake as their source. Other rivers in high mountain areas start at the edges of melting glaciers.
-
-
-(Geography) T D 3 M
-
-Activity 
-Erosion: All rivers have sand and pieces of rock that are carried along by the water. The moving water, and the sand and rocks, bump and rub against the rocks on the bottom and sides of the river, and slowly wear them away. This is called erosion. Erosion causes the river to slowly form a V-shaped valley.
-(Geography) T D 1 M
-
-Activity 
- Look at a map of the world. If you were to fly from your home to Beijing, which countries, seas and mountains might you fly over? Find something out about each of the countries you might fly over.
-
-
-(Geography) T D 1 M
-
-Activity 
- Make a class collection of pictures and small things that show what life is like in China.
-
-
-(Geography) T D 1 M
-
-Activity 
- Label each picture and thing.
-
-
-(Geography) T D 1 M
-
-Activity 
- Say what it shows about China.
-(Geography) T D 3 M
-
-Activity 
- A map of Egypt showing the course of the River Nile.
- [STARTDGM] A map illustrating the path of the River Nile through Egypt, including major cities like Cairo and Alexandria, as well as geographical features like lakes and seas. [STOPDGM]
-
-
-(Geography) T D 3 M
-
-Activity 
- The Aswan Dam holds back floodwater for use throughout the year. It also provides hydroelectricity.
- [STARTDGM] An image of the Aswan Dam, showcasing its structure and the water management system in place. [STOPDGM]
-(Geography) T D 3 M
-
-Activity 
-Farmers cut terraces into the slopes and grow fruit trees, tea, potatoes, wheat, maize, rice, and sugar cane on them.
-
-
-(Geography) T D 3 M
-
-Activity 
-Farmers raise sheep, goats, and yaks on the slopes.
-
-
-(Geography) T D 3 M
-
-Activity 
-Farmers take the animals up to the high pastures to feed in summer.
-
-
-(Geography) T D 3 M
-
-Activity 
-In autumn, farmers bring the animals back down to the shelter of the valleys.
-
-
-(Geography) T D 3 M
-
-Activity 
-Yaks are used to carry people and heavy loads along rough tracks. 
-
-[STARTDGM] The image shows terraced fields cut into the slopes of a valley in the Himalayas, with lush greenery and a small structure visible. [STOPDGM]
-(Geography) T D 1 M
-
-Activity 
- Where do you live? Do you live in the countryside or in a town or city? 
-
-
-(Geography) T D 1 M
-
-Activity 
- Does your home stand all alone like this? 
-
-
-(Geography) T D 1 M
-
-Activity 
- If you live in the countryside, your home may be all on its own or in a village. 
-
-
-(Geography) T D 1 M
-
-Activity 
- In a city there are roads and buildings everywhere. 
-
-
-(Geography) T D 1 M
-
-Activity 
- Millions of people live in a big city. 
-(Geography) T D 1 M
-
-Activity  
-All places change.  
-Some places change very slowly.  
-Other places change quickly.  
-Places change in different ways.  
-Old buildings are knocked down.  
-New buildings are put in their place.  
-Roads are widened.  
-Sometimes streets are closed to motor traffic.  
-Shops start selling different things.  
-[STARTDGM] The image shows two photographs: one is a black-and-white photo of a city in 1930, and the other is a color photo of the same part of the city today, showcasing the changes over time. [STOPDGM]
-(Geography) T D 1 M
-
-Activity 
- Our homes have to be strong to protect us from the weather. This house is in Switzerland. In the winter there is a lot of snow in Switzerland. Many houses in Switzerland have a roof like this. When it snows, the snow slides off the roof. Houses in hot countries have thick walls and few windows. They keep the people cool. The flat roofs can be used to store things.
-(Geography) T D 1 M
-
-Activity 
- Collect pictures of as many different kinds of homes as you can. Cut up the pictures to make jigsaw puzzles. Can your friends put your jigsaws together again? 
-
-
-(Geography) T D 1 M
-
-Activity 
- Use scrap materials to build a model of a house on stilts. What could you use to make the water around the house? 
-(Geography) T D 5 M
-
-Activity  
 Imagine you are going to a faraway planet. There is no water on the planet, so you will have to take supplies with you. Draw or write about what you will need water for.
 
 
-(Geography) T D 5 M
+(Geography) (Short Answer) D 5 M
 
-Activity  
 Do people in your area use water for leisure activities?
 
 
-(Geography) T D 5 M
+(Geography) (Short Answer, List Writing Activity, Drawing Activity) D 5 M
 
-Activity  
-Write a list of the places where water is used for leisure activities.
-
-
-(Geography) T D 5 M
-
-Activity  
-Draw pictures to show the different places and activities.
-(Geography) T D 1 M
-
-Activity 
- Make a class display using old photographs or postcards of your area. Compare them. Try to find recent pictures of the same places. What changes can you see?
+\begin{enumerate}[label=\alph*.]
+\item Write a list of the places where water is used for leisure activities.
+\item Draw pictures to show the different places and activities.
+\end{enumerate}
 
 
-(Geography) T D 1 M
+(Geography) (Class Diplay, Short Answer) D 1 M
 
-Activity 
- Do you have grown-up friends or relatives who have lived in your area for a long time? Ask them how the area has changed since they were young. Tell the class what you have found out.
-(Geography) T D 1 M
+Make a class display using old photographs or postcards of your area. Compare them. Try to find recent pictures of the same places. What changes can you see?
 
-Activity 
- Choose one room in your house.
+
+(Geography) (Research Activity) D 1 M
+
+Do you have grown-up friends or relatives who have lived in your area for a long time? Ask them how the area has changed since they were young. Tell the class what you have found out.
+
+
+(Geography) (Short Answer, Creative Activity) D 1 M
+
+Choose one room in your house.
+\begin{enumerate}[label=\alph*.]
+\item What do you and your family use that room for?
+\item What things are there in the room?
+\item Build a model of the room using modelling clay, cardboard boxes, fabric and other scrap materials.
+\end{enumerate}
+
+
+(Geography) (Short Answer) D 3 M
+
+Imagine you have been transported to the Himalayas for the day. Write a short paragraph describing what you see, feel and hear.
+
+
+(Geography) (Research Activity, Design Activity, Guidebook Writing Exercise) D 3 M
+
+\begin{enumerate}[label=\alph*.]
+\item Use reference books and the Internet to find out all you can about Nepal, including its climate.
+\item Design and write your own guidebook to Nepal.
+\end{enumerate}
+
+
+(Geography) (Short Answer) D 3 M
+
+What are the difficulties of living in a mountainous area like the Himalayas? Write a short paragraph describing your ideas.
+
+
+(Geography) (Research Activity, Map Search Exercise) D 3 M
+
+The River Nile and its tributaries and lakes connect eleven countries. Can you find their names?
  
 
-(Geography) T D 1 M
+(Geography) (Pair Activity, Discussion) D 3 M
 
-Activity 
- What do you and your family use that room for?
-
-
-(Geography) T D 1 M
-
-Activity 
- What things are there in the room?
+Work with a friend.
+\begin{enumerate}[label=\alph*.]
+\item Discuss what would happen if Ethiopia took all the water from the Blue Nile, so that it no longer flowed through Egypt.
+\item Explain to your friend why the flooding of the River Nile in the past was useful.
+\end{enumerate}
 
 
-(Geography) T D 1 M
+(Geography) (Atlas Activity, Data Collection Exercise) D 3 M
 
-Activity 
- Build a model of the room using modelling clay, cardboard boxes, fabric and other scrap materials.
-(Geography) T D 3 M
-
-Activity 
- Imagine you have been transported to the Himalayas for the day. Write a short paragraph describing what you see, feel and hear.
-
-
-(Geography) T D 3 M
-
-Activity 
- Use reference books and the Internet to find out all you can about Nepal, including its climate.
+Use a compass and an atlas.
+\begin{enumerate}[label=\alph*.]
+\item What is the general direction in which the River Nile flows?
+\item Look for rivers that flow in the other main compass directions.
+\item Write down your results.
+\end{enumerate}
 
 
-(Geography) T D 3 M
+(Geography) (Short Answer, Map Search Activity) D 3 M
 
-Activity 
- Design and write your own guidebook to Nepal.
-
-
-(Geography) T D 3 M
-
-Activity 
- What are the difficulties of living in a mountainous area like the Himalayas? Write a short paragraph describing your ideas.
-(Geography) T D 3 M
-
-Activity 
- 1 The River Nile and its tributaries and lakes connect eleven countries. Can you find their names?
- 
-
-(Geography) T D 3 M
-
-Activity 
- 2 Work with a friend.
- a Discuss what would happen if Ethiopia took all the water from the Blue Nile, so that it no longer flowed through Egypt.
- b Explain to your friend why the flooding of the River Nile in the past was useful.
+\begin{enumerate}[label=\alph*.]
+\item Where is your nearest river? 
+\item Look at a map of your area and find the source of the river. 
+\item Which larger river, ocean or sea does it flow into? 
+\item How long is your river? 
+\item Which towns and cities does it flow past? 
+\end{enumerate}
 
 
-(Geography) T D 3 M
+(Geography) (Pair Activity, List Writing Exercise, Short Answer, Atlas Exercise) D 3 M
 
-Activity 
- 3 Use a compass and an atlas.
- a What is the general direction in which the River Nile flows?
- b Look for rivers that flow in the other main compass directions.
- c Write down your results.
-(Geography) T D 1 M
+\begin{enumerate}[label=\alph*.]
+\item Work with a friend to write a list of all the rivers you can think of. 
+\item Use an atlas to see if you can find all the rivers you listed. 
+\item Write which ocean or sea each river flows into. 
+\item Write down all the ways you can think of that rivers can help people, be a nuisance to people, and be a danger to people.
+\end{enumerate}
 
-Activity  
-Farmers growing rice in flooded fields  
-[STARTDGM] Image shows farmers working in flooded rice fields, wearing hats and using tools to cultivate the rice. [STOPDGM]
-(Geography) T D 3 M
 
-Activity 
- Where is your nearest river? 
+(Geography) (Short Answer) D 3 M
 
-(Geography) T D 3 M
-
-Activity 
- Look at a map of your area and find the source of the river. 
-
-(Geography) T D 3 M
-
-Activity 
- Which larger river, ocean or sea does it flow into? 
-
-(Geography) T D 3 M
-
-Activity 
- How long is your river? 
-
-(Geography) T D 3 M
-
-Activity 
- Which towns and cities does it flow past? 
-
-(Geography) T D 3 M
-
-Activity 
- Work with a friend to write a list of all the rivers you can think of. 
-
-(Geography) T D 3 M
-
-Activity 
- Use an atlas to see if you can find all the rivers you listed. 
-
-(Geography) T D 3 M
-
-Activity 
- Write which ocean or sea each river flows into. 
-
-(Geography) T D 3 M
-
-Activity 
- Write down all the ways you can think of that rivers can: 
-help people 
-
-(Geography) T D 3 M
-
-Activity 
- be a nuisance to people 
-
-(Geography) T D 3 M
-
-Activity 
- be a danger to people 
-(Geography) T D 3 M
-
-Activity  
 The groups of buildings where people live are called settlements. Villages, towns and cities are all kinds of settlements. What kind of settlement do you live in? 
 
 
-(Geography) T D 3 M
+(Geography) (Map Search Activity) D 2 M
 
-Activity  
-A village is a small settlement in the countryside. Fewer people live in a village than in a town or city and there are fewer roads and buildings. In most villages there is a place of worship. There may be a few shops. Larger villages may have a school, a garage, and a coffee shop.
+Find a map of India. Can you find Kolkata?  
 
 
-(Geography) T D 3 M
+(Geography) (Creative Writing Activity) D 3 M
 
-Activity  
-Many seaside villages were built on a hill or cliff near the sea. Other villages developed where there were sheltered harbours or where there was good fishing.
+Imagine that you were living at Dunwich during the fourteenth century. Write a newspaper report, using ICT, about the disaster.
 
 
-(Geography) T D 3 M
+(Geography) (Pair Activity, Discussion) D 3 M
 
-Activity  
-On the flatter areas of land away from the coast, or along river valleys, the villages are usually small and the houses are made of materials found nearby.
+Work with a friend. Discuss the advantages and disadvantages of building a new hotel on the cliffs in Yorkshire to replace the one that fell into the sea in 1993.
 
 
-(Geography) T D 3 M
+(Geography) (List Writing Exercise) D 3 M
 
-Activity  
-In mountain areas the houses are made of stone.
-(Geography) T D 3 M
+What are the advantages and disadvantages of reclaiming land from the sea, as has been done in the Netherlands and the United Arab Emirates? Write a list of advantages and disadvantages.
 
-Activity 
-Floods
-The text discusses the occurrence of floods due to heavy rain or melting snow, explaining how water from rain and snow runs into rivers, potentially causing them to overflow and flood nearby land.
 
+(Geography) (Research Activity) D 3 M
 
-(Geography) T D 3 M
+Use the Internet or reference books to help you make a fact file about rivers.
 
-Activity 
-Weather changes
-The text mentions how weather can vary from day to day and even hour to hour in different countries, highlighting the unpredictability of weather conditions.
-(Geography) T D 2 M
 
-Activity  
-People roamed the countryside hunting wild animals for their meat and skins, and wild fruits and seeds to eat.
+(Geography) (Research Activity, List Writing Exercise) D 3 M
 
+Choose at least two rivers from each continent, apart from Antarctica. Record the name of the river, the mountains where it rises, the length of the river, the ocean or sea it flows into, and the names of the towns and cities along its banks.
 
-(Geography) T D 2 M
 
-Activity  
-People started farming, planted crops, and kept farm animals.
+(Geography) (Chart Drawing Exercise, Research Activity, Data Collection Exercise) D 3 M
 
+Use the Internet or reference books to find out more about the largest waterfalls in the world. Draw a bar chart showing your results.
 
-(Geography) T D 2 M
 
-Activity  
-People built early villages where there was water for drinking, washing, and cooking.
+(Geography) (Class Survey Activity, Data Collection Exercise, Short Answer) D 1 M
 
+Carry out a survey of the people in your class.
+\begin{enumerate}[label=\alph*.]
+\item Ask each person what is his or her favourite way of travelling.
+\item Draw a block graph of your results.
+\item Which way of travelling do most people like best?
+\end{enumerate}
 
-(Geography) T D 2 M
 
-Activity  
-The village site had to have good soil for growing crops and food for animals.
-(Geography) T D 2 M
-  
-Activity  
-Look at the map on page 24. Can you find Kolkata?  
+(Geography) (Drawing Activity) D 1 M
 
+\begin{enumerate}[label=\alph*.]
+\item Draw a picture of your home.
+\item Who lives in your home with you?
+\item Draw them in your picture.
+\end{enumerate}
 
-(Geography) T D 2 M
-  
-Activity  
-Kolkata’s recorded history began in 1690, as a small trading village by the Hooghly River.  
 
+(Geography) (Pair Activity, Short Answer) D 3 M
 
-(Geography) T D 2 M
-  
-Activity  
-The village grew rapidly into a city as a result of trade in cotton, silk, the dye called indigo and, later, tea and jute.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-Jute is obtained from the bark of certain plants and is used for making sacks, mats and ropes.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-After India became independent from Britain in 1947, millions of refugees poured into the city.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-Today Kolkata is the most crowded city in India, with more than 14 million people.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-The export of jute, rice, tea, textiles, chemicals and paper is still an important part of the city’s economy.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-The centre of Kolkata contains the state government offices, luxury hotels, convention centres, hospitals and shopping malls.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-Kolkata has an international airport, and several universities and colleges.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-There is a well-developed railway network and an old Metro system.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-Kolkata has many factories, large and small.  
-
-
-(Geography) T D 2 M
-  
-Activity  
-The Victoria Memorial, built during the British occupation of India, is now a museum and tourist destination.  
-(Geography) T D 2 M
-
-Activity  
-Planting trees and other plants makes the environment pleasant and can provide food.
-
-
-(Geography) T D 2 M
-
-Activity  
-Window boxes filled with flowering plants can make a building look pleasant.
-
-
-(Geography) T D 2 M
-
-Activity  
-You might be able to make your school grounds more interesting by encouraging wildlife. You could make nest boxes for birds and bats, and make a bird table where the birds can feed.
-
-
-(Geography) T D 2 M
-
-Activity  
-Colourful paintings can make ugly walls look better.
-(Geography) T D 2 M
-
-Activity  
-Farmers in Parsoiya thresh their wheat by hand.
-
-
-(Geography) T D 2 M
-
-Activity  
-Lata and her family work in the fields, ploughing the land and preparing for planting. 
-
-[STARTDGM] A diagram showing a typical village in the Northern Plains of India, with small huts made of mud and straw roofs. [STOPDGM]
-(Geography) T D 2 M
-  
-Activity  
-discovered a freshwater spring on the island  
-
-
-(Geography) T D 2 M
-  
-Activity  
-built a small village of just 20 houses  
-
-
-(Geography) T D 2 M
-  
-Activity  
-grew to 400 houses  
-
-
-(Geography) T D 2 M
-  
-Activity  
-earned money by selling pearls  
-
-
-(Geography) T D 2 M
-  
-Activity  
-export oil to other countries  
-
-
-(Geography) T D 2 M
-  
-Activity  
-produces 90 per cent of the oil in the United Arab Emirates  
-(Geography) T D 3 M
-
-Activity 
-Finding the way 
-To work out which direction to take, you need to use your map and your compass. Place the compass on the map and turn the map around carefully until the north arrow on the map points in the same direction as the needle on the compass.
-
-
-(Geography) T D 3 M
-
-Activity 
-Compasses 
-A compass has a needle, which is a thin magnet. The end of the needle always points to the North Pole. If you know which way north is then you can work out where the other directions are. 
-
-[STARTDGM] A compass is shown on a map, indicating directions with a north arrow. [STOPDGM]
-(Geography) T D 3 M
-  
-Activity  
-Cattle ranching in Australia, where farms rear thousands of cattle for meat.  
-
-
-(Geography) T D 3 M
-  
-Activity  
-Growing date palms and other crops in an oasis due to sufficient water availability.  
-
-
-(Geography) T D 3 M
-  
-Activity  
-Planting rice in Bangladesh, where young rice plants need to stand in water while growing.  
-(Geography) T D 3 M
-
-Activity 
-People travel all over the world.
-
-
-(Geography) T D 3 M
-
-Activity 
-Humans spread out from Africa.
-
-
-(Geography) T D 3 M
-
-Activity 
-Huge areas of land are cleared to grow food and build new homes, shops, offices, factories, and roads.
-
-
-(Geography) T D 3 M
-
-Activity 
-People dig for building stone, minerals, and some fuels.
-
-[STARTDGM] An image showing a diverse group of children standing together, smiling, and posing for a photo. [STOPDGM]
-
-[STARTDGM] An image of a large quarry in Russia, showing heavy machinery and a landscape that has been altered, with visible destruction of soil and the countryside. [STOPDGM]
-(Geography) T D 5 M
-
-Activity 
- Map of the World
- [STARTDGM] A colorful map displaying North and South America, with countries labeled such as Canada, United States of America, Mexico, Jamaica, Colombia, Brazil, Bolivia, Paraguay, Chile, and Argentina. [STOPDGM]
-(Geography) T D 1 M
-
-Activity 
- Packed with activities, discussion points and case studies
-
-
-(Geography) T D 1 M
-
-Activity 
- Uses carefully selected language to make content accessible for EAL learners
-
-
-(Geography) T D 1 M
-
-Activity 
- Unified enquiry-based approach for all primary subjects
-
-
-(Geography) T D 1 M
-
-Activity 
- Write-in workbooks for extra activities in class or at home
-(Geography) T D 3 M
-
-Activity 
- Imagine that you were living at Dunwich during the fourteenth century. Write a newspaper report, using ICT, about the disaster.
-
-
-(Geography) T D 3 M
-
-Activity 
- Work with a friend. Discuss the advantages and disadvantages of building a new hotel on the cliffs in Yorkshire to replace the one that fell into the sea in 1993.
-
-
-(Geography) T D 3 M
-
-Activity 
- What are the advantages and disadvantages of reclaiming land from the sea, as has been done in the Netherlands and the United Arab Emirates? Write a list of advantages and disadvantages.
-(Geography) T D 3 M
-
-Activity 
- Use the Internet or reference books to help you make a fact file about rivers.
-
-
-(Geography) T D 3 M
-
-Activity 
- Choose at least two rivers from each continent, apart from Antarctica.
-
-
-(Geography) T D 3 M
-
-Activity 
- Record the name of the river, the mountains where it rises, the length of the river, the ocean or sea it flows into, and the names of the towns and cities along its banks.
-
-
-(Geography) T D 3 M
-
-Activity 
- Write down the correct word for each of the descriptions below. Make a drawing of each of the river features described.
-
-
-(Geography) T D 3 M
-
-Activity 
- Use the Internet or reference books to find out more about the largest waterfalls in the world. Draw a bar chart showing your results.
-(Geography) T D 1 M
-
-Activity 
- Think about the journeys you make every week.
- 
-
-(Geography) T D 1 M
-
-Activity 
- Carry out a survey of the people in your class.
-
-
-(Geography) T D 1 M
-
-Activity 
- Ask each person what is his or her favourite way of travelling.
-
-
-(Geography) T D 1 M
-
-Activity 
- Draw a block graph of your results.
-
-
-(Geography) T D 1 M
-
-Activity 
- Which way of travelling do most people like best?
-(Geography) T D 1 M
-
-Activity 
- Draw a picture of your home.
- 
-
-(Geography) T D 1 M
-
-Activity 
- Who lives in your home with you?
- 
-
-(Geography) T D 1 M
-
-Activity 
- Draw them in your picture.
-(Geography) T D 1 M
-
-Activity  
-This is a villa. Do you live in a villa?  
-Is your home in a cluster like this?  
-Is your home in a courtyard?  
-This is a block of apartments. One family lives in each apartment. Do you live in an apartment?  
-(Geography) T D 1 M
-
-Activity 
- We make a journey when we travel from one place to another. Some journeys are long, some are short.
- 
-
-(Geography) T D 1 M
-
-Activity 
- Look at the pictures on these pages. They show types of transport.
-(Geography) T D 3 M
-
-Activity  
-As a river flows from its source to the sea, it changes. 
-
-
-(Geography) T D 3 M
-
-Activity  
-When a river reaches flatter ground, it flows more slowly.
-
-
-(Geography) T D 3 M
-
-Activity  
-Meanders are formed when the water wears away the outer bank of the river.
-
-
-(Geography) T D 3 M
-
-Activity  
-Sometimes when it floods, a river will cut off meanders from the main river.
-
-
-(Geography) T D 3 M
-
-Activity  
-A river grows bigger as it flows from its source towards the sea. 
-
-[STARTDGM] The image shows a diagram of a river's course, illustrating features like mountains, waterfalls, tributaries, an estuary, and the sea. It also highlights the source of the river and its meanders. [STOPDGM]
-(Geography) T D 3 M
-
-Activity 
-Coastal erosion affecting buildings and infrastructure
-[STARTDGM] Image showing houses at risk of falling due to eroding cliffs on the Californian coast. [STOPDGM]
-
-
-(Geography) T D 3 M
-
-Activity 
-Historical overview of Dunwich as a port and its erosion over time
-[STARTDGM] Illustration depicting Dunwich in the 13th century with buildings and a ship. [STOPDGM]
-(Geography) T D 3 M
-
-Activity  
 Work with a friend. Write a plan to improve your school grounds for wildlife. Use your own ideas and look in reference books too.  
-a What special equipment would you need?  
-b Who would look after the plants and animals during the school holidays?  
+\begin{enumerate}[label=\alph*.]
+\item What special equipment would you need?  
+\item Who would look after the plants and animals during the school holidays?  
+\end{enumerate}
 
 
-(Geography) T D 3 M
+(Geography) (Data Collection Exercise, Research Activity) D 3 M
 
-Activity  
-Create a spreadsheet of endangered wildlife. Use the following headings: Animal or plant, Habitat or home, Numbers (if known), Threat. Use reference books and the Internet to help you to complete the spreadsheet.  
-(Geography) T D 3 M
-
-Activity 
- Work with a friend. Talk about what you would like and dislike about working on a farm.
+Create a spreadsheet of endangered wildlife. Use the following headings: Animal or plant, Habitat or home, Numbers (if known), Threat. Use reference books and the Internet to help you to complete the spreadsheet.
 
 
-(Geography) T D 3 M
+(Geography) (Pair Activity, Discussion) D 3 M
 
-Activity 
- Write a list of the foods you eat for breakfast or dinner. Draw pictures of the items and then find out where the main ingredients are grown.
-(Geography) T D 3 M
+Work with a friend. Talk about what you would like and dislike about working on a farm.
 
-Activity 
- There are nine letters in this rectangle. Use the words north, south, east and west to say how you would travel from one letter to another. Some of the questions have more than one answer. Use the word ‘then’ to connect two compass points. The first question has been answered for you.
- 
-Which direction do you travel going from A to G?  
-(Answer: south to D, then south to G)  
-Which direction do you travel going from C to G?  
-Which direction do you travel going from B to I?  
-Which direction do you travel going from A to H?  
-Which direction do you travel going from E to A?  
+
+(Geography) (List Writing Exercise, Drawing Activity, Research Exercise) D 3 M
+
+Write a list of the foods you eat for breakfast or dinner. Draw pictures of the items and then find out where the main ingredients are grown.
+
+
+(Geography) (Fill-in-the-Blanks, Atlas Activity) D 3 M
 
 Copy and complete these sentences, using the four main compass directions. Use an atlas to help you.  
-Sudan is ___________________ of Egypt.  
-Bangladesh is ___________________ of India.  
-Canada is ___________________ of the United States of America.  
-Bulgaria is ___________________ of Romania.  
-Portugal is ___________________ of Spain.  
-Chile is ___________________ of Argentina.  
-
-(Geography) T D 2 M
-
-Activity 
- Use an atlas or a map on the Internet to work out how you could get from where you live to Abu Dhabi. 
+\begin{enumerate}[label=\alph*.]
+\item Sudan is ___________________ of Egypt.  
+\item Bangladesh is ___________________ of India.  
+\item Canada is ___________________ of the United States of America.  
+\item Bulgaria is ___________________ of Romania.  
+\item Portugal is ___________________ of Spain.  
+\item Chile is ___________________ of Argentina.  
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (Research Activity, Atlas Activity, Route Planning) D 2 M
 
-Activity 
- Draw a simple plan of your route, and write the distances. 
-
-
-(Geography) T D 2 M
-
-Activity 
- Abu Dhabi developed because it produced fish and pearls. Where are the industries that produce the goods you use daily? 
+\begin{enumerate}[label=\alph*.]
+\item Use an atlas or a map on the Internet to work out how you could get from where you live to Abu Dhabi. 
+\item Draw a simple plan of your route, and write the distances. 
+\item Abu Dhabi developed because it produced fish and pearls. Where are the industries that produce the goods you use daily? 
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (Research Activity) D 2 M
 
-Activity 
- Use the telephone directory and the Internet to help you to write a list of the main industries in your local area. 
-
-
-(Geography) T D 2 M
-
-Activity 
- Interview older people and use the Internet to find out if there have been any changes to the industries in your area in the last ten years. 
+Use the telephone directory and the Internet to help you to write a list of the main industries in your local area. 
 
 
-(Geography) T D 2 M
+(Geography) (Interview Activity, Research Activity, Short Answer) T D 2 M
 
-Activity 
- Have many factories or businesses closed? 
-
-
-(Geography) T D 2 M
-
-Activity 
- Have any new factories or businesses started? 
-(Geography) T D 2 M
-
-Activity 
- Imagine that you are going to visit Lata in Parsoiya.
- 
-
-(Geography) T D 2 M
-
-Activity 
- Make a list of the things you want to find out about the village.
+\begin{enumerate}[label=\alph*.]
+\item Interview older people and use the Internet to find out if there have been any changes to the industries in your area in the last ten years.
+\item Have many factories or businesses closed?
+\item Have any new factories or businesses started?
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (List Writing Exercise, Design Activity, Creative Writing) D 2 M
 
-Activity 
- Design a postcard with a picture of the village on the front.
-
-
-(Geography) T D 2 M
-
-Activity 
- Write a description on the back of the postcard about what you would have done in the village if you stayed with Lata for a day.
+Imagine that you are going to visit Lata in Parsoiya.
+\begin{enumerate}[label=\alph*.]
+\item Make a list of the things you want to find out about the village.
+\item Design a postcard with a picture of the village on the front.
+\item Write a description on the back of the postcard about what you would have done in the village if you stayed with Lata for a day.
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (Pair Activity, Discussion, List Writing Exercise) D 2 M
 
-Activity 
- Discuss with a friend why a farmer with small fields in Parsoiya depends on the weather for a good harvest. Write a list of all the reasons you can think of.
-
-
-(Geography) T D 2 M
-
-Activity 
- Work with a partner. Ask five of your friends what they eat in a day.
+Discuss with a friend why a farmer with small fields in Parsoiya depends on the weather for a good harvest. Write a list of all the reasons you can think of.
 
 
-(Geography) T D 2 M
+(Geography) (Group Activity, Discussion, Drawing Activity) D 2 M
 
-Activity 
- Compare what your friends eat in a day with Lata’s daily meals.
-
-
-(Geography) T D 2 M
-
-Activity 
- Suggest reasons for the differences between your friends’ meals and Lata’s meals.
-(Geography) T D 2 M
-
-Activity  
-Work in groups. Choose an open space in your local area or in your school grounds that has not been cared for.
+Work in groups.
+\begin{enumerate}[label=\alph*.]
+\item Choose an open space in your local area or in your school grounds that has not been cared for.
+\item Discuss how the area could be improved.
+\item Draw plans to show how the area could be improved.
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (Writing Activity) D 2 M
 
-Activity  
-Discuss how the area could be improved.
-
-
-(Geography) T D 2 M
-
-Activity  
-Draw plans to show how the area could be improved.
-
-
-(Geography) T D 2 M
-
-Activity  
 Find out who is responsible for improving the local environment. Write a letter to them describing your plans.
 
 
-(Geography) T D 2 M
+(Geography) (Atlas Activity, Short Answer, Research Activity) D 2 M
 
-Activity  
-Use the Internet and other reference materials to find out about organisations that are working to improve the environment in the village, town, city or countryside near your school.
-
-
-(Geography) T D 2 M
-
-Activity  
-Design a poster showing your results.
-(Geography) T D 2 M
-
-Activity 
- Use an atlas, a map of India on the Internet or a globe to help you answer these questions about India:
-a Which country to the north-west of India?
-b Which island country found off the southern tip of India?
-c Approximately how far is it from the southern tip of India to its most northerly point?
-d Name three large Indian cities.
+Use an atlas, a map of India on the Internet or a globe to help you answer these questions about India:
+\begin{enumerate}[label=\alph*.]
+\item Which country to the north-west of India?
+\item Which island country found off the southern tip of India?
+\item Approximately how far is it from the southern tip of India to its most northerly point?
+\item Name three large Indian cities.
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (Class Activity, Short Answer) D 2 M
 
-Activity 
- Make a class collection of pictures, stamps, coins, food packets and other objects from India.
-b Write a sentence or two, on a piece of cardboard or paper, describing each object.
-c Display the objects and their descriptions in your classroom.
-(Geography) T D 2 M
-
-Activity 
- Write five ways in which Pradeep’s village is, a, similar to, and, b, different from, a village you know or have learned about.
+Make a class collection of pictures, stamps, coins, food packets and other objects from India.
+\begin{enumerate}[label=\alph*.]
+\item Write a sentence or two, on a piece of cardboard or paper, describing each object.
+\item Display the objects and their descriptions in your classroom.
+\end{enumerate}
 
 
-(Geography) T D 2 M
+(Geography) (List Writing Activity, Data Collection Exercise, Chart Drawing Activity, Short Answer) D 2 M
 
-Activity 
- Imagine you are a new schoolteacher at Pradeep’s school. Write about your first few days living in the village and working at the school.
-
-
-(Geography) T D 2 M
-
-Activity 
- Rice is a cereal.
-
-a Write a list of all the cereals that you can think of.
-
-b Ask your friends which cereal they like best.
-
-c Draw a bar chart to show the results.
-
-d How is rice cooked?
-
-e Name some dishes made with rice that you eat.
-(Geography) T D 3 M
-
-Activity 
- Help the family below choose where to go on holiday.
+Rice is a cereal.
+\begin{enumerate}[label=\alph*.]
+\item Write a list of all the cereals that you can think of.
+\item Ask your friends which cereal they like best.
+\item Draw a bar chart to show the results.
+\item How is rice cooked?
+\item Name some dishes made with rice that you eat.
+\end{enumerate}
 
 
-(Geography) T D 3 M
+(Geography) (Research Activity, Group Activity, Short Answer) D 3 M
 
-Activity 
- The Jensen family want a winter holiday in December. Mr and Mrs Jensen are keen to try out their new skis. Their 12-year-old son, Johann, wants to ski too, but he also hopes to be able to go bird-watching in forests and by lakes. Johann's 9-year-old sister, Alexa, wants to take lots of pictures with her new digital camera. They all want to try the food in the local coffee shops and restaurants.
-
-
-(Geography) T D 3 M
-
-Activity 
- Work in a group of three. Collect some holiday brochures or use a travel agent’s website and choose three places where the family could go on holiday. Use guidebooks or the Internet to find out more about these places, including what the weather is like.
+The Jensen family want a winter holiday in December. Mr and Mrs Jensen are keen to try out their new skis. Their 12-year-old son, Johann, wants to ski too, but he also hopes to be able to go bird-watching in forests and by lakes. Johann's 9-year-old sister, Alexa, wants to take lots of pictures with her new digital camera. They all want to try the food in the local coffee shops and restaurants. Help the family below choose where to go on holiday. Work in a group of three. Collect some holiday brochures or use a travel agent’s website and choose three places where the family could go on holiday. Use guidebooks or the Internet to find out more about these places, including what the weather is like.
+\begin{enumerate}[label=\alph*.]
+\item Record what you have found out about each place.
+\item How much would two weeks’ holiday cost for the family at each of the three places?
+\item Which place do you think the family will choose? Why?
+\end{enumerate}
 
 
-(Geography) T D 3 M
+(Geography) (Data Collection Exercise) D 5 M
 
-Activity 
- a Record what you have found out about each place.
-
-
-(Geography) T D 3 M
-
-Activity 
- b How much would two weeks’ holiday cost for the family at each of the three places?
-
-
-(Geography) T D 3 M
-
-Activity 
- c Which place do you think the family will choose? Why?
-(Geography) T D 5 M
-
-Activity  
 Create a spreadsheet to compare hurricanes and tornadoes. Include the following headings in your spreadsheet:  
-• how they form  
-• where they form  
-• their size  
-• their destructiveness  
-• any other similarities and differences you can find.  
+\begin{enumerate}[label=\alph*.]
+\item how they form  
+\item where they form  
+\item their size  
+\item their destructiveness  
+\item any other similarities and differences you can find.  
+\end{enumerate}
 
 
-(Geography) T D 5 M
+(Geography) (Research Activity, Plotting Exercise, Mapping Exercise) D 5 M
 
-Activity  
-Collect pictures, newspaper cuttings and Internet articles showing the path of destruction caused by a tornado.  
-
-
-(Geography) T D 5 M
-
-Activity  
-If you can, plot the route of the tornado on a map.  
+Collect pictures, newspaper cuttings and Internet articles showing the path of destruction caused by a tornado. If you can, plot the route of the tornado on a map.
 
 
-(Geography) T D 5 M
+(Geography) (Research Activity) D 5 M
 
-Activity  
 Look on the Internet or in reference books to find out about waterspouts.  
 
-
-(Geography) T D 5 M
-
-Activity  
 Draw a diagram to show how a waterspout is formed.  
-(Geography) T D 5 M
 
-Activity 
+
+(Geography) (Map Search Activity, Short Answer) D 5 M
+
 Look at a map showing Dubai and Jebel Ali Port.
+\begin{enumerate}[label=\alph*.]
+\item Why is Jebel Ali in a good position for a port?
+\item What other ports share the same coastline along the Arabian Gulf as Jebel Ali Port?
+\end{enumerate}
 
 
-(Geography) T D 5 M
+(Geography) (Map Search Activity, Short Answer) D 5 M
 
-Activity 
-Why is Jebel Ali in a good position for a port?
-
-
-(Geography) T D 5 M
-
-Activity 
-What other ports share the same coastline along the Arabian Gulf as Jebel Ali Port?
-
-
-(Geography) T D 5 M
-
-Activity 
 Look at a map or atlas and find Dubai. How far away is it from your home and in which direction?
 
 
-(Geography) T D 5 M
+(Geography) (Research Activity) D 5 M
 
-Activity 
 Find out what work is carried out at a port by:
-a. coastguards
-b. immigration officers
-c. customs officers
-(Geography) T D 1 M
-
-Activity 
-Mei-Ling walks to the local primary school.
+\begin{enumerate}[label=\alph*.]
+\item coastguards
+\item immigration officers
+\item customs officers
+\end{enumerate}
 
 
-(Geography) T D 1 M
+(Geography) (Short Answer) D 1 M
 
-Activity 
-School starts at 7 a.m. and doesn’t finish until 4.30 p.m.
-
-
-(Geography) T D 1 M
-
-Activity 
-At school, Mei-Ling’s class has more than 50 children.
-
-
-(Geography) T D 1 M
-
-Activity 
-They study Chinese, mathematics, music, craft, physical education and science.
-
-
-(Geography) T D 1 M
-
-Activity 
-Mei-Ling’s favourite lesson is craft.
-
-
-(Geography) T D 1 M
-
-Activity 
-Mei-Ling’s school uniform is a red tracksuit.
-
-
-(Geography) T D 1 M
-
-Activity 
-Copy and complete this table to compare your life with Mei-Ling’s life.
-
-
-(Geography) T D 1 M
-
-Activity 
 Would you like to live in Shanghai? Say why.
-(Geography) T D 3 M
 
-Activity 
-Many early towns and villages were built near rivers because the rivers stopped enemies from attacking from one side. Some villages and towns gained even more protection by being built on the inside of river meanders or on an island in a river. Water from the river could also be used by people and animals for drinking and it could be used to water food crops. The soil near rivers is often fertile and moist so crops grew well, while fish from rivers could be used for food. Many people used rivers to travel along because the early roads were poor.
 
+(Geography) (Map Drawing Activity, List Writing Activity, Short Answer) D 1 M
 
-(Geography) T D 3 M
+Draw a map of the way you go to school.
+\begin{enumerate}[label=\alph*.]
+\item Which roads do you travel along?  
+\item Make a list of some of the buildings you pass.  
+\item Are the buildings old or new? How do you know?  
+\end{enumerate}
 
-Activity 
-Many of the world’s greatest cities are close to rivers. Some of these cities developed at fords, where the river was shallow and could be crossed on foot. Other cities grew where the first bridges were built over rivers. Many large ports developed at the mouths of rivers that provided sheltered harbours for ships. 
 
+(Geography) (Drawing Activity, Short Answer) D 1 M
 
-(Geography) T D 3 M
+Draw a picture of your favourite room. Draw some of the different things that are in the room. Say why you like that room best.
 
-Activity 
-Rivers often form the borders or boundaries between different countries. The River Rhine in Europe, for example, forms a border between several countries.
-(Geography) T D 1 M
-  
-Activity  
-A home shelters us from the weather.  
-It shelters us from the hot sun, and from the cold, the rain and the wind.  
 
+(Geography) (Short Answer) D 3 M
 
-(Geography) T D 1 M
-  
-Activity  
-A home gives us a comfortable place to sleep.  
+Write four important uses of the world’s larger rivers.
 
 
-(Geography) T D 1 M
-  
-Activity  
-It gives us a place for the family to eat.  
-[STARTDGM] An illustration of a family sitting around a dining table, enjoying a meal together. [STOPDGM]
-(Geography) T D 1 M
+(Geography) (Short Answer) D 3 M
 
-Activity 
- How do these children travel to school?
+Write a sentence about each of these river words: stream, dam, valley, gorge, waterfall, oxbow lake, estuary, delta.
 
-
-(Geography) T D 1 M
-
-Activity 
- She walks from home to school every day.
-(Geography) T D 1 M
-
-Activity  
-Draw a map of the way you go to school.  
-
-(Geography) T D 1 M
-  
-Activity  
-Which roads do you travel along?  
-
-(Geography) T D 1 M
-  
-Activity  
-Make a list of some of the buildings you pass.  
-
-(Geography) T D 1 M
-  
-Activity  
-Are the buildings old or new? How do you know?  
-(Geography) T D 1 M
-
-Activity 
- Draw a picture of your favourite room. Draw some of the different things that are in the room. Say why you like that room best.
- 
-
-(Geography) T D 1 M
-
-Activity 
- Have a quiz with your friends. Take turns to ask a question such as ‘I boil water, and I live in the kitchen. What am I?’
-(Geography) T D 3 M
-
-Activity 
- Write four important uses of the world’s larger rivers.
-
-
-(Geography) T D 3 M
-
-Activity 
- Write a sentence about each of these river words: stream, dam, valley, gorge, waterfall, oxbow lake, estuary, delta.
-(Geography) T D 1 M
-
-Activity  
-Look at this picture of Shanghai at night.  
-If the extracted text needs an image to make sense, give a description of the image in the format '[STARTDGM] A night view of Shanghai with illuminated skyscrapers and the Huangpu River. [STOPDGM]'
-
-
-(Geography) T D 1 M
-
-Activity  
-Meet Mei-Ling  
-If the extracted text needs an image to make sense, give a description of the image in the format '[STARTDGM] A portrait of a young girl named Mei-Ling, smiling and holding chopsticks with a bowl of noodles in front of her. [STOPDGM]'
-
-
-(Geography) T D 1 M
-
-Activity  
-For breakfast, Mei-Ling eats rice porridge with vegetables and steamed bread.  
-
-
-(Geography) T D 1 M
-
-Activity  
-Lunch is usually noodles with stir-fried vegetables and perhaps a little meat or fish.  
-(Geography) T D 5 M
-
-Activity 
- The port of Jebel Ali handles large amounts of bulk cargoes, such as oil, gas, and chemicals.
- 
-
-(Geography) T D 5 M
-
-Activity 
- Jebel Ali Port handles over 6500 ships a year.
-
-
-(Geography) T D 5 M
-
-Activity 
- In 2013, Jebel Ali Port handled 13.6 million tonnes of cargo. 
-
-[STARTDGM] A map showing the location of Jebel Ali Port in relation to neighboring countries like Qatar, Oman, and Saudi Arabia, along with the Arabian Gulf. [STOPDGM]
-(Geography) T D 5 M
-
-Activity 
- Tornadoes form suddenly from a thundercloud when warm air rises and spins, creating a funnel of air and cloud.
- 
-
-(Geography) T D 5 M
-
-Activity 
- Tornadoes can travel at speeds of 30 to 65 kilometres per hour and can reach wind speeds of up to 800 kilometres per hour.
-
-
-(Geography) T D 5 M
-
-Activity 
- Tornadoes can measure from a few metres to over 100 metres across and can travel more than 200 kilometres before dissipating.
-
-
-(Geography) T D 5 M
-
-Activity 
- On average, about 1200 tornadoes occur in the United States every year, often referred to as 'twisters'.
-
-
-(Geography) T D 5 M
-
-Activity 
- Tornadoes can destroy everything in their path, including sand, cars, buildings, and even people and animals.
-(Geography) T D 3 M
-  
-Activity  
-Kitesurfing in Hawaii.  
-
-
-(Geography) T D 3 M
-  
-Activity  
-Swimming in the Mediterranean Sea.  
-(Geography) T D 2 M
-
-Activity  
-Pradeep sleeps on a mattress in the living room. 
-
-
-(Geography) T D 2 M
-
-Activity  
-His mother fetches water from a tap in the road outside.
-
-
-(Geography) T D 2 M
-
-Activity  
-All the members of the family wash in a bowl in the small courtyard.
-
-
-(Geography) T D 2 M
-
-Activity  
-They have their meals in the courtyard.
-
-
-(Geography) T D 2 M
-
-Activity  
-Pradeep walks to school with his sister and cousins.
-
-
-(Geography) T D 2 M
-
-Activity  
-Pradeep plays football or marbles with his friends at playtime.
-
-
-(Geography) T D 2 M
-
-Activity  
-(Geography) is one of Pradeep's favourite lessons at school. 
-
-[STARTDGM] A diagram showing a classroom setting with a teacher presenting a map of India to students. [STOPDGM]
-(Geography) T D 2 M
-
-Activity 
- India is the seventh largest country in the world. It has the second highest number of people, after China. The population of India is about 1.27 billion, one sixth of the world’s population.
-
-
-(Geography) T D 2 M
-
-Activity 
- Most of the population of India lives on the Northern Plains. The Ganges and Brahmaputra rivers, and the tributaries of the Indus River flow across the plains.
-
-
-(Geography) T D 2 M
-
-Activity 
- Many of India’s largest cities, including the capital, New Delhi, are on the Northern Plains.
-
-
-(Geography) T D 2 M
-
-Activity 
- The Deccan Plateau in the centre of India has land that is good for farming crops and grazing animals.
-
-
-(Geography) T D 2 M
-
-Activity 
- It is also rich in coal and oil and the ores of iron and aluminium.
-
-
-(Geography) T D 2 M
-
-Activity 
- Between them, the people of India speak 16 main languages and hundreds of other languages.
-
-
-(Geography) T D 2 M
-
-Activity 
- Children often speak one language at home and learn two more at school.
-
-
-(Geography) T D 2 M
-
-Activity 
- The Thar Desert is hot and sandy, and hardly any people live there.
-
-
-(Geography) T D 2 M
-
-Activity 
- The Himalaya Mountains to the north and north-east of India are the highest mountains in the world.
-
-[STARTDGM] A map of India showing the largest cities, mountains, and rivers. [STOPDGM]
 
 (History) T D 1 M
 
