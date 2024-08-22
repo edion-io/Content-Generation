@@ -201,7 +201,7 @@ class TextEditor:
         self.current_section -= 1
         self._show_section()
     
-    def delete_section(self):
+    def delete_section(self) -> None:
         """ Delete the current section.
         """
         # Failsafe to make sure a file is loaded
@@ -218,7 +218,7 @@ class TextEditor:
             self.current_section -= 1
         self._show_section()
     
-    def next_subject(self):
+    def next_subject(self) -> None:
         """ Move to the next subject.
         """
         # Failsafe to make sure a file is loaded
@@ -239,7 +239,7 @@ class TextEditor:
                 break
         self._show_section()
 
-    def previous_subject(self):
+    def previous_subject(self) -> None:
         """ Move to the previous subject.
         """
         # Failsafe to make sure a file is loaded
