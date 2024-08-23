@@ -1,3 +1,4 @@
+# Copyright (C) 2024  Edion Management Systems
 from langchain_core.messages import SystemMessage
 from langchain_core.prompts.chat import (
     ChatPromptTemplate
