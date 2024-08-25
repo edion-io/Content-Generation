@@ -46968,385 +46968,313 @@ Here are some statements about odd and even numbers. Fill in the blanks using ei
 \end{enumerate}
 
 
-(Mathematics) (Word Problem) D 4 (Exercise on odd and even numbers)
+(Mathematics) (Word Problem, Short Answer) D 4 (Exercise on odd and even numbers)
 
 Leroy says, "I add two odd numbers and one even number and my answer is 33." Explain why Leroy cannot be correct.
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Short Answer, Word Problem) D 4 M
 
-[True or false statements]
-8. Mary says, "The difference between two odd numbers is odd." Is this always true, sometimes true or never true? Explain your answer.
-[STRDGM] A space for explanation regarding the difference of odd numbers. [STPDGM]
+Mary says, "The difference between two odd numbers is odd." Is this always true, sometimes true or never true? Explain your answer.
 
 
-(Mathematics) T D 4 M
+(Mathematics) (Arithmetic Exercise) D 4 M
 
-[Calculations with numbers]
-9. Work out these calculations: 5 + 11 = ___, 22 + 19 = ___, 34 + 56 = ___.
-[STRDGM] A space for calculations with the sums of two numbers. [STPDGM]
-
-
-(Mathematics) T D 4 M
-
-[General statement completion]
-10. Here are some statements. Write true if the statement is correct. Write false if it is not correct.
-even + even = ___, odd + odd = ___.
-[STRDGM] A list of statements regarding the addition of odd and even numbers with spaces to fill in. [STPDGM]
+Work out these calculations: 
+\begin{enumerate}
+\item \( 5 + 11 \)
+\item \( 22 + 19 \)
+\item \( 34 + 56 \)
+\end{enumerate}
 
 
-(Mathematics) T D 4 M
+(Mathematics) (True or False Statement) D 4 (Exercise about odd and even numbers)
 
-[Statements about sums]
-11. Here are four statements about odd and even numbers. One statement is wrong. Put a cross (X) in the box by the wrong statement.
-The sum of three numbers is 24. The sum of the odd numbers is 22. The sum of two odd numbers is 20. The sum of two even numbers is 18.
-[STRDGM] A list of statements regarding sums with a space to mark the incorrect one. [STPDGM]
+Here are some statements. Write true if the statement is correct. Write false if it is not correct.
 
-
-(Mathematics) T D 4 M
-
-[True or false statements]
-12. Is it always, sometimes or never true that the sum of four even numbers will divide exactly by 4?
-[STRDGM] A space for explanation regarding the divisibility of sums of even numbers. [STPDGM]
-(Mathematics) T D 3 M
-
-[Estimation exercise]
-Estimate the total, find the number sentence.
-[STRDGM] A grid with blocks representing 100s, 10s, and 1s, where blocks are grouped to show the numbers visually. [STPDGM]
+\begin{enumerate}
+\item even + even = even
+\item odd + odd = odd
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Odd One Out) D 4 (Exercise about even and odd numbers)
 
-[Addition exercise]
+Here are four statements about odd and even numbers. One statement is wrong. Put a cross (X) in the space by the wrong statement.
+\begin{enumerate}
+\item The sum of three numbers is 24. ___
+\item The sum of three odd numbers is 22. ___
+\item The sum of two odd numbers is 20. ___
+\item The sum of two even numbers is 18. ___
+\end{enumerate}
+
+
+(Mathematics) (Always Sometimes or Never True Statement) D 4 (Exercise on even and odd numbers)
+
+Is it always, sometimes or never true that the sum of four even numbers will divide exactly by 4?
+
+
+(Mathematics) (Arithmetic Exercise) D 3 M
+
 Estimate and solve these 2-digit number additions.
-[STRDGM] Two addition problems displayed with space for estimates and solutions. [STPDGM]
+\begin{enumerate}
+\item \( 22 + 45 \)
+\item \( 93 + 39 \)
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Arithmetic Exercise, Estimation Exercise) D 3 M
 
-[Estimation exercise]
 Estimate and solve these additions.
-[STRDGM] Three addition problems with space for estimates. [STPDGM]
+\begin{enumerate}
+\item \( 14 + 28 + 34 \)
+\item \( 47 + 62 \)
+\item \( 39 + 13 + 72 \)
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Short Answer) D 3 (Exercise on writing numbers in digit form)
 
-[Number representation exercise]
 Write one thousand in numbers.
-[STRDGM] A blank space for writing the number representation of one thousand. [STPDGM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Arithmetic Exercise) D 3 M
 
-[Addition methods exercise]
 Add single-digit numbers in two ways.
-[STRDGM] A space to write two different addition methods for single-digit numbers. [STPDGM]
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Estimation Exercise, Arithmetic Exercises) D 3 M
 
-[Sorting exercise]
-Sort these additions into the table.
-[STRDGM] A table with columns for "No regrouping" and "Regrouping tens" with addition problems listed. [STPDGM]
-
-
-(Mathematics) T D 3 M
-
-[True/False exercise]
-Tick the two statements.
-[STRDGM] Two statements regarding digit changes during addition with checkboxes. [STPDGM]
-
-
-(Mathematics) T D 3 M
-
-[Estimation exercise]
 Estimate then solve these additions.
-[STRDGM] Three addition problems with space for estimates and solutions. [STPDGM]
+\begin{enumerate}
+\item \( 36 + 26 = \_\_\_ \)
+\item \( 19 + 37 = \_\_\_ \)
+\item \( 8 + 14 = \_\_\_ \)
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (True/False Statement, Arithmetic Exercise) D 3 M
 
-[Challenge exercise]
-Odd add to a 3-digit number and some tens.
-[STRDGM] A problem statement asking for possible solutions to a specific addition scenario. [STPDGM]
+Tick the statement if it is true, otherwise place a cross next to it.
 
+\begin{enumerate}[label=\alph*.]
+\item If 16 is added to 15, the number will be odd. ___
+\item If 34 is added to 8, the number will be even. ___
+\end{enumerate}
 
-(Mathematics) T D 3 M
 
-[Comparison exercise]
-Compare your method with your partner's method.
-[STRDGM] A space for writing comparisons of addition methods used. [STPDGM]
+(Mathematics) (Estimation Exercise, Arithmetic Exercise) D 3 M
 
+Estimate then solve these additions.
+\begin{enumerate}
+\item \( 25 + 7 + 8 = \_\_\_ \)
+\item \( 19 + 4 + 7 = \_\_\_ \)
+\item \( 9 + 9 + 9 = \_\_\_ \)
+\end{enumerate}
 
-(Mathematics) T D 3 M
 
-[Column addition exercise]
-Here are Alva's column additions.
-[STRDGM] A list of addition problems displayed in column format for analysis. [STPDGM]
-(Mathematics) T D 3 M
+(Mathematics) (Estimation Exercise) D 3 M
 
-[Estimating time]
-1. How many times can you clap your hands in 1 minute?
-   - estimate: __________
-   - measure: __________
-   - Write three things that would take more than a minute to do.
-   1. ________________
-   2. ________________
+How many times can you clap your hands in 1 minute?
+\begin{enumerate}[label=\alph*.]
+\item Estimate it: __________
+\item NOw measure it: __________
+\item  Write three things that would take more than a minute to do.
+\end{enumerate}
 
-[Situational: None]
 
+(Mathematics) (Estimating Exercise, Word Problem Writing Practice) D 3 (Multi-part)
 
-(Mathematics) T D 3 M
+\begin{enumerate}
+\item If you sleep eight hours a night, how many hours do you sleep in a week?
+\item Write word problems, in the form of questions and answers  about things that take you two hours to do.
+\end{enumerate}
 
-[Estimating time]
-2. If you sleep eight hours a night, how many hours do you sleep in a week?
-   - Write questions and answers about things that take you two hours to do.
-   1. ________________
-   2. ________________
 
-[Situational: None]
+(Mathematics) (Word Problem) D 3 (With Answer, Multi-part)
 
+\begin{enumerate}[label=\alph*.]
+\item Paul planned a holiday for two weeks. He left on the 1st of May. When did he come home?
+\item Lessons will go back to school 30 days later. What date do they go back to school?
+\end{enumerate}
 
-(Mathematics) T D 3 M
+\subsection{Answers}
+\begin{enumerate}[label=\alph*.]
+\item May 15th 
+\item Paul will come back to school on the 31st of May
+\end{enumerate}
 
-[Using a calendar]
-3. Paul planned a holiday for two weeks. He left on 1st May. When did he come home?
-   - __________
-   - Lessons will go back to school 30 days later. What date do they go back to school?
-   - __________
 
-[Situational: Calendar showing May and June with dates marked]
+(Mathematics) (Estimating Exercise, Temporal Exercise) D 3 M
 
+Choose from less than a minute" "more than a minute", "1 minute" or "one hour" to estimate the length of time each of these activities would take.
 
-(Mathematics) T D 3 M
+\begin{itemize}
+\item walk around your classroom
+\item stamp your feet
+\item blink your eyes
+\item brush your teeth
+\item travel to school
+\item get dressed
+\item eat your breakfast
+\end{itemize}
 
-[Estimating time]
-4. Choose from the choices in the box to estimate the length of time each of these activities would take.
-   - one hour
-   - 1 minute
-   - less than a minute
-   - more than a minute
-   - walk around your classroom
-   - stamp your feet
-   - blink your eyes
-   - brush your teeth
-   - travel to school
-   - get dressed
-   - eat your breakfast
 
-[Situational: None]
+(Mathematics) (Word Problem) D 3 (Exercise on using a calendar)
 
+Use a calendar to help you solve these problems if necessary. A dog got fed for the first time on the 6th of July.
+\begin{enumerate}
+\item What was the date on the 4th of that month?
+\item I planned to take the dog to the veterinary on the 20th but went two weeks earlier. When did I go?
+\end{enumerate}
 
-(Mathematics) T D 3 M
 
-[Using a calendar]
-6. Use the calendar to help you solve these problems.
-   - A dog got fed for the first time on day 6. 
-   - What was the date on Thursday 4th?
-   - I planned to take the dog on the 20th but went two weeks earlier. When did I go?
-   - __________
+(Mathematics) (Searching Exercise) D 3 (Exercise that uses a calendar)
 
-[Situational: Calendar showing dates for the month]
+Use a calendar to find two days and dates that are 17 days apart.
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Word Problem) D 4 (Exercise about compasses, Multi-part)
 
-[Estimating time]
-7. Choose from the choices in the box to estimate how long it takes:
-   - to shake hands with a friend
-   - to eat your breakfast
-   - to work around the outside of your school building
-   - __________
+\begin{enumerate}
+\item What are the possible directions on a compass? 
+\item Write the number of degrees for each direction.
+\end{enumerate}
 
-[Situational: None]
 
+(Mathematics) (Fraction Placement Exercise) D 3 M
 
-(Mathematics) T D 3 M
+A fraction strip is 20 cm long. Wummi is marking quarters on the strip.  
+\begin{enumerate}[label=\alph*.]
+\item Where should she mark \( \frac{1}{4} \) at ___ cm?  
+\item Where should she mark \( \frac{2}{4} \) at ___ cm?  
+\item Where should she mark \( \frac{3}{4} \) at ___ cm?  
+\end{enumerate}
 
-[Finding dates]
-8. Find two days and dates that are 17 days apart.
-   - __________
-   - __________
 
-[Situational: Calendar showing November and December with dates marked]
-(Mathematics) T D 4 M
+(Mathematics) (Drawing Exercise, Arithmetic Exercise) D 3 (Exercise on fractions)
 
-[Compass directions exercise]
-1. Complete the compass directions.
-[Situational: A compass rose with cardinal and intercardinal directions labeled.]
+\begin{enumerate}
+\item Draw a ring around \( \frac{1}{3} \) of the cubes.  
+\item What fraction of the cubes are already circled?  
+\end{enumerate}
 
+[STRDGM] A grid of 9 cubes, with 6 that are already circled. [STPDGM]
 
-(Mathematics) T D 4 M
 
-[Direction description exercise]
-2. Describe the direction of the path using compass directions.
-[Situational: A diagram showing a path with arrows indicating direction.]
+(Mathematics) (Arithmetic Exercise) D 3 (Exercise on calculating fractions)
 
+Find these fractions of 12: \( \frac{1}{3} \), \( \frac{3}{4} \), \( \frac{1}{6} \)
 
-(Mathematics) T D 4 M
 
-[Arrow drawing exercise]
-3. Draw arrows from the coordinates to show the correct position.
-[Situational: A grid with specific coordinates marked.]
+(Mathematics) (Arithmetic Exercise) D 3 M
 
+4. Find the missing number to make each fraction equal to one another.  
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{2}{6} = \frac{6}{} \) 
+\item \( \frac{5}{15} = \frac{}{45} \) 
+\item \( \frac{1}{10} = \frac{}{40} \) 
+\end{enumerate}
 
-(Mathematics) T D 4 M
 
-[Map direction exercise]
-4. What compass direction should relate to how to get from house A to house B?
-[Situational: A map with various house icons labeled A, B, etc.]
+(Mathematics) (Arithmetic Exercise) D 3 M
 
+A fraction strip is 1 meter long. Where should you mark the quarters on the strip?  
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{4} \) at ___ cm.  
+\item \( \frac{2}{4} \) at ___ cm.  
+\item \( \frac{3}{4} \) at ___ cm.  
+\end{enumerate}
 
-(Mathematics) T D 4 M
 
-[Grid coordinate exercise]
-5. Write the coordinates for each of the following positions.
-[Situational: A grid with labeled axes and specific points to identify.]
+(Mathematics) (Arithmetic Exercise) D 3 (Multi-part)
 
+What is the whole number equivalent of each fraction below?
+\begin{enumerate}
+\item \( \frac{12}{4} \)
+\item \( \frac{16}{4} \)
+\item \( \frac{42}{7} \)
+\item \( \frac{56}{8} \)
+\item \( \frac{63}{9} \)
+\end{enumerate}
 
-(Mathematics) T D 4 M
 
-[Compass angle exercise]
-6. Complete the compass rose with the compass directions, and write the number of degrees for each direction.
-[Situational: A compass rose with angles marked around it.]
+(Mathematics) (Arithmetic Exercise) D 3 M
 
+Complete each fraction statement to make the equalities correct. 
+\begin{enumerate}
+\item \( \frac{8}{12} = \frac{}{27} \)  
+\item \( \frac{3}{5} = \frac{6}{} \)  
+\end{enumerate}
 
-(Mathematics) T D 4 M
 
-[Coordinate labeling exercise]
-7. Label the coordinates of a point.
-[Situational: A grid with a point marked and labeled coordinates.]
+(Mathematics) (Arithmetic Exercise) D 3 M
 
+A fraction strip has \( \frac{1}{3} \) marked at 9 cm.  
+\begin{enumerate}[label=\alph*.]
+\item How long is the fraction strip?  
+\item Where should \( \frac{1}{3} \) be marked on this fraction strip?  
+\end{enumerate}
 
-(Mathematics) T D 4 M
 
-[Square completion exercise]
-8. A and B are two vertices of a square. Complete the square.
-[Situational: A grid showing points A and B, with instructions to find the other vertices.]
-(Mathematics) T D 3 M
+(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Exercise using fractions)
 
-[Fraction placement exercise]
-1. A fraction strip is 20 cm long. Wummi is marking quarters on the strip.  
-   a. Where should she mark \( \frac{1}{4} \) at ___ cm?  
-   b. Where should she mark \( \frac{2}{4} \) at ___ cm?  
-   c. Where should she mark \( \frac{3}{4} \) at ___ cm?  
-   [STRDGM] A horizontal line representing a 20 cm long strip divided into four equal parts, with markers for each quarter. [STPDGM]
+There are 24 marbles in \( \frac{2}{3} \) of a bag of marbles. How many marbles are in a full bag?
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Exercise using fractions)
 
-[Drawing and fraction identification]
-2.  
-   a. Draw a ring around \( \frac{1}{3} \) of the cubes.  
-   b. What fraction of the cubes are ringed?  
-   [STRDGM] A grid of cubes, with some cubes to be ringed, indicating a total of 9 cubes. [STPDGM]
+Fatima buys a bunch of grapes. She eats \( \frac{1}{3} \) of the bunch. There are 18 grapes left. How many grapes were in the bunch that Fatima bought?
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Arithmetic Exercise, Word Problem) D 3 M
 
-[Fraction calculation exercise]
-3. Find these fractions of 12.  
-   [STRDGM] A table with fractions of 12 listed, with spaces for answers. [STPDGM]
+There are 12 nails in a pack. Feng uses 3 nails. What fraction of the pack does he use?
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Arithmetic Exercise) D 6 (Exercise on percentage calculations)
 
-[Division matching exercise]
-4. Find each fraction and complete the matching division calculation.  
-   a. \( \frac{2}{6} = 6 \) ___  
-   b. \( \frac{5}{15} = 16 \) ___  
-   c. \( \frac{2}{16} = 16 \) ___  
-   d. \( \frac{1}{10} = 40 \) ___  
-   [STRDGM] A table with fractions and corresponding division calculations to match. [STPDGM]
+Find 10\% of 200, then use your answer to find 20\%, 30\% and so on, until you reach 100\%. Write the answers under the percentages on the number line.
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Arithmetic Exercise) D 6 (Exercise on percentage calculations)
 
-[Fraction identification exercise]
-6. A fraction strip is 1 meter long. Where should you mark the quarters on the strip?  
-   a. \( \frac{1}{4} \) at ___ cm.  
-   b. \( \frac{2}{4} \) at ___ cm.  
-   c. \( \frac{3}{4} \) at ___ cm.  
-   [STRDGM] A horizontal line representing a 1 meter long strip divided into four equal parts, with markers for each quarter. [STPDGM]
+Find 10\% of these quantities: 
+\begin{enumerate}[label=\alph*.]
+\item 600
+\item 90 cm
+\item \$40
+\item 170 kg
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Matching Exercise, Arithmetic Exercise) D 6 (Exercise using percentages)
 
-[Table completion exercise]
-8. What is the whole in the table below? Complete the rest of the table.  
-   [STRDGM] A table with fractions and corresponding whole numbers, with spaces for answers. [STPDGM]
+Join each percentage quantity (50\% of 40, 10\% of 120, 100\% of 16) to the correct amount:
+\begin{itemize}
+\item 10
+\item 12
+\item 14
+\item 16 
+\item 18 
+\item 20
+\end{itemize}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Arithmetic Exercise) D 6 (Exercise on percentages, Exercise on fractions)
 
-[Fraction calculation exercise]
-9. Complete each fraction statement and write the matching division calculation.  
-   a. \( \frac{8}{12} = 27 \) ___  
-   b. \( \frac{3}{5} = 7 \) ___  
-   [STRDGM] A table with fraction statements and corresponding division calculations to match. [STPDGM]
+\begin{enumerate}
+\item Find 10% of 80
+\item Find 5% of 80
+\item Find 15% of 80.
+\end{enumerate}
 
 
-(Mathematics) T D 3 M
+(Mathematics) (Visual Problem) D 6 M
 
-[Fraction identification exercise]
-11. A fraction strip has \( \frac{1}{3} \) marked at 9 cm.  
-   a. How long is the fraction strip?  
-   b. Where should \( \frac{1}{3} \) be marked on this fraction strip?  
-   [STRDGM] A horizontal line representing a fraction strip with a marker at 9 cm for \( \frac{1}{3} \). [STPDGM]
+Here is a grid of ten squares. What percentage of the grid is shaded?
 
-
-(Mathematics) T D 3 M
-
-[Fraction problem solving]
-13. There are 24 marbles in \( \frac{2}{3} \) of a bag of marbles. How many marbles are in a full bag?  
-   [STRDGM] A bag with marbles, indicating a total of 24 marbles representing \( \frac{2}{3} \) of the bag. [STPDGM]
-
-
-(Mathematics) T D 3 M
-
-[Fraction problem solving]
-14. Fatima buys a bunch of grapes. She eats \( \frac{1}{3} \) of the bunch. There are 18 grapes left. How many grapes were in the bunch that Fatima bought?  
-   [STRDGM] A bunch of grapes with a portion eaten, indicating the remaining grapes. [STPDGM]
-
-
-(Mathematics) T D 3 M
-
-[Fraction calculation exercise]
-15. There are 12 nails in a pack. Feng uses ___ nails. What fraction of the pack does he use?  
-   [STRDGM] A pack of nails with some nails removed, indicating the total of 12 nails. [STPDGM]
-(Mathematics) T D 6 M
-
-[Percentage calculations]
-1. Find 10% of the quantity, then use your answer to find 20%, 30% and so on. Write the answers under the percentages on the number line.
-[STRDGM] A horizontal line marked with percentages from 0% to 100% and a total amount of $200 at the end. [STPDGM]
-
-
-(Mathematics) T D 6 M
-
-[Percentage calculations]
-2. Find 10% of these quantities: a) 600, b) 90 cm, c) $40, d) 170 kg.
-[STRDGM] A list of quantities with spaces for answers next to each item. [STPDGM]
-
-
-(Mathematics) T D 6 M
-
-[Matching exercise]
-3. Join each box to the correct amount.
-[STRDGM] Two columns: one with percentages (50% of 40, 10% of 120, 100% of 16) and another with numbers (10, 12, 14, 16, 18, 20). [STPDGM]
-
-
-(Mathematics) T D 6 M
-
-[Percentage calculations]
-4. a) Find 10% of 80, b) Find 5% of 80, c) Find 15% of 80.
-[STRDGM] Three separate lines with the tasks listed and spaces for answers. [STPDGM]
-
-
-(Mathematics) T D 6 M
-
-[Grid percentage]
-5. Here is a grid of ten squares. What percentage of the grid is shaded?
-[STRDGM] A grid consisting of ten squares, some shaded and some unshaded. [STPDGM]
+[STRDGM] A grid consisting of ten squares, with 8 shaded and 2 unshaded. [STPDGM]
 
 
 (Mathematics) T D 6 M
