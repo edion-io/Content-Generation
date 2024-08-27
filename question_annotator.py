@@ -80,8 +80,9 @@ class TextEditor:
         self.root.bind("<F3>", lambda _: self.previous_section())
         self.root.bind("<F4>", lambda _: self.next_section())
         self.root.bind("<F5>", lambda _: self.detect_type())
+        self.root.bind("<F6>", lambda _: self.list_to_latex())
 
-    def load_files(self):
+    def load_files(self) -> None:
         """
         Load a text file to read from and a text file to write to.
 
@@ -120,7 +121,7 @@ class TextEditor:
         self._show_section()
         self.chunk_number_label.config(text=f"/ {len(self.chunks)}")
 
-    def save_sections(self):
+    def save_sections(self) -> None:
         """
         Saves loaded sections to file
 
@@ -142,9 +143,8 @@ class TextEditor:
         messagebox.showinfo("Saved Sections", f"Saved {self.last_viewed_section + 1} sections in chunks "
                                               f"{self.start_chunk} to {self.current_chunk}")
 
-    def next_section(self):
-        """
-        Displays the next section in the textbox
+    def next_section(self) -> None:
+        """Displays the next section in the textbox
 
         Returns: None
         """
@@ -163,7 +163,7 @@ class TextEditor:
         self.last_viewed_section = max(self.last_viewed_section, self.current_section)
         self._show_section()
 
-    def previous_section(self):
+    def previous_section(self) -> None  :
         """
         Displays the previous section in the textbox
 
@@ -183,7 +183,7 @@ class TextEditor:
         self.current_section -= 1
         self._show_section()
 
-    def jump_chunk(self):
+    def jump_chunk(self) -> None:
         """
         Loads sections from a desired chunk
 
@@ -230,7 +230,7 @@ class TextEditor:
             self.start_chunk = start_chunk
             self._show_section()
 
-    def detect_type(self):
+    def detect_type(self) -> None:
         """
         If no type parameter is present, remove the first line and set it as the type parameter
 
@@ -248,11 +248,17 @@ class TextEditor:
         if result is None:
             return
 
-        # If type is not present, use the first line to determine the type
-        question_type = lines[1] if lines[1] else lines[2]
+        # If type is not present, use the first non empty line to determine the type
+        line_index = 1
+        while line_index < len(lines):
+            if question_type := lines[line_index].strip():
+                break
+            else:
+                line_index += 1
 
-        while question_type[-1] == " ":
-            question_type = question_type[:-1]
+        if line_index == len(lines):
+            messagebox.showinfo("No type detected", "Sections seems to be empty, so no type could be extracted")
+            return
 
         if question_type[0] == "[" or question_type[0] == "(" or question_type[0] == "{":
             question_type = question_type[1:-1]
@@ -264,15 +270,44 @@ class TextEditor:
         lines[0] = f"{lines[0][:result.span()[0]]} ({question_type}) {lines[0][result.span()[1]:]}"
 
         # Remove the first line from the section
-        if lines[1].replace(" ", "") == "":
-            del lines[2]
-        else:
-            del lines[1]
+        del lines[line_index]
 
         self.sections[self.current_section] = "\n".join(lines)
         self._show_section()
 
-    def _load_sections(self):
+    def list_to_latex(self) -> None:
+        """Detects lists and formats them according to latex
+
+        Returns: None
+        """
+
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+
+        self._update_section()
+        text = self.sections[self.current_section]
+        header = text.split("\n")[0]
+        body = text[len(header):]
+
+        # Pattern to detect numbered lists (e.g., 1. Text 2. Text ...)
+        list_pattern = r'(?:\d+\.?\s)([^\d]+)'
+
+        # Function to convert the detected lists to a single LaTeX list
+        def to_latex(match):
+            items = re.findall(list_pattern, match.group(), re.DOTALL)
+            latex_list = "\\begin{itemize}\n"
+            for item in items:
+                latex_list += f"\\item {item.strip()}\n"
+            latex_list += "\\end{itemize}"
+            return latex_list
+
+        # Replace all detected lists with their LaTeX versions
+        new_body = re.sub(r'((?:\d+\.?\s+.+?)(?=(?:\d+\.?\s+)|\n\n|$))+', to_latex, body, flags=re.DOTALL)
+        self.sections[self.current_section] = header + new_body
+        self._show_section()
+
+    def _load_sections(self) -> None:
         """
         Loads all sections from the current chunk and move to next chuck.
 
@@ -315,7 +350,7 @@ class TextEditor:
                 text += self.chunks[self.current_chunk][:section_end]
         self.sections.append(text)
 
-    def _show_section(self):
+    def _show_section(self) -> None:
         """
         Load current section into textbox
 
@@ -326,7 +361,7 @@ class TextEditor:
             self.textbox.insert(tk.END, self.sections[self.current_section])
             self._update_chunk_label()
 
-    def _update_chunk_label(self):
+    def _update_chunk_label(self) -> None:
         """
         Set the chunk label to current chunk
 
@@ -335,7 +370,7 @@ class TextEditor:
         self.chunk_entry.delete(0, tk.END)
         self.chunk_entry.insert(1, str(self.current_chunk - 1))
 
-    def _update_section(self):
+    def _update_section(self) -> None:
         """
         Replace local contents of the current section with contents of the textbox
 
