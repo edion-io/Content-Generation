@@ -7,9 +7,9 @@ import argparse
 import re
 from utils import SUBJECTS
 
-# -------------
+# -------------------------
 # Parameters
-# -------------
+# -------------------------
 # Specify the folder/file containing any relevant files
 PATH = 'questions.txt'
 # Specify the folder containing the images
@@ -25,9 +25,9 @@ CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 # Specify the prompt for the chat completion task
 PROMPT = "1. Extract all exercises from the pages .\n2. Output them in this format:\n*NEW*\n[Max 5 words describing the type of exercise]\n[Replace with extracted text]\n[Situational diagram description (see instruction #4 below)]\n\n 3. Some exercises continue over to another page, make sure you get that too (should not be separate). 4. If an activity or exercise needs or refers to one or more images or tables, add a description of the image(s) to the above template in the form:\n[STRDGRM] [Detailed description of the image that a blind person can use to visualize what is needed, without even seeing the image] [STPDGRM]\n\n5. Only output what is asked of you."
 
-# -------------
-# Parsing 
-# -------------
+# -------------------------
+# Parsers / Subparsers
+# -------------------------
 # Create the parser and subparsers
 argparser = argparse.ArgumentParser(description="Extract text from images or reformat text using the OpenAI API.")
 subparsers = argparser.add_subparsers(dest="key", help="Subcommand description")
