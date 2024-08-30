@@ -81,7 +81,7 @@ if __name__ == "__main__":
         with open("batch_job_id.txt", "r") as f:
             batch_job_ids = f.readlines()
         for batch_job_id in batch_job_ids:
-            batch_job = client.batches.retrieve(batch_job_id)
+            batch_job = client.batches.retrieve(batch_job_id.strip())
             result_file_id = batch_job.output_file_id
             result = client.files.content(result_file_id).content
 
@@ -90,23 +90,23 @@ if __name__ == "__main__":
 
             # Parse each line as a separate JSON object
             batch_results = [json.loads(line) for line in lines]
-        # Iterate through each result and save the extracted text
-        if args.t:
-            with open("questions.txt", "a") as f:
-                for result in batch_results:
-                    task_id = result['custom_id']
-                    subject, grade = task_id.split('_')
-                    extracted_text = result['response']['body']['choices'][0]['message']['content']
-                    f.write(extracted_text + '\n\n')
-        elif args.p:
-            with open("questions.txt", "a") as f:
-                for result in batch_results:
-                    task_id = result['custom_id']
-                    subject, grade, _ = task_id.split('_')
-                    extracted_text = result['response']['body']['choices'][0]['message']['content']
-                    exercises = extracted_text.split("*NEW*")[1:]
-                    for exercise in exercises:
-                        f.write(f"{subject} T D {grade} M\n")
-                        f.write(exercise + '\n')
+            # Iterate through each result and save the extracted text
+            if args.t:
+                with open("qs.txt", "a") as f:
+                    for result in batch_results:
+                        task_id = result['custom_id']
+                        subject, grade = task_id.split('_')
+                        extracted_text = result['response']['body']['choices'][0]['message']['content']
+                        f.write(extracted_text + '\n\n\n')
+            elif args.p:
+                with open("questions.txt", "a") as f:
+                    for result in batch_results:
+                        task_id = result['custom_id']
+                        subject, grade, _ = task_id.split('_')
+                        extracted_text = result['response']['body']['choices'][0]['message']['content']
+                        exercises = extracted_text.split("*NEW*")[1:]
+                        for exercise in exercises:
+                            f.write(f"{subject} T D {grade} M\n")
+                            f.write(exercise + '\n')
     else:
         argparser.print_help()

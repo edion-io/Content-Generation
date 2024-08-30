@@ -45716,7 +45716,7 @@ The numbers in the circles are multiplied together to give the numbers in the sq
 (Mathematics) (Calculation Exercise, Arithmetic Exercise) D 4 M
 
 What is double 78?  
-\begin(equation*}
+\begin{equation*}
    78 \times 2 = \_\_\_
 \end{equation}
 
@@ -46030,7 +46030,7 @@ Write these fractions in their simplest form.
 \end{enumerate}
 
 
-(Mathematics) (Fraction Exercise, Geometry Exercise D 6 (With Answer)
+(Mathematics) (Fraction Exercise, Geometry Exercise) D 6 (With Answer)
   
 What fraction of the shape is shaded?  
 
@@ -46450,7 +46450,7 @@ TV Remote       &                   &                \\ \hline
 
 (Mathematics) (Creative Exercise) D 1 (Exercise related to counting)
 
-Design a pattern using 4, 7, and 8 objects.
+Design a number sequence or pattern using 4, 7, and 8 objects.
 
 
 (Mathematics) (Estimating Exercise) D 1 M
@@ -46709,7 +46709,7 @@ Write these times in words.
 (Mathematics) (Temporal Exercise) D 3 (Exercise on writing times in digital form)
 
 Write these times in digital form.
-\begin{enumerate][label=\alph*.]
+\begin{enumerate}[label=\alph*.]
 \time half past eight
 \time thirty-four minutes past six
 \time four o'clock
