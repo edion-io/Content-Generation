@@ -7,6 +7,21 @@ import argparse
 import re
 from utils import SUBJECTS
 
+# Specify the folder/file containing any relevant files
+PATH = 'questions.txt'
+# Specify the folder containing the images
+IMAGE_FOLDER = 'imgs'
+# Specify the batch folder
+BATCH_FOLDER = 'tasks'
+# Specify the question header (for extracting raw questions from text)
+HEADER = ""
+# Specify the Cloudinary client ID and secret
+CLOUDINARY_API = "667797151493891"
+CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
+
+# Specify the prompt for the chat completion task
+PROMPT = "1. Extract all exercises from the pages .\n2. Output them in this format:\n*NEW*\n[Max 5 words describing the type of exercise]\n[Replace with extracted text]\n[Situational diagram description (see instruction #4 below)]\n\n 3. Some exercises continue over to another page, make sure you get that too (should not be separate). 4. If an activity or exercise needs or refers to one or more images or tables, add a description of the image(s) to the above template in the form:\n[STRDGRM] [Detailed description of the image that a blind person can use to visualize what is needed, without even seeing the image] [STPDGRM]\n\n5. Only output what is asked of you."
+
 # Create the parser and subparsers
 argparser = argparse.ArgumentParser(description="Extract text from images or reformat text using the OpenAI API.")
 subparsers = argparser.add_subparsers(dest="key", help="Subcommand description")
@@ -41,28 +56,13 @@ parser_r.add_argument("-p", help="Retrieve the results from a text extraction jo
 # Parse the arguments
 args = argparser.parse_args()
 
-# Specify the folder containing any relevant files
-FOLDER = 'questions.txt'
-# Specify the folder containing the images
-IMAGE_FOLDER = 'imgs'
-# Specify the batch folder
-BATCH_FOLDER = 'tasks'
-# Specify the question header for raw questions
-HEADER = "German T D G (With Answer)"
-# Specify the Cloudinary client ID and secret
-CLOUDINARY_API = "667797151493891"
-CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
-
-# Specify the prompt for the chat completion task
-PROMPT = "1. Extract all exercises from the pages .\n2. Output them in this format:\n*NEW*\n[Max 5 words describing the type of exercise]\n[Replace with extracted text]\n[Situational diagram description (see instruction #4 below)]\n\n 3. Some exercises continue over to another page, make sure you get that too (should not be separate). 4. If an activity or exercise needs or refers to one or more images or tables, add a description of the image(s) to the above template in the form:\n[STRDGRM] [Detailed description of the image that a blind person can use to visualize what is needed, without even seeing the image] [STPDGRM]\n\n5. Only output what is asked of you."
-
 if __name__ == "__main__":
     # Initialize the OpenAI API
     client = OpenAI(api_key="sk-proj-ltmkMm6qZ8oQCsusN5IOT3BlbkFJmsPopivPYwLtY7jlx5Pl")
     if args.key == "e":
         if args.sp:
             # Convert the PDFs to images
-            PDF_to_images(FOLDER, args.start_page, args.end_page)
+            PDF_to_images(PATH, args.start_page, args.end_page)
 
         # Upload the images to Cloudinary and get the URLs
         image_urls = [upload_image(path, CLOUDINARY_API, CLOUDINARY_SECRET) for path in glob.glob(f"{IMAGE_FOLDER}/*.png")]
@@ -71,13 +71,13 @@ if __name__ == "__main__":
         batch_items(BATCH_FOLDER, image_urls, PROMPT)
     elif args.key == "et":
         # Extract all the questions from the file
-        questions = extract_raw_questions(HEADER, file=FOLDER)
+        questions = extract_raw_questions(HEADER, file=PATH)
 
         # Create multiple completions and store them in batches
         batch_items(BATCH_FOLDER, questions, PROMPT)
     elif args.key == "q":
         # Extract all the questions from the file
-        with open(FOLDER, "r") as f:
+        with open(PATH, "r") as f:
             text = f.read()
 
         # Separate each question by their headers
