@@ -15,6 +15,10 @@ if __name__ == "__main__" :
     
     questions = re.split(r'(?m)(?=^\(Mathematics\))', content)
     questions = [q for q in questions if '[STRDGM]' in q] 
+
+
+
+  
     
     
     

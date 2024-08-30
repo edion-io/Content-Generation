@@ -12,6 +12,10 @@ from PIL import Image
 import io
 import tiktoken
 from copy import deepcopy
+
+SUBJECTS = ["Computer Science", "Science", "Mathematics", "Social Studies", "History", "Geography",
+            "Spanish", "French", "German", "Dutch", "English"]
+
 def find_first_number(string: str) -> str:
     """Find the first occurrence of a number in a string.
 
@@ -240,20 +244,21 @@ def extract_raw_questions(header: str, file: str) -> list:
                 segment += line
     return prompts
     
-def batch_items(batch_folder: str, items: list, prompt: str, is_text = False) -> None:
+def batch_items(batch_folder: str, items: list, prompt: str, placeholder = 'text', is_text = False) -> None:
     """ Create a batch of chat completion tasks for a list of texts or images.
 
     Args:
         batch_folder (str): The folder to save the batch files to.
         items (list): A list of texts or image urls.
         prompt (str): The prompt for the chat completion task.
+        placeholder (str): The placeholder title for the batch (generally a subject or just 'text').
         is_text (bool): A flag indicating if the items are text or images.
     """
     batches, current_batch, current_tokens = [], [], 0
     if is_text:
         # Process each text item
         for i, text in enumerate(items):
-            current_tokens = batch(text, f"text_{i}", current_tokens, current_batch, batches, prompt, is_text)
+            current_tokens = batch(text, f"{placeholder}_{i}", current_tokens, current_batch, batches, prompt, is_text)
     else:
         # Process each image item
         for i, (subject, grade, url) in enumerate(items):

@@ -4,6 +4,8 @@ from utils import upload_image, batch_items, submit_batch, extract_raw_questions
 import glob
 import json
 import argparse
+import re
+from utils import SUBJECTS
 
 # Create the parser and subparsers
 argparser = argparse.ArgumentParser(description="Extract text from images or reformat text using the OpenAI API.")
@@ -17,6 +19,10 @@ parser_e.add_argument('end_page', help="The ending page number", type=int)
 
 # Subcommand for improving extracted text
 parser_et = subparsers.add_parser("et", help="Improve extracted text")
+
+# Subcommand for annotating questions
+parser_q = subparsers.add_parser("q", help="Annotate questions")
+parser_q.add_argument('subject', help="The subject of the questions")
 
 # Subcommand for submitting batch jobs
 parser_sb = subparsers.add_parser("sb", help="Submit a specific batch job")
@@ -69,6 +75,15 @@ if __name__ == "__main__":
 
         # Create multiple completions and store them in batches
         batch_items(BATCH_FOLDER, questions, PROMPT)
+    elif args.key == "q":
+        # Extract all the questions from the file
+        # Separate each question by their headers
+        questions = re.split(r'(?m)^(' + "|".join(f'\({s}\)' for s in SUBJECTS) + ')', PROMPT)
+        # Remove empty strings and get the subject you want
+        questions = [q.strip() for q in questions if q.strip() and args.subject in q]
+
+        # Create multiple completions and store them in batches
+        batch_items(BATCH_FOLDER, questions, PROMPT, args.subject, True)
     elif args.key == "sb":
         submit_batch(BATCH_FOLDER, client, args.batch_file_name)
     elif args.key == "ab":

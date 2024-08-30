@@ -8,8 +8,7 @@ import re
 
 SEP = "\n\n\n"
 
-SUBJECTS = ["Computer Science", "Science", "Mathematics", "Social Studies", "History", "Geography",
-            "Spanish", "French", "German", "Dutch", "English"]
+from utils import SUBJECTS
 
 
 class TextEditor:
