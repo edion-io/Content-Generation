@@ -46,6 +46,13 @@ Make sure you specify the file containing the raw questions in the parameter `FO
 
 Similarly as with images, the `PROMPT` parameter will guide the method used by the API to further process the text. The prompt should be tested on the API before running the extractor. Since you are only dealing with text, you may use either the playground or the ChatGPT version of GPT4o-mini.
 
+**Working with questions**
+You can annotate questions from the question file using:
+```
+python extractor.py q <subject>
+```
+Where `subject` is the subject you want to annotate. This will take all the questions you specify in the file constant `FOLDER` and compile them into a batched chat-completion request, stored in the folder specified by `BATCH_FOLDER`. The prompt also needs to be scpeified in the `PROMPT` parameter.
+
 **Submitting a batch**
 Once you have extracted the images or raw questions, you can submit a specific batch to the API using:
 ```

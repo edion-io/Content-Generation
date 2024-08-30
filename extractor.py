@@ -22,7 +22,7 @@ parser_et = subparsers.add_parser("et", help="Improve extracted text")
 
 # Subcommand for annotating questions
 parser_q = subparsers.add_parser("q", help="Annotate questions")
-parser_q.add_argument('subject', help="The subject of the questions")
+parser_q.add_argument('subject', help="The subject of the questions you want to annotate")
 
 # Subcommand for submitting batch jobs
 parser_sb = subparsers.add_parser("sb", help="Submit a specific batch job")
@@ -42,7 +42,7 @@ parser_r.add_argument("-p", help="Retrieve the results from a text extraction jo
 args = argparser.parse_args()
 
 # Specify the folder containing any relevant files
-FOLDER = 'books/Math/Primary'
+FOLDER = 'questions.txt'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the batch folder
@@ -77,8 +77,11 @@ if __name__ == "__main__":
         batch_items(BATCH_FOLDER, questions, PROMPT)
     elif args.key == "q":
         # Extract all the questions from the file
+        with open(FOLDER, "r") as f:
+            text = f.read()
+
         # Separate each question by their headers
-        questions = re.split(r'(?m)^(' + "|".join(f'\({s}\)' for s in SUBJECTS) + ')', PROMPT)
+        questions = re.split(r'(?m)^(' + "|".join(re.escape(s) for s in SUBJECTS) + ')', text)
         # Remove empty strings and get the subject you want
         questions = [q.strip() for q in questions if q.strip() and args.subject in q]
 

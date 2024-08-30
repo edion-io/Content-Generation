@@ -11,10 +11,10 @@ if __name__ == "__main__" :
 
     # Extract all the questions from the file
     with open("new.txt", "r") as f:
-        content = "".join(f.readlines())
+        content = f.read()
     
     questions = re.split(r'(?m)(?=^\(Mathematics\))', content)
-    questions = [q for q in questions if '[STRDGM]' in q] 
+    questions = [q for q in questions if '[STRDGM]' in q and q.strip()] 
 
 
 
