@@ -10,6 +10,11 @@ import cloudinary.api
 from openai import OpenAI
 from PIL import Image
 import io
+import tiktoken
+from copy import deepcopy
+
+SUBJECTS = ["Computer Science", "Science", "Mathematics", "Social Studies", "History", "Geography",
+            "Spanish", "French", "German", "Dutch", "English"]
 
 def find_first_number(string: str) -> str:
     """Find the first occurrence of a number in a string.
@@ -239,24 +244,25 @@ def extract_raw_questions(header: str, file: str) -> list:
                 segment += line
     return prompts
     
-def batch_items(batch_folder: str, items: list, prompt: str, is_text = False) -> None:
+def batch_items(batch_folder: str, items: list, prompt: str, placeholder = 'text', is_text = False) -> None:
     """ Create a batch of chat completion tasks for a list of texts or images.
 
     Args:
         batch_folder (str): The folder to save the batch files to.
         items (list): A list of texts or image urls.
         prompt (str): The prompt for the chat completion task.
+        placeholder (str): The placeholder title for the batch (generally a subject or just 'text').
         is_text (bool): A flag indicating if the items are text or images.
     """
     batches, current_batch, current_tokens = [], [], 0
     if is_text:
         # Process each text item
         for i, text in enumerate(items):
-            batch(text, f"text_{i}", current_tokens, current_batch, batches, prompt, is_text)
+            current_tokens = batch(text, f"{placeholder}_{i}", current_tokens, current_batch, batches, prompt, is_text)
     else:
         # Process each image item
         for i, (subject, grade, url) in enumerate(items):
-            batch(url, f"{subject}_{grade}_{i}", current_tokens, current_batch, batches, prompt)
+            current_tokens = batch(url, f"{subject}_{grade}_{i}", current_tokens, current_batch, batches, prompt)
 
     # Add the last batch if not empty
     if current_batch:
@@ -268,7 +274,7 @@ def batch_items(batch_folder: str, items: list, prompt: str, is_text = False) ->
             for item in items:
                 f.write(json.dumps(item) + '\n')
 
-def batch(content: str, name: str, current_tokens: int, current_batch: list, batches: list, prompt: str, is_text = False) -> None:
+def batch(content: str, name: str, current_tokens: int, current_batch: list, batches: list, prompt: str, is_text = False) -> int:
     """ Create a single chat completion task for a text or image.
     
     Args:
@@ -279,6 +285,9 @@ def batch(content: str, name: str, current_tokens: int, current_batch: list, bat
         batches (list): The list of batches.
         prompt (str): The prompt for the chat completion task.
         is_text (bool): A flag indicating if the content is text or an image.
+
+    Returns:
+        int: The updated number of tokens in the batch.
     """
     # Build the messages for the chat completion task
     messages = [{
@@ -314,11 +323,14 @@ def batch(content: str, name: str, current_tokens: int, current_batch: list, bat
         }
     })  
 
+    # Get the encoding for the model
+    encoding = tiktoken.get_encoding("cl100k_base")
+    # Encode the text to get the tokens
+    task_tokens = len(encoding.encode(prompt)) + (len(encoding.encode(content)) if is_text else 0)
     # Check if the current batch is full
-    task_tokens = len(prompt.split()) + (len(content.split()) if is_text else 0)
     if current_tokens + task_tokens > 190000:
         # If it is full, add the current batch to the list of batches
-        batches.append(current_batch)
+        batches.append(deepcopy(current_batch))
         current_batch.clear()
         current_batch.append(task)
         current_tokens = task_tokens
@@ -326,6 +338,8 @@ def batch(content: str, name: str, current_tokens: int, current_batch: list, bat
         # Otherwise, add the task to the current batch
         current_batch.append(task)
         current_tokens += task_tokens
+    
+    return current_tokens
 
 def submit_batch(batch_folder: str, client: OpenAI, file=None, files=False) -> None:
     """Submit a batch job to process a batch of chat completion tasks.
@@ -338,7 +352,7 @@ def submit_batch(batch_folder: str, client: OpenAI, file=None, files=False) -> N
     """
     if files:
         # Submit all batch files
-        for file in glob.glob(f'{batch_folder}/input_file_batch_*.json'):
+        for file in glob.glob(f'{batch_folder}/batch_*.jsonl'):
             submit(client, file)
     else:
         # Submit a single batch file
@@ -363,10 +377,17 @@ def submit(client: OpenAI, file: str) -> None:
         endpoint="/v1/chat/completions",
         completion_window="24h"
     )
-    # Store the id of the batch job
+    # Check if the file is empty or not
+    try:
+        with open("batch_job_id.txt", "r") as f:
+            first_char = f.read(1)  # Read the first character
+    except FileNotFoundError:
+        # If the file doesn't exist, treat it as empty
+        first_char = None
+
+    # Now, open the file in append mode to write the job ID
     with open("batch_job_id.txt", "a") as f:
-        first_char = f.read(1)
-        # If the file is empty, write the id without a newline
+        # If the file is empty or doesn't exist, write the id without a newline
         if not first_char:
             f.write(batch_job.id)
         else:

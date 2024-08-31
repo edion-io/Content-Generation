@@ -33,7 +33,7 @@ You can extract relevant images from PDF files (textbooks) before sending them o
 ```
 python extractor.py e [-sp] <start_page> <end_page>
 ```
-Where `start_page` and `end_page` are the range of pages you want to extract images from. Make sure you specify the folder containing the relevant textbooks in the parameter `FOLDER`. The images are saved in the folder specified under the parameter `IMAGE_FOLDER`. Running this command will both extract the images, upload them to cloudinary and compile them into batched chat-completion requests, stored in the folder specified by `BATCH_FOLDER`. If for some reason you want to skip the image extraction step (you already have images), you can use the optional `-sp` flag.
+Where `start_page` and `end_page` are the range of pages you want to extract images from. Make sure you specify the folder containing the relevant textbooks in the parameter `PATH`. The images are saved in the folder specified under the parameter `IMAGE_FOLDER`. Running this command will both extract the images, upload them to cloudinary and compile them into batched chat-completion requests, stored in the folder specified by `BATCH_FOLDER`. If for some reason you want to skip the image extraction step (you already have images), you can use the optional `-sp` flag.
 
 As the API will perform the OCR on the images, you must provide a valid prompt for the API to use, that instructs it on how you would like questions to be extracted. This can be done by specifying the prompt in the `PROMPT` parameter. It is mandatory to separate questions with a `*NEW*` string (see below). It is also imperative to test the prompt on the API before running the extractor as this costs money. For images, it is advised to use the actual API playground to test the prompt as the ChatGPT version of GPT4o-mini does not have access to file uploads.
 
@@ -42,9 +42,16 @@ You can extract questions from text files using:
 ```
 python extractor.py et
 ```
-Make sure you specify the file containing the raw questions in the parameter `FOLDER`. Raw questions are expected to be separated by their respective question header, which we specify under the parameter `HEADER`. For example, for a .txt of German questions that have answers,`HEADER` might be set to `German T D G (With Answer)`. 
+Make sure you specify the file containing the raw questions in the parameter `PATH`. Raw questions are expected to be separated by their respective question header, which we specify under the parameter `HEADER`. For example, for a .txt of German questions that have answers,`HEADER` might be set to `German T D G (With Answer)`. 
 
 Similarly as with images, the `PROMPT` parameter will guide the method used by the API to further process the text. The prompt should be tested on the API before running the extractor. Since you are only dealing with text, you may use either the playground or the ChatGPT version of GPT4o-mini.
+
+**Working with questions**
+You can annotate questions from the question file using:
+```
+python extractor.py q <subject>
+```
+Where `subject` is the subject you want to annotate. This will take all the questions you specify in the file constant `PATH` and compile them into a batched chat-completion request, stored in the folder specified by `BATCH_FOLDER`. The prompt also needs to be scpeified in the `PROMPT` parameter.
 
 **Submitting a batch**
 Once you have extracted the images or raw questions, you can submit a specific batch to the API using:
