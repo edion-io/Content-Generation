@@ -8,11 +8,30 @@ pip install -u langchain_ollama
 ```shell
 # pull docker image and convert to singularity container.
 singularity build ollama.sif docker://ollama/ollama
-# run container, '--nv' enable experimental Nvidia.support
+# run container, '--nv' enable experimental Nvidia.support.
 singularity run --nv  ollama.sif
 # get interactive shell within the container.
 singularity shell ollama.sif
-# test if ollama is running
+# test if ollama is running.
 curl http://localhost:11434
 ```
-## 3. Run the corrsponding python script
+## 3. Run the corresponding python script
+
+# Creating synthetic dataset
+## 1. Install necessary python libraries
+```shell
+pip install -u transformers
+pip install -u datasets
+pip install -u accelerate
+pip install -u peft 
+pip install -u trl 
+pip install -u bitsandbytes
+```
+## 2. Create synthetic dataset
+Run `create_synthetic_dataset.ipynb` or turn it into python scrpit before running
+
+## 3. Fine tuning
+Run `huggingface-cli login` in terminal to login hugging face (source of target models) with your token, create one if you don't have it in `https://huggingface.co/settings/tokens`, then run `fine_fune.py`.
+
+## 4. Reload and test
+Run `load_test.py`
