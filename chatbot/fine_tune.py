@@ -64,7 +64,7 @@ def apply_template(examples):
     return {"text": text}
 
 dataset = load_dataset("json", data_files="batch_request/all_synthetic_conversations.json", split="train", num_proc=4)
-dataset = dataset.map(apply_template, num_proc=4)
+# dataset = dataset.map(apply_template, num_proc=4) # If the data is not applied template yet
 print(f"Dataset size: {len(dataset)} -------------------------------")
 # print(dataset['text'][3]) # Check if dataset sample is in correct format
 
@@ -112,12 +112,12 @@ else:
         per_device_train_batch_size=1, # Keep it small to save GPU memory allocation
         gradient_accumulation_steps=2,
         optim="paged_adamw_32bit",
-        num_train_epochs=1,
-        weight_decay=0.01,
+        num_train_epochs=3,
+        # weight_decay=0.01,
         logging_steps=1,
         warmup_steps=10,
         logging_strategy="steps",
-        learning_rate=2e-4,
+        learning_rate=2e-5,
         lr_scheduler_type="cosine",
         save_strategy="epoch",
         fp16=False,
