@@ -84,7 +84,7 @@ while True:
     print(response)
     if '"name": "generate_exercise"' in str(response):
         # Extract parameters
-        response = re.findall(r"\{.*?\}", response)[0]
+        response = re.findall(r"\{.*\}", response)[0]
         tool_call = eval(response.replace("true", "True").replace("false", "False").replace("null", "None"))
         params = tool_call["parameters"]
         tool_call = {"name": "generate_exercise", "arguments": params}
