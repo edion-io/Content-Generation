@@ -50,3 +50,75 @@ Guidlines:
 
 # "once you have enough information from the user, that is: the user can not offer more, you call the function generate_exercise() and respond to the user with the result consistently."
 # "If the user update one or more paramters, call the function generate_exercise() again."
+
+def generate_exercise(subjects: tuple, exercise_types: tuple, grade_levels: tuple, modifications: tuple, ready: bool) -> float:
+    """
+    Generate excercise based on user preference. 
+    
+    Args:
+        subjects: a tuple of exercise subjects for each exercise in order
+        exercise_types: a tuple of exercise type for each exercise in order
+        grade_levels: a tuple of grade levels for each exercise in order
+        modifications: a tuple of modified information for each exercise in order
+        ready: if the user give all paramters he can and its ready to generated exercise
+    Returns:
+        A list of exercises based on user's preference, as a string.
+    """
+    max_len = max(len(subjects), len(exercise_types), len(grade_levels), len(modifications))
+    is_equal_len = (len(subjects) == len(exercise_types) == len(grade_levels) == len(modifications))
+    if not is_equal_len:
+        pass
+        # TODO - expand to make them equal length.
+    if ready:
+        if "Math" in str(subjects):
+            return ["What is 3/4 of 12? A)6 B) 9 C) 12 D) 15"] * max_len
+        if "English" in str(subjects):
+            return ["What habitat do tigers prefer? a) Desert b) Jungle c) Tundra d) Ocean"] * max_len
+        if "Biology" in str(subjects):
+            return ["Plants perform photosynthesis to make their own food. True or False?"] * max_len
+    else:
+        return "Not ready yet, ask the user for more information."
+    
+tools = [{
+            "type": "function",
+            "function": {
+                "name": "generate_exercise",
+                "description": "Generate excercise based on user preference.",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "subjects": {
+                            "type": "object",
+                            "description": "a tuple of exercise subjects for each exercise in order"
+                        },
+                        "exercise_types": {
+                            "type": "object",
+                            "description": "a tuple of exercise type for each exercise in order"
+                        },
+                        "grade_levels": {
+                            "type": "object",
+                            "description": "a tuple of grade levels for each exercise in order"
+                        },
+                        "modifications": {
+                            "type": "object",
+                            "description": "a tuple of modified information for each exercise in order"
+                        },
+                        "ready": {
+                            "type": "boolean",
+                            "description": "if the user give all paramters he can and its ready to generated exercise"
+                        }
+                    },
+                    "required": [
+                        "subjects",
+                        "exercise_types",
+                        "grade_levels",
+                        "modifications",
+                        "ready"
+                    ]
+                },
+                "return": {
+                    "type": "number",
+                    "description": "A list of exercises based on user's preference, as a string."
+                }
+            }
+        }]

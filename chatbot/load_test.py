@@ -3,7 +3,7 @@ import torch
 from transformers import pipeline
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel
-from prompt import conversation_sys_prompt
+from definition import conversation_sys_prompt
 
 
 def merge_run(base_model: str, new_model: str, conversation_sys_prompt: str, max_new_tokens: int, temperature: float):

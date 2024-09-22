@@ -1,21 +1,33 @@
 # Chatbot Run Instruction
-## 1. Install necessary python libraries
+## 1. Load CUDA toolkit and install llama-cpp-python
 ```shell
-pip install langchain
-pip install -u langchain_ollama
+# Load cuda toolkit (or any other way to make sure `nvcc --version` is working)
+module load CUDA/12.1.1
+# Install llama-cpp-python with CUDA support
+CMAKE_ARGS="-DGGML_CUDA=on -DLLAVA_BUILD=off" pip install -U llama-cpp-python --force-reinstall --no-cache-dir
 ```
-## 2. Install and run ollama:
+## 2. Run GGUF model iwth llama-cpp
 ```shell
-# pull docker image and convert to singularity container.
-singularity build ollama.sif docker://ollama/ollama
-# run container, '--nv' enable experimental Nvidia.support.
-singularity run --nv  ollama.sif
-# get interactive shell within the container.
-singularity shell ollama.sif
-# test if ollama is running.
-curl http://localhost:11434
+module load CUDA/12.1.1
+python echatbot.py 
 ```
-## 3. Run the corresponding python script
+## 3. Run API
+```shell
+# SERVE
+module load CUDA/12.1.1
+python api.py # or uvicorn api:app –reload
+
+# REQUEST TEST
+# Open another terminal with cuda toolkit loaded
+curl -X GET http://127.0.0.1:8000/add_session   # {"session_id": abc}
+curl -X POST "http://127.0.0.1:8000/chat?session_id=abc&user_input=Hello"
+curl -X POST "http://127.0.0.1:8000/chat?session_id=abc&user_input=Math"
+curl -X POST "http://127.0.0.1:8000/chat?session_id=abc&user_input=Multiple_choice"
+curl -X POST "http://127.0.0.1:8000/chat?session_id=abc&user_input=5th_grade"
+curl -X POST "http://127.0.0.1:8000/chat?session_id=abc&user_input=Nope"
+curl -X POST "http://127.0.0.1:8000/chat?session_id=abc&user_input=Yes"
+curl -X POST "http://127.0.0.1:8000/chat?session_id=abc&user_input=can_I_have_two_more_similar"
+```
 
 # Creating synthetic dataset and fine-tune
 ## 1. Install necessary python libraries
@@ -47,7 +59,7 @@ make
 
 ## 2. Download model
 ```shell
-# huggingface-cli login (if not login yet)
+# huggingface-cli login (if not login yet), and login to GPU node
 git clone https://huggingface.co/kangsive/llama3.1-8b-chat-exercise-tool_call
 ```
 

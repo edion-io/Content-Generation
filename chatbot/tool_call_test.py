@@ -4,7 +4,7 @@ import torch
 from peft import PeftModel
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-from prompt import conversation_sys_prompt2
+from definition import conversation_sys_prompt2
 
 
 
