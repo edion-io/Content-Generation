@@ -1,0 +1,402 @@
+[
+    {
+      "conversations": [
+        {
+          "from": "gpt",
+          "value": "<U>Hi there! I'm here to help you with creating exercises. Could you let me know what subject you're interested in? For example, Math, English, History, etc.</U> <E>{\"S\" None, \"T\" None, \"G\" None, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Math</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Great! Math is a fantastic choice. Now, do you have a specific type of exercise in mind, such as multiple choice questions, fill-in-the-blank, or word problems?</U> <E>{\"S\" 'Math', \"T\" None, \"G\" None, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U>multiple choice</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Perfect! Multiple choice questions are a great way to test knowledge. What grade level are you focusing on? For example, 5th grade, 10th grade, etc.</U> <E>{\"S\" 'Math', \"T\" 'multiple choice questions', \"G\" None, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U>5th grade</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Excellent! 5th grade math questions it is. Is there any specific topic or concept within math you'd like to focus on, such as fractions, geometry, or algebra?</U> <E>{\"S\" 'Math', \"T\" 'multiple choice questions', \"G\" 5, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U>nope</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Got it! I have all the information I need. I'll generate a set of 5th grade multiple choice math questions for you. Please hold on for a moment.</U> <E>{\"S\" 'Math', \"T\" 'multiple choice questions', \"G\" 5, \"M\" None, \"R\" True}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<E>Solve for x in the equation: 3x + 5 = 20\n\na) x = 3\n\nb) x = 5\n\nc) x = 10\n\nd) x = 15\n\nIf y - 4 = 7, what is the value of y?\n\na) y = 3\n\nb) y = 7\n\nc) y = 11\n\nd) y = 15</E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Here are the multiple choice math questions for 5th grade:\n\nSolve for x in the equation: 3x + 5 = 20\n\na) x = 3\n\nb) x = 5\n\nc) x = 10\n\nd) x = 15\n\nIf y - 4 = 7, what is the value of y?\n\na) y = 3\n\nb) y = 7\n\nc) y = 11\n\nd) y = 15\n\nLet me know if you need any more questions or if there's anything else I can help with!</U>"
+        },
+        {
+          "from": "human",
+          "value": "<U>I want more excercise of Chemistry</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Got it! We'll switch to Chemistry. What type of exercise are you interested in for Chemistry? For example, multiple choice questions, short answer questions, or something else?</U> <E>{\"S\" 'Chemistry', \"T\" None, \"G\" None, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U>Keep everything the same with Math</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Understood! I'll create some 5th grade multiple choice Chemistry questions for you. Please hold on for a moment.</U> <E>{\"S\" 'Chemistry', \"T\" 'multiple choice questions', \"G\" 5, \"M\" None, \"R\" True}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<E>Which of these is a state of matter?\n\na) Solid\n\nb) Liquid\n\nc) Gas\n\nd) All of the above\n\nWhat do we call the process of a liquid turning into a gas?\n\na) Melting\n\nb) Freezing\n\nc) Evaporation\n\nd) Condensation</E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Here are the multiple choice Chemistry questions for 5th grade:\n\nWhich of these is a state of matter?\n\na) Solid\n\nb) Liquid\n\nc) Gas\n\nd) All of the above\n\nWhat do we call the process of a liquid turning into a gas?\n\na) Melting\n\nb) Freezing\n\nc) Evaporation\n\nd) Condensation\n\nFeel free to let me know if you need more exercises or if there's anything else I can assist with!</U>"
+        },
+        {
+          "from": "human",
+          "value": "<U>Back to the Math exercise, I want the question type to be fill-in-blank.</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Got it! I'll create some 5th grade fill-in-the-blank math questions for you. Please hold on for a moment.</U> <E>{\"S\" 'Math', \"T\" 'fill-in-the-blank', \"G\" 5, \"M\" None, \"R\" True}</E>"
+        }
+      ]
+    },
+    {
+      "conversations": [
+        {
+          "from": "gpt",
+          "value": "<U>Hello! I'm here to help you generate some exercises. To get started, could you tell me what subject you'd like the exercise to be in?</U>, <E>{\"S\" None, \"T\" None, \"G\" None, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Hi, I would like to create some math excercise for 5th grade students and in the form of multiple choice questions. </U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Great! You're looking for a Math exercise for 5th-grade students in the form of multiple choice questions. Is there any specific topic or concept in Math you'd like the exercise to focus on? For example, fractions, decimals, or geometry?</U>, <E>{\"S\" \"Mathematics\", \"T\" \"Multiple Choice\", \"G\" 5, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "Yes, Geometry"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Awesome! So, a Geometry exercise in Math for 5th-grade students in the form of multiple choice questions. Would you like any additional features, like including illustrations or hints?</U>, <E>{\"S\" \"Mathematics\", \"T\" \"Multiple Choice\", \"G\" 5, \"M\" \"Geometry\", \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Nope </U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Perfect! I'll get the Geometry multiple choice questions ready for 5th-grade students.</U>, <E>{\"S\" \"Mathematics\", \"T\" \"Multiple Choice\", \"G\" 5, \"M\" \"Geometry\", \"R\" True}</E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<E> What is the sum of the angles in a triangle? a) 180 degrees\nb) 90 degrees\nc) 360 degrees\nd) 120 degrees </E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Here's a multiple choice question for your 5th-grade Geometry exercise:\n\nWhat is the sum of the angles in a triangle?\na) 180 degrees\nb) 90 degrees\nc) 360 degrees\nd) 120 degrees\n\nWould you like to generate more questions or modify this one?</U>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Thank you! Can I have two more? </U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Sure! I'll get two more Geometry multiple choice questions ready for you.</U>, <E>({\"S\" \"Mathematics\", \"T\" \"Multiple Choice\", \"G\" 5, \"M\" \"Geometry\", \"R\" True}, {\"S\" \"Mathematics\", \"T\" \"Multiple Choice\", \"G\" 5, \"M\" \"Geometry\", \"R\" True})</E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<E>A rectangle has a length of 8 cm and a width of 4 cm. What is the area? a) 32 square cm\nb) 24 square cm\nc) 12 square cm\nd) 16 square cm\n\nWhat do you call a triangle that has all sides of equal length? a) Isosceles triangle\nb) Scalene triangle\nc) Right triangle\nd) Equilateral triangle\n</E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Here are two more multiple choice questions for your 5th-grade Geometry exercise:\n\nA rectangle has a length of 8 cm and a width of 4 cm. What is the area?\na) 32 square cm\nb) 24 square cm\nc) 12 square cm\nd) 16 square cm\n\nWhat do you call a triangle that has all sides of equal length?\na) Isosceles triangle\nb) Scalene triangle\nc) Right triangle\nd) Equilateral triangle\n\nLet me know if you need anything else or if you'd like more questions!</U>"
+        },
+        {
+          "from": "human",
+          "value": "<U>Perfect, Thank you!</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>You're welcome! If you need more exercises or any further assistance, feel free to ask. Have a great day!</U>"
+        }
+      ]
+    },
+    {
+      "conversations": [
+        {
+          "from": "gpt",
+          "value": "<U><U>Hi there! What kind of exercise are you looking for today? Could you tell me the subject you're interested in?</U> {\"S\": \"Art\", \"T\": None, \"G\": None, \"M\": None, \"R\": False}"
+        },
+        {
+          "from": "human",
+          "value": "<U>Art</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Great choice! Are you looking for a specific type of exercise within Art, like a short answer question, a fill-in-the-blank, or something else?</U>"
+        },
+        {
+          "from": "human",
+          "value": "<U>Short Answer</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Perfect! Do you have a particular grade level in mind for the exercise, or should it be general?</U> <E>{\"S\": \"Art\", \"T\": \"Short Answer\", \"G\": None, \"M\": None, \"R\": False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U>Just make it general</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Got it! Is there any specific topic or additional detail you want to include for this Art exercise? For example, do you want it to include a certain art period, artist, or technique?</U> <E>{\"S\": \"Art\", \"T\": \"Short Answer\", \"G\": None, \"M\": None, \"R\": False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U>Yes, I want it to focus on art style in the Middle Ages</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Thanks for the detail! I'll get that exercise generated for you. Just a moment.</U> <E>{\"S\": \"Art\", \"T\": \"Short Answer\", \"G\": None, \"M\": \"Focus on art style in Middle Ages\", \"R\": True}"
+        },
+        {
+          "from": "human",
+          "value": "<E>Describe the primary characteristics of Gothic art and how it differs from Romanesque art in the Middle Ages.</E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Here's your exercise: Describe the primary characteristics of Gothic art and how it differs from Romanesque art in the Middle Ages.</U>"
+        },
+        {
+          "from": "human",
+          "value": "<U>Now I want an exercise for subject English</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Great! What type of English exercise are you looking for? For example, are you interested in a short answer question, a fill-in-the-blank, or another type?</U> <E>{\"S\": \"English\", \"T\": None, \"G\": None, \"M\": None, \"R\": False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U>Fill in the blank</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Got it! Do you have a specific grade level in mind for this English exercise, or should it be general?</U> <E>{\"S\": \"English\", \"T\": \"Fill in the Blank\", \"G\": None, \"M\": None, \"R\": False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U>3rd grade would be perfect</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Great, a 3rd-grade level Fill in the Blank exercise. Is there any particular topic or theme you'd like to focus on for this exercise, such as grammar, vocabulary, or reading comprehension?</U> <E>{\"S\": \"English\", \"T\": \"Fill in the Blank\", \"G\": 3, \"M\": None, \"R\": False}"
+        },
+        {
+          "from": "human",
+          "value": "<U>Yes, make it about vocabulary</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Thanks for the detail! I'll get that vocabulary exercise for 3rd grade ready for you. Just a moment.</U> <E>{\"S\": \"English\", \"T\": \"Fill in the Blank\", \"G\": 3, \"M\": \"Vocabulary\", \"R\": True}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<E>Fill in the blanks with the correct vocabulary words:\n\nThe cat sat on the _____ (mat/hat).\nShe put her books in the _____ (bag/box).\nWe went to the _____ (park/store) to play.\nMy favorite _____ (color/animal) is blue.\nThe _____ (dog/cat) is very friendly.</E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Here's your 3rd-grade vocabulary exercise:\n\nFill in the blanks with the correct vocabulary words:\n\nThe cat sat on the _____ (mat/hat).\nShe put her books in the _____ (bag/box).\nWe went to the _____ (park/store) to play.\nMy favorite _____ (color/animal) is blue.\nThe _____ (dog/cat) is very friendly.</U>"
+        }
+      ]
+    },        
+    {
+      "conversations": [
+        {
+          "from": "gpt",
+          "value": "<U>Hi there! I'm here to help you with creating exercises. Could you let me know a little more about what kind of exercise you want? For example, what subject you're interested in? </U> <E>{\"S\" None, \"T\" None, \"G\" None, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Hey I'm looking to create a fun activity for my Geography class.</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> Absolutely! Do you have any thing you specifically want to see in this activity? For example, would you prefer it to be tied to creative work, or more of an at-home task (e.g., talking with family)? </U> <E> {\"S\": \"Geography\", \"T\": \"Activity\", \"G\": None, \"M\": None, \"R\": False} </E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> It would be nice for it to be a class activity that the kids can do in groups.</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> A group activity, got it! Anything else you'd like to specify? A specific topic maybe? </U> <E> {\"S\": \"Geography\", \"T\": \"Group Activity\", \"G\": None, \"M\": None, \"R\": False} </E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Well I'd like to use it as an introduction for the continents of the world.</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> Sounds fun! What grade do you teach? Then I will tailor the activity to the kids' skills/knowledge of that age. </U> <E> {\"S\": \"Geography\", \"T\": \"Group Activity\", \"G\": None, \"M\": \"Introduction to the continents\", \"R\": False} </E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> 4th grade</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> Awesome, if you have anything else you want to specify let me know, otherwise just give me the green light and I'll go ahead and make that for you. </U> <E> {\"S\": \"Geography\", \"T\": \"Group Activity\", \"G\": \"4\", \"M\": \"Introduction to the continents\", \"R\": False} </E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> No that's all.</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> Alright, hold on a second while I create the activity for you then. </U> <E> {\"S\": \"Geography\", \"T\": \"Group Activity\", \"G\": \"4\", \"M\": \"Introduction to the continents\", \"R\": True} </E>"
+        },
+        {
+          "from": "human",
+          "value": "<E> Divide the class in seven groups. Assign a continent to each group and have them create a presentation on it. They can include information on the continent's location, climate, and any interesting facts they find. </E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> What do you think of this for an activity?:\n\nDivide the class in seven groups. Assign a continent to each group and have them create a presentation on it. They can include information on the continent's location, climate, and any interesting facts they find. </U>"
+        },
+        {
+          "from": "human",
+          "value": "<U> That sounds good, but can we do something else than a presentation?"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Not a problem, let's generate a few for you to choose from. </U> <E> ({\"S\": \"Geography\", \"T\": \"Group Activity\", \"G\": \"4\", \"M\": \"Introduction to the continents, Not about presenting\", \"R\": True}, {\"S\": \"Geography\", \"T\": \"Group Activity\", \"G\": \"4\", \"M\": \"Introduction to the continents, No presentation\", \"R\": True}, {\"S\": \"Geography\", \"T\": \"Group Activity\", \"G\": \"4\", \"M\": \"Introduction to the continents, Activity without presentation\", \"R\": True}, {\"S\": \"Geography\", \"T\": \"Group Activity\", \"G\": \"4\", \"M\": \"Introduction to the continents, Activity without presentation\", \"R\": True}) </E>"
+        },
+        {
+          "from": "human",
+          "value": "<E> 1. Divide the class in seven groups. Assign a continent to each group and have them create a board game about it. They can include information on the continent's location, climate, and any interesting facts they find.\n\n 2. Divide the class in seven groups. Discuss the continents as a class and then have each group create a poster about their continent. \n\n 3. Divide the class in seven groups. Assign a continent to each group and have them create a diorama about it. They can include information on the continent's location, climate, and any interesting facts they find. \n\n 4. Divide the class in seven groups. Assign a continent to each group and have them create a song about it. They can include information on the continent's location, climate, and any interesting facts they find. </E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>1. Divide the class in seven groups. Assign a continent to each group and have them create a board game about it. They can include information on the continent's location, climate, and any interesting facts they find.\n\n 2. Divide the class in seven groups. Discuss the continents as a class and then have each group create a poster about their continent. \n\n 3. Divide the class in seven groups. Assign a continent to each group and have them create a diorama about it. They can include information on the continent's location, climate, and any interesting facts they find. \n\n 4. Divide the class in seven groups. Assign a continent to each group and have them create a song about it. They can include information on the continent's location, climate, and any interesting facts they find.</U>"
+        }
+      ]
+    },
+    {
+      "conversations": [
+        {
+          "from": "gpt",
+          "value": "<U>Hi there! I'm here to help you with creating exercises. Could you let me know a little more about what kind of exercise you want? For example, what subject you're interested in? </U> <E>{\"S\" None, \"T\" None, \"G\" None, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> I want to create exercises for practicing addition and subtraction. I teach first grade kids.</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>Great! I can help with that. Do you have a specific type of exercise in mind? For example, would you prefer word problems or just regular arithmetic exercises? </U> <E> {\"S\": \"Mathematics\", \"T\": None, \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition, Multi-part\", \"R\": False} </E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Let's do a mix of both. </U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> We can do that by generating two different exercises. Anything else you want to specify for either? </U> <E> ({\"S\": \"Mathematics\", \"T\": \"Arithmetic Exercise\", \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition, Multi-part\", \"R\": False}, {\"S\": \"Mathematics\", \"T\": \"Word Problem\", \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition\", \"R\": False}) </E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> No, that's all. </U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> Great, coming your way! </U> <E> ({\"S\": \"Mathematics\", \"T\": \"Arithmetic Exercise\", \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition, Multi-part\", \"R\": True}, {\"S\": \"Mathematics\", \"T\": \"Word Problem\", \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition\", \"R\": True}) </E>"
+        },
+        {
+          "from": "human",
+          "value": "<E> 1. \begin{enumerate}\n \\item \\( 10 + 4 = \\)\n \\item \\( 16 + 14 = \\)\n \\item \\( 24 - 18 = \\)\n\\item \\( 36 - 9 = \\)\n\\end{enumerate}  2. Allison has 28 apples, she gives one to Edward, three to Rose and half to Peter. How many apples is Allison left with?</E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> 1. \begin{enumerate}\n \\item \\( 10 + 4 = \\)\n \\item \\( 16 + 14 = \\)\n \\item \\( 24 - 18 = \\)\n\\item \\( 36 - 9 = \\)\n\\end{enumerate}  2. Allison has 28 apples, she gives one to Edward, three to Rose and half to Peter. How many apples is Allison left with?</U>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Make the word problem a little more creative, also no fractions </U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> Understood. Here are a few variations for you to choose from <E> ({\"S\": \"Mathematics\", \"T\": \"Word Problem\", \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition, No mention of apples\", \"R\": True}, {\"S\": \"Mathematics\", \"T\": \"Word Problem\", \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition, Cannot contain the word apple\", \"R\": True}, {\"S\": \"Mathematics\", \"T\": \"Word Problem\", \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition, Does not contain the word apple\", \"R\": True}, {\"S\": \"Mathematics\", \"T\": \"Word Problem\", \"G\": \"1\", \"M\": \"Exercise about subtraction, Exercise about addition, Exercise that does not use apples\", \"R\": True}) </E>"
+        },
+        {
+          "from": "human",
+          "value": "<E>1. Edward has three red toys, two blue toys, seven yellow cars and 12 card games. \\begin{enumerate} \\item How many is that in total?\n \\item How many is it in total if he gives away 4 card games and two yellow cars?\n \\end{enumerate}, 2. Allison wants to go to the supermarket. She has 50 euros and knows that bread costs 3 euros, water costs 1 and bananas cost 2. Does she have enough to buy three loaves of bread, five waters and ten bananas?, 3. Max wants to buy a toy that costs 9 euros. He has 23 euros. How much change will he get?,  4. There are 15 children in the park. 7 of them are playing on the swings, 4 are playing on the slide and the rest are playing in the sandpit. How many children are playing in the sandpit? </E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U>1. Edward has three red toys, two blue toys, seven yellow cars and 12 card games. \begin{enumerate} \\item How many is that in total?\n \\item How many is it in total if he gives away 4 card games and two yellow cars?\n \\end{enumerate}, 2. Allison wants to go to the supermarket. She has 50 euros and knows that bread costs 3 euros, water costs 1 and bananas cost 2. Does she have enough to buy three loaves of bread, five waters and ten bananas?, 3. Max wants to buy a toy that costs 9 euros. He has 23 euros. How much change will he get?,  4. There are 15 children in the park. 7 of them are playing on the swings, 4 are playing on the slide and the rest are playing in the sandpit. How many children are playing in the sandpit? </U>"
+        },
+        {
+          "from": "human",
+          "value": "<U> Those are great, can we also make some regular multiplication practice too?</U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> Glad to hear that! Of course we can. Hold tight, while I make them. </U> <E> {\"S\": \"Mathematics\", \"T\": \"Arithmetic Exercise\", \"G\": \"1\", \"M\": \"Exercise about multiplication, Multi-part\", \"R\": True} </E>"
+        },
+        {
+          "from": "human",
+          "value": "<E> \begin{enumerate}\n \\item \\( 10 \times 4 = \\)\n \\item \\( 16 \times 14 = \\)\n \\item \\( 24 \times 18 = \\)\n\\item \\( 36 \times 9 = \\)\n\\end{enumerate} </E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> \begin{enumerate}\n \\item \\( 10 \times 4 = \\)\n \\item \\( 16 \times 14 = \\)\n \\item \\( 24 \times 18 = \\)\n\\item \\( 36 \times 9 = \\)\n\\end{enumerate} </U>"
+        }
+      ]
+    },
+    {
+      "conversations": [
+        {
+          "from": "gpt",
+          "value": "<U>Hi there! I'm here to help you with creating exercises. Can you tell me about what kind of exercise you want? For example, we can start with what subject you'd like? </U> <E>{\"S\" None, \"T\" None, \"G\" None, \"M\" None, \"R\" False}</E>"
+        },
+        {
+          "from": "human",
+          "value": "<U> All I need is a short answer question about algorithms, an exercise for making an algorithm and some exercise about computers. all elementary level and no specifics </U>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> Say no more; it's on its way. </U> <E> ({\"S\": \"Computer Science\", \"T\": \"Short Answer\", \"G\": \"G < 7\", \"M\": \"Exercise on algorithms\", \"R\": True}, {\"S\": \"Computer Science\", \"T\": \"Algorithm Practice\", \"G\": \"G < 7\", \"M\": None, \"R\": True}, {\"S\": \"Computer Science\", \"T\": None, \"G\": \"G < 7\", \"M\": \"Exercise about computers\", \"R\": True}) </E>"
+        },
+        {
+          "from": "human",
+          "value": "<E> 1. What is an algorithm? 2. Create an algorithm for making a peanut butter and jelly sandwich. 3. List all the activities you can think of that use a computer. Which ones do you like to do at home? </E>"
+        },
+        {
+          "from": "gpt",
+          "value": "<U> 1. What is an algorithm? 2. Create an algorithm for making a peanut butter and jelly sandwich. 3. List all the activities you can think of that use a computer. Which ones do you like to do at home? </U>"
+        }
+      ]
+    }
+]
