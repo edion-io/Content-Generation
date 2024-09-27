@@ -11796,7 +11796,7 @@ A terrible disease called cholera struck parts of London, England, in 1854. Hund
 Use a map in an atlas or on the Internet to choose a part of the coast you would like to visit. Write down the reasons for your choice.
 
 
-(Geography) (Creative Writing Exercise, Research Activity, Mapping Actvitiy) D 3 M
+(Geography) (Creative Writing Exercise, Research Activity, Mapping Activity) D 3 M
 
 Find out about a change that is taking place in your area, such as the building of a new road or apartment block, or the closing down of a factory. Imagine you are a newspaper reporter. Write a news story for your newspaper about this change. Draw a map with pictures to show where the change is taking place.
 
@@ -15143,7 +15143,7 @@ Why were the Vikings such skilled boat builders and navigators?
 Why did some Vikings decide to raid and settle in other countries?  
 
 
-(History) (Timeline Drawing Actvitiy, Map Exercise, Atlas Exercise) D 6 M
+(History) (Timeline Drawing Activity, Map Exercise, Atlas Exercise) D 6 M
 
 Create a timeline that shows when and where the Vikings raided and settled from the 8th to the 11th centuries. Use a map and an atlas to help you name the areas and countries.  
 
@@ -16367,7 +16367,7 @@ Imagine you are an Anglo-Saxon king and a foreign king has come to visit you. Wr
 Anglo-Saxons were often buried with their possessions. When archeologists discover Anglo-Saxon graves, they find evidence of the different jobs that men and women did and the skills they had. Read more about what was found buried at Sutton Hoo and find out who may have owned these treasures.
 
 
-(History) (Partner Activity, Written Dicussion) D 4 M
+(History) (Partner Activity, Written Discussion) D 4 M
 
 Work with a friend. Discuss and write down your answers.  
 \begin{enumerate}[label=\alph*.]
@@ -17001,7 +17001,7 @@ What entertainment was popular in Tudor times?
 What was the game that poorer people played, and how was it described by a spectator in 1602?
 
 
-(History) (Pair Dicussion) D 2 M
+(History) (Pair Discussion) D 2 M
 
 Why do you think the Wright brothers made kites to test their ideas for an airplane? Explain your ideas to a friend.  
 
@@ -17486,1492 +17486,1518 @@ Explain why toys and games have changed throughout time.
 What was a Tudor town like?
 
 
-(Social Studies) T D 5 M
+(Social Studies) (Creative Activity) D 6 M
 
-Lesson Objectives
- to identify different thinking skills
- to identify and assess personal capabilities
-(Social Studies) T D 5 M
-
-Activities
-- how world trade developed
-- to identify ways in which trade has encouraged exploration and invention
-- how things other than goods are exchanged along trade routes.
-(Social Studies) T D 2 M
-
-Activities  
-- that families change and grow over time  
-- how to write questions for historical research  
-- how to show changes and events on a timeline  
-(Social Studies) T D 2 M
-
-Lesson Objectives
- to identify positive personal qualities
- to say which personal qualities you have
- to say which personal qualities other people have.
-(Social Studies) T D 6 M
-
-Activity  
 Work in a group to design a sustainable city.
-(Social Studies) T D 6 M
 
-Question  
+
+(Social Studies) (Question) D 6 M
+
 How does city life have an impact on the environment?
-(Social Studies) T D 6 M
-
-[Activities] 
-In this lesson you will learn: 
-- about globalisation 
-- to identify the effects of globalisation on different aspects of life
-(Social Studies) T D 1 M
-
-Activities  
-1 Write how you have used the natural environment today.  
-2 Draw and write about the sea or the forest habitat. Include two things that live there. Explain how the sea or forest habitat might be damaged.  
-(Social Studies) T D 1 M
-
-Activities  
-1. Work with a friend. Write down the rules of a game you like to play. Discuss why the rules are important.  
-2. Write four rules from your home.  
 
 
-(Social Studies) T D 1 M
-  
-Questions  
-Why are rules important here?  
-What rules may have been broken here?  
-(Social Studies) T D 3 M
+(Social Studies) (Long Answer) D 1 M
 
-Activities  
-1 Draw a picture of a tree like the one above. Write answers to the questions given on the branches on the tree above, like 'I will be loyal to show I am a good friend.'  
-2 Work in a group to make up role plays that show how people have positive personal qualities in different situations.
-(Social Studies) T D 4 M
+Write how you have used the natural environment today.  
 
-Activities  
-No text
-(Social Studies) T D 4 M
 
-Activities
-- the uses of oil and gas
-- about the importance of oil and gas to countries in the Arabian Gulf.
-(Social Studies) T D 3 M
+(Social Studies) (Creative Activity, Long Answer) D 1 M
 
-Activities  
-1. Make a chart and keep a record of all the exercise you actually do in a day.  
-2. Make a poster explaining the problems of sitting for long periods and encouraging people to exercise more.  
-(Social Studies) T D 3 M
+Draw and write about the sea or the forest habitat. Include two things that live there. Explain how the sea or forest habitat might be damaged.  
 
-Question  
+
+(Social Studies) (Partner Activity) D 1 M
+
+Work with a friend. Write down the rules of a game you like to play. Discuss why the rules are important.  
+
+
+(Social Studies) (Short Answer) D 1 M
+
+Write four rules from your home.
+
+
+(Social Studies) (Role-Playing Exercise, Group Activity) D 3 M
+
+Work in a group to make up role plays that show how people have positive personal qualities in different situations.
+
+
+(Social Studies) (Data Collection Exercise) D 3 M
+
+Make a chart and keep a record of all the exercise you actually do in a day.
+
+
+(Social Studies) (Creative Activity, Poster Creation) D 3 M
+
+Make a poster explaining the problems of sitting for long periods and encouraging people to exercise more.  
+
+
+(Social Studies) (Question, Short Answer) D 3 M
+
 Which natural resources do you think are used to make paper?
-(Social Studies) T D 3 M
 
-Review Questions  
-1. The climate in a place is:  
-   a the different weather every day  
-   b the average weather conditions over a long period of time  
-   c the type of landscape  
-   d the level of pollution  
 
-2. The climate in the Arabian Peninsula is mostly:  
-   a cold and wet  
-   b hot and wet  
-   c cool and dry  
-   d hot and dry  
+(Social Studies) (Multiple Choice Question) D 3 M
 
-3. A long period of dry weather when no rain falls is called:  
-   a a sandstorm  
-   b a wadi  
-   c a drought  
-   d a downpour  
+The climate in a place is:
+\begin{enumerate}[label=\alph*.]
+\item the different weather every day  
+\item the average weather conditions over a long period of time  
+\item the type of landscape  
+\item the level of pollution  
+\end{enumerate}
 
-4. Reading 'clockwise' from the top of a compass, the main directions are:  
-   a north, south, east, west  
-   b north, west, south, east  
-   c north, east, south, west  
-   d north, east, west, south  
 
-5. A relief map is a special map that shows:  
-   a the heights of physical features  
+(Social Studies) (Multiple Choice Question) D 3 M
 
-6. The things we use to provide for all our needs are called:  
-   a minerals  
-   b raw materials  
-   c resources  
-   d energy  
+The climate in the Arabian Peninsula is mostly:  
+\begin{enumerate}[label=\alph*.]
+\item cold and wet  
+\item hot and wet  
+\item cool and dry  
+\item hot and dry  
+\end{enumerate}
 
-7. Briefly describe the differences between maps of the same area that are drawn to different scales.  
 
-8. Describe two natural features found along the coasts of the Arabian Peninsula.  
+(Social Studies) (Multiple Choice Question) D 3 M
 
-9. Identify two natural resources from your region and briefly describe ways in which they are used.  
+A long period of dry weather when no rain falls is called:  
+\begin{enumerate}[label=\alph*.]
+\item a sandstorm  
+\item a wadi  
+\item a drought  
+\item a downpour  
+\end{enumerate}
 
-10. Describe how two activities carried out by people make important changes to the natural environment.  
 
-11. Write about some of the differences between the people who make up the population of a country.  
+(Social Studies) (Multiple Choice Question) D 3 M
 
-12. Give three reasons why people might choose to live in a modern city.  
-(Social Studies) T D 4 M
+Reading 'clockwise' from the top of a compass, the main directions are:  
+\begin{enumerate}[label=\alph*.]
+\item north, south, east, west  
+\item north, west, south, east  
+\item north, east, south, west  
+\item north, east, west, south  
+\end{enumerate}
 
-Activity  
+
+(Social Studies) (Multiple Choice Question) D 3 M
+
+The things we use to provide for all our needs are called:  
+\begin{enumerate}[label=\alph*.]
+\item minerals  
+\item raw materials  
+\item resources  
+\item energy  
+\end{enumerate}
+
+
+(Social Studies) (Short Answer) D 3 M
+
+Describe two natural features found along the coasts of the Arabian Peninsula.  
+
+
+(Social Studies) (Short Answer) D 3 M
+
+Identify two natural resources from your region and briefly describe ways in which they are used.  
+
+
+(Social Studies) (Short Answer) D 3 M
+
+Describe how two activities carried out by people make important changes to the natural environment.  
+
+
+(Social Studies) (Short Answer) D 3 M
+
+Write about some of the differences between the people who make up the population of a country.  
+
+
+(Social Studies) (Short Answer) D 3 M
+
+Give three reasons why people might choose to live in a modern city.  
+
+
+(Social Studies) (Group Activity, Survey, Data Collection Exercise) D 4 M
+
 Work in a group to carry out a survey of types of mass media in your country. Make a list of the different types of information presented.
-(Social Studies) T D 4 M
 
-Activity  
+
+(Social Studies) (Group Discussion, Creative Activity) D 4 M
+
 Work in a group to discuss items that can be bought over the internet. Write and draw a picture strip that shows how different parts of the economy are involved in getting those items to customers.
-(Social Studies) T D 4 M
 
-Activities  
-No text
-(Social Studies) T D 4 M
 
-Activities  
-No text.
-(Social Studies) T D 3 M
+(Social Studies) (Question) D 3 M
 
-Question  
 Why might people be encouraged to use public transport?
-(Social Studies) T D 3 M
 
-[Questions]  
+
+(Social Studies) (Question) D 3 M
+
 Which natural resources do you think are used to produce food?  
 
 
-(Social Studies) T D 3 M
+(Social Studies) (Group Activity, List Writing Activity) D 3 M
 
-[Activities]  
-1. Work in a group to make a list of durable and consumable items in school. Write about how each one should be used.  
-2. Think of a food you like to eat. Draw and label a diagram showing all the resources that are used to produce that food.  
-(Social Studies) T D 3 M
+Work in a group to make a list of durable and consumable items in school. Write about how each one should be used.  
 
-Activities  
-Exercise helps you to be active for longer, keeps you strong and helps you to stay flexible.
-(Social Studies) T D 4 M
 
-Activity  
+(Social Studies) (Creative Activity) D 3 M
+
+Think of a food you like to eat. Draw and label a diagram showing all the resources that are used to produce that food.  
+
+
+(Social Studies) (Group Activity, Poster Creation, Creative Activity) D 4 M
+
 Work in a group to produce an information poster about renewable and non-renewable resources.
-(Social Studies) T D 4 M
-
-Activities  
-1. Work with a partner and ask one another questions based on the map on page 41, for example ‘How many mosques can you see on the map?’  
-2. Use a blank map of the Arabian Peninsula to create a relief map as in map B. Mark all the capital cities.  
-(Social Studies) T D 3 M
-
-Learning Objective  
-to identify positive personal qualities  
-how to develop positive personal qualities.  
 
 
-(Social Studies) T D 3 M
+(Social Studies) (Mapping Activity, Labelling Exercise) D 4 M
 
-Activities  
-We can identify the things we like about ourselves and the things it would be good to change or improve.  
-We can practise thinking or behaving in ways that help this.  
-(Social Studies) T D 1 M
-
-Activities  
-- why it is good to have rules  
-- why there are rules in the home  
-- how to play the game  
-- actions that are allowed and ones that are not  
-- who wins  
-(Social Studies) T D 1 M
-
-[Learning Objectives]  
-how living things depend on the natural environment  
-about different natural environments.  
+Use a blank map of the Arabian Peninsula to create a relief map. Mark all the capital cities.
 
 
-(Social Studies) T D 1 M
+(Social Studies) (Long Answer) D 6 M
 
-[Activities]  
-Many animals eat plants for food.  
-All living things need water to survive.  
-Plants cannot live without water.  
-(Social Studies) T D 6 M
-
-Activity  
 Describe the effect that globalisation has had on society and employment opportunities in your country.
-(Social Studies) T D 6 M
 
-Review questions  
-1. When several members of a single family rule in succession, this is called:  
-a an aristocracy  
-b a monarchy  
-c a dynasty  
-d a senate  
 
-2. When one country is politically controlled by another distant country it is called:  
-a a municipality  
-b a colony  
-c a region  
-d an island  
+(Social Studies) (Multiple Choice Question) D 6 M
 
-3. In the 1500s, the Portuguese wanted to take the town of Hormuz as this would help them control trade in:  
-a the Red Sea  
-b the Indian Ocean  
-c the Arabian Gulf  
-d the Suez Canal  
+When several members of a single family rule in succession, this is called:  
+\begin{enumerate}[label=\alph*.]
+\item an aristocracy
+\item a monarchy  
+\item a dynasty  
+\item a senate  
+\end{enumerate}
 
-4. At the beginning of the 19th century, the French tried to colonise Egypt. They were defeated by:  
-a the Ottoman Empire and the Germans  
-b the Ottoman Empire and the British  
-c the Ottoman Empire and the Dutch  
-d the Ottoman Empire and the Austrians  
 
-5. The countries of the Middle East and Arabian Peninsula were all independent by:  
-a the end of the 20th century  
-b the end of the Second World War  
+(Social Studies) (Multiple Choice Question) D 6 M
 
-6. Referring to the table below, write the letters for the events listed below in the chronological order that matches the dates shown in the ‘Year’ column.  
-Event  
-a Outbreak of First World War 1515  
-b Nasser takes control of Suez Canal 1801  
-c Albuquerque takes Hormuz 1914  
-d French defeated in Egypt 1956  
+When one country is politically controlled by another distant country it is called:  
+\begin{enumerate}[label=\alph*.]
+\item a municipality  
+\item a colony  
+\item a region  
+\item an island  
+\end{enumerate}
 
-7. What was a major effect of the opening of the Suez Canal in 1869?  
-a The population of Cairo increased  
-b Goods could be transported to the Mediterranean Sea without being carried over land  
-c The price of fish decreased  
-d Ibn Saud became King of Saudi Arabia  
 
-8. Describe some of the reasons why European nations began colonising other countries in the 19th century.  
+(Social Studies) (Multiple Choice Question) D 6 M
 
-9. Describe some ways in which the countries of the Arabian Gulf have changed regarding population size, multiculturalism, education and industry since they gained independence.  
-(Social Studies) T D 6 M
+In the 1500s, the Portuguese wanted to take the town of Hormuz as this would help them control trade in:  
+\begin{enumerate}[label=\alph*.]
+\item the Red Sea  
+\item the Indian Ocean  
+\item the Arabian Gulf  
+\item the Suez Canal  
+\end{enumerate}
 
-Activities  
-- Safe and reliable public transport that is seen as a realistic alternative to the private car  
-- Safe environments to walk or cycle  
-- Accessible public areas that feel safe and enjoyable  
-- Good use of renewable resources  
-- Reduction in use of non-renewable resources to a minimum level  
-- Recycling systems for different materials in place  
-- Waste reduced to a minimum  
-- Water used wisely  
-- A population containing a mixture of people from different backgrounds  
-- Strong communities containing active citizens  
-- Social and cultural facilities that everyone can access  
-- A sustainable rate of growth.
-(Social Studies) T D 2 M
 
-Activities  
-1 Make a list of good things you can say about yourself. Think about:  
-- how you behave with your family and friends – are you kind, considerate, helpful, loyal?  
-- your work in school – are you hard-working, determined?  
-- other things you like to do – are you confident, co-operative, enthusiastic?  
+(Social Studies) (Multiple Choice Question) D 6 M
 
-2 Make a decorated shape with your name on. Add a positive personal quality you think you have. Let other people in the class add positive personal qualities to your name shape.  
+At the beginning of the 19th century, the French tried to colonise Egypt. They were defeated by:  
+\begin{enumerate}[label=\alph*.]
+\item the Ottoman Empire and the Germans  
+\item the Ottoman Empire and the British  
+\item the Ottoman Empire and the Dutch  
+\item the Ottoman Empire and the Austrians  
+\end{enumerate}
 
-3 Think about a person who is special to you and write about what makes them special.  
-(Social Studies) T D 2 M
 
-Activity  
-Work with a partner to think of some questions you could ask family members to find out the information you need for your timeline. These are some of the things that you need to find out:  
-- when your parents were born  
-- where they lived when they were children  
-- when they married  
-- how long they have lived in the home they live in now  
-- when your grandparents were born  
-- where your grandparents lived.  
-(Social Studies) T D 5 M
+(Social Studies) (Multiple Choice Question) D 6 M
 
-Activity  
-Write a self-assessment that describes some of your strengths and areas for development. Think about:  
-- subjects in school where you feel more and less confident  
-- how well you cope when facing new challenges  
-- situations when you react well and situations when your reactions are not so helpful  
-- whether you are able to persevere with something difficult  
-- whether you use effective methods to find information  
-- how well-organised you think you are  
-- whether you can think creatively and come up with new ideas or solutions to problems.
-(Social Studies) T D 5 M
+The countries of the Middle East and Arabian Peninsula were all independent by:  
+\begin{enumerate}[label=\alph*.]
+\item the end of the 20th century  
+\item the end of the Second World War  
+\end{enumerate}
 
-Question  
-How would life have developed for people who lived in this kind of environment?
-(Social Studies) T D 2 M
 
-Activities  
-1 Draw a picture of the clothes you would wear to relax and the clothes you would wear to a special occasion.  
-2 Design some clothing that shows some of the things and ideas that are important to you.  
-(Social Studies) T D 2 M
+(Social Studies) (Multiple Choice Question) D 6 M
 
-Activities  
-1 Make a labelled drawing of all the things in your living room at home and all the things in your bedroom. Mark off the ones you think would not have been in your parents’ living room and bedroom when they were children.  
-2 Write about some big changes that have happened in the environment, transport, communication and homes.  
-(Social Studies) T D 6 M
+What was a major effect of the opening of the Suez Canal in 1869?  
+\begin{enumerate}[label=\alph*.]
+\item The population of Cairo increased  
+\item Goods could be transported to the Mediterranean Sea without being carried over land  
+\item The price of fish decreased  
+\item Ibn Saud became King of Saudi Arabia  
+\end{enumerate}
 
-Activities  
-- to identify and describe some of the consequences of European colonisation.
-(Social Studies) T D 6 M
 
-Activities
-to describe features of the development of modern countries of the Arabian Peninsula.
-(Social Studies) T D 6 M
+(Social Studies) (Short Answer) D 6 M
 
-Activities  
-No text
-(Social Studies) T D 1 M
+Describe some of the reasons why European nations began colonising other countries in the 19th century.  
 
-Question  
-Which of these pictures show part of the natural environment and which show part of the built environment?
-(Social Studies) T D 4 M
 
-Activities  
-1. Write a brief explanation of why you think values such as hospitality, generosity, respect and tolerance would help to create a strong society.  
-2. Work in a group to discuss ways in which pupils can contribute to the life of a school.  
-(Social Studies) T D 4 M
+(Social Studies) (Short Answer) D 6 M
 
-Activity  
+Describe some ways in which the countries of the Arabian Gulf have changed regarding population size, multiculturalism, education and industry since they gained independence.  
+
+
+(Social Studies) (List Writing Activity) D 2 M
+
+Make a list of good things you can say about yourself. Think about:  
+\begin{itemize}
+\item how you behave with your family and friends – are you kind, considerate, helpful, loyal?  
+\item your work in school – are you hard-working, determined?  
+\item other things you like to do – are you confident, co-operative, enthusiastic?  
+\end{itemize}
+
+
+(Social Studies) (Creative Activity, Class Activity) D 2 M
+
+Make a decorated shape with your name on. Add a positive personal quality you think you have. Let other people in the class add positive personal qualities to your name shape.  
+
+
+(Social Studies) (Long Answer) D 2 M
+
+Think about a person who is special to you and write about what makes them special.  
+
+
+(Social Studies) (Timeline Drawing Activity, Interview, Research Activity) D 2 M
+
+Work with a partner to think of some questions you could ask family members to find out the information you need for your timeline. These are some of the things that you need to find out:
+\being{itemize}
+\item when your parents were born  
+\item where they lived when they were children  
+\item when they married  
+\item how long they have lived in the home they live in now  
+\item when your grandparents were born  
+\item where your grandparents lived.  
+\end{itemize}
+
+
+(Social Studies) (Long Answer) D 5 M
+
+Write a self-assessment that describes some of your strengths and areas for development. Think about:
+\being{itemize}
+\item subjects in school where you feel more and less confident  
+\item how well you cope when facing new challenges  
+\item situations when you react well and situations when your reactions are not so helpful  
+\item whether you are able to persevere with something difficult  
+\item whether you use effective methods to find information  
+\item how well-organised you think you are  
+\item whether you can think creatively and come up with new ideas or solutions to problems.
+\end{itemize}
+
+
+(Social Studies) (Creative Activity) D 2 M
+
+\begin{enumerate}
+\item Draw a picture of the clothes you would wear to relax and the clothes you would wear to a special occasion.  
+\item Design some clothing that shows some of the things and ideas that are important to you.  
+\end{enumerate}
+
+
+(Social Studies) (Creative Activity, Labelling Exercise) D 2 M
+
+Make a labelled drawing of all the things in your living room at home and all the things in your bedroom. Mark off the ones you think would not have been in your parents’ living room and bedroom when they were children.  
+
+
+(Social Studies) (Long Answer) D 2 M
+
+Write about some big changes that have happened in the environment, transport, communication and homes.  
+
+
+(Social Studies) (Short Answer) D 4 M
+
+Write a brief explanation of why you think values such as hospitality, generosity, respect and tolerance would help to create a strong society.  
+
+
+(Social Studies) (Group Discussion) D 4 M
+
+Work in a group to discuss ways in which pupils can contribute to the life of a school.  
+
+
+(Social Studies) (Creative Activity) D 4 M
+
 Draw and write about four different uses of land in your country.
-(Social Studies) T D 3 M
 
-Activity  
+
+(Social Studies) (Creative Activity) D 3 M
+
 Make a labelled drawing. In the centre show some of the ideas and values that people have in common. Around this show some of the differences, such as clothing or food, which are special to some of the cultures represented in your school or community.
-(Social Studies) T D 3 M
 
-Activities  
-1. Draw and write about the different types of transport you can see in your local area.  
-2. Write about some places you know where people can walk and cycle.  
-(Social Studies) T D 4 M
 
-Activities  
-No text
-(Social Studies) T D 4 M
+(Social Studies) (Creative Activity) D 3 M
 
-Activities
- highlight the dangers associated with particular practices, such as smoking.
-(Social Studies) T D 4 M
+Draw and write about the different types of transport you can see in your local area.  
 
-Activities  
-1 Work in a group to find out about some recent public information campaigns in your country.  
-2 Work in a group to design a public information campaign on a subject of your choice.  
-(Social Studies) T D 4 M
 
-Activity  
+(Social Studies) (Short Answer) D 3 M
+
+Write about some places you know where people can walk and cycle.  
+
+
+(Social Studies) (Group Activity, Research Exercise) D 4 M
+
+Work in a group to find out about some recent public information campaigns in your country.  
+
+
+(Social Studies) (Group Activity) D 4 M
+
+Work in a group to design a public information campaign on a subject of your choice.  
+
+
+(Social Studies) (Group Activity) D 4 M
+
 Work in a group and choose a particular area of activity in either the primary, secondary or tertiary sector. Think of all the different jobs that could be done in this area.
-(Social Studies) T D 3 M
-
-Activities  
-- about different types of transport  
-- why different forms of transport are used.  
 
 
-(Social Studies) T D 3 M
+(Social Studies) (List Writing Activity, Written Discussion, Long Answer) D 3 M
 
-Review  
-No text.
-(Social Studies) T D 3 M
-
-Activities  
-No text
-(Social Studies) T D 3 M
-
-Activities  
-1. Make a list of the countries and capital cities in the Arabian Gulf region.  
-2. What do you notice about the location of all the capital cities apart from Riyadh?  
-3. Write why you think most people in these countries live in cities.  
-4. What might you find at cities located inland?  
-5. Write about the transport links you think these places have to other countries around the world.  
-(Social Studies) T D 4 M
-
-Learning Objectives  
-to identify the different types of information available on maps  
-to recognise the different ways in which information is presented on maps.  
+\begin{enumerate}
+\item Make a list of the countries and capital cities in the Arabian Gulf region.  
+\item What do you notice about the location of all the capital cities apart from Riyadh?  
+\item Write why you think most people in these countries live in cities.  
+\item What might you find at cities located inland?  
+\item Write about the transport links you think these places have to other countries around the world.  
+\end[enumerate]
 
 
-(Social Studies) T D 4 M
+(Social Studies) (Short Answer) D 4 M
 
-Information Features on a Map  
-Maps use a number of features such as text, signs and symbols to provide information.  
-Maps usually have a title. This describes the location of the area covered by the map and may say what type of information the map shows.  
-Maps show direction. Most maps have a north pointer or a compass rose to show direction. If there is no such sign then it is assumed that north is at the top of the map.  
-Maps have a key. Labelling everything on a map would make it difficult to read. To avoid this, maps have signs and symbols drawn on them and a key which explains what the signs and symbols mean.  
-Maps are also drawn at different scales. The scale on a map is the link between a measurement on a map and the real distance on the ground.
-(Social Studies) T D 4 M
-
-[Activities]
-- to identify renewable and non-renewable resources
-- about the importance of land in countries in the Arabian Gulf.
-(Social Studies) T D 4 M
-
-Learning Objective  
-to identify ways in which people are expected to behave in Arabian Gulf societies.  
+Identify ways in which people are expected to behave in Arabian Gulf societies.  
 
 
-(Social Studies) T D 4 M
+(Social Studies) (Creative Activity) D 1 M
 
-Cultural traditions  
-Cultural traditions give a society its sense of identity and are an important part of helping a society to hold together. The countries of the Arabian Gulf are Arab Muslim societies. This means that they are based on Arab traditions and the faith of Islam.  
+Draw and label two natural physical features and two parts of the built environment in your country.  
 
 
-(Social Studies) T D 4 M
+(Social Studies) (Partner Activity, Disucssion) D 1 M
 
-Improving society  
-A person who wants to be a good member of a society will be aware of things that are happening in society. This means that they will not be completely self-centred but will be thinking about the needs, feelings and rights of others. They will also see things in society that need improving and will do something about them.
-(Social Studies) T D 1 M
+Work in pairs to discuss three things from the natural environment and three things from the built environment you can find in your school.  
 
-Activities  
-1 Draw and label two natural physical features and two parts of the built environment in your country.  
-2 Work in pairs to discuss three things from the natural environment and three things from the built environment you can find in your school.  
-(Social Studies) T D 1 M
 
-Activities  
-1 Find out what waste is created in your school. Tell the class.  
-2 Make a poster showing how some everyday waste can be recycled.  
-(Social Studies) T D 6 M
+(Social Studies) (Class Presentation, Research Activity) D 1 M
 
-Activity  
+Find out what waste is created in your school. Tell the class.  
+
+
+(Social Studies) (Creative Activity, Poster) D 1 M
+
+Make a poster showing how some everyday waste can be recycled.  
+
+
+(Social Studies) (Lesson Planning Activity) D 6 M
+
 Prepare a lesson you would deliver to younger students that explains the idea of sustainable development simply. Include examples of how they could consume fewer resources.
-(Social Studies) T D 6 M
 
-Activity  
+
+(Social Studies) (Creative Writing Exercise, Article Writing Activity) D 6 M
+
 Write an article for a travel guide that gives a brief history of the development of your country since independence.
-(Social Studies) T D 6 M
 
-Activity  
+
+(Social Studies) (Research Activity) D 6 M
+
 Carry out research into a country in the Middle East or North Africa that was colonised by a European power. Find out what form of colonisation took place, what goods were traded between the two countries and the cultural influence of the colonial power.
-(Social Studies) T D 2 M
 
-Activities  
-What might be similar and what might be different for people living in these two places?  
-Today, people can travel quickly between countries.  
-Ships like this are constantly taking goods around the world.  
-(Social Studies) T D 2 M
 
-[Question]
+(Social Studies) (Questions) D 2 M
+
 How do you decide what to wear? Does it depend on what you are going to do?
 
 
-(Social Studies) T D 2 M
+(Social Studies) (Question, Long Answer) D 5 M
 
-[Question]
-What are the similarities and differences between the clothes shown on these pages?
-(Social Studies) T D 5 M
-
-Activities  
-why we study the past  
-about the development of the culture of the countries of the Arabian Gulf  
+Why do we study the past?
 
 
-(Social Studies) T D 5 M
+(Social Studies) (Presentation Creation Activity) D 6 M
 
-Review  
-What does this piece of pottery from Ancient Greece tell us about life in those times?  
-(Social Studies) T D 5 M
-
-Lesson Objective  
-about the importance of language and calligraphy in Arabic culture.
-(Social Studies) T D 2 M
-
-Activities  
-- that people from different places enjoy different food  
-- that traditional foods are a part of culture  
-- that everyone’s traditions and cultures should be respected.
-(Social Studies) T D 2 M
-
-Activities  
-You do not wear the same clothes as you did when you were a baby.  
-You don’t sleep in the same kind of bed as a baby.  
-You do not play with baby toys.  
-(Social Studies) T D 6 M
-
-Activity  
 Use physical, climate, vegetation and population maps to explore a region of the Earth. Make a presentation that explains why people have inhabited this area, and what the similarities and differences are between the physical and human geography across the region.
-(Social Studies) T D 6 M
 
-Activity  
+
+(Social Studies) (Article Writing Activity) D 6 M
+
 Write an article for a magazine that describes the process of urbanisation and explains some of its causes and effects.
-(Social Studies) T D 6 M
-
-Activity  
-Add information from this text and other research to the ‘Timeline of Arab independence’ begun in the previous lesson.
-(Social Studies) T D 1 M
-
-Activities  
-1 Write about the things that make you feel safe at home.  
-2 Work in a group to make a poster of rules for the class to help everyone feel safe.  
-(Social Studies) T D 1 M
-
-Activities  
-1 Write four rules from your school about looking after school property.  
-2 Design a poster for your school with rules about staying safe.  
-3 Work in pairs and discuss rules that would help make the school a better place.  
-(Social Studies) T D 1 M
-
-Activities  
-1 Write about two times when you made good choices at home.  
-2 Tell a friend about responsibilities you have at home.  
-(Social Studies) T D 4 M
-
-Activities  
-- how weather information is shown on charts  
-- to create charts based on weather information.  
-(Social Studies) T D 4 M
-
-Activities  
-- to use coordinates to describe a location.
-(Social Studies) T D 4 M
-
-Activities
-No text
-(Social Studies) T D 4 M
-
-Activities  
-1. Work in a group to make a list of materials and products provided by the secondary sector.  
-2. Make a labelled drawing of one item from your list for a display.  
-(Social Studies) T D 4 M
-
-Activities  
-1. Find out about the government of your country.  
-2. Make a list of things you think the local government does to keep your area looking its best. Suggest any other things that you think they should do.  
-(Social Studies) T D 3 M
-
-Activities  
-- about some natural physical features connected with water  
-- to consider how these physical features affect human activity  
-(Social Studies) T D 3 M
-
-Learning Objectives  
- what a population is  
- to know that a population has different characteristics.  
 
 
-(Social Studies) T D 3 M
+(Social Studies) (Long Answer) D 1 M
 
-Activities  
- Many young children go to kindergarten.  
-(Social Studies) T D 3 M
+Write about the things that make you feel safe at home.  
 
-Question  
+
+(Social Studies) (Creative Activity, Poster) D 1 M
+
+Work in a group to make a poster of rules for the class to help everyone feel safe.  
+
+
+(Social Studies) (Short Answer) D 1 M
+
+Write four rules from your school about looking after school property.  
+
+
+(Social Studies) (Creative Activity, Poster) D 1 M
+
+Design a poster for your school with rules about staying safe.  
+
+
+(Social Studies) (Pair Discussion) D 1 M
+
+Work in pairs and discuss rules that would help make the school a better place.  
+
+
+(Social Studies) (Long Answer) D 1 M
+
+Write about two times when you made good choices at home.  
+
+
+(Social Studies) (Partner Activity) D 1 M
+
+Tell a friend about responsibilities you have at home.  
+
+
+(Social Studies) (Class Display Activity, Group Activity) D 4 M
+
+\begin{enumerate}
+\item Work in a group to make a list of materials and products provided by the secondary sector.  
+\item Make a labelled drawing of one item from your list for a display.  
+\end{enumerate}
+
+
+(Social Studies) (Research Activity) D 4 M
+
+Find out about the government of your country.  
+
+
+(Social Studies) (List Writing Exercise) D 4 M
+
+Make a list of things you think the local government does to keep your area looking its best. Suggest any other things that you think they should do.  
+
+
+(Social Studies) (Question, Short Answer) D 3 M
+
+What is a population?
+
+
+(Social Studies) (Question, Short Answer) D 3 M
+
 What behaviour is expected of people in a public library?
-(Social Studies) T D 3 M
 
-Activity  
+
+(Social Studies) (Group Activity, Report Writing Exercise) D 3 M
+
 Work in a group to identify some of the public spaces you know. Write a report about what each space offers and how it should be used.
-(Social Studies) T D 3 M
 
-Activities  
-1. Make a bar chart that shows information about the population of your class.  
-   - How many pupils are in the class altogether?  
-   - How many pupils are boys and how many are girls?  
-   - If every person in the class uses three pencils and two pens in a year, how many pens and pencils must the school provide?  
-2. Draw and write about what different people in a population need.  
-(Social Studies) T D 3 M
 
-Activities  
-1. Work in a group to find out about some natural features associated with water in your country.  
-2. Draw and write about one of the features you found out about in Activity 1 and explain how it is used today.
-(Social Studies) T D 4 M
+(Social Studies) (Chart Drawing Activity, Data Collection Exercise) D 3 M
 
-Activities  
-No text
-(Social Studies) T D 4 M
+Make a bar chart that shows information about the population of your class.  
+\begin{itemize}
+\item How many pupils are in the class altogether?
+\item How many pupils are boys and how many are girls?  
+\item If every person in the class uses three pencils and two pens in a year, how many pens and pencils must the school provide?  
+\end{itemize}
 
-Activities  
-No text
-(Social Studies) T D 4 M
 
-Activities  
-1 Work with a partner. Tell your partner about the different members in your family, your favourite food, favourite colour and something you really like to do. Your partner should listen carefully. Then swap and you listen to your partner. Both of you must be ready to feed back to the class what your partner has said.  
-2 Make a list of situations in which you use different interpersonal skills and explain how you communicate.
-(Social Studies) T D 4 M
+(Social Studies) (Drawing Activity, Long Answer) D 3 M
 
-Activities  
-1. Use map A to answer these questions.  
-   - Which hotel is in J,5?  
-   - Which shopping centre is in square A,4?  
-   - In which square is the Burj Al Arab?  
-   - Give coordinates of two separate mosques.  
-   - Which road runs from B,3 to E,3?  
-   
-2. Working with a partner, use map B to make up some grid reference questions.  
-(Social Studies) T D 4 M
+Draw and write about what different people in a population need.  
 
-Activities  
-1. Find out about the average temperatures in your local area.  
-2. Find out about recent local events caused by winds and write a brief report.  
-(Social Studies) T D 1 M
 
-[Question]  
+(Social Studies) (Group Activity, Research Exercise, Creative Activity, Long Answer) D 3 M
+
+\begin{enumerate}
+\item Work in a group to find out about some natural features associated with water in your country.  
+\item Draw and write about one of the features you found out about in Activity 1 and explain how it is used today.
+\end{enumerate}
+
+
+(Social Studies) (Partner Activity) D 4 M
+
+Work with a partner. Tell your partner about the different members in your family, your favourite food, favourite colour and something you really like to do. Your partner should listen carefully. Then swap and you listen to your partner. Both of you must be ready to feed back to the class what your partner has said.  
+
+
+(Social Studies) (List Writing Exercise) D 4 M
+
+Make a list of situations in which you use different interpersonal skills and explain how you communicate.
+
+
+(Social Studies) (Research Activity) D 4 M
+
+Find out about the average temperatures in your local area.  
+
+
+(Social Studies) (Research Activity, Report Writing Exercise) D 4 M
+
+Find out about recent local events caused by winds and write a brief report.  
+
+
+(Social Studies) (Question) D 1 M
+
 What do you think bad behaviour shows?
-(Social Studies) T D 1 M
-
-Activities  
-Which classroom rules are being followed here?
-(Social Studies) T D 1 M
-
-Activities  
-No text
-(Social Studies) T D 6 M
-
-Activities
-- about the formation of the modern countries of the Arabian Peninsula.
-(Social Studies) T D 6 M
-
-[Learning Objectives]  
-- to describe the process of urbanisation  
-- to identify factors that lead to urbanisation  
-- to describe some consequences of urbanisation.  
 
 
-(Social Studies) T D 6 M
+(Social Studies) (Creative Activity, Timeline Drawing Exercise, Short Answer) D 2 M
 
-[Text]  
-The world has recently passed the point where, for the first time in history, more people are living in towns and cities than in the countryside.
-(Social Studies) T D 6 M
+\begin{enumerate}
+\item Draw and label a picture of you as a baby and the things you may have worn, slept in or played with. Then draw and label a picture of yourself and the things you wear, sleep in and play with today.  
+\item Write about three things that have changed about you and the things you can do.  
+\item Draw a simple timeline. Write and draw things that have happened in your life. Make sure you put them in the correct order.
+\end{enumerate}
 
-Activities  
-- to identify regions of the world  
-- to identify the different global regions on maps and globes  
-- to identify different features of the regions using different maps  
-(Social Studies) T D 2 M
 
-Activities  
-1 Draw and label a picture of you as a baby and the things you may have worn, slept in or played with. Then draw and label a picture of yourself and the things you wear, sleep in and play with today.  
-2 Write about three things that have changed about you and the things you can do.  
-3 Draw a simple timeline like the one in this book. Write and draw things that have happened in your life. Make sure you put them in the correct order.
-(Social Studies) T D 2 M
+(Social Studies) (Creative Activity) D 2 (Exercise on food)
 
-Activities  
-1 Draw and label pictures of five foods and a picture of your favourite food dish.  
-2 Draw and write about the national dish from your country and one other.  
-(Social Studies) T D 5 M
+Draw and label pictures of five foods and a picture of your favourite food dish.  
 
-Activities  
-1. Work in a group to discuss why it would be of benefit for people to be able to communicate with one another, in writing and speech, throughout the whole Muslim Empire.  
-2. Make a careful copy of a piece of Islamic calligraphy.  
-(Social Studies) T D 5 M
 
-Activity  
+(Social Studies) (Creative Activity) D 2 (Exercise on food)
+
+Draw and write about the national dish from your country and one other.  
+
+
+(Social Studies) (Group Activity) D 5 (Exercise on the Muslim Empire)
+
+Work in a group to discuss why it would be of benefit for people to be able to communicate with one another, in writing and speech, throughout the whole Muslim Empire.  
+
+
+(Social Studies) (Activity) D 5 (Exercise on Islam)
+
+Make a careful copy of a piece of Islamic calligraphy.  
+
+
+(Social Studies) (Timeline Drawing Activity) D 5 (Exercise on the Roman Empire)
+
 Make a timeline showing major events from the founding of the Roman Empire to the end of the rule of the Rashidite caliphs.
-(Social Studies) T D 5 M
 
-Activities  
-1. Work in a group to discuss the differences you would expect to see in the food, clothing and shelter of the early cultures that developed in the different climate zones. Explain the reasons for these differences.  
-2. Work in a group to find out about a civilisation from history. Find out where the civilisation was founded, how long it lasted, and identify two of its major achievements.
-(Social Studies) T D 2 M
 
-Activity  
+(Social Studies) (Group Discussion) D 5 (Exercise on early cultures)
+
+Work in a group to discuss the differences you would expect to see in the food, clothing and shelter of the early cultures that developed in the different climate zones. Explain the reasons for these differences.  
+
+
+(Social Studies) (Group Research Activity) D 5 M
+
+Work in a group to find out about a civilisation from history. Find out where the civilisation was founded, how long it lasted, and identify two of its major achievements.
+
+
+(Social Studies) (Family Tree Activity) D 2 M
+
 Make a family tree that shows you and any brothers or sisters you have, your parents and your grandparents. Can you think of any other family members who you could add to your tree?
-(Social Studies) T D 2 M
 
-Activity  
-Work in a group to draw an imaginary place where you are going to build a settlement.  
-• Think what materials will be available for you to build homes. Draw what some of these homes will look like.  
-• Write about how they will provide for all the needs of the people who live in this place.
-(Social Studies) T D 2 M
 
-Activities  
-1 Talk with a partner about the helpful personal qualities shown in the illustration. Copy any words that you do not understand.  
-2 Copy this sentence; ‘If you are ... it means you ...’ Fill in the spaces with a personal quality from the list and explain what it means. Do this for five different words.
-(Social Studies) T D 6 M
+(Social Studies) (Group Activity, Creative Activity) D 2 M
 
-Activity  
+Work in a group to draw an imaginary place where you are going to build a settlement.
+\begin{itemize}
+\item Think what materials will be available for you to build homes. Draw what some of these homes will look like.  
+\item Write about how they will provide for all the needs of the people who live in this place.
+\end{itemize}
+
+
+(Social Studies) (Long Answer) D 6 (Exercise on identity)
+
 Write about some of the influences you think there have been on the way you understand your own identity.
-(Social Studies) T D 6 M
 
-Activities  
-- about climate change  
-- to suggest strategies to reduce the problem.  
-(Social Studies) T D 6 M
 
-Activities
-- to explain factors that create patterns of population distribution and density
-- to describe and discuss urbanisation
-- to describe and discuss migration
-(Social Studies) T D 5 M
+(Social Studies) (Long Answer) D 6 (Exercise on population)
 
-Activities  
-1 Describe relationships shown in the family tree that involve grandparents and grandchildren, nieces and nephews, uncles and aunts and in-laws.  
-2 Work in a group to discuss things you have learnt from your family.
-(Social Studies) T D 1 M
+Explain factors that create patterns of population distribution and density.
 
-Review Questions
- How should we behave with all the children in school?
- How should we behave towards the adults in school?
-(Social Studies) T D 1 M
 
-Question  
+(Social Studies) (Discussion) D 6 (Exercise on urbanisation)
+
+Describe and discuss urbanisation.
+
+
+(Social Studies) (Discussion) D 6 (Exercise on migration)
+
+Describe and discuss migration.
+
+
+(Social Studies) (Group Discussion) D 5 (Exercise on family)
+
+Work in a group to discuss things you have learnt from your family.
+
+
+(Social Studies) (Question) D 1 (Exercise on academic behaviour)
+
+How should we behave with all the children in school?
+
+
+(Social Studies) (Question) D 1 (Exercise on academic behaviour)
+
+How should we behave towards the adults in school?
+
+
+(Social Studies) (Question) D 1 (Exercise on rural life)
+
 Where do people who do not live in the city get their water?
-(Social Studies) T D 6 M
 
-Activity  
+
+(Social Studies) (Poster Design Activity) D 6 (Exercise on international organisations)
+
 Research some of the work of one international organisation and produce a poster that explains what the organisation does.
-(Social Studies) T D 3 M
 
-Activities
-No text
-(Social Studies) T D 4 M
 
-Activities  
-1 Find out or estimate the latitude and longitude of your country. Use an atlas or globe to help you.  
-2 Write a list of countries and oceans that are on the same line of latitude and the same line of longitude.
-(Social Studies) T D 4 M
+(Social Studies) (Atlas Activity, Globe Activity) D 4 M
 
-Activity  
+\begin{enumerate}
+\item Find out or estimate the latitude and longitude of your country. Use an atlas or globe to help you.  
+\item Write a list of countries and oceans that are on the same line of latitude and the same line of longitude.
+\end{enumerate}
+
+
+(Social Studies) (Group Presentation) D 4 (Exercise on water resources)
+
 Work in a group to make a brief presentation about one source of water in your country.
-(Social Studies) T D 4 M
 
-Lesson Objectives
- what is meant by advertising
- the purpose of advertising
- to assess the impact of advertising.
-(Social Studies) T D 4 M
 
-Activities
-- what is meant by the economy
-- about the economy in countries of the Arabian Gulf.
-(Social Studies) T D 3 M
+(Social Studies) (Question) D 4 (Exercise on advertising)
 
-Activities  
-1. Design some outdoor public spaces for your school. Think about some of the different needs of pupils and how your spaces allow for these. Think about how you can make it an attractive place where people want to be.  
-2. Work in a group to carry out a survey of the different kinds of spaces in your school. Write a report that describes these. List some guidelines to show how the ‘public spaces’ should be used.
-(Social Studies) T D 3 M
+What is meant by advertising?
 
-Activities  
-1. Work in a group. Decide why people in the past may have chosen to build a settlement in the area shown in map A.  
-2. On a large copy of map A, mark where you think you would build a settlement. Then label other parts of your map to show the sorts of activities that people might have carried out there.  
-3. Still working in a group, decide why people might choose to live in the area shown in map B.  
-4. Make a list of some of the reasons for your decision. Explain how these are different from the reasons people in the past had for choosing where to live.  
-(Social Studies) T D 4 M
 
-Activities  
-1. Work in a group to make a list of materials produced by the primary sector.  
-2. Make a labelled drawing of one item from your list for a display.  
-(Social Studies) T D 4 M
+(Social Studies) (Question) D 4 (Exercise on advertising)
 
-Activities  
-1 Work in a group to discuss products you are aware of and how these are advertised.  
-2 Keep a record of all the different types of advertising that you see in a week.  
-(Social Studies) T D 4 M
+What is the purpose of advertising
 
-Activities  
-- about the water resources of countries in the Arabian Gulf.  
-- Water is used for human consumption and sanitation, for agriculture and in industry.  
-- Problems arise if water is taken faster than it is replaced.  
-- Underground water can also become salty which means it is not good to drink and cannot be used for irrigating plants.  
-- An oasis will support vegetation and wildlife.
-(Social Studies) T D 4 M
 
-Activities  
+(Social Studies) (Question) D 4 (Exercise on advertising)
+
+What is the impact of advertising?
+
+
+(Social Studies) (Question) D 4 (Exercise on the economy)
+
+What is meant by the economy?
+
+
+(Social Studies) (Creative Activity) D 3 (Exercise on outdoor public space)
+
+Design some outdoor public spaces for your school. Think about some of the different needs of pupils and how your spaces allow for these. Think about how you can make it an attractive place where people want to be.  
+
+
+(Social Studies) (Group Activity, Survey) D 3 (Exercise on public space)
+
+Work in a group to carry out a survey of the different kinds of spaces in your school. Write a report that describes these. List some guidelines to show how the ‘public spaces’ should be used.
+
+
+(Social Studies) (Group Activity, List Writing Activity, Creative Activity) D 4 M
+
+\begin{enumerate}
+\item Work in a group to make a list of materials produced by the primary sector.  
+\item Make a labelled drawing of one item from your list for a display.  
+\end{enumerate}
+
+
+(Social Studies) (Group Discussion, Data Collection Exercise) D 4 (Exercise on advertising)
+
+\begin{enumerate}
+\item Work in a group to discuss products you are aware of and how these are advertised.  
+\item Keep a record of all the different types of advertising that you see in a week.  
+\end{enumerate}
+
+
+(Social Studies) (Long Answer) D 4 (Exercise on water resources in the Arabian Gulf)
+
+Talk about the water resources of countries in the Arabian Gulf.
+
+
+(Social Studies) (Question) D 4 M
+
 If the North Pole is at 90° north, where is the South Pole?
-(Social Studies) T D 3 M
-
-Activities  
-1 Work in a group to gather information about one of the public services provided by the government in your country. Think about buildings and equipment used by the service, people who work in the service, and what the service provides.  
-2 Write a leaflet describing the public service you found out about in Activity 1. Your leaflet should also explain why it is good to have this service.
-(Social Studies) T D 6 M
-
-Activities
-No text
-(Social Studies) T D 1 M
-
-[Activities]  
-1 Draw your home and label it to show all the things it provides.  
-2 Draw two sets of things from your home. One set should show things you need to survive. The other set should show things that make life more comfortable or interesting. Tell the class which of these things is the most important for you.
-(Social Studies) T D 1 M
-
-[Questions]
-What behaviour can you see in these pictures?  
-How does it help children learn?  
 
 
-(Social Studies) T D 1 M
+(Social Studies) (Group Activity) D 3 M
 
-[Activities]
-1 Write about your behaviour at school.  
-2 Work with a friend to tell the class how to behave in public.  
-(Social Studies) T D 5 M
+\begin{enumerate}
+\item Work in a group to gather information about one of the public services provided by the government in your country. Think about buildings and equipment used by the service, people who work in the service, and what the service provides.  
+\item Write a leaflet describing the public service you found out about in Activity 1. Your leaflet should also explain why it is good to have this service.
+\end{enumerate}
 
-Activities
-- to create a family tree
-- why families are important to individuals and society
-- to understand how communities are formed.
-(Social Studies) T D 6 M
 
-Activity  
+(Social Studies) (Creative Activity) D 1 M
+
+\begin{enumerate} 
+\item Draw your home and label it to show all the things it provides.  
+\item Draw two sets of things from your home. One set should show things you need to survive. The other set should show things that make life more comfortable or interesting. Tell the class which of these things is the most important for you.
+\end{enumerate}
+
+
+(Social Studies) (Long Answer) D 1 (Exercise on academic behaviour)
+
+Write about your behaviour at school.  
+
+
+(Social Studies) (Partner Activity) D 1 (Exercise on behaviour)
+
+Work with a friend to tell the class how to behave in public.  
+
+
+(Social Studies) (Report Writing Activity) D 6 (Exercise on population)
+
 Write a brief report that explains the factors that influence the pattern of human population distribution and density. Give examples of how this pattern is reflected in three different parts of the world.  
 
 
-(Social Studies) T D 6 M
+(Social Studies) (Question) D 6 (Exercise on small communities)
 
-Question  
-What facilities might suffer in a small community like this if too many people move away?  
-(Social Studies) T D 6 M
+What facilities might suffer in a small community if too many people move away?  
 
-Activity  
+
+(Social Studies) (Class Discussion) D 6 (Exercise on climate change)
+
 Hold a class discussion on why climate change is an important issue and how it should be addressed.
-(Social Studies) T D 2 M
 
-[Learning Objectives] 
- £to identify different personal qualities
- £to recognise that people have different personal qualities
- £to say why positive personal qualities are good
-(Social Studies) T D 6 M
 
-[Activities]
-No text.
-(Social Studies) T D 2 M
+(Social Studies) (Question) D 5 (Exercise on past cultures)
 
-[Activities] 
-In these lessons you will learn:
-that people from different places have different homes
-that traditional homes are a part of culture
-that everyone’s traditions and cultures should be respected.
-(Social Studies) T D 2 M
-
-[Activities]
-In this lesson you will learn:
-- that families are made up of different generations
-- how to show your family on a family tree.
-(Social Studies) T D 5 M
-
-Question  
 What aspects of a past culture can special buildings reveal?
-(Social Studies) T D 5 M
-
-Activities
- In this lesson you will learn:
- about the powerful empires that existed at the emergence of Islam
- about the early leaders of Islam.
-(Social Studies) T D 2 M
-
-Activities  
-In these lessons you will learn:  
-what makes a family  
-that we have different relationships within our family.
-(Social Studies) T D 5 M
-
-Activities  
-1. Mark on a map the location of oil and gas fields and refineries in the Arabian Gulf countries.  
-2. Carry out some research into some regional mineral resources and the ways in which they are used.  
-3. Write a brief explanation of the benefits of oil, gas and other mineral resources to the Arabian Gulf countries.  
-(Social Studies) T D 5 M
-
-Review 
- Which of the following statements is true?
- a The age group with the smallest number of people is 60–64 year olds.
- b There are more males aged 20–24 than females.
- c There are more women aged 50–54 than men of the same age.
- d People under the age of 20 make up the largest part of the population.
 
 
-(Social Studies) T D 5 M
+(Social Studies) (Mapping Activity, Research Activity) D 5 (Exercise about the Arabian Gulf)
 
-Review 
- The population pyramid shows that there are more males than females in this country. What might be the cause of this situation?
-(Social Studies) T D 2 M
+\begin{enumerate}
+\item Mark on a map the location of oil and gas fields and refineries in the Arabian Gulf countries.  
+\item Carry out some research into some regional mineral resources and the ways in which they are used.  
+\item Write a brief explanation of the benefits of oil, gas and other mineral resources to the Arabian Gulf countries.  
+\end{enumerate}
 
-[Activities]
-In these lessons you will learn:
-- why food needs to be stored carefully
-- how food can be preserved.
-(Social Studies) T D 5 M
 
-Activities  
-to identify different government structures.
-(Social Studies) T D 2 M
+(Social Studies) (True-False Questions) D 5 (Exercise about population)
 
-Activities  
-1 Write about some situations where you can choose to do the right thing.  
-2 Talk with a partner and write about times when you have to practise self-discipline.  
-(Social Studies) T D 2 M
+Which of the following statements is true for the country you live in?
+\begin{enumerate}[label=\alph*.]
+\item The age group with the smallest number of people is 60–64 year olds.
+\item There are more males aged 20–24 than females.
+\item There are more women aged 50–54 than men of the same age.
+\item People under the age of 20 make up the largest part of the population.
+\end{enumerate}
 
-Activity  
-Use the map to answer these questions.  
-1 Which continents have some of their land south of the equator?  
-2 Which continents have some of their land above the Arctic Circle?  
-3 Which continents join to Asia on the west?  
-4 Which continent is between the South Atlantic Ocean and the Indian Ocean?  
-(Social Studies) T D 6 M
 
-Review questions  
-1. When a person is a citizen of a particular country this is known as their:  
-   a culture  
-   b nationality  
-   c custom  
-   d heritage  
+(Social Studies) (Long Answer) D 5 (Exercise about population)
 
-2. The process by which people are taught the customs, values, ideas and beliefs of the society in which they grow up, is called:  
-   a socialisation  
-   b indoctrination  
-   c preparation  
-   d immunisation  
+The population pyramid shows that there are more males than females in a country. What might be the cause of this situation?
 
-3. When a language has a legal status in a country it is called an:  
-   a accepted language  
-   b original language  
-   c official language  
-   d indigenous language  
 
-4. When a set of characteristics are applied to all individual members of a group, this is known as:  
-   a discrimination  
-   b stereotyping  
-   c prejudice  
-   d inequality  
+(Social Studies) (Short Answer) D 2 (Exercise about food)
 
-5. Which of the following are important parts of oral history?  
-   a Food and drink  
-   b Traditional clothing  
-   c Storytelling and songs  
-   d Traditional dances  
+Why does food need to be stored carefully?
 
-6. Two countries of the Arab world on the African continent are:  
-   a Sudan and Bangladesh  
-   b Egypt and Uzbekistan  
-   c Iraq and Algeria  
-   d Somalia and Libya  
 
-7. People from different cultures wear traditional dress mostly to:  
-   a celebrate their culture and heritage  
-   b take part in costume parades  
-   c practise their sewing skills  
-   d engage in sporting events  
+(Social Studies) (Short Answer) D 2 (Exercise about food preservation)
 
-8. Identify two sources of influence on an individual’s personal identity and describe what the effect of these influences might be.  
+How can food be preserved?
 
-9. Write about some similarities and differences amongst the cultures of the countries of the Arab World and explain why these exist.  
 
-10. Write a brief explanation of why some people might feel that maintaining aspects of traditional cultures is important. Say how food, clothes and music are important in achieving this.  
+(Social Studies) (Long Answer) D 2 (Exercise about doing the right thing)
 
-11. Explain how new technologies have increased cultural exchange and describe some of the effects of these exchanges.  
-(Social Studies) T D 6 M
+Write about some situations where you can choose to do the right thing.  
 
-Review Question  
-In this lesson you will learn:  
-to identify aspects of the process of socialisation.
-(Social Studies) T D 1 M
 
-Activities  
+(Social Studies) (Partner Activity, Discussion) D 2 (Exercise about self-discipline)
+
+Talk with a partner and write about times when you have to practise self-discipline.  
+
+
+(Social Studies) (Short Answers, Questions, Map Activity) D 2 (Exercise about continents)
+
+Use a map to answer these questions.
+\begin{enumerate}
+\item Which continents have some of their land south of the equator?  
+\item Which continents have some of their land above the Arctic Circle?  
+\item Which continents join to Asia on the west?  
+\item Which continent is between the South Atlantic Ocean and the Indian Ocean?  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 6 (Exercise about citizenry)
+
+When a person is a citizen of a particular country this is known as their:  
+\begin{enumerate}[label=\alph*.]
+\item culture  
+\item nationality  
+\item custom  
+\item heritage  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 6 (Exercise about society)
+
+The process by which people are taught the customs, values, ideas and beliefs of the society in which they grow up, is called:  
+\begin{enumerate}[label=\alph*.]
+\item socialisation  
+\item indoctrination  
+\item preparation  
+\item immunisation  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 6 (Exercise about language)
+
+When a language has a legal status in a country it is called an:  
+\begin{enumerate}[label=\alph*.]
+\item accepted language  
+\item original language  
+\item official language  
+\item indigenous language  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 6 (Exercise about culture)
+
+When a set of characteristics are applied to all individual members of a group, this is known as:
+\begin{enumerate}[label=\alph*.]
+\item discrimination  
+\item stereotyping  
+\item prejudice  
+\item inequality  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 6 (Exercise about oral history)
+
+Which of the following are important parts of oral history?
+\begin{enumerate}[label=\alph*.]
+\item Food and drink  
+\item Traditional clothing  
+\item Storytelling and songs  
+\item Traditional dances  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 6 (Exercise about the Arab world)
+
+Two countries of the Arab world on the African continent are:  
+\begin{enumerate}[label=\alph*.]
+\item Sudan and Bangladesh  
+\item Egypt and Uzbekistan  
+\item Iraq and Algeria  
+\item Somalia and Libya  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 6 (Exercise about culture)
+
+People from different cultures wear traditional dress mostly to:  
+\begin{enumerate}[label=\alph*.]
+\item celebrate their culture and heritage  
+\item take part in costume parades  
+\item practise their sewing skills  
+\item engage in sporting events  
+\end{enumerate}
+
+
+(Social Studies) (Long Answer) D 6 (Exercise on personal identity)
+
+Identify two sources of influence on an individual’s personal identity and describe what the effect of these influences might be.  
+
+
+(Social Studies) (Long Answer) D 6 (Exercise on cultural exchange)
+
+Write about some similarities and differences amongst the cultures of the countries of the Arab World and explain why these exist.  
+
+
+(Social Studies) (Long Answer) D 6 (Exercise on culture)
+
+Write a brief explanation of why some people might feel that maintaining aspects of traditional cultures is important. Say how food, clothes and music are important in achieving this.  
+
+
+(Social Studies) (Long Answer) D 6 (Exercise on cultural exchange)
+
+Explain how new technologies have increased cultural exchange and describe some of the effects of these exchanges.  
+
+
+(Social Studies) (Short Answer) D 6 (Exercise on socialisation)
+
+Identify aspects of the process of socialisation.
+
+
+(Social Studies) (Question) D 1 (Exercise on personal identity)
+
 How have you changed since you were a baby?
-(Social Studies) T D 1 M
 
-[Activity]
+
+(Social Studies) (Question) D 1 (Exercise on culture)
+
 What ideas or values are important in your culture?
 
 
-(Social Studies) T D 1 M
+(Social Studies) (Research Exercise, Long Answer) D 4 (Exercise on customs)
 
-[Activity]
-What values are these people showing?
-(Social Studies) T D 4 M
-
-Activity  
 Find out about some common customs of your country and one other country. Explain the ideas, beliefs and values that the customs show.
-(Social Studies) T D 4 M
 
-Activity  
+
+(Social Studies) (Group Activity, Fact Sheet) D 4 (Exercise on ancient trade)
+
 Work in a group to make a fact sheet about how ancient trade made people think of new inventions or ways of doing things.
-(Social Studies) T D 3 M
 
-Activities  
-1 Answer these questions for yourself.  
-- How well do you cope when something is not easy – can you keep going?  
-- How good are you at telling other people what you think and feel?  
-- How often do you see what other people need, and do something to help?  
-- Do you make decisions based on what you know to be right or wrong?  
-- How easy is it for you to work with other people?  
-- Are you curious about life? What are the things you want to know and find out about?  
-- Are you able to respect other people’s views in different situations?  
-2 Discuss the questions in a group to decide why these things are important.  
-(Social Studies) T D 5 M
 
-Activities  
-1. Write about your sense of wellbeing using the factors listed above.  
-2. Work in a group to suggest some policies that a government could introduce to improve people's sense of wellbeing.
-(Social Studies) T D 3 M
+(Social Studies) (Group Activity, Discussion) D 3 (Exercise on personal identity)
 
-Activities  
-1 Using the map above, answer these questions:  
-   * In which direction is the school from the small park?  
-   * What do you find if you travel south from the college?  
-   * What is north-east of the hospital?  
-2 Work with a partner and describe the directions you need to travel to get from one place to another on the map.  
-(Social Studies) T D 6 M
+Answer these questions for yourself. Then, discuss them in a group to decide why these things are important.
+\begin{itemize}
+\item How well do you cope when something is not easy – can you keep going?  
+\item How good are you at telling other people what you think and feel?  
+\item How often do you see what other people need, and do something to help?  
+\item Do you make decisions based on what you know to be right or wrong?  
+\item How easy is it for you to work with other people?  
+\item Are you curious about life? What are the things you want to know and find out about?  
+\item Are you able to respect other people’s views in different situations?  
+\end{itemize}
 
-Activity  
+
+(Social Studies) (Group Activity) D 5 (Exercise on wellbeing)
+
+Work in a group to suggest some policies that a government could introduce to improve people's sense of wellbeing.
+
+
+(Social Studies) (Partner Activity, Mapping Directions) D 3 (Exercise on giving directions)
+
+Work with a partner and describe the directions you need to travel to get from one place to another on a map of your town or city.  
+
+
+(Social Studies) (Drawing Activity) D 6 (Exercise on waste)
+
 Draw a picture strip that shows five ways in which you can cut down on the waste you produce.
-(Social Studies) T D 6 M
 
-Activity  
+
+(Social Studies) (Research Activity) D 6 (Exercise on government spending)
+
 Find out about the budget in your country and identify some planned government spending on education, health and international aid.
-(Social Studies) T D 6 M
-
-Activities  
-No text
-(Social Studies) T D 6 M
-
-Learning Objectives  
-to identify causes and effects of global waste production  
-to identify ways in which individuals can reduce the waste they produce.  
 
 
-(Social Studies) T D 6 M
+(Social Studies) (Short Answer) D 6 (Exercise on global waste production)
 
-Did you know?  
-The Arab Gulf Program for Development (AGFUND) is a regional organisation based in Riyadh, Saudi Arabia which was established in 1980 and has contributed support and finance to 1,466 projects in 133 developing countries.  
-
-
-(Social Studies) T D 6 M
-
-Waste and urbanisation  
-Waste from homes, offices and schools that is processed by a municipal authority, is called Municipal Solid Waste (MSW).  
-Urban residents produce about twice as much waste as those living in rural areas. Global estimates suggest that urban dwellers produce 1.3 billion tonnes of MSW.
-(Social Studies) T D 3 M
-
-Activities  
-- about a compass and a compass rose  
-- about the eight compass points  
-- to use the eight compass points to describe position on a map.
-(Social Studies) T D 5 M
-
-Activities
-- have a sense of enjoying life simply because they are alive
-- be involved with activities which they find engaging and meaningful
-- have a sense of personal control and feelings of self-confidence and of their own abilities
-- possess some inner strength and other attributes that will help them to cope in difficult circumstances and to deal with changes that occur outside their control.
-(Social Studies) T D 3 M
-
-Activities  
-- about the idea of personal goals  
-- to identify some personal goals  
-- to think of ways to reach those goals  
-(Social Studies) T D 4 M
-
-Activities  
-- to identify and describe some of the effects of early trade on civilisations  
-- about the role of the Arabian Peninsula in the development of the ancient world.  
-(Social Studies) T D 4 M
-
-Activities  
-- to identify common values in your country  
-- that Islamic values are important in Arab countries.
-(Social Studies) T D 1 M
-
-Activities  
-1 Look at the pictures and write the values that are important in each of these places:  
-2 Write some words about a role model in your school or in your country.  
-(Social Studies) T D 1 M
-
-[Question]  
-What is shown on the plan?  
+Identify causes and effects of global waste production.
 
 
-(Social Studies) T D 1 M
+(Social Studies) (Short Answer) D 6 (Exercise on waste production)
 
-[Activity]  
-1 Draw a picture and a plan view of five things in your classroom. Label the plan.  
-2 With help from your teacher, make a plan of your classroom. Include a key to your plan.  
-(Social Studies) T D 1 M
+Identify ways in which individuals can reduce the waste they produce.
 
-Activities  
-1 Draw your home and label the places that feel special.  
-2 Tell a friend what happens in your home on a typical day.  
-(Social Studies) T D 1 M
 
-Activities  
-1 Tell the class the things you’ve learnt to do this year.  
-2 Discuss two things that have changed since your parents were children.  
-(Social Studies) T D 6 M
+(Social Studies) (Short Answer) D 5 (Exercise on personal goals)
 
-Activity  
+Identify some of your personal goals and think of ways to reach those goals.
+
+
+(Social Studies) (Short Answer) D 4 (Exercise on early trade)
+
+Identify and describe some of the effects of early trade on civilisations.
+
+
+(Social Studies) (Long Answer) D 4 (Exercise on the Arabian Peninsula)
+
+What was the role of the Arabian Peninsula in the development of the ancient world?
+
+
+(Social Studies) (Short Answer) D 4 (Exercise on values)
+
+Identify common values in your country.
+
+
+(Social Studies) (Question, Long Answer) D 4 (Exercise on Islamic values)
+
+Why are Islamic values important in Arab countries?
+
+
+(Social Studies) (Short Answer) D 1 (Exercise on role models)
+
+Write some words about a role model in your school or in your country.  
+
+
+(Social Studies) (Drawing Exercise) D 1 (Exercise on planning)
+
+Draw a picture and a plan view of five things in your classroom. Label the plan.  
+
+
+(Social Studies) (Drawing Exercise) D 1 (Exercise on planning)
+
+With help from your teacher, make a plan of your classroom. Include a key to your plan.  
+
+
+(Social Studies) (Partner Activity, Drawing Activity) D 1 (Exercise on home)
+
+\begin{enumerate}[label=\alph*.]
+\item Draw your home and label the places that feel special.  
+\item Tell a friend what happens in your home on a typical day.  
+\end{enumerate}
+
+
+(Social Studies) (Class Activity) D 1 M
+
+Tell the class the things you’ve learnt to do this year.  
+
+
+(Social Studies) (Discussion) D 1 M
+
+Discuss two things that have changed since your parents were children.  
+
+
+(Social Studies) (Long Answer) D 6 (Exercise on influence)
+
 Write about the ways in which your family, your peers and your school have helped you identify the things that are important in society and how you are expected to behave.
-(Social Studies) T D 6 M
 
-Question  
+
+(Social Studies) (Question) D 6 M
+
 How has the world changed in the last 100 years?
-(Social Studies) T D 2 M
 
-Activities
-- how to use a world map
-- about the information shown on world maps
-- the names of the seven continents.
-(Social Studies) T D 2 M
 
-Activities  
-What is a good choice to make here?
-(Social Studies) T D 5 M
+(Social Studies) (Short Answer) D 2 M
 
-Activity  
+Write the names of the seven continents.
+
+
+(Social Studies) (Research Activity) D 5 (Exercise on goverment structure)
+
 Research the structure of government in your country and in one other country.
-(Social Studies) T D 4 M
 
-Activity  
+
+(Social Studies) (Group Activity) D 4 (Exercise on the use of the internet)
+
 Work in a group to create a set of guidelines to help people choose appropriate websites.
-(Social Studies) T D 2 M
-
-Activities  
-1 Draw items of fresh food people will often buy and write how each one should be stored.  
-2 Work in a group to prepare an illustrated list of foods that are preserved in some way.  
-(Social Studies) T D 5 M
-
-Review questions  
-1. Name two continents that lie on latitude 20°N.  
-2. Name two continents through which longitude 40°E passes.  
-3. Copy the true statement:  
-   a. The Arabian Peninsula is in the northern hemisphere.  
-   b. The Arabian Peninsula is in the southern hemisphere.  
-4. The time is different in different places on the Earth by one hour for every:  
-   a. 10° of longitude  
-   b. 12° of longitude  
-   c. 15° of longitude  
-   d. 20° of longitude  
-(Social Studies) T D 2 M
-
-Activities  
-1 Make a drawing showing you, the family members who share your home, and other family members.  
-2 Write about your relationship with three different members of your family.
-(Social Studies) T D 5 M
-
-Activities
-- about the different transportation systems in the region.
-(Social Studies) T D 5 M
-
-[Activities]
-No text.
-(Social Studies) T D 2 M
-
-Activities  
-1 Discuss with a partner all the things you could not do if you were ill in bed.  
-2 Work in a group to make a list of all the things in class that lots of people touch.  
-(Social Studies) T D 5 M
-
-Activities  
-- why populations are counted  
-- to describe features of the populations of the Arabian Gulf countries  
-- to interpret and present population information in different charts and diagrams.  
 
 
-(Social Studies) T D 5 M
+(Social Studies) (Drawing Activity) D 2 (Exercise on food preservation)
 
-Review Questions  
-No text.
-(Social Studies) T D 2 M
+Draw items of fresh food people will often buy and write how each one should be stored.  
 
-Activities  
-- about human activity in the local area  
-- to say how this activity affects the environment.  
-(Social Studies) T D 2 M
 
-Activities  
-What is this child doing?
-(Social Studies) T D 2 M
+(Social Studies) (Group Activity, Creative Activity) D 2 (Exercise on food preservation)
 
-[Type of text] 
-[Extracted text]
-In this lesson you will learn:
-- the responsibilities and rights you have at school.
-(Social Studies) T D 6 M
+Work in a group to prepare an illustrated list of foods that are preserved in some way.  
 
-Activity  
+
+(Social Studies) (Short Answer) D 5 M
+
+Name two continents that lie on latitude 20°N.  
+
+
+(Social Studies) (Short Answer) D 5 M
+
+Name two continents through which longitude 40°E passes.  
+
+
+(Social Studies) (True-False Exercise) D 5 (Exercise on hemispheres)
+
+Copy the true statement:
+\begin{enumerate}[label=\alph*.]
+\item The Arabian Peninsula is in the northern hemisphere.  
+\item The Arabian Peninsula is in the southern hemisphere.  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 5 (Exercise on time zones)
+
+The time is different in different places on the Earth by one hour for every:  
+\begin{enumerate}[label=\alph*.]
+\item 10° of longitude
+\item 12° of longitude  
+\item 15° of longitude  
+\item 20° of longitude  
+\end{enumerate}
+
+
+(Social Studies) (Drawing Activity) D 2 (Exercise on family)
+
+\begin{enumerate}
+\item Make a drawing showing you, the family members who share your home, and other family members.  
+\item Write about your relationship with three different members of your family.
+\end{enumerate}
+
+
+(Social Studies) (Partner Discussion) D 2 (Exercise on illnesses)
+
+Discuss with a partner all the things you could not do if you were ill in bed.  
+
+
+(Social Studies) (Group Activity) D 2 M
+
+Work in a group to make a list of all the things in class that lots of people touch.  
+
+
+(Social Studies) (Question) D 5 (Exercise on population)
+
+Why are populations counted?
+
+
+(Social Studies) (Research Activity) D 6 (Exercise on country features)
+
 Find out about some features of a country within the Arab world and say how this is similar or different from your own country.
-(Social Studies) T D 1 M
 
-Activities  
-1 Work with a partner and discuss what you can see in the aerial photograph on page 30.  
-2 This map shows part of the area in the photograph opposite.  
-What are shown by the straight white lines on the map?  
-How are areas of trees and grass shown?  
-What can you see in the photo that you cannot see on the map?  
-(Social Studies) T D 1 M
 
-[Questions]
+(Social Studies) (Question) D 1 (Exercise on television)
+
 What difference do you think television has made to people’s lives?  
+
+
+(Social Studies) (Question) D 1 (Exercise on transportation)
+
 People had to get around before cars were invented. How do you think they did this?  
+
+
+(Social Studies) (Question) D 1 M
+
 How do you take care of the things at home and in school?  
 
 
-(Social Studies) T D 1 M
+(Social Studies) (Partner Activity) D 1 (Exercise on the classroom)
 
-[Activities]
-1 Describe one item in your classroom to a partner.  
-2 Draw an object from your home or school. Write a few words on how you take care of it.  
-(Social Studies) T D 4 M
-
-Activities  
-- about the beginnings of Islam  
-- how Islam spread and influenced the region and the world.
-(Social Studies) T D 4 M
-
-Learning Objectives  
-to identify the traditional dress in your country  
-to understand that traditional dress is a part of national culture.  
+Describe one item in your classroom to a partner.  
 
 
-(Social Studies) T D 4 M
+(Social Studies) (Drawing Activity) D 1 M
 
-Activities  
-No text.
-(Social Studies) T D 3 M
-
-Activities  
-about families of different sizes  
-about why families are so important.  
-(Social Studies) T D 5 M
-
-Activities
-- to identify the major health risks from food
-- about food hygiene
-- how people are informed about food hygiene.
-(Social Studies) T D 6 M
-
-Activities  
-- to identify elements of the law and justice systems in your country  
-- to describe how laws are made and enforced in your country  
-- about some international laws.  
-(Social Studies) T D 6 M
-
-Learning Objective
-to identify ways in which individuals can respond to the global issue of using resources.
-(Social Studies) T D 6 M
-
-[Learning Objectives]  
-to identify some ethical products  
-to identify factors that make a product more ethical  
+Draw an object from your home or school. Write a few words on how you take care of it.  
 
 
-(Social Studies) T D 6 M
+(Social Studies) (Question, Long Answer) D 4 (Exercise on the the spread of Islam)
 
-[Activities]  
-No text
-(Social Studies) T D 6 M
+How did Islam spread and influence the world?
 
-Activity  
+
+(Social Studies) (Question) D 3 (Exercise on familiy)
+
+Why are families so important?
+
+
+(Social Studies) (Long Answer) D 6 (Exercise on laws)
+
+Describe how laws are made and enforced in your country.
+
+
+(Social Studies) (Long Answer) D 6 (Exercise on international laws)
+
+Describe some international laws.
+
+
+(Social Studies) (Short Answer) D 6 M
+
+Identify ways in which individuals can respond to the global issue of using resources.
+
+
+(Social Studies) (Short Answer) D 6 (Exercise on ethical products)
+
+Identify an ethical product.
+
+
+(Social Studies) (Short Answer) D 6 (Exercise on ethical products)
+
+Identify factors that make a product more ethical.
+
+
+(Social Studies) (Debate Activity) D 6 (Exercise on ethical products)
+
 Hold a class debate on the idea that people should always consider their ethical values when they are buying consumer goods.
-(Social Studies) T D 6 M
 
-Activities  
-1. List some ways in which you could reduce the amount of resources you consume.  
-2. Work in a group to devise a poster to encourage other people to think about their resource consumption.  
-(Social Studies) T D 6 M
 
-Activity  
+(Social Studies) (Short Answer) D 6 (Exercise on consumption)
+
+List some ways in which you could reduce the amount of resources you consume.  
+
+
+(Social Studies) (Group Activity, Poster Design) D 6 (Exercise on consumption)
+
+Work in a group to devise a poster to encourage other people to think about their resource consumption.  
+
+
+(Social Studies) (Research Activity, Poster Design) D 6 (Exercise on laws)
+
 Find out about how laws are made in your country and present your findings as an information poster.
-(Social Studies) T D 5 M
 
-Activity  
+
+(Social Studies) (Poster Design Activity) D 5 (Exercise on food hygiene)
+
 Design a poster to go in a restaurant or school kitchen to inform people of the food hygiene rules.
-(Social Studies) T D 3 M
-
-Activities  
-1. Work as a class to carry out a survey to find out about different family sizes.  
-2. Write about some of the values you learn within your family and why they are important.  
-(Social Studies) T D 5 M
-
-Activities  
-1 Write down the current members of the Supreme Council of the GCC.  
-2 Make a booklet that could be provided to the public to inform them of the GCC and its main functions. Begin by writing briefly about the member countries.  
-(Social Studies) T D 4 M
-
-Activities  
-1 Work in a group to find out about the traditional dress for a man or a woman in the country in which you are living. Make a labelled drawing.  
-2 Make a labelled drawing of traditional dress for a boy or girl in your country and one other country.  
-(Social Studies) T D 4 M
-
-Activity  
-Carry out some research into an achievement made during the period of the caliphates mentioned in the text.
-(Social Studies) T D 1 M
-
-Activities  
-These items are all used for cleaning a house. How are they different?
-(Social Studies) T D 1 M
-
-Lesson Objectives
- that real things can be shown on a plan or a map
- about photographs taken from aircraft
- about similarities and differences between these photographs and maps
 
 
-(Social Studies) T D 1 M
+(Social Studies) (Class Activity, Survey) D 3 (Exercise on family)
 
-Activity
- Views from different heights
-The higher up we go, the larger the area we can see all at the same time.
-(Social Studies) T D 6 M
+Work as a class to carry out a survey to find out about different family sizes.  
 
-Activities
-- to identify the countries that make up the Arab world.
-- to identify features of the cultures of the Arab world.
-(Social Studies) T D 2 M
 
-Activity  
+(Social Studies) (Long Answer) D 3 (Exercise on family values)
+
+Write about some of the values you learn within your family and why they are important.  
+
+
+(Social Studies) (Short Answer) D 5 (Exercise on the GCC)
+
+Write down the current members of the Supreme Council of the GCC.  
+
+
+(Social Studies) (Booklet Design Activity) D 5 (Exercise on the GCC)
+
+Make a booklet that could be provided to the public to inform them of the GCC and its main functions. Begin by writing briefly about the member countries.  
+
+
+(Social Studies) (Group Activity, Research Exercise, Drawing Activity) D 4 (Exercise on traditional dress)
+
+Work in a group to find out about the traditional dress for a man or a woman in the country in which you are living. Make a labelled drawing.  
+
+
+(Social Studies) (Drawing Activity) D 4 (Exercise on traditional dress)
+
+Make a labelled drawing of traditional dress for a boy or girl in your country and one other country.  
+
+
+(Social Studies) (Short Answer) D 6 (Exercise on the Arab world)
+
+Identify the countries that make up the Arab world.
+
+
+(Social Studies) (Short Answer) D 6 (Exercise on the Arab world)
+
+Identify features of the cultures of the Arab world.
+
+
+(Social Studies) (Group Task, Poster Design Activity) D 2 (Exercise on student responsibilities)
+
 Work in a small group to make a poster of a student's right or a student's responsibility in school.
-(Social Studies) T D 2 M
 
-Activities  
-1 Use the map and the key to answer these questions.  
-   - How many schools are shown on the map?  
-   - What colour are parks and gardens on the map?  
-   - Which park is close to a school?  
-   - What does Al Muntazah Street run beside?  
-2 With a friend, discuss the route between the two parks.  
-(Social Studies) T D 2 M
 
-Activities  
-1. Work in a group to decide what human activity takes place in the area around your school or home.  
-2. Explain what you think is happening to the natural environment because of human activity.  
-3. Explain what people need to do to protect it.  
-(Social Studies) T D 5 M
+(Social Studies) (Partner Task, Discussion) D 2 (Exercise on giving directions)
 
-Activities  
-1. Use the percentage figures shown in the pie chart above to create your own accurate copy of that diagram.  
-2. Find out how the population of your country has changed in the last ten years. Draw a bar chart to show this.  
-3. Write about what the government might do based on the information in your chart.  
-(Social Studies) T D 2 M
+With a friend, discuss the route between the two parks of your choosing.
 
-Activities  
-In these lessons you will learn:  
-- about germs and how they are spread  
-- when we need to clean our hands  
-- the five steps of cleaning hands.  
 
-Germs are tiny living things. Scientists call them microbes.  
+(Social Studies) (Group Task, Discussion) D 2 (Exercise on human activity)
 
-Some microbes help us by digesting our food.  
+Work in a group to decide what human activity takes place in the area around your school or home.  
 
-Some microbes are not good. If they get into our body they can make us ill. We usually call microbes that make us ill ‘germs’.  
 
-Germs live on our bodies and especially on our hands.  
-We clean our hands so that we do not help germs get into our bodies.  
-We need to clean other parts of our body where germs might collect.
-(Social Studies) T D 5 M
+(Social Studies) (Long Answer) D 2 (Exercise on human activity)
 
-Activities  
-1. Find out about some types of agricultural production in your country. Identify the products, how and where they are produced and what they are used for.  
-2. Write a letter to a government minister asking for funds for a hydroponics farm you hope to set up. Your letter should explain briefly how the system works and the advantages you think it has to offer. Also explain how it will help with your country’s food security.  
-3. Find out about some of the fish species caught in the Arabian Gulf and the Gulf of Oman.  
-4. Design a poster that encourages people to choose to buy fish from sustainable sources.  
-(Social Studies) T D 5 M
+Explain what you think is happening to the natural environment because of human activity.  
 
-Activity  
+
+(Social Studies) (Long Answer) D 2 (Exercise on protecting the environment)
+
+Explain what people need to do to protect the environment.
+
+
+(Social Studies) (Research Task, Chart Drawing Exercise) D 5 (Exercise on population)
+
+\begin{enumerate}
+\item Find out how the population of your country has changed in the last ten years. Draw a bar chart to show this.  
+\item Write about what the government might do based on the information in your chart.  
+\end{enumerate}
+
+
+(Social Studies) (Question) D 2 (Exercise on hygiene)
+
+When do we need to clean our hands?
+
+
+(Social Studies) (Question) D 2 (Exercise on hygiene)
+
+What are the five steps of cleaning hands?
+
+
+(Social Studies) (Research Activity) D 5 (Exercise on agriculture)
+
+Find out about some types of agricultural production in your country. Identify the products, how and where they are produced and what they are used for.  
+
+
+(Social Studies) (Creative Writing Task) D 5 (Exercise on agriculture)
+
+Write a letter to a government minister asking for funds for a hydroponics farm you hope to set up. Your letter should explain briefly how the system works and the advantages you think it has to offer. Also explain how it will help with your country’s food security.  
+
+
+(Social Studies) (Research Activity) D 5 (Exercise on fish species)
+
+Find out about some of the fish species caught in the Arabian Gulf and the Gulf of Oman.  
+
+
+(Social Studies) (Poster Design Activity) D 5 (Exercise on Sustainability)
+
+Design a poster that encourages people to choose to buy fish from sustainable sources.  
+
+
+(Social Studies) (Group Activity, Report Writing Exercise) D 5 (Exercise on transport networks)
+
 Work in a group to prepare a brief report on either local or regional transport networks. Your report should explain how the different elements are important to the economy.
-(Social Studies) T D 5 M
 
-Activities  
-1. Draw a map showing lines of latitude at intervals of 15°.  
-2. Name the continents that these lines of latitude pass through: 0° (the equator), 20°S, 60°N, 20°N.  
-3. Name the continents that these lines of longitude pass through: 0°, 60°E, 60°W, 120°W.  
-4. Work out the latitude and longitude of your present location. Write down two countries on the same latitude as yours, and two on the same longitude.  
-(Social Studies) T D 2 M
 
-Activities  
-In these lessons you will learn:  
-about some dangers we meet every day  
-where we can play safely  
-how to play safely.  
+(Social Studies) (Map Drawing Activity) D 5 (Exercise on lines of latitude)
 
-Where can we play safely?  
-If we need to find a place to play, then we need to see if it is well away from any dangers like traffic.  
-Good places to play are playgrounds and parks.
-(Social Studies) T D 5 M
+Draw a map showing lines of latitude at intervals of 15°.  
 
-Question  
+
+(Social Studies) (Short Answer, Map Search Task) D 5 M
+
+Name the continents that these lines of latitude pass through: 0° (the equator), 20°S, 60°N, 20°N.  
+
+
+(Social Studies) (Short Answer, Map Search Task) D 5 M
+
+Name the continents that these lines of longitude pass through: 0°, 60°E, 60°W, 120°W.  
+
+
+(Social Studies) (Short Answer, Map Search Task) D 5 M
+
+Work out the latitude and longitude of your present location. Write down two countries on the same latitude as yours, and two on the same longitude.  
+
+
+(Social Studies) (Question) D 2 (Exercise on everyday dangers)
+
+What are some dangers we meet every day?
+
+
+(Social Studies) (Question) D 2 (Exercise on safety)
+
+Where can we play safely?
+
+
+(Social Studies) (Question) D 5 (Exercise on shopping)
+
 What different reasons might people have for going shopping?
-(Social Studies) T D 5 M
 
-Activities  
-1. Research the population distribution in your country. Then write a brief explanation of this pattern of distribution.  
-2. Find the information you need to calculate the population density of your country, or of a city within it.  
-(Social Studies) T D 2 M
 
-Activity  
+(Social Studies) (Research Activity) D 5 (Exercise on population)
+
+Research the population distribution in your country. Then write a brief explanation of this pattern of distribution.  
+
+
+(Social Studies) (Research Activity) D 5 (Exercise on population)
+
+Find the information you need to calculate the population density of your country, or of a city within it.  
+
+
+(Social Studies) (Group Activity) D 2 M
+
 Work in a group to locate the country in which you are now living and five more you know of on a world map and a globe. Look at the world map on page 40 to help you find which continent each one is in.
-(Social Studies) T D 2 M
 
-[Activities]
+
+(Social Studies) (Question) D 2 (Exercise on the environment)
+
 What can you do to help look after our planet?
-(Social Studies) T D 2 M
 
-Question  
+
+(Social Studies) (Question) D 2 M
+
 Which of the things you do during the day use a lot of your energy?  
-Options  
-physical effort  
-energy  
-exercise  
-fresh food  
-(Social Studies) T D 6 M
-
-Learning Objectives  
-to identify barriers people can face as they try to fulfil their potential  
-to identify ways in which people can overcome barriers and achieve their potential.  
 
 
-(Social Studies) T D 6 M
+(Social Studies) (Long Answer) D 6 M
 
-Barriers to communication  
-An obvious barrier to communication is when people do not speak the same language as one another. Another example is people who find talking difficult because they lack self-confidence.
-(Social Studies) T D 1 M
+Identify and describe the barriers people can face as they try to fulfil their potential.
 
-Activities  
-These are some food plants. Which part of each plant do we eat?  
-Which animals give us these foods?  
-(Social Studies) T D 1 M
 
-Review questions  
-1. The people we live with who are related to us are our:  
-   a) friends  
-   b) family  
-   c) neighbours  
-   d) community  
+(Social Studies) (Long Answer) D 6 M
 
-2. A sign that children belong to a certain school is that:  
-   a) they live in the same street  
-   b) they enjoy the same subjects  
-   c) they play the same sports  
-   d) they wear the same school uniform  
+Identify and describe ways in which people can overcome barriers and achieve their potential.  
 
-3. Art, music, dancing, food and clothes are all a part of a country's:  
-   a) culture  
-   b) geography  
-   c) weather  
-   d) climate  
 
-4. Ideas that are important to us, such as honesty, are called our:  
-   a) hopes  
-   b) values  
-   c) dreams  
-   d) wants  
+(Social Studies) (Multiple Choice Question) D 1 (Exercise about relatives)
 
-5. People often have a special time to enjoy special occasions and events. These are called:  
-   a) holidays  
-   b) reminders  
-   c) calendars  
-   d) celebrations  
+The people we live with who are related to us are our:  
+\begin{enumerate}[label=\alph*.]
+\item friends
+\item family  
+\item neighbours  
+\item community  
+\end{enumerate}
 
-6. Write the names of three special people in your life, and two things that make them special.  
 
-7. Draw a picture to show what you are doing at each of these times of day:  
-   7.00am, 8.00am, 10.00am, 12 noon, 3.30pm, 5.00pm, 7.00pm, 10.00pm  
+(Social Studies) (Multiple Choice Question) D 1 (Exercise about school)
 
-8. Write three ways in which you can show you are a good friend.  
-(Social Studies) T D 4 M
+A sign that children belong to a certain school is that:  
+\begin{enumerate}[label=\alph*.]
+\item they live in the same street  
+\item they enjoy the same subjects  
+\item they play the same sports  
+\item they wear the same school uniform  
+\end{enumerate}
 
-Activities  
-1 On a world map, mark the countries involved in the early trade in incense, spices and silk and the main routes taken by traders in these goods.  
-2 Imagine you are a merchant in ancient times planning to go on a journey along a major trading route. Write a letter to a friend explaining how you have prepared for your journey, how long you think you will be away, what concerns you have and what goods you hope to bring back.
-(Social Studies) T D 4 M
 
-Question  
+(Social Studies) (Multiple Choice Question) D 1 (Exercise about culture)
+
+Art, music, dancing, food and clothes are all a part of a country's:  
+\begin{enumerate}[label=\alph*.]
+\item culture  
+\item geography  
+\item weather  
+\item climate  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 1 (Exercise about values)
+
+Ideas that are important to us, such as honesty, are called our:  
+\begin{enumerate}[label=\alph*.]
+\item hopes  
+\item values  
+\item dreams  
+\item wants  
+\end{enumerate}
+
+
+(Social Studies) (Multiple Choice Question) D 1 (Exercise about holidays)
+
+People often have a special time to enjoy special occasions and events. These are called:  
+\begin{enumerate}[label=\alph*.]
+\item holidays
+\item reminders
+\item calendars
+\item celebrations
+\end{enumerate}
+
+
+(Social Studies) (Short Answer) D 1 M
+
+Write the names of three special people in your life, and two things that make them special.  
+
+
+(Social Studies) (Drawing Activity) D 1 M
+
+Draw a picture to show what you are doing at each of these times of day: 7.00am, 8.00am, 10.00am, 12 noon, 3.30pm, 5.00pm, 7.00pm, 10.00pm
+
+
+(Social Studies) (Short Answer) D 1 (Exercise on friendship)
+
+Write three ways in which you can show you are a good friend.  
+
+
+(Social Studies) (Map Marking Activity) D 4 (Exercise on trade routes)
+
+On a world map, mark the countries involved in the early trade in incense, spices and silk and the main routes taken by traders in these goods.  
+
+
+(Social Studies) (Creative Writing Task) D 4 M
+
+Imagine you are a merchant in ancient times planning to go on a journey along a major trading route. Write a letter to a friend explaining how you have prepared for your journey, how long you think you will be away, what concerns you have and what goods you hope to bring back.
+
+
+(Social Studies) (Question) D 4 M
+
 How do we find out about life in the past?
-(Social Studies) T D 5 M
 
-Activities  
-1. Work in a group to identify the hazards that exist in your school, your home, in the street, in public spaces and near water.  
-2. Choose one area and write some guidance for people on ways in which they can be safe.  
-3. Find out about a safety campaign in your area.  
+
+(Social Studies) (Group Activity, Research Exercise) D 5 (Exercise on safety)
+
+\begin{enumerate}
+\item Work in a group to identify the hazards that exist in your school, your home, in the street, in public spaces and near water.  
+\item Choose one area and write some guidance for people on ways in which they can be safe.  
+\item Find out about a safety campaign in your area.  
+\end{enumerate}
+
+
 (Social Studies) T D 5 M
 
 Activity  
 Design a poster that informs people of one of the common threats to health and how these can be avoided.
+
+
 (Social Studies) T D 3 M
 
 Activity  
 Draw and write about three aspects of cultural heritage in your country.
+
+
 (Social Studies) T D 6 M
 
 Activity  
 Create a booklet designed to let young people know how they can help one another to stay safe online.
+
+
 (Social Studies) T D 6 M
 
 Activities  
@@ -19002,10 +19028,8 @@ Activities
 - to identify the major health threats to human populations
 - to identify the causes of the major health threats
 - to suggest solutions to the major threats to human health
-(Social Studies) T D 3 M
 
-Activities  
-No text
+
 (Social Studies) T D 5 M
 
 Lesson Objectives  
@@ -19013,10 +19037,6 @@ to identify real-life situations where we need to be aware of safety
 to identify ways in which we can stay safe in these situations.  
 
 
-(Social Studies) T D 5 M
-
-Activities  
-No text.
 (Social Studies) T D 4 M
 
 Review questions  
@@ -22068,15 +22088,23 @@ How do globes and maps help us to find out about the world?
 Activities  
 1 Write about how your family meets your physical needs.  
 2 Work in a group to make up role plays that show when a child might need to feel love, care or encouragement.  
-(Social Studies) T D 5 M
 
-Activity  
+
+(Social Studies) (Group Activity, Presentation) D 5 M
+
 Work in a group to prepare a presentation showing the organisation of the Ottoman Empire, and how culture and science were able to flourish.
-(Social Studies) T D 5 M
 
-Activities  
-1 Design a building or a garden that has Islamic elements.  
-2 Find out about three buildings or structures in your country and explain why they are good examples of Islamic architecture.  
+
+(Social Studies) (Creative Activity) D 5 M
+
+Design a building or a garden that has Islamic elements.  
+
+
+(Social Studies) (Research Activity, Long Answer) D 5 M
+
+Find out about three buildings or structures in your country and explain why they are good examples of Islamic architecture.  
+
+
 
 (Dutch) (Word Completion) D G (With Answer, With Hint)
 Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
