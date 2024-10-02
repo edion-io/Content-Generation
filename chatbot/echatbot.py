@@ -2,6 +2,7 @@
 import re
 from llama_cpp import Llama
 from definition import tools, generate_exercise
+import uuid
 
 
 class ExerciseChatbot():
@@ -20,7 +21,7 @@ class ExerciseChatbot():
                            n_gpu_layers=n_gpu_layers)
     
     def add_session(self):
-        session_id = "abc"
+        session_id = str(uuid.uuid4())
         self.sessions[session_id] = [{"role": "system", "content": self.system_prompt}]
         return session_id
     
