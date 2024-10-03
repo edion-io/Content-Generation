@@ -1,5 +1,6 @@
 import tkinter as tk
-from tkinter import filedialog, messagebox
+from tkinter.font import Font
+from tkinter import filedialog, messagebox, Menu
 import re
 
 # TODO:     1. Implement config for chunk size and regex
@@ -23,7 +24,27 @@ class TextEditor:
         Args:
             root: Tkinter root object
         """
+        self.textbox = None
         self.root = root
+        # Initialize variables
+        self.filepath_old = None
+        self.file_old = None
+        self.filepath_new = None
+        self.file_new = None
+        self.textbox_font = Font(family="Courier", size=10)
+        self.chunk_size = 100  # lines per chunk
+        self.start_chunk = 0
+        self.current_chunk = 0
+        self.chunks = []
+        self.current_section = 0
+        self.last_viewed_section = 0
+        self.sections = []
+        self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
+
+        self.load_window_toolbar()
+        self.keybindings()
+
+    def load_window(self) -> None:
         self.root.title("Text Section Editor")
 
         # Create widgets
@@ -48,8 +69,55 @@ class TextEditor:
         self.type_button = tk.Button(self.button_frame, text="Detect Type (F5)", command=self.detect_type)
         self.type_button.pack(side='left')
 
-        self.jump_chunk = tk.Button(self.button_frame, text="Jump To Chunk", command=self.jump_chunk)
-        self.jump_chunk.pack(side='right')
+        self.jump_chunk_ = tk.Button(self.button_frame, text="Jump To Chunk", command=self.jump_chunk)
+        self.jump_chunk_.pack(side='right')
+
+        self.chunk_number_label = tk.Label(self.button_frame, text="/ -")
+        self.chunk_number_label.pack(side='right')
+
+        self.chunk_entry = tk.Entry(self.button_frame, width=8)
+        self.chunk_entry.pack(side='right')
+
+        # Add chunk and section selectors
+        self.chunk_label = tk.Label(self.button_frame, text="Chunk:")
+        self.chunk_label.pack(side='right')
+        
+    def load_window_toolbar(self):
+        self.root.title("Text Section Editor")
+
+        # Create the main textbox
+        self.textbox = tk.Text(self.root, wrap='word', font=self.textbox_font)
+        self.textbox.pack(expand=1, fill='both')
+
+        # Create a toolbar at the top
+        self.toolbar = Menu(self.root)
+        self.root.config(menu=self.toolbar)
+
+        file_menu = Menu(self.toolbar, tearoff=0)
+        file_menu.add_command(label="Load File (F1)", command=self.load_files)
+        file_menu.add_command(label="Save Sections (F2)", command=self.save_sections)
+        self.toolbar.add_cascade(label="File", menu=file_menu)
+
+        edit_menu = Menu(self.toolbar, tearoff=0)
+        edit_menu.add_command(label="Detect Type (F5)", command=self.detect_type)
+        edit_menu.add_command(label="Remove Square Brackets (F6)", command=self.remove_brackets)
+        edit_menu.add_command(label="Detect List (F7)", command=self.list_to_latex)
+        self.toolbar.add_cascade(label="Edit", menu=edit_menu)
+
+        view_menu = Menu(self.toolbar, tearoff=0)
+        view_menu.add_command(label="Increase Font Size", command=lambda:self.scale_font_size(1.2))
+        view_menu.add_command(label="Decrease Font Size", command=lambda:self.scale_font_size(0.8))
+        self.toolbar.add_cascade(label="View", menu=view_menu)
+
+        navigate_menu = Menu(self.toolbar, tearoff=0)
+        navigate_menu.add_command(label="Previous Section (F3)", command=self.previous_section)
+        navigate_menu.add_command(label="Next Section (F4)", command=self.next_section)
+        navigate_menu.add_command(label="Jump to Chunk ...", command=self.jump_chunk)
+        self.toolbar.add_cascade(label="Navigate", menu=navigate_menu)
+
+        # create footer
+        self.button_frame = tk.Frame(self.root)
+        self.button_frame.pack(fill='x')
 
         self.chunk_number_label = tk.Label(self.button_frame, text="/ -")
         self.chunk_number_label.pack(side='right')
@@ -61,26 +129,31 @@ class TextEditor:
         self.chunk_label = tk.Label(self.button_frame, text="Chunk:")
         self.chunk_label.pack(side='right')
 
-        # Initialize variables
-        self.filepath_old = None
-        self.file_old = None
-        self.filepath_new = None
-        self.file_new = None
-        self.chunk_size = 100  # lines per chunk
-        self.start_chunk = 0
-        self.current_chunk = 0
-        self.chunks = []
-        self.current_section = 0
-        self.last_viewed_section = 0
-        self.sections = []
-        self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
-
+    def keybindings(self) -> None:
         self.root.bind("<F1>", lambda _: self.load_files())
         self.root.bind("<F2>", lambda _: self.save_sections())
         self.root.bind("<F3>", lambda _: self.previous_section())
         self.root.bind("<F4>", lambda _: self.next_section())
         self.root.bind("<F5>", lambda _: self.detect_type())
-        self.root.bind("<F6>", lambda _: self.list_to_latex())
+        self.root.bind("<F6>", lambda _: self.remove_brackets())
+        self.root.bind("<F7>", lambda _: self.list_to_latex())
+        self.root.bind("<Control-s>", self.keybinding_event(self.save_sections))
+        self.root.bind("<Control-o>", self.keybinding_event(self.load_files))
+        self.root.bind("<Control-Alt-Left>", self.keybinding_event(self.previous_section))
+        self.root.bind("<Control-Alt-Right>", self.keybinding_event(self.next_section))
+        self.textbox.bind("<Control-l>", self.keybinding_event(self.list_to_latex))
+        self.textbox.bind("<Control-t>", self.keybinding_event(self.detect_type))
+        self.textbox.bind("<Control-plus>", self.keybinding_event(lambda:self.scale_font_size(1.2)))
+        self.textbox.bind("<Control-minus>", self.keybinding_event(lambda:self.scale_font_size(0.8)))
+
+
+    @staticmethod
+    def keybinding_event(function):
+        def dummy_function(event):
+            function()
+            return "break"
+        return dummy_function
+
 
     def load_files(self) -> None:
         """
@@ -296,16 +369,36 @@ class TextEditor:
         # Function to convert the detected lists to a single LaTeX list
         def to_latex(match):
             items = re.findall(list_pattern, match.group(), re.DOTALL)
-            latex_list = "\\begin{itemize}\n"
+            latex_list = "\\begin{enumerate}\n"
             for item in items:
                 latex_list += f"\\item {item.strip()}\n"
-            latex_list += "\\end{itemize}"
+            latex_list += "\\end{enumerate}"
             return latex_list
 
         # Replace all detected lists with their LaTeX versions
         new_body = re.sub(r'((?:\d+\.?\s+.+?)(?=(?:\d+\.?\s+)|\n\n|$))+', to_latex, body, flags=re.DOTALL)
         self.sections[self.current_section] = header + new_body
         self._show_section()
+
+    def remove_brackets(self) -> None:
+        """Removes all square and wavy brackets from the current section
+
+        Returns: None
+        """
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+
+        self._update_section()
+        text = self.sections[self.current_section]
+        header = text.split("\n")[0]
+        body = text[len(header):]
+        body = re.sub(r"[(\[\]{}]", "", body)
+        self.sections[self.current_section] = header + body
+        self._show_section()
+
+    def scale_font_size(self, factor: float) -> None:
+        self.textbox_font.config(size=int(self.textbox_font["size"] * factor))
 
     def _load_sections(self) -> None:
         """
