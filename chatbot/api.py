@@ -1,6 +1,7 @@
-from fastapi import FastAPI, HTTPException
 import uvicorn
+from fastapi import FastAPI, HTTPException
 from echatbot import ExerciseChatbot
+from pydantic import BaseModel
 from definition import conversation_sys_prompt2
 
 # Create the app
@@ -14,6 +15,11 @@ chatbot = ExerciseChatbot(
     temperature=0.2
 )
 
+# Pydantic model for chat request
+class ChatRequest(BaseModel):
+    user_input: str
+    session_id: str
+
 # Add chat session
 @app.get('/add_session')
 def add_session():
@@ -21,10 +27,10 @@ def add_session():
 
 # Chat
 @app.post('/chat')
-def predict(user_input, session_id):
-    if session_id not in chatbot.sessions:
+def predict(request: ChatRequest):
+    if request.session_id not in chatbot.sessions:
         raise HTTPException(status_code=400, detail="session id not exist, please add session first or verify your session id")
-    response = chatbot.run(user_input, session_id)
+    response = chatbot.run(request.user_input, request.session_id)
     return {'response': response}
 
 
