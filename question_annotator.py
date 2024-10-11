@@ -1,6 +1,8 @@
 # Copyright (C) 2024  Edion Management Systems
+import sys
 import tkinter as tk
-from tkinter import filedialog, messagebox
+from tkinter.font import Font
+from tkinter import filedialog, messagebox, Menu
 import re
 
 # TODO:     1. Implement config for chunk size and regex
@@ -16,14 +18,38 @@ class TextEditor:
     A simple text editor for annotating questions in the specified format
     """
 
-    def __init__(self, root: tk.Tk):
-        """
-        Initialize the TextEditor class.
+    def __init__(self, root: tk.Tk, input_file: str = None, output_file: str = None):
+        """Initialize the TextEditor class.
 
         Args:
             root: Tkinter root object
+            input_file: Path to the input file, optional
+            output_file: Path to the output file, optional
         """
+        self.textbox = None
         self.root = root
+        # Initialize variables
+        self.filepath_in = input_file
+        self.file_in = None
+        self.filepath_out = output_file
+        self.file_out = None
+        self.textbox_font = Font(family="Courier", size=10)
+        self.chunk_size = 100  # lines per chunk
+        self.start_chunk = 0
+        self.current_chunk = 0
+        self.chunks = []
+        self.current_section = 0
+        self.last_viewed_section = 0
+        self.sections = []
+        self.current_subject = ""
+        self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
+
+        self.load_window_toolbar()
+        self.keybindings()
+        if self.filepath_in and self.filepath_out:
+            self.load_files(ask_paths=False, warn_user=False)
+
+    def load_window(self) -> None:
         self.root.title("Text Section Editor")
 
         # Create widgets
@@ -51,14 +77,11 @@ class TextEditor:
         self.type_button = tk.Button(self.button_frame, text="Delete Section (F6)", command=self.delete_section)
         self.type_button.pack(side='left')
 
-        self.type_button = tk.Button(self.button_frame, text="Previous Subject", command=self.previous_subject)
-        self.type_button.pack(side='left')
-
         self.type_button = tk.Button(self.button_frame, text="Next Subject", command=self.next_subject)
         self.type_button.pack(side='left')
 
-        self.jump_chunk = tk.Button(self.button_frame, text="Jump To Chunk", command=self.jump_chunk)
-        self.jump_chunk.pack(side='right')
+        self.jump_chunk_button = tk.Button(self.button_frame, text="Jump To Chunk", command=self.jump_chunk)
+        self.jump_chunk_button.pack(side='right')
 
         self.chunk_number_label = tk.Label(self.button_frame, text="/ -")
         self.chunk_number_label.pack(side='right')
@@ -66,56 +89,116 @@ class TextEditor:
         self.chunk_entry = tk.Entry(self.button_frame, width=8)
         self.chunk_entry.pack(side='right')
 
+        self.chunk_label = tk.Label(self.button_frame, text="Chunk:")
+        self.chunk_label.pack(side='right')
+
+    def load_window_toolbar(self):
+        self.root.title("Text Section Editor")
+
+        # Create the main textbox
+        self.textbox = tk.Text(self.root, wrap='word', font=self.textbox_font)
+        self.textbox.pack(expand=1, fill='both')
+
+        # Create a toolbar at the top
+        self.toolbar = Menu(self.root)
+        self.root.config(menu=self.toolbar)
+
+        file_menu = Menu(self.toolbar, tearoff=0)
+        file_menu.add_command(label="Load File (F1)", command=self.load_files)
+        file_menu.add_command(label="Save Sections (F2)", command=self.save_sections)
+        self.toolbar.add_cascade(label="File", menu=file_menu)
+
+        edit_menu = Menu(self.toolbar, tearoff=0)
+        edit_menu.add_command(label="Detect Type (F5)", command=self.detect_type)
+        edit_menu.add_command(label="Delete Section (F6)", command=self.delete_section)
+        edit_menu.add_command(label="Detect List (F7)", command=self.to_latex)
+        edit_menu.add_command(label="Remove parentheses (F8)" , command=self.remove_brackets)
+        self.toolbar.add_cascade(label="Edit", menu=edit_menu)
+
+        view_menu = Menu(self.toolbar, tearoff=0)
+        view_menu.add_command(label="Increase Font Size", command=lambda:self.scale_font_size(1.2))
+        view_menu.add_command(label="Decrease Font Size", command=lambda:self.scale_font_size(0.8))
+        self.toolbar.add_cascade(label="View", menu=view_menu)
+
+        navigate_menu = Menu(self.toolbar, tearoff=0)
+        navigate_menu.add_command(label="Previous Section (F3)", command=self.previous_section)
+        navigate_menu.add_command(label="Next Section (F4)", command=self.next_section)
+        navigate_menu.add_command(label="Next Subject", command=self.previous_section)
+        navigate_menu.add_command(label="Jump to Chunk ...", command=self.jump_chunk)
+        self.toolbar.add_cascade(label="Navigate", menu=navigate_menu)
+
+        # create footer
+        self.button_frame = tk.Frame(self.root)
+        self.button_frame.pack(fill='x')
+
+        self.chunk_number_label = tk.Label(self.button_frame, text="/ -")
+        self.chunk_number_label.pack(side='right')
+
+        self.chunk_entry = tk.Entry(self.button_frame, width=8)
+        self.chunk_entry.bind("<Return>", lambda _: self.jump_chunk())
+        self.chunk_entry.pack(side='right')
+
         # Add chunk and section selectors
         self.chunk_label = tk.Label(self.button_frame, text="Chunk:")
         self.chunk_label.pack(side='right')
 
-        # Initialize variables
-        self.filepath_old = None
-        self.file_old = None
-        self.filepath_new = None
-        self.file_new = None
-        self.chunk_size = 100  # lines per chunk
-        self.start_chunk = 0
-        self.current_chunk = 0
-        self.chunks = []
-        self.current_subject = "Computer Science"
-        self.subject_idx = [(0, 0)]
-        self.current_sub_idx = 0
-        self.current_section = 0
-        self.last_viewed_section = 0
-        self.sections = []
-        self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
-
+    def keybindings(self) -> None:
         self.root.bind("<F1>", lambda _: self.load_files())
         self.root.bind("<F2>", lambda _: self.save_sections())
         self.root.bind("<F3>", lambda _: self.previous_section())
         self.root.bind("<F4>", lambda _: self.next_section())
         self.root.bind("<F5>", lambda _: self.detect_type())
         self.root.bind("<F6>", lambda _: self.delete_section())
+        self.root.bind("<F7>", lambda _: self.to_latex())
+        self.root.bind("<F8>", lambda _: self.remove_brackets())
+        self.root.bind("<Control-s>", self.keybinding_event(self.save_sections))
+        self.root.bind("<Control-o>", self.keybinding_event(self.load_files))
+        self.root.bind("<Control-Alt-Left>", self.keybinding_event(self.previous_section))
+        self.root.bind("<Control-Alt-Right>", self.keybinding_event(self.next_section))
+        self.textbox.bind("<Control-l>", self.keybinding_event(self.to_latex))
+        self.textbox.bind("<Control-b>", self.keybinding_event(self.apply_bold))
+        self.textbox.bind("<Control-i>", self.keybinding_event(self.apply_italic))
+        self.textbox.bind("<Control-u>", self.keybinding_event(self.apply_underline))
+        self.textbox.bind("<Control-t>", self.keybinding_event(self.detect_type))
+        self.textbox.bind("<Control-plus>", self.keybinding_event(lambda:self.scale_font_size(1.2)))
+        self.textbox.bind("<Control-minus>", self.keybinding_event(lambda:self.scale_font_size(0.8)))
 
-    def load_files(self):
-        """
-        Load a text file to read from and a text file to write to.
+
+    @staticmethod
+    def keybinding_event(function):
+        def dummy_function(event):
+            function()
+            return "break"
+        return dummy_function
+
+
+    def load_files(self, ask_paths=True, warn_user=True) -> None:
+        """Load a text file to read from and a text file to write to.
+
+        Args:
+            ask_paths: If True, ask the user for the paths. If False, use class attributes.
+            warning: If True, show a warning dialog before loading a new file.
 
         Returns:
 
         """
-        if self.chunks and not messagebox.askokcancel("Warning", "Loading new files will overwrite any unsaved progress. "
-                                                                 "Do you want to continue?"):
-            return
+        if warn_user:
+            if self.chunks and not messagebox.askokcancel("Warning", "Loading new files will overwrite any unsaved progress. "
+                                                                     "Do you want to continue?"):
+                return
 
-        self.filepath_old = filedialog.askopenfilename(title="Select a Text File to read from",
-                                                       filetypes=(("Text Files", "*.txt"),))
-        if not self.filepath_old:
-            return
+        if ask_paths:
+            self.filepath_in = filedialog.askopenfilename(title="Select a Text File to read from",
+                                                          filetypes=(("Text Files", "*.txt"),))
+            if not self.filepath_in:
+                return
 
-        self.filepath_new = filedialog.askopenfilename(title="Select a Text File to write to",
-                                                       filetypes=(("Text Files", "*.txt"),))
-        if not self.filepath_new:
-            return
+            self.filepath_out = filedialog.askopenfilename(title="Select a Text File to write to",
+                                                           filetypes=(("Text Files", "*.txt"),))
+            if not self.filepath_out:
+                return
 
-        with open(self.filepath_old, 'r', encoding="utf8") as file:
+        with open(self.filepath_in, 'r', encoding="utf8") as file:
             self.chunks = []
             text_chunk = ""
             count = 0
@@ -133,7 +216,7 @@ class TextEditor:
         self._show_section()
         self.chunk_number_label.config(text=f"/ {len(self.chunks)}")
 
-    def save_sections(self):
+    def save_sections(self) -> None:
         """
         Saves loaded sections to file
 
@@ -146,7 +229,7 @@ class TextEditor:
 
         self._update_section()
 
-        with open(self.filepath_new, 'w', encoding="utf8") as file:
+        with open(self.filepath_out, 'w', encoding="utf8") as file:
             for section in self.sections[:self.last_viewed_section+1]:
                 while section and section[-1] == "\n":
                     section = section[:-1]
@@ -155,9 +238,8 @@ class TextEditor:
         messagebox.showinfo("Saved Sections", f"Saved {self.last_viewed_section + 1} sections in chunks "
                                               f"{self.start_chunk} to {self.current_chunk}")
 
-    def next_section(self):
-        """
-        Displays the next section in the textbox
+    def next_section(self) -> None:
+        """Displays the next section in the textbox
 
         Returns: None
         """
@@ -180,7 +262,7 @@ class TextEditor:
         self.last_viewed_section = max(self.last_viewed_section, self.current_section)
         self._show_section()
 
-    def previous_section(self):
+    def previous_section(self) -> None  :
         """
         Displays the previous section in the textbox
 
@@ -238,23 +320,7 @@ class TextEditor:
                 break
         self._show_section()
 
-    def previous_subject(self) -> None:
-        """ Move to the previous subject.
-        """
-        # Failsafe to make sure a file is loaded
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
-            return
-        # Update section parameters
-        self._update_section()
-        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
-        self.current_sub_idx = max(0, self.current_sub_idx - 1)
-        self.current_chunk = self.subject_idx[self.current_sub_idx][1]
-        self.current_section = self.subject_idx[self.current_sub_idx][0]
-        self.current_subject = self.subs.search(self.sections[self.current_section]).group(0).replace("(", "").replace(")", "")
-        self._show_section()
-
-    def jump_chunk(self):
+    def jump_chunk(self) -> None:
         """
         Loads sections from a desired chunk
 
@@ -301,7 +367,7 @@ class TextEditor:
             self.start_chunk = start_chunk
             self._show_section()
 
-    def detect_type(self):
+    def detect_type(self) -> None:
         """
         If no type parameter is present, remove the first line and set it as the type parameter
 
@@ -319,11 +385,17 @@ class TextEditor:
         if result is None:
             return
 
-        # If type is not present, use the first line to determine the type
-        question_type = lines[1] if lines[1] else lines[2]
+        # If type is not present, use the first non empty line to determine the type
+        line_index = 1
+        while line_index < len(lines):
+            if question_type := lines[line_index].strip():
+                break
+            else:
+                line_index += 1
 
-        while question_type[-1] == " ":
-            question_type = question_type[:-1]
+        if line_index == len(lines):
+            messagebox.showinfo("No type detected", "Sections seems to be empty, so no type could be extracted")
+            return
 
         if question_type[0] == "[" or question_type[0] == "(" or question_type[0] == "{":
             question_type = question_type[1:-1]
@@ -335,15 +407,66 @@ class TextEditor:
         lines[0] = f"{lines[0][:result.span()[0]]} ({question_type}) {lines[0][result.span()[1]:]}"
 
         # Remove the first line from the section
-        if lines[1].replace(" ", "") == "":
-            del lines[2]
-        else:
-            del lines[1]
+        del lines[line_index]
 
         self.sections[self.current_section] = "\n".join(lines)
         self._show_section()
 
-    def _load_sections(self):
+    def to_latex(self) -> None:
+        """Detects lists and formats them according to latex
+
+        Returns: None
+        """
+
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+
+        self._update_section()
+        text = self.sections[self.current_section]
+        header = text.split("\n")[0]
+        body = text[len(header):]
+
+        # Pattern to detect numbered lists (e.g., 1. Text 2. Text ...)
+        list_pattern = r'(?:\d+\.?\s)([^\d]+)'
+
+        # Function to convert the detected lists to a single LaTeX list
+        def list_to_latex(match):
+            items = re.findall(list_pattern, match.group(), re.DOTALL)
+            latex_list = "\\begin{enumerate}\n"
+            for item in items:
+                latex_list += f"\\item {item.strip()}\n"
+            latex_list += "\\end{enumerate}"
+            return latex_list
+
+        # Replace all detected lists with their LaTeX versions
+        new_body = re.sub(r'((?:\d+\.?\s+.+?)(?=(?:\d+\.?\s+)|\n\n|$))+', list_to_latex, body, flags=re.DOTALL)
+
+        new_body = re.sub(r'Answers', r"\\section{Answers}", new_body)
+        self.sections[self.current_section] = header + new_body
+        self._show_section()
+
+    def remove_brackets(self) -> None:
+        """Removes all square and wavy brackets from the current section
+
+        Returns: None
+        """
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+
+        self._update_section()
+        text = self.sections[self.current_section]
+        header = text.split("\n")[0]
+        body = text[len(header):]
+        body = re.sub(r"[(\[\]{}]", "", body)
+        self.sections[self.current_section] = header + body
+        self._show_section()
+
+    def scale_font_size(self, factor: float) -> None:
+        self.textbox_font.config(size=int(self.textbox_font["size"] * factor))
+
+    def _load_sections(self) -> None:
         """
         Loads all sections from the current chunk and move to next chuck.
 
@@ -386,7 +509,7 @@ class TextEditor:
                 text += self.chunks[self.current_chunk][:section_end]
         self.sections.append(text)
 
-    def _show_section(self):
+    def _show_section(self) -> None:
         """
         Load current section into textbox
 
@@ -397,17 +520,16 @@ class TextEditor:
             self.textbox.insert(tk.END, self.sections[self.current_section])
             self._update_chunk_label()
 
-    def _update_chunk_label(self):
+    def _update_chunk_label(self) -> None:
         """
         Set the chunk label to current chunk
 
         Returns: None
         """
         self.chunk_entry.delete(0, tk.END)
-        if self.current_chunk != 0:
-            self.chunk_entry.insert(1, str(self.current_chunk - 1))
+        self.chunk_entry.insert(1, str(self.current_chunk - 1))
 
-    def _update_section(self):
+    def _update_section(self) -> None:
         """
         Replace local contents of the current section with contents of the textbox
 
@@ -428,8 +550,35 @@ class TextEditor:
                 self.current_subject = subj
                 return True
         return False
-                
+
+    def apply_bold(self) -> None:
+        """Apply LaTeX bold formatting to the selected text."""
+        self._apply_latex_format("\\textbf{", "}")
+
+    def apply_italic(self) -> None:
+        """Apply LaTeX italic formatting to the selected text."""
+        self._apply_latex_format("\\textit{", "}")
+
+    def apply_underline(self) -> None:
+        """Apply LaTeX underline formatting to the selected text."""
+        self._apply_latex_format("\\underline{", "}")
+
+    def _apply_latex_format(self, prefix: str, suffix: str) -> None:
+        """Apply a given LaTeX format (prefix and suffix) to the selected text."""
+        try:
+            selected_text = self.textbox.get(tk.SEL_FIRST, tk.SEL_LAST)
+            self.textbox.delete(tk.SEL_FIRST, tk.SEL_LAST)
+            self.textbox.insert(tk.INSERT, f"{prefix}{selected_text}{suffix}")
+        except tk.TclError:
+            messagebox.showwarning("No Selection", "Please select text to format.")
+
+
 if __name__ == "__main__":
     root = tk.Tk()
-    app = TextEditor(root)
+    if len(sys.argv) == 1:
+        app = TextEditor(root)
+    elif len(sys.argv) == 3:
+        app = TextEditor(root, sys.argv[1], sys.argv[2])
+    else:
+        raise ValueError("Invalid number of arguments. Please provide either no arguments or two arguments (filepath_in, filepath_out).")
     root.mainloop()
