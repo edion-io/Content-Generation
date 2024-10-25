@@ -99,7 +99,6 @@ if __name__ == "__main__":
         submit_batch(BATCH_FOLDER, client, files=True)
     elif args.key == 's':
         batch_job = client.batches.retrieve(args.batch_job_id)
-        print(batch_job)
     elif args.key == "r":  
         # Retrieve the results of the batch job
         with open("batch_job_id.txt", "r") as f:
