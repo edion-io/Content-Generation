@@ -129,6 +129,16 @@ class TextEditor:
         self.button_frame = tk.Frame(self.root)
         self.button_frame.pack(fill='x')
 
+        self.section_label = tk.Label(self.button_frame, text="Section: ")
+        self.section_label.pack(side='left')
+
+        self.section_entry = tk.Entry(self.button_frame, width=8)
+        self.section_entry.bind("<Return>", lambda _: self.jump_section())
+        self.section_entry.pack(side='left')
+
+        self.section_number_label = tk.Label(self.button_frame, text="/ -")
+        self.section_number_label.pack(side='left')
+
         self.chunk_number_label = tk.Label(self.button_frame, text="/ -")
         self.chunk_number_label.pack(side='right')
 
@@ -136,7 +146,6 @@ class TextEditor:
         self.chunk_entry.bind("<Return>", lambda _: self.jump_chunk())
         self.chunk_entry.pack(side='right')
 
-        # Add chunk and section selectors
         self.chunk_label = tk.Label(self.button_frame, text="Chunk:")
         self.chunk_label.pack(side='right')
 
@@ -154,6 +163,7 @@ class TextEditor:
         self.root.bind("<Control-Alt-Left>", self.keybinding_event(self.previous_section))
         self.root.bind("<Control-Alt-Right>", self.keybinding_event(self.next_section))
         self.textbox.bind("<Control-l>", self.keybinding_event(self.to_latex))
+        self.textbox.bind("<Control-Alt-l>", self.keybinding_event(self.format_selected_list))
         self.textbox.bind("<Control-b>", self.keybinding_event(self.apply_bold))
         self.textbox.bind("<Control-i>", self.keybinding_event(self.apply_italic))
         self.textbox.bind("<Control-u>", self.keybinding_event(self.apply_underline))
@@ -162,7 +172,6 @@ class TextEditor:
         self.textbox.bind("<Control-Alt-r>", self.keybinding_event(self.replace_selected_text, True))
         self.textbox.bind("<Control-plus>", self.keybinding_event(self.scale_font_size, 1.2))
         self.textbox.bind("<Control-minus>", self.keybinding_event(self.scale_font_size, 0.8))
-
 
     @staticmethod
     def keybinding_event(function, *args, **kwargs):
@@ -174,16 +183,18 @@ class TextEditor:
     def apply_color_scheme(self):
         scheme = self.color_schemes[self.color_scheme]
         self.root.config(bg=scheme["bg"])
-        self.textbox.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"], relief=scheme["relief"], insertbackground=scheme["textbox_fg"])
+        self.textbox.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
+                            relief=scheme["relief"], insertbackground=scheme["caret"])
         self.button_frame.config(bg=scheme["bg"])
         for widget in self.button_frame.winfo_children():
             widget.config(bg=scheme["button_bg"], fg=scheme["button_fg"])
-        self.chunk_entry.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"], relief=scheme["relief"])
-        self.textbox.config(insertbackground=scheme["caret"])
-
+        self.section_entry.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
+                                  relief=scheme["relief"], insertbackground=scheme["caret"])
+        self.chunk_entry.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
+                                relief=scheme["relief"], insertbackground=scheme["caret"])
 
     def toggle_color_scheme(self):
-        self.color_scheme = "dark" if self.color_scheme == "default" else "default"
+        self.color_scheme = "dark_jb" if self.color_scheme == "default" else "default"
         self.apply_color_scheme()
 
     def load_files(self, ask_paths=True, warn_user=True) -> None:
@@ -312,7 +323,30 @@ class TextEditor:
         if self.current_section == len(self.sections):
             self.current_section -= 1
         self._show_section()
-    
+
+    def jump_section(self) -> None:
+        """ Jump to a specific section.
+        """
+        # Failsafe to make sure a file is loaded
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+        # Check input
+        try:
+            section_num = int(self.section_entry.get())
+        except ValueError:
+            messagebox.showwarning("Invalid Input", "Please enter a valid integer for section number.")
+            return
+        if section_num < 1 or section_num > len(self.sections):
+            messagebox.showwarning("Invalid Section", "Section number out of range.")
+            return
+        # Update section parameters
+        self._update_section()
+        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
+        # Jump to the desired section
+        self.current_section = section_num - 1
+        self._show_section()
+
     def next_subject(self) -> None:
         """ Move to the next subject.
         """
@@ -513,6 +547,21 @@ class TextEditor:
             self.textbox.insert(start_pos, new_text)
             start_pos = f"{start_pos}+{len(new_text)}c"
 
+    def format_selected_list(self) -> None:
+        """Format the selected text as a LaTeX list."""
+        try:
+            selected_text = self.textbox.get(tk.SEL_FIRST, tk.SEL_LAST)
+        except tk.TclError:
+            messagebox.showwarning("No Selection", "Please select text to format.")
+            return
+
+        self.textbox.delete(tk.SEL_FIRST, tk.SEL_LAST)
+        lines = selected_text.split("\n")
+        if all(re.match(r"(^\w|\d+)[.)]? ", line) for line in lines):
+            lines = [re.sub(r"(^\w|\d+)[.)]? ", "", line) for line in lines]
+        items = "\\item " + "\n\\item ".join(lines)
+        self.textbox.insert(tk.INSERT, f"\\begin{{enumerate}}\n{items}\n\\end{{enumerate}}")
+
     def scale_font_size(self, factor: float) -> None:
         self.textbox_font.config(size=int(self.textbox_font["size"] * factor))
 
@@ -568,7 +617,18 @@ class TextEditor:
         if self.current_section < len(self.sections):
             self.textbox.delete(1.0, tk.END)
             self.textbox.insert(tk.END, self.sections[self.current_section])
+            self._update_section_label()
             self._update_chunk_label()
+
+    def _update_section_label(self) -> None:
+        """
+        Set the section label to current section
+
+        Returns: None
+        """
+        self.section_entry.delete(0, tk.END)
+        self.section_entry.insert(1, str(self.current_section + 1))
+        self.section_number_label.config(text=f"/ {len(self.sections)}")
 
     def _update_chunk_label(self) -> None:
         """

@@ -1,3 +1,5 @@
+
+
 (Dutch) (Word Completion) D G (With Answer, With Hint)
 
 Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
@@ -4182,3 +4184,1153 @@ You are keen, but you can't make it on Saturday, but you can on Sunday.
 Arrange to meet at 2.15 at the entrance.
 
 Read this new dialogue out loud and then write it down.
+
+
+(Dutch) (Short Answer) D G (Multiple Parts)
+
+Jan's diary:
+Zaterdagmiddag: nieuwe voetbalschoenen kopen
+Zondagochtend: voetballen
+
+\begin{enumerate}
+\item Ask Jan what he is going to do on the days listed in his diary and also provide his response.
+Say it out loud first and then write it down.
+Make sure you alter the form of the main verb as necessary.
+\item Marjan is asking you about Jan's activities.
+She wants to know what he is going to do on Saturday afternoon and Sunday morning.
+Make a mini-dialogue with her questions and your answers.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Kees and Maria's diary:
+Vrijdagavond: Maria's verjaardag vieren
+Zaterdagochtend: langs de dijk fietsen
+
+\begin{enumerate}
+\item Ask them what they are going to do on these days and provide the answers.
+\item Piet is asking you what Kees and Maria are doing on Friday evening and Saturday morning.
+Make a mini-dialogue with his questions and your answers.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G M
+
+Look at this list of activities:
+\begin{enumerate}
+\item mijn haar wassen - to wash my hair
+\item in de tuin werken - to work in the garden
+\item eten koken - to cook dinner (literally: to cook food)
+\item mijn zoon met zijn huiswerk helpen - to help my son with his homework
+\item naar het feest van Maria gaan - to go to Maria's party
+\item een cadeau voor Maria kopen - to buy a present for Maria
+\item foto's in het museum  maken - to take pictures in the museum
+\end{enumerate}
+
+Use the verbs gaan, mogen, moeten, willen and kunnen to make sentences about these listed activities.
+Which verb you use depends on what seems appropriate to you, whether you can, want, are allowed or have to do these activities.
+
+
+(Dutch) (Pronounciation) D G M
+
+Say:
+\begin{enumerate}
+\item I am going to go  cycling tomorrow.
+\item We have to work tomorrow.
+\item Henk is  not going to do the shopping on Tuesday.
+\end{enumerate}
+
+
+(Dutch) (Write Sentence) D G M
+
+Ask Carla whether she is going to watch television tonight.
+Write the sentence and say it out loud.
+
+
+(Dutch) (Short Answer) D G M
+
+Say how much you are interested (or not) in the following things:
+\begin{enumerate}
+\item football (soccer) / not really
+\item films / quite
+\item politiek / especially
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Make suggestions to your friends, saying you can do the following things.
+Add the day on which you could undertake these things:
+\begin{enumerate}
+\item in een restaurant eten / Wednesday
+\item go to the cinema / Friday
+\item play sports / Sunday
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Example)
+
+Say  you can't join your friends on a particular day, because of the following reasons:
+Example: Sunday / zwemmen.
+Answer: Ik kan niet, ik moet zondag zwemmen.
+
+\begin{enumerate}
+\item Monday / wash my hair
+\item Thursday / do the shopping
+\item Tuesday / work
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (Exercise on food)
+
+\textbf{Dialogue: Bij De Delicatessen}
+Wieteke: Wat zullen we nemen?
+Gerrit: Ik heb zin in de gevulde burrito's vanavond.
+Wieteke: Die zijn een beetje duur.
+Gerrit Hm ja. De loempia's zijn goedkoper. Zullen we die maar nemen?
+
+Answer the following questions about the dialogue in English.
+\begin{enumerate}
+\item Why is Wieteke not that keen on buying the burritos?
+\item What does Gerrit suggest they buy instead?
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Answer, Answer in English, Exercise on text comprehension)
+
+\textbf{Dialogue: In De Sportswinkel}
+Mark: Jee, wat een cool T-shirtl
+Tony: Nee joh. Die daar is toch veel hipper?
+Mark: Ja, en ook stukken duurder.
+Tony: Ach man, wat maakt dat nou uit? Dan werkje toch een paar dagen  meer in de  zomer?
+
+Answer in English:
+What arguments does Tony use in trying to convince Mark to buy the more expensive T-shirt?
+
+\section{Answers}
+Tony suggests that Mark could work a few more days in the summer to pay for the more expensive T-shirt.
+
+
+(Dutch) (Short Answer) D G (With Answer)
+
+\textbf{Dialogue 1: Bij De Delicatessen}
+Wieteke: Wat zullen we nemen?
+Gerrit: Ik heb zin in de gevulde burrito's vanavond.
+Wieteke: Die zijn een beetje duur.
+Gerrit Hm ja. De loempia's zijn goedkoper. Zullen we die maar nemen?
+
+Dialogue 2: In De Restaurant
+Wieteke: Neem jij het dagmenu?
+Gerrit: Ik heb eigenlijk zin in biefstuk, maar dat is minder gezond.
+Wieteke: Dan neem je het dagmenu toch? Dat vind je toch ook lekker.
+
+Dialogue 3: In De Sportswinkel
+Mark: Jee, wat een cool T-shirtl
+Tony: Nee joh. Die daar is toch veel hipper?
+Mark: Ja, en ook stukken duurder.
+Tony: Ach man, wat maakt dat nou uit? Dan werk je toch een paar dagen meer in de zomer?
+
+Which of the three dialogues is the most informal and colloquial?
+How can you tell by the language used?
+
+\section{Answers}
+Dialogue \begin{enumerate}
+\item is the most informal and colloquial.
+The language used is more informal and colloquial, with the use of jee, joh, cool, hipper, stukken duurder en ach man.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Look at this list:
+Mevrouw Dijkstal / een groot feest
+Erwin / een Italiaanse maaltijd
+Pieter / de vakantie
+Meneer Paardekoper / een lange wandeling
+
+\begin{enumerate}
+\item Make up mini-dialogues and ask each of these people what they fancy and give their responses.
+After you have practiced saying the dialogues out loud, write them down.
+Think about the correct register.
+\item Write down for each of these people what they fancy.
+For example:
+Mevrouw Dijkstal heeft zin in een groot feest.
+\item Write down for yourself what you fancy.
+Perhaps you could add to the list.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Example)
+
+Answer the following questions and put the words between brackets in the correct form.
+For example:
+WeJke bloemen (flowers) wil je?
+Ik vind die blauwe ... (mooi) --> Ik vind die blauwe mooier.
+
+\begin{enumerate}
+\item Wie vraag (ask) je op je feestje, Hans of Margaret?
+Hans, denk ik. Ik vind hem ... (aardig).
+\item Welke appels vind je lekker? De rode of de groene?
+Ik vind de rode ... (lekker). De groene zijn ... (zuur) (sour).
+\item Welke koekjes wil je? Deze of die?
+Ik vind de ronde koekjes ... (lekker). Die zijn ... (zoet).
+\item Welke auto wil je hebben? Een Ford Galaxy of een Ferrari?
+Een Ford Galaxy is ... (groot), maar een Ferrari is ... (snel).
+\item Wat doe je liever? Skeeleren of schaatsen?
+Skeeleren vind ik ... (leuk).
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (With Answers, With Example)
+
+Complete using die or dat.
+Fill in the correct form of the word between brackets.
+For example:
+Wil je in die stoel zitten?
+Nee, ... stoel zit ... (lekker)  --> Nee, deze stoel zit lekkerder.
+
+\begin{enumerate}
+\item Vind je dit boek moeilijk?
+Nee, ik  vind ... boek ... (moeilijk).
+\item Vind je deze gele broek mooi?
+Nee, ik vind ... rode broek ... (mooi).
+\item Wil je deze krant hebben?
+Nee, ik vind ... krant ... (interessant).
+\item Vind je dit artikel saai?
+Nee, ik vind ... artikel ... (saai).
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Vind je dit boek moeilijk?
+Nee, ik vind dat boek moeilijker.
+\item Vind je deze gele broek mooi?
+Nee, ik vind die rode broek mooier.
+\item Wil je deze krant hebben?
+Nee, ik vind die krant interessanter.
+\item Vind je dit artikel saai?
+Nee, ik vind dat artikel saaier.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Example)
+
+You have been asked to participate in a wine-tasting session for a market research company.
+Write down your findings using the words below.
+For example:
+Wijn A is/smaakt fruitiger dan wijn B.
+
+\begin{enumerate}
+\item smaken to taste
+\item fruitig fruity
+\item lekker nice
+\item vol full bodied
+\item Licht light
+\item zwaar heavy
+\item zoet sweet
+\item kruidig spicy\end{enumerate}
+
+
+(Dutch) (Sentence Practice) D G (With Example)
+
+You are talking with a friend about the dress sense of two of your colleagues.
+Use the words in the list below.
+For example:
+Jane's kleren zijn vrouweJijker dan die van Els. Jane's clothes are  more feminine than Els'.
+
+net neat and tidy
+saai boring
+ouderwets old fashioned
+hip hip
+modern modem
+fleurig colourful
+vrouwelijk feminine
+truttig dowdy
+opvallend striking
+goedkoop cheap
+duur expensive
+schoon clean
+
+
+(Dutch) (Writing Practice) D G M
+
+Write a comparison of two major public figures.
+They could be sporting heroes, political figures or figures in the royal family.
+Use adjectives you already know and some from this list in your description:
+
+\begin{enumerate}
+\item conservatief conservative
+\item progressief progressive
+\item tolerant tolerant
+\item agressief aggressive
+\item dik fat
+\item slank slim
+\item aantrekkelijk attractive
+\item intelligent intelligent
+\item dom stupid
+\item stijf stiff\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (Multiple Steps, With Example)
+
+Wat heb je liever? Say which of the following pairs you prefer, following the example.
+Example:
+rode wijn / bier.
+Answer: Ik heb liever bier dan rode wijn.
+\begin{enumerate}
+\item appel/ sinaasappel
+\item pata/ salad
+\item koffi/ kruidenthe
+\item aardappel/ rijs
+\item eefrikande/ eekroke
+\end{enumerate}
+
+\paragraph
+Make comparisons of people you know, using the pairs given below.
+Example:
+lang / klein.
+Answer: Mijn vriend Peter is langer dan mijn vriendin Johanna.
+Or: Mijn vriendin Johanna is kleiner dan mijn vriend Peter. (The answer depends on the people you know, of course.)
+\begin{enumerate}
+\item di/ dun
+\item rij/ arm
+\item saa/ interessant
+\item jon/ oud
+\item moder/ ouderwets
+\end{enumerate}
+
+
+(Dutch) (Vocabulary Practice) D G (With Answer)
+
+There are various ways of saying goodbye in Dutch:
+You can use tot zo and tot straks, which both mean see you in a little while.
+If two individuals did not know when they would meet again, they could say tot ziens.
+Similarly, if they knew they would meet again in the evening or the next morning, they could have said tot vanavond, tot morgen or tot dan (see you then).
+
+\begin{enumerate}
+\item What would they have said if they were going to meet again this afternoon?
+\item And what would they have said if they were going to meet again on Sunday?
+\item And on Wednesday?
+\item And on Tuesday?
+\item And what if they were going to meet again next week?
+\item And next month?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Tot straks.
+\item Tot zondag.
+\item Tot woensdag.
+\item Tot dinsdag.
+\item Tot volgende week.
+\item Tot volgende maand.
+\end{enumerate}
+
+
+(Dutch) (Reading Comprehension) D G (With Answer)
+
+Read the advertisement for the treintaxi and answer the questions in Dutch.
+
+DOE EENS MAKKELIJK. NEEM DE TREINTAXI.
+De Treintaxi brengt u op een comfortabele manier van en naar het NS-station.
+U deelt de Treintaxi met andere passagiers.
+Een kaartje voor de Treintaxi kost €4,70.
+U kunt dit op het station kopen.
+U geeft uw kaartje aan de chauffeur.
+U kunt een kaartje voor de taxi ook bij de chauffeur kopen, maar dan is het duurder.
+De chauffeur wacht bij het station maximaal 10 minuten op andere passagiers.
+De Treintaxi rijdt van en naar meer dan 30 stations.
+De Treintaxi kan u dus ook ophalen en naar het station brengen.
+Bel dan een half uur voor u wilt vertrekken naar de Treintaxi-centrale
+
+\begin{enumerate}
+\item Wat is het voordeel (advantage) van de treintaxi?
+\item Waar koop je een kaartje voor de treintaxi?
+\item Hoe lang wacht de chauffeur op andere passagiers?
+\item Bij hoeveel stations staat een treintaxi?
+\item Wat is het nadeel (disadvantage) als je een kaartje bij de chauffeur koopt?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Het voordeel van de treintaxi is dat het u op een comfortabele manier van en naar het NS-station brengt.
+\item Je koopt een kaartje voor de treintaxi op het station.
+\item De chauffeur wacht maximaal
+\item minuten op andere passagiers.
+\item Een treintaxi staat bij meer dan
+\item stations.
+\item Het nadeel als je een kaartje bij de chauffeur koopt, is dat het duurder is.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Answer)
+
+Frouke: Met Frouke van den Broek.
+Dinie: Dag Frouke, met Dinie Heijermans.
+Zeg, ik heb eigenlijk een afspraak met je voor maandag, maar ik moet dat helaas afzeggen.
+Kan ik voor een andere keer afspreken?
+Frouk: Ja, natuurlijk. Komt morgen je goed uit?
+Dinie: Nee, dat komt mij niet zo goed uit. Donderdag is beter.
+Frouke: Om tien uur?
+Dinie: Ja dat is goed. Dan spreken we donderdag om tien uur af.
+Frouke: Tot dan.
+Dinie: Ja, tot dan.
+
+Answer the following questions about the phone conversation between Dinie and Frouke in English, but answer the third and fourth in Dutch.
+\begin{enumerate}
+\item What does Frouke say when she answers the phone? (give the English translation)
+\item Why does Dinie phone her homeopath?
+\item Which expression indicates that Frouke readily agrees to this?
+\item How does Frouke ask whether tomorrow will suit Dinie? (give the Dutch expression)
+\item Does that suit Dinie?
+\item When do they agree to meet?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Frouke says: Hello, speaking with Frouke van den Broek.
+\item Dinie phones her homeopath because she has to cancel her appointment with Frouke for Monday.
+\item Frouke says: Ja, natuurlijk.
+\item Frouke asks: Komt morgen je goed uit?
+\item No
+\item They agree to meet on Thursday at ten o'clock.
+\end{enumerate}
+
+
+(Dutch) (Short Answers) D G (With Answer, Exercise on telephone conversations)
+
+\begin{enumerate}
+\item Give two phrases that can be used on the phone to ask to talk to someone?
+\item \begin{enumerate}
+\item Ask if you can talk to meneer Plantinga.
+\item Ask if Menno is at home.
+\end{enumerate}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Is ... thuis?
+Kan ik met ... spreken?
+\item \begin{enumerate}
+\item Kan ik met meneer Plantinga spreken?
+\item Is Menno thuis?
+\end{enumerate}
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G M
+
+Make up dialogues for the following situations.
+\begin{enumerate}
+\item You are phoning your friend Alice.
+Her husband, Dirk Jansen, answers the phone and says that Alice is at a party, but that she will be home tomorrow.
+You say you will phone tomorrow.
+\item You are phoning the loans department of your local bank.
+You ask for Mrs Blom and the girl who answers the phone says she will put you through.
+\end{enumerate}
+
+
+(Dutch) (Conjugation Practice) D G (With Example, With Hint)
+
+Answer the following questions in the affirmative using the
+separable verb.
+For example:
+Zullen we nu weggaan?
+Ja, we gaan nu weg.
+
+\begin{enumerate}
+\item Willen jullie morgen meekomen?
+\item Willen jullie graag thuisblijven?
+\item Ga jij het schilderij in de kamer ophangen?
+\item Wil jij de pizza meebrengen?
+\item Wil jij het huis schoonmaken?
+\end{enumerate}
+
+\section{Hint}
+Think about the correct forms of the verbs as well as the
+correct pronouns (wij, jullie, ik, etc.).
+
+
+(Dutch) (Short Answer) D G M
+
+\begin{enumerate}
+\item Give two ways of saying "See you later" in Dutch.
+\item If you're saying goodbye to someone who you'll see again in the afternoon, what could you say?
+\item Give two different ways of greeting someone.
+\item What would you say if you were answering the phone in Dutch?
+\item You're calling Simon. His girlfriend Petra answers the phone. Ask Petra if Simon is at home.
+\item Use the verb afspreken to tell a friend that your are arranging to meet tomorrow at a quarter to two.
+\item Translate the following sentences, using the verbs in brackets:
+\begin{enumerate}
+\item I am going to finish my work. (afmaken)
+\item I'll pick you up at half past six. (ophalen)
+\item Jean arrives at five o'clock. (aankomen)
+\item We are staying at home tonight. (thuisblijven)
+\end{enumerate}
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G M
+
+Complete using toch or maar as appropriate.
+\begin{enumerate}
+\item Ga ... naar huis. (colleague who is fed up with the secretary sneezing and spluttering over her desk)
+\item Ga ... naar huis. (boss, kindly, to secretary who is obviously ill)
+\item Zit ... stil. (mother to fidgety child)
+\item Hou ... je mond. (mother to her incessantly chatting child)
+\item Doe het raam ... open. (teacher gives child permission to open the window, because it is so warm)
+\item Doe het raam ... open. (teacher to same child who is delaying opening the window)
+\item Ga ... met Jantien uit vanavond. Ik pas wel op de kinderen. (husband encourages his wife to go out while he looks after the children)
+\end{enumerate}
+
+
+(Dutch) (Writing Practice) D G (With Example)
+
+Can you change the following questions into orders? For example:
+Kun je de deur dicht doen? --> Doe de deur dicht.
+\begin{enumerate}
+\item Kun je straks de boodschappen doen?
+\item Kun je me vanavond bellen?
+\item Kun je deze les voor morgen leren?
+\item Wil je oom Jan vanavond schrijven?
+\item Kun je dit artikellezen?
+\item Wil je niet zo hard schreeuwen?
+\end{enumerate}
+
+
+(Dutch) (Short Answers, Fill in the gap) D G (With Answer)
+
+\begin{enumerate}
+\item Some friends  are coming over for dinner. You're welcoming them in Dutch. Follow the instructions.
+\begin{enumerate}
+\item They knock on the door. Greet them and invite them in.
+\item Invite them to take their coat off.
+\item Suggest that they sit down.
+\end{enumerate}
+\item In the following sentences, does maar indicate that the speaker is being polite or irritated?
+\begin{enumerate}
+\item Geef je jas maar aan mij!
+\item Kom maar met me mee.
+\end{enumerate}
+\item In the following sentences, does toch indicate that the speaker is being polite or irritated?
+\begin{enumerate}
+\item Geef dat boek toch hier!
+\item Kom toch met me mee.
+\end{enumerate}
+\item Fill in maar or toch.
+\begin{enumerate}
+\item Je hebt al genoeg gedaan. Ga ..... naar huis. (Your boss tells you that you can go home).
+\item Blijf ..... stil zitten! (A father to his daughter, who has been annyoing him).
+\item Drink je drankje .... op. (A husband to his wife, at a party he wants to leave).
+\item Geef mij ..... een biertje. (Your answer to your host's question what you'd like to drink).
+\end{enumerate}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item \begin{enumerate}
+\item Hallo, kom maar binnen.
+\item Doe je jas maar uit.
+\item Ga maar zitten.
+\end{enumerate}
+\item \begin{enumerate}
+\item Irritated
+\item Polite
+\end{enumerate}
+\item \begin{enumerate}
+\item Irritated
+\item Polite
+\end{enumerate}
+\item \begin{enumerate}
+\item maar
+\item toch
+\item maar
+\item maar
+\end{enumerate}
+\end{enumerate}
+
+
+(Dutch) (Reading Comprehension) D G (With Answer)
+
+Ludwien Wij Willen volgende maand een weekje op vakantie.
+Gewoon in Nederland. Hebben jullie misschien zin om mee te gaan?
+Jackie Ja, dat lijkt me erg leuk.
+Ludwien We moeten wel goede afspraken maken.
+Jackie Over wat we precies gaan doen, bedoel je?
+Ludwien Nee, ik bedoel afspraken over wie wat gaat voorbereiden.
+Jackie O, goed. Ik zal op het internet zoeken op de website van de VVV.
+Ludwien Ik zal naar de ANWB gaan.
+
+Answer the following questions in English.
+\begin{enumerate}
+\item When does Ludwien want to go on holiday and for how long?
+\item Which word shows that Ludwien thinks a holiday in Holland is nothing special?
+\item Is Jackie keen to come along with Ludwien and her family?
+\item What does Ludwien want to ensure both Jackie and her are clear about?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ludwien wants to go on holiday next month for a week.
+\item The word gewoon shows that Ludwien thinks a holiday in Holland is nothing special.
+\item Yes, Jackie is keen to come along with Ludwien and her family.
+\item Ludwien wants to ensure both Jackie and her are clear about who will prepare what.
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (With Answer, With Example)
+
+Maria is trying to engage her husband, who is engrossed in a football magazine, in planning their summer holiday.
+Play the role of Maria in asking her husband whether he fancies the following activities.
+For example:
+naar Spanje gaan --> Heb je zin om naar Spanje te gaan?
+
+\begin{enumerate}
+\item thuis blijven
+\item op het strand liggen
+\item in de bergen wandelen
+\item kamperen
+\item met Marloes en Eddie op vakantie gaan
+\item naar de finale van het wereldkampioenschap voetbal kijken
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Heb je zin om thuis te blijven?
+\item Heb je zin om op het strand te liggen?
+\item Heb je zin om in de bergen te wandelen?
+\item Heb je zin om te kamperen?
+\item Heb je zin om met Marloes en Eddie op vakantie te gaan?
+\item Heb je zin om naar de finale van het wereldkampioenschap voetbal te kijken?
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (With Example)
+
+Before Jackie does her research on the VVV website she wants to get an idea of what kind of things Ludwien would like to do on holiday.
+Unfortunately, Ludwien is rather negative.
+Play the role of Ludwien in answering Jackie's questions and choose what seems to be an appropriate answer.
+There will be various possibilities.
+For example:
+Zullen we in hotels overnachten?
+Sorry hoor, maar ik vind dat te duur.
+
+\begin{enumerate}
+\item Zullen we een strandvakantie houden?
+\item Wil je gaan kamperen?
+\item Heb je zin om musea te bezoeken?
+\item Zullen we een trektocht maken op de fiets?
+\item Wil je naar een pretpark?
+\item Wil je gaan parachutespringen?
+\item Heb je zin om te gaan zeilen?
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (Exercise on reading comprehension, Theme is holidays)
+
+Jackie has  found the following descriptions of a few holidays on
+the VVW website:
+VAKANTIE A
+Lekker verwend worden?
+Dat kan met dit comfortabele arrangement.
+U verblijft in Hotel Terheijden in Drenthe.
+Dit luxueuze hotelligt op een magnifieke locatie omgeven door bossen, heidevelden en kleine meertjes.
+Het hotel biedt uitstekende faciliteiten zoals een overdekt zwembad, solarium en sauna, waar u heerlijk kunt ontspannen.
+'s Avonds kunt u in het restaurant genieten van de overheerlijke gerechten van de chef-kok.
+U kunt het alledaagse leven even helemaal vergeten.
+Al met al vijf dagen luxe en comfort.
+
+VAKANTIE  B
+Een ontdekkingstocht door de Biesbosch
+Een ontdekkingstocht door de  Biesbosch kan natuurlijk aileen over het water.
+U trekt vijf dagen per boot door dit unieke natuurgebied.
+U kunt deze avontuurlijke tocht maken met een kano of met een motorboat.
+U overnacht in een eenvoudige trekkershut op een camping.
+U moet wel zelf uw slaapzakken meenemen.
+Aan het eind van uw tocht staat er een uitgebreid diner voor u klaar in een restaurant in het dorpje Made.
+
+Answer the following questions in English.
+In relation to holiday A:
+\begin{enumerate}
+\item What is  the main theme of this holiday?
+\item Describe the setting of the hotel.
+\item Apart from the location, what other attractive features of this hotel are listed?
+\item Which two sentences sum up the theme of the holiday and the benefit you will derive from it?
+\end{enumerate}
+In relation to holiday B:
+\begin{enumerate}
+\item What is the main theme of this holiday?
+\item What will you be doing during this holiday?
+\item Where will you spend the nights?
+\item What luxury treat are you promised at the end of the holiday?
+\end{enumerate}
+
+
+(Dutch) (Underline, Writing Sentences) D G (Multiple Steps)
+
+Underline the words in the following sentences which you could (in some cases should) change to a diminutive.
+Think about the attitude which is expressed.
+
+\begin{enumerate}
+\item Zullen we een tocht maken met de fiets?
+\item Ik wil wel op een terras zitten, maar niet in de zon.
+\item Ik heb zin in een brood met kaas.
+\item Ja lekker, ik ook. Zullen weer een wijn of een bier bij nemen?
+\item Kijk eens wat een leuk klein rok ik heb gekocht.
+\item Wat een verschrikkelijk weer vandaag.
+\end{enumerate}
+
+\paragraph
+Now change the words you have highlighted into diminutives. Rewrite the sentences.
+
+
+(Dutch) (Writing Sentences) D G (Multiple Steps, Oral)
+
+Ask your partner whether s/he feels like doing the following things.
+Use Heb je zin om ... ?
+\begin{enumerate}
+\item naar de  bioscoop gaan
+\item bij je ouders koffie drinken
+\item in de stad boodschappen doen
+\item thuis een dvd kijken
+\end{enumerate}
+
+Pretend you're the partner from the previous question and say what you think of these suggestions.
+Use \textit{Dat lijkt me ...}
+
+
+(Dutch) (Writing Sentences) D G M
+
+Give three activities which you like doing on your holidays.
+Start your sentences with Ik wil op vakantie ...
+
+
+(Dutch) (Writing Sentences) D G (With Example)
+
+Choose which of the following activities you prefer doing, and say why, following the example.
+Example:
+chique dineren / barbecueen.
+Answer: Ik ga liever barbecueen, want dat doe je buiten.
+
+\begin{enumerate}
+\item autorijden / fietsen
+\item sporten / winkelen
+\item naar de film / naar het theater
+\end{enumerate}
+
+
+(Dutch) (Short Answer, Reading Comprehension) D G M
+
+Koen is IT -specialiste bij een grote bank.
+Petra heeft een riant salaris, maar moet wel hard werken.
+Niet iedereen geeft vrije tijd of studie een hoge prioriteit.
+Sommige mensen zien hun werk bijna als vrije tijd.
+De cultuur bij Petra op kantoor is anders.
+'Iedereen werkt over bij ons. Doe je  dat niet, dan is het moeilijk.'
+Petra heeft een contract voor 36 uur.
+Maar meestal werkt ze  45 tot 50  uur.
+Ze heeft een partner.
+'En dat is niet altijd makkelijk. Soms kom ik de hele week pas om acht uur thuis.
+Dan gaat hij wei zeuren. Maar ik vind mijn baan veel te leuk.'
+Kan ze het overwerk beperken met een betere planning?
+'lk denk het wel,' zegt Petra.
+'Maar het is gewoon onze bedrijfscultuur. We moeten veel reizen.'
+Niet voor niets is Petra de enige op haar afdeling met een partner.
+
+Answer the following questions about the reading text in English.
+\begin{enumerate}
+\item How many hours a week does Petra work on average?
+\item For how many hours a week does  Petra get paid?
+\item Does Petra feel  inclined to try and reduce the number of hours she works?
+\item Is her partner happy with this? And does this bother Petra?
+\end{enumerate}
+
+
+(Dutch) (Short Answer, Reading Comprehension) D G M
+
+Jos Korenaar is eindredacteur bij een krant.
+'Voor fulltimewerk, kom ik niet,' zegt Jos.
+Jos doet een fulltimewerkweek in drie dagen.
+Jos z'n contract is gebaseerd op 24 uur per week.
+Drie dagen per week betekent minder geld dan vijf. Maar dat vindt hij geen probleem.
+'Voor mij is mijn vrije tijd belangrijker.
+En het is toch schitterend dat mijn weekend langer is dan mijn werkweek?'
+Maar de werkdruk?
+'Ja, de werkdruk is wel hoog, eh ... hoger, denk ik.
+Maar ik vind dat het goed kan. Kletsen op het werk is leuk, maar ik werk liever door en ga dan naar huis.'
+Wat doet Jos met zijn vrije tijd?
+'lk ga veel uit, naar het theater of de kroeg.
+Of ik ga gewoon de stad in, cd'tjes kopen.
+Ik verzamel ook strips.
+Daarnaast ga ik vier a vijf keer per jaar een week of langer op vakantie, met de motor.
+En ik doe heel veel met mijn vriendin.
+Het leven hoeft niet duur te zijn. Ik volg de nieuwste mode niet, bijvoorbeeld.
+Geld is een kwestie van kiezen.'
+
+Answer the following questions about the reading text in English.
+\begin{enumerate}
+\item How many days a week does Jos work? And how many hours?
+\item What is the main advantage of working only three days a week?
+\item What are the main disadvantages of working only three days a week?
+\item What does Jos do in his spare time?
+\item Is earning less money a problem for Jos?
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (With example, Multiple Steps)
+
+Wat vind je belangrijker? What do you  think is more important?
+Say what you find more important by answering the questions following the example:
+Wat vind je belangrijker, je vrije tijd of je werk?
+Ik vind mijn vrije tijd belangrijker.
+
+\begin{enumerate}
+\item Wat vind je belangrijker, kletsen of werken?
+\item Wat vind je belangrijker, veel vrije tijd of veel geld?
+\item Wat vind je belangrijker, reizen of veel met je vriend(in) doen?
+\item Wat vind je belangrijker, je baan of je partner?
+\end{enumerate}
+
+\paragraph
+Wat doe je liever?  What  would you rather do?
+Give  your preferences by answering the following questions following the example:
+Werk je liever door, of ga je liever naar huis?
+Ik ga liever naar huis.
+
+\begin{enumerate}
+\item Ga je liever naar het theater, of ga je liever naar de kroeg?
+\item Ga je liever naar de stad, of blijf je liever thuis?
+\item Werk je liever drie of vijf dagen per week?
+\item Ga je liever op vakantie met de motor of met de auto?
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (With example)
+
+Your partner is  planning on moving in with you.
+It's a big step, so s/he is checking with you to see if there are going to be any problems.
+S/he is telling you about his/her habits and asks whether you think these will be a problem.
+Give an (honest!) answer.
+For example:
+Ik kom vaak laat thuis. Vind je dat een probleem?
+Ja, dat vind ik een probleem. / Nee, dat vind ik geen probleem.
+
+\begin{enumerate}
+\item Ik klets veel. Vind je dat een probleem?
+\item Ik ga vaak naar de kroeg. Vind je dat een probleem?
+\item Ik heb veel vrienden. Vind je dat een probleem?
+\item Ik werk vaak over. Vind je  dat een probleem?
+\item Ik heb geen riant salaris. Vind je dat een probleem?
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (Multiple Steps, With Example)
+
+You can use wel to emphasize a certain point and to indicate that something is the case, whereas something else wasn't.
+In English there is no special word to use here, but you change the tone of your voice.
+The example will make this clear:
+a Ik ben geen echte Ram. / I  am not a real Aries.
+b Ik ben wel een echte Ram. / I  am a real Aries.
+In fact, b could also simply have answered:
+Ik wel. I am.
+
+Now reply to the following statements, using wel. (Answer with ik.)
+(Answer in full sentences, even though Ik wel would suffice in most cases.)
+
+\begin{enumerate}
+\item Ik ben niet filosofisch.
+\item Zij houdt niet van humeurige mensen.
+\item Hij is geen geboren leider.
+\item Zij gaan niet op vakantie in de zomer.
+\item Jij hebt geen auto.
+\item Ik ben vaak niet veeleisend genoeg (enough).
+\end{enumerate}
+
+\paragraph
+Wel is often used with its opposite niet (or geen). Using wd
+and niet, and looking at the character traits given in the various
+star signs, make up a list of characteristics that you do or don't
+possess. Make some five pairs, following the examples:
+Ik ben niet bazig maar wel koppig. / I am not bossy but I am headstrong.
+Ik ben niet kleinzielig maar wel veeleisend. / I am not small-minded but I am demanding.
+
+
+(Dutch) (Writing Sentences) D G M
+
+Think of what you are looking for in a partner (present or future).
+Make up a list of as many characteristics as you can think of (at least five), following the example:
+Hij/zij moet geduldig zijn. He/she must be patient.
+Hij/zij moet een goed gevoel voor humor hebben. He/she must have a good sense of humour
+
+
+(Dutch) (Writing Sentences) D G (Multiple Steps, With Example)
+
+You're going on holiday with a friend.
+S/he is telling you about their habits.
+Say if you think these are problems or not:
+Ja, dat vind ik een probleem. / Nee, dat vind ik geen probleem.
+\begin{enumerate}
+\item Ik doe graag niets. Vind je dat een probleem?
+\item Ik ben niet erg sportief. Vind je dat een probleem?
+\item Ik heb niet veel geld. Vind je dat een probleem?
+\item Ik hou van zon en strand. Vind je dat een probleem?
+\end{enumerate}
+
+\paragraph
+Your friend is asking you which activities you like.
+Answer his/her questions.
+\begin{enumerate}
+\item Lig je liever op het strand of speel je liever tennis?
+\item Ga je liever naar de kroeg, of ga je liever vroeg naar bed?
+\item Sta je liever vroeg op, of blijf je iever lang in bed liggen?
+\item Eet je liever in een duur restaurant of in de snackbar?
+\end{enumerate}
+
+\paragraph
+Using the following pair of characteristics, say what you are and aren't, using niet and wel, as in the example.
+Example: koppig / geduldig.
+Answer: Ik ben niet koppig, maar wel geduldig.
+\begin{enumerate}
+\item humeurig / vrolijk
+\item egoïstisch / liefhebbend
+\item spiritueel / romantisch
+\item praktisch / sociaal
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G M
+
+Complete the following sentences, using \textit{gewoon}, \textit{hoor} or \textit{natuurlijk} as appropriate.
+
+\begin{enumerate}
+\item Your boyfriend is going on a three-day break with the lads, and you remind him in a friendly way that he must phone you:
+Je moet me wel bellen, __ .
+\item He has forgotten to phone you before on these occasions, so this time you remind him with greater urgency:
+Je moet me wel bellen, __ .
+\item You tell your junior colleague not to worry about the fact that the door to your office is often closed and to just walk in:
+Je moet ___ naar binnen lopen, ___ .
+\item The door to the secretary's office is always closed and she doesn't like it when you just walk in.
+She reminds you to knock first: Ja, je moet wel even aankloppen, ___.
+\item You encourage your friend to be decisive and go ahead with her plan.
+After all, it's not a big deal: Je moet het ___ doen.
+\item You strongly advise your friend to go ahead with it: ___ moet je het doen.
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (Exercise on time measures)
+
+Complete these mini-dialogues using the information given in brackets.
+
+\begin{enumerate}
+\item Hoelang werk je nu in Nederland? (2 weeks and you think that's a short time)
+Nog maar net. Ik werk hier ___ .
+\item Hoelang sta je al op me te wachten?  (10 minutes and you think that's a long time)
+Daar ben je eindelijk. Ik sta hier ___ .
+\item Hoelang zijn we nu samen? (3 years, 5 months and 23 days, to be exact. You are fairly neutral about this)
+We zijn samen, om precies te zijn.
+\item Hoelang leer je al Nederlands? Je spreekt 'tal zo goed. (2 years, neutral)
+Dank je. Ik spreek ____ Nederlands.
+\item Hoelang woon je hier al?  (8 months, not a long time)
+Niet zo lang, hoor. Ik woon _____.
+\item Moet jij  niet werken?  Hoelang zit je hier nu al koffie te drinken? (only 2 hours)
+Eh ____ ik zit hier. Ik heb zeeën van tijd.
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (With Example)
+
+Answer the following 'why' questions, using the information in brackets.
+For example:
+Waarom woon je in Vlaanderen? (Ik werk hier)
+Omdat ik hier werk.
+
+\begin{enumerate}
+\item Waarom draag je  altijd zwart? (Ik hou van zwart)
+Omdat _______.
+\item Waarom ga je niet met me mee vanavond? (Ik heb geen tijd)
+Omdat _______.
+\item Waarom leer je Nederlands? (Ik wil in Nederland wonen en werken)
+Omdat _______.
+\item Waarom lees je dat ingewikkelde boek? (Ik heb een uitdaging nodig)
+Omdat _______.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+What is  the function of nou in the following sentences?
+\begin{enumerate}
+\item Kom nou, ga nou mee!
+\item Hoe doe je dat nou?
+\item Nou nee, dat vind ik niet.
+\item Nou, eerst gaan we lekker winkelen en dan gaan we lekker een kopje koffie drinken.
+\item Nou zeg, dat vind ik ook.
+\end{enumerate}
+
+
+(Dutch) (Put in Order) D G M
+
+You have been asked to participate in the Sinterklaas celebration at work.
+Names were allocated secretly and you have to get a present for Andrew.
+You quite like him, but you are annoyed about the fact that he is often late.
+
+Make a poem for Andrew out of these jumbled-up sentences. Then write the whole peom.
+
+\begin{enumerate}
+\item Sint denkt
+\item Dat is niet leuk voor anderen,
+\item Zodat je voortaan niet in je bed blijft liggen dromen
+\item dus je moet je gedrag veranderen.
+\item Andrew, je bent wel een aardige vent,
+\item en je nooit meer te laat hoeft te komen.
+\item Het wordt hoe langer hoe gekker
+\item behalve dat je vaak te laat bent.
+\item Sint geeft je daarom een mooie wekker.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (Exercise on cultural questions)
+
+\begin{enumerate}
+\item How do you buy your beer in the supermarket if you want to buy  bottles at a time?
+In a pak, a fles, a krat or a kuipje?
+\item What are the chocolate hundreds and thousands that Dutch people put on their bread called?
+\item What is the Dutch word for paying by swiping your bank card in the little machine found at supermarket checkouts?
+\item What do you call the extra charge you pay on glass bottles?
+\item What is the reason for this charge?
+\item How do you ask for fries with mayonnaise in Dutch?
+\item What do you call fries with mayonnaise, tomato ketchup and onions?
+\item Where do you go to buy fries in Flanders?
+\item What do you call the little cabins you can rent at some campsites?
+\item Which two expressions can you use to answer the phone?
+\item What is the name of the 200-kilometre ice skating tour in Friesland?
+\item What is the name of the traditional cafe dish which consists of fried eggs, tomatoes, ham and gherkins on slices of bread?
+\item What do you say in Dutch when you wish someone 'bon appetit!'?
+\item What are the local tourist offices in the Netherlands called?
+\item What is the name of the activity referred to as 'mud walking' in English?
+\item And where can you do this?
+\item When is Sinterklaas celebrated?
+\item When is koninginnedag celebrated?
+\end{enumerate}
+
+
+(Dutch) (Short Answers) D G (Multiple Steps)
+
+Answer the questions, using the information in brackets.
+\begin{enumerate}
+\item Hoelang woon je al in Nederland? (months; you don't think that's a long time)
+\item Hoelang leer je al Nederlands? (months, you think that's a long time)
+\item Hoelang ben je al lid (member) van de sportschool? (years, you think that's a long time)
+\item Hoelang kijk je al televisie? (hours, you don't think that's a long time)
+\item Hoelang ben je al op vakantie? (week, you don't think that's a long time)
+\end{enumerate}
+
+\paragraph
+Answer the questions with Omdat ... ,using the information in brackets.
+\begin{enumerate}
+\item Waarom leer je Nederlands? (Je wilt in Nederland of Belgie wonen)
+\item Waarom vind je Petra niet aardig? (Ze praat altijd zo veel)
+\item Waarom ga je naar Italie op vakantie. (lk hou van zon en cultuur)
+\item Waarom ga je zo vroeg naar bed? (lk moet morgen vroeg naar mijn werk)
+\item Waarom drink je cafeinevrije koffie? (Cafeïne is slecht voor je)
+\end{enumerate}
+
+
+(Dutch) (Writing Words, Translation) D G (With Answer)
+
+How to say it in Dutch?
+\begin{enumerate}
+\item 13 =
+\item 8 =
+\item 27 =
+\item 63 =
+\item 78 =
+\item 104 =
+\item 12 =
+\item 140 =
+\item 549 =
+\item 636 =
+\item 244 =
+\item 82 =
+\end{enumerate}
+
+\section{Answers}
+13 = dertien; 8 = acht; 27 = zevenentwintig; 63 = drieënzestig; 78 = achtenzeventig; 104 = honderdvier; 12 = twaalf; 140 = honderdveertig; 549 = vijfhonderdnegenenveertig; 636 = zeshonderdzesendertig; 244 = tweehonderdvierenveertig; 82 = tweeëntachtig
+
+
+(Dutch) (Activity) D G (Requires Material)
+
+If you live in an area where Dutch words are everywhere, try to find ten Dutch words with these double vowels, write them down, learn how to pronounce them, and look up what they mean.
+
+\section{Material}
+Collection of native dutch texts, could be newspapers, advertisements, product labels, etc.
+Alternatively, go outside and look in your environment.
+
+
+(Dutch) (Writing Phrases) D G (With Hint)
+
+Write down ten simple sentences with: an article, a noun, an adjective, and a preposition. Keep it simple, no verbs yet!
+For instance: A nice book under the sofa – wow, two articles, two nouns, one adjective, and one preposition!
+
+\section{Hints}
+Feel free to look up words in the dictionary that don’t come to mind
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Below are some nouns, adjectives, articles, and verbs for you to construct Dutch sentences with. You can make one sentence/conjugation with each line, or conjugate the whole verb!
+\begin{enumerate}
+\item Eten – maaltijd – hij – lekkere – een
+\item Planten – bloemen – wij – allerlei
+\item Lezen – krant – jij – een – goede
+\item Wassen – kleren – ik – vuile
+\item Drinken – thee - zij (s) – warme
+\item Strijken – overhemd – jullie – het – blauwe
+\item Schrijven – lange – brief – ik – een
+\item Geven – cadeau – klein – jij – een
+\item Hebben - hond - zij (p) – grote – een
+\item Kopen – schoenen – ik – nieuwe
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Hij eet een lekkere maaltijd
+\item Wij planten allerlei bloemen
+\item Jij leest een goede krant
+\item Ik was de vuile kleren
+\item Zij drinkt warme thee
+\item Jullie strijken het blauwe overhemd
+\item Ik schrijf een lange brief
+\item Jij geeft een klein cadeau
+\item Zij hebben een grote hond
+\item Ik koop nieuwe schoenen
+\end{enumerate}
+
+
+
+
+
+(Dutch) (Writing words) D G (With Answer, Exercise on past tense)
+
+Write down the past tense (ovt) of these ten verbs (Tip: Look up the verbs you don’t recognize): koken; wonen; fietsen; rollen; draaien; fotograferen; graaien; lachen; sjouwen; drinken
+
+\section{Answers}
+Past tense (ovt) of the following verbs: koken – kookte; wonen – woonde; fietsen – fietste; rollen – rolde; draaien – draaide; fotograferen – fotografeerde; graaien – graaide; lachen – lachte; sjouwen – sjouwde
+
+
+(Dutch) (Writing Sentences) D G (With Answer, Tone is entertaining)
+
+Write down ten Dutch sentences in which you use the past participle, with the auxiliary verb “hebben.” Then write five sentences using the past participle with the auxiliary verb “zijn.” When you are done, give yourself a compliment for writing and knowing so much Dutch already! Try to talk as much as possible and don’t forget: Practice makes perfect!
+
+
+(Dutch) (Creative Writing) D G (With Answer, Tone is entertaining)
+
+Try to come up with ten small conversations in Dutch involving bread, meat, vegetables, and fruits. Ask for the items, the price, and order a certain amount. Write them down and repeat them out loud several times, to get used to these everyday things. You will need them daily. So, start chewing on them…
+
+
+(Dutch) (Writing Sentences) D G (With Example, Tone is entertaining)
+
+Ask several questions using the interrogative pronouns hoe (how), wie (who), wat (what), waar (where), wanneer (when). And while you are at it, how about forming an answer to them as well? Example: (1) "Hoe werkt dit keukenapparaat? Dat kun je beter aan mijn vader vragen." (2) "Hoe laat vertrekt de trein naar Amsterdam? De volgende trein vertrekt om kwart over vier."
+Write down ten of these sets and call yourself an advanced speaker of Dutch!
+
