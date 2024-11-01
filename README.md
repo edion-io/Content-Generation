@@ -86,21 +86,56 @@ processed output). The output file will overwrite previous content so watch out.
 
 After loading the files, if everything went well you should see the first question in the editor window. Now you can 
 make changes, add or delete parts. Once you are happy, you can move to the next section (question), your changes are 
-automatically stored temporarily when you move forth (or back). 
+automatically stored temporarily when you move forth (or back).
 
 Once you are done (or just feel like it) you can save the sections that you edited. This will overwrite the contents of
 your previously selected output file with the sections you edited.
 
-You can also load a different section of the (quite long) questions file. To do so, enter the desired chunk in the 
-respective field (bottom right) and press the button. This action overwrites all local changes so make sure to save if
+You can also load a different chunk of the (quite long) questions file. To do so, enter the desired chunk in the 
+respective field (bottom right) and press Enter. This action overwrites all local changes so make sure to save if
 necessary. If everything worked, you should now be able to edit the data from a different part of the file. Saving the 
 processed data works normally, note that only edited (technically viewed) sections will be saved, the preceding chunks 
 will be ignored.
 
+**Functionality**:
+
+- `Ctrl + O` or `F1`: Load files, first the file to read from, then the file to write to. The output file will be 
+  overwritten. This action also resets the editor and deletes all local changes.
+- `Ctrl + S` or `F2`: Save sections that were edited (viewed). Only the edited sections will be saved, the preceding 
+  chunks will be ignored. The output file will be overwritten.
+- `Ctrl + Alt + Left` or `F3`: Go to the previous section. If the current section was edited, the changes will be saved.
+- `Ctrl + Alt + Right` or `F4`: Go to the next section. If the current section was edited, the changes will be saved.
+- `Ctrl + T` or `F5`: Detect type. This is an experimental feature that will replace an empty type parameter (T) with 
+  the first line after the question header that is not empty.
+- `F6`: Delete current section (experimental)
+- `Ctrl + L` or `F7`: Convert to LaTeX. This will convert the current section to LaTeX format by wrapping Section
+  headers **Solutions** and **Hints** in LaTeX commands, converting Markdown text formatting to latex
+  (single * to italic, double ** to bold, and underscore _ to underline), and replacing potentially multiple numerical 
+  lists with LaTeX lists (1 dog 2 cat -> \begin{enumerate} \item dog \item cat \end{enumerate}).
+  The list replacement is not perfect and will not work if there are numbers that are not part of denoting lists. In 
+  those cases, use the selected list replacement feature (Ctrl + Alt + L).
+- `Ctrl + Alt + L`: Format selected list. This works a bit like the list replacement in the LaTeX conversion but
+  more fine-grained. It will convert the selected lines to a LaTeX list. It only works for lists that have each item on
+  a new line, however it accepts both alphabetical and numerical lists and detects and removes punctuation.
+- `Ctrl + R`: Replace all instances of a string with a different string. If text is selected, the selection will
+  automatically be used as the term to be replaced.
+- `Ctrl + Alt + R`: Apply the last replacement action again. This is useful if you want to replace the same term
+  in multiple questions in case of repeating patterns.
+- `F8`: Remove brackets. Kind of a stupid feature that removes all brackets from the current section.
+- `Ctrl + Z` and `Ctrl + Y`: Undo and redo. This is a bit buggy as it only works for changes to the text box contents
+  and not for the local changes like moving between sections. Custom functions like LaTeX conversion can be undone,
+  but will require two undo actions, with the first one removing all text in the editor.
+- `Ctrl + B`: Apply bold
+- `Ctrl + I`: Apply italic
+- `Ctrl + U`: Apply underline
+- `Ctrl + +`: Increase font size
+- `Ctrl + -`: Decrease font size
+
+
 **Technical details**:
 Upon loading, the program reads the entire file. This is not the most efficient but should suffice for now. The text
 is read and stored in batches (chunks) of a predetermined size (use 100 lines). This should allow the 
-program to be extended if need be. 
+program to be extended if need be. Chunk numbers start at 0.
 
 The program loads sections based on chunks, i.e. all sections within a chunk are preloaded once the first section is 
 needed. When questions span across two chunks, the program looks ahead to the next chunk to complete the question.
@@ -108,3 +143,8 @@ needed. When questions span across two chunks, the program looks ahead to the ne
 The segmentation into sections uses regex and tries to capture the beginning of a question by the subject names. This 
 method of segmentation is suboptimal as the names can also occur in the question text. Therefore, we use triple newlines
 to separate the sections.
+
+Section numbers start at 1 and are incremented by 1 for each new section. The program keeps track of the current
+section number and the current chunk number. The section number is used to identify the sections in the output file.
+Note that section numbers are not global, they depend on what chunk was loaded first. E.g. if you load chunk 0 and then
+jump to chunk 1, the section numbers will start at 1 again.

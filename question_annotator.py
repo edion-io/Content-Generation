@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter.font import Font
 from tkinter import filedialog, messagebox, Menu
 import re
+import ctypes as ct
 
 # TODO:     1. Implement config for chunk size and regex
 #           2. Automated header (+ footer?) annotation
@@ -26,7 +27,6 @@ class TextEditor:
             input_file: Path to the input file, optional
             output_file: Path to the output file, optional
         """
-        self.textbox = None
         self.root = root
         # Initialize variables
         self.filepath_in = input_file
@@ -42,62 +42,52 @@ class TextEditor:
         self.last_viewed_section = 0
         self.sections = []
         self.current_subject = ""
-        self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
+        self.subject_idx = []
+        self.last_replace = None
+        # self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
+        self.subs = re.compile(r"\((" + "|".join(SUBJECTS) + r")\)")
 
         self.load_window_toolbar()
         self.keybindings()
         if self.filepath_in and self.filepath_out:
             self.load_files(ask_paths=False, warn_user=False)
+        self.color_scheme = "dark_jb"
+        self.color_schemes = {
+            "default": {
+                "bg": "white",
+                "fg": "black",
+                "textbox_bg": "white",
+                "textbox_fg": "black",
+                "button_bg": "lightgrey",
+                "button_fg": "black",
+                "relief": "raised",
+                "caret": "black"
+            },
+            "dark": {
+                "bg": "black",
+                "fg": "white",
+                "textbox_bg": "black",
+                "textbox_fg": "white",
+                "button_bg": "grey",
+                "button_fg": "white",
+                "relief": "flat",
+                "caret": "white"
+            },
+            "dark_jb": {
+                "bg": "#2B2D30",
+                "fg": "#BCBEC4",
+                "textbox_bg": "#1E1F22",
+                "textbox_fg": "#BCBEC4",
+                "button_bg": "#2B2D30",
+                "button_fg": "#BCBEC4",
+                "relief": "flat",
+                "caret": "#CED0D6"
+            }
+        }
+        self.apply_color_scheme()
 
-    def load_window(self) -> None:
+    def load_window_toolbar(self) -> None:
         self.root.title("Text Section Editor")
-
-        # Create widgets
-        self.textbox = tk.Text(self.root, wrap='word')
-        self.textbox.pack(expand=1, fill='both')
-
-        self.button_frame = tk.Frame(self.root)
-        self.button_frame.pack(fill='x')
-
-        self.load_button = tk.Button(self.button_frame, text="Load File (F1)", command=self.load_files)
-        self.load_button.pack(side='left')
-
-        self.save_button = tk.Button(self.button_frame, text="Save Sections (F2)", command=self.save_sections)
-        self.save_button.pack(side='left')
-
-        self.prev_button = tk.Button(self.button_frame, text="Previous Section (F3)", command=self.previous_section)
-        self.prev_button.pack(side='left')
-
-        self.next_button = tk.Button(self.button_frame, text="Next Section (F4)", command=self.next_section)
-        self.next_button.pack(side='left')
-
-        self.type_button = tk.Button(self.button_frame, text="Detect Type (F5)", command=self.detect_type)
-        self.type_button.pack(side='left')
-
-        self.type_button = tk.Button(self.button_frame, text="Delete Section (F6)", command=self.delete_section)
-        self.type_button.pack(side='left')
-
-        self.type_button = tk.Button(self.button_frame, text="Next Subject", command=self.next_subject)
-        self.type_button.pack(side='left')
-
-        self.jump_chunk_button = tk.Button(self.button_frame, text="Jump To Chunk", command=self.jump_chunk)
-        self.jump_chunk_button.pack(side='right')
-
-        self.chunk_number_label = tk.Label(self.button_frame, text="/ -")
-        self.chunk_number_label.pack(side='right')
-
-        self.chunk_entry = tk.Entry(self.button_frame, width=8)
-        self.chunk_entry.pack(side='right')
-
-        self.chunk_label = tk.Label(self.button_frame, text="Chunk:")
-        self.chunk_label.pack(side='right')
-
-    def load_window_toolbar(self):
-        self.root.title("Text Section Editor")
-
-        # Create the main textbox
-        self.textbox = tk.Text(self.root, wrap='word', font=self.textbox_font)
-        self.textbox.pack(expand=1, fill='both')
 
         # Create a toolbar at the top
         self.toolbar = Menu(self.root)
@@ -118,6 +108,7 @@ class TextEditor:
         view_menu = Menu(self.toolbar, tearoff=0)
         view_menu.add_command(label="Increase Font Size", command=lambda:self.scale_font_size(1.2))
         view_menu.add_command(label="Decrease Font Size", command=lambda:self.scale_font_size(0.8))
+        view_menu.add_command(label="Toggle Color Scheme", command=self.toggle_color_scheme)
         self.toolbar.add_cascade(label="View", menu=view_menu)
 
         navigate_menu = Menu(self.toolbar, tearoff=0)
@@ -127,9 +118,26 @@ class TextEditor:
         navigate_menu.add_command(label="Jump to Chunk ...", command=self.jump_chunk)
         self.toolbar.add_cascade(label="Navigate", menu=navigate_menu)
 
+        # Create the main textbox
+        self.textbox_frame = tk.Frame(self.root)
+        self.textbox_frame.pack(expand=1, fill='both', padx=20, pady=20)
+
+        self.textbox = tk.Text(self.textbox_frame, wrap='word', font=self.textbox_font, undo=True)
+        self.textbox.pack(expand=1, fill='both')
+
         # create footer
         self.button_frame = tk.Frame(self.root)
         self.button_frame.pack(fill='x')
+
+        self.section_label = tk.Label(self.button_frame, text="Section: ")
+        self.section_label.pack(side='left')
+
+        self.section_entry = tk.Entry(self.button_frame, width=8)
+        self.section_entry.bind("<Return>", lambda _: self.jump_section())
+        self.section_entry.pack(side='left')
+
+        self.section_number_label = tk.Label(self.button_frame, text="/ -")
+        self.section_number_label.pack(side='left')
 
         self.chunk_number_label = tk.Label(self.button_frame, text="/ -")
         self.chunk_number_label.pack(side='right')
@@ -138,7 +146,6 @@ class TextEditor:
         self.chunk_entry.bind("<Return>", lambda _: self.jump_chunk())
         self.chunk_entry.pack(side='right')
 
-        # Add chunk and section selectors
         self.chunk_label = tk.Label(self.button_frame, text="Chunk:")
         self.chunk_label.pack(side='right')
 
@@ -156,21 +163,39 @@ class TextEditor:
         self.root.bind("<Control-Alt-Left>", self.keybinding_event(self.previous_section))
         self.root.bind("<Control-Alt-Right>", self.keybinding_event(self.next_section))
         self.textbox.bind("<Control-l>", self.keybinding_event(self.to_latex))
+        self.textbox.bind("<Control-Alt-l>", self.keybinding_event(self.format_selected_list))
         self.textbox.bind("<Control-b>", self.keybinding_event(self.apply_bold))
         self.textbox.bind("<Control-i>", self.keybinding_event(self.apply_italic))
         self.textbox.bind("<Control-u>", self.keybinding_event(self.apply_underline))
         self.textbox.bind("<Control-t>", self.keybinding_event(self.detect_type))
-        self.textbox.bind("<Control-plus>", self.keybinding_event(lambda:self.scale_font_size(1.2)))
-        self.textbox.bind("<Control-minus>", self.keybinding_event(lambda:self.scale_font_size(0.8)))
-
+        self.textbox.bind("<Control-r>", self.keybinding_event(self.replace_selected_text))
+        self.textbox.bind("<Control-Alt-r>", self.keybinding_event(self.replace_selected_text, True))
+        self.textbox.bind("<Control-plus>", self.keybinding_event(self.scale_font_size, 1.2))
+        self.textbox.bind("<Control-minus>", self.keybinding_event(self.scale_font_size, 0.8))
 
     @staticmethod
-    def keybinding_event(function):
+    def keybinding_event(function, *args, **kwargs):
         def dummy_function(event):
-            function()
+            function(*args, **kwargs)
             return "break"
         return dummy_function
 
+    def apply_color_scheme(self):
+        scheme = self.color_schemes[self.color_scheme]
+        self.root.config(bg=scheme["bg"])
+        self.textbox.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
+                            relief=scheme["relief"], insertbackground=scheme["caret"])
+        self.button_frame.config(bg=scheme["bg"])
+        for widget in self.button_frame.winfo_children():
+            widget.config(bg=scheme["button_bg"], fg=scheme["button_fg"])
+        self.section_entry.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
+                                  relief=scheme["relief"], insertbackground=scheme["caret"])
+        self.chunk_entry.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
+                                relief=scheme["relief"], insertbackground=scheme["caret"])
+
+    def toggle_color_scheme(self):
+        self.color_scheme = "dark_jb" if self.color_scheme == "default" else "default"
+        self.apply_color_scheme()
 
     def load_files(self, ask_paths=True, warn_user=True) -> None:
         """Load a text file to read from and a text file to write to.
@@ -298,7 +323,30 @@ class TextEditor:
         if self.current_section == len(self.sections):
             self.current_section -= 1
         self._show_section()
-    
+
+    def jump_section(self) -> None:
+        """ Jump to a specific section.
+        """
+        # Failsafe to make sure a file is loaded
+        if not self.chunks:
+            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+            return
+        # Check input
+        try:
+            section_num = int(self.section_entry.get())
+        except ValueError:
+            messagebox.showwarning("Invalid Input", "Please enter a valid integer for section number.")
+            return
+        if section_num < 1 or section_num > len(self.sections):
+            messagebox.showwarning("Invalid Section", "Section number out of range.")
+            return
+        # Update section parameters
+        self._update_section()
+        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
+        # Jump to the desired section
+        self.current_section = section_num - 1
+        self._show_section()
+
     def next_subject(self) -> None:
         """ Move to the next subject.
         """
@@ -413,7 +461,7 @@ class TextEditor:
         self._show_section()
 
     def to_latex(self) -> None:
-        """Detects lists and formats them according to latex
+        """Detects various patterns and formats them according to latex
 
         Returns: None
         """
@@ -425,25 +473,35 @@ class TextEditor:
         self._update_section()
         text = self.sections[self.current_section]
         header = text.split("\n")[0]
+        args = re.findall(r'\(.*?\)|\w+', header)
+        if len(args) != 5:
+            print(f"Expected five arguments, got \"{args}\" instead")
+            args = None
+        else:
+            args = {k: v.strip("()") for k, v in zip(["subject", "type", "difficulty", "grade", "modifier"], args)}
+            args["modifier"] = args["modifier"].split(", ")
+
         body = text[len(header):]
+        body = re.sub(r'^\s*$', '', body, flags=re.MULTILINE)
 
-        # Pattern to detect numbered lists (e.g., 1. Text 2. Text ...)
-        list_pattern = r'(?:\d+\.?\s)([^\d]+)'
+        args, body = self._list_to_latex(args, body)
+        args, body = self._sections_to_latex(args, body)
+        args, body = self._text_format_to_latex(args, body)
 
-        # Function to convert the detected lists to a single LaTeX list
-        def list_to_latex(match):
-            items = re.findall(list_pattern, match.group(), re.DOTALL)
-            latex_list = "\\begin{enumerate}\n"
-            for item in items:
-                latex_list += f"\\item {item.strip()}\n"
-            latex_list += "\\end{enumerate}"
-            return latex_list
+        if args:
+            new_header = ""
+            for v in args.values():
+                if isinstance(v, list):
+                    v = ", ".join(v)
+                if isinstance(v, str):
+                    if len(v) > 1:
+                        new_header += f"({v}) "
+                    else:
+                        new_header += f"{v} "
+            new_header += "\n"
+            header = new_header
 
-        # Replace all detected lists with their LaTeX versions
-        new_body = re.sub(r'((?:\d+\.?\s+.+?)(?=(?:\d+\.?\s+)|\n\n|$))+', list_to_latex, body, flags=re.DOTALL)
-
-        new_body = re.sub(r'Answers', r"\\section{Answers}", new_body)
-        self.sections[self.current_section] = header + new_body
+        self.sections[self.current_section] = header + body
         self._show_section()
 
     def remove_brackets(self) -> None:
@@ -462,6 +520,47 @@ class TextEditor:
         body = re.sub(r"[(\[\]{}]", "", body)
         self.sections[self.current_section] = header + body
         self._show_section()
+
+    def replace_selected_text(self, repeat=False) -> None:
+        """Replace all occurrences of the currently selected text with a new text."""
+        if repeat and self.last_replace:
+            selected_text, new_text = self.last_replace
+        else:
+            try:
+                selected_text = self.textbox.get(tk.SEL_FIRST, tk.SEL_LAST)
+            except (tk.TclError, UnboundLocalError):
+                selected_text = tk.simpledialog.askstring("Modify Text", f"Replace all instances of:")
+                if selected_text is None:
+                    return
+
+            new_text = tk.simpledialog.askstring("Replace Text", f"Replace '{selected_text}' with:")
+            self.last_replace = (selected_text, new_text)
+
+        self.textbox.tag_remove("highlight", "1.0", tk.END)
+        start_pos = "1.0"
+        while True:
+            start_pos = self.textbox.search(selected_text, start_pos, stopindex=tk.END)
+            if not start_pos:
+                break
+            end_pos = f"{start_pos}+{len(selected_text)}c"
+            self.textbox.delete(start_pos, end_pos)
+            self.textbox.insert(start_pos, new_text)
+            start_pos = f"{start_pos}+{len(new_text)}c"
+
+    def format_selected_list(self) -> None:
+        """Format the selected text as a LaTeX list."""
+        try:
+            selected_text = self.textbox.get(tk.SEL_FIRST, tk.SEL_LAST)
+        except tk.TclError:
+            messagebox.showwarning("No Selection", "Please select text to format.")
+            return
+
+        self.textbox.delete(tk.SEL_FIRST, tk.SEL_LAST)
+        lines = selected_text.split("\n")
+        if all(re.match(r"(^\w|\d+)[.)]? ", line) for line in lines):
+            lines = [re.sub(r"(^\w|\d+)[.)]? ", "", line) for line in lines]
+        items = "\\item " + "\n\\item ".join(lines)
+        self.textbox.insert(tk.INSERT, f"\\begin{{enumerate}}\n{items}\n\\end{{enumerate}}")
 
     def scale_font_size(self, factor: float) -> None:
         self.textbox_font.config(size=int(self.textbox_font["size"] * factor))
@@ -518,7 +617,18 @@ class TextEditor:
         if self.current_section < len(self.sections):
             self.textbox.delete(1.0, tk.END)
             self.textbox.insert(tk.END, self.sections[self.current_section])
+            self._update_section_label()
             self._update_chunk_label()
+
+    def _update_section_label(self) -> None:
+        """
+        Set the section label to current section
+
+        Returns: None
+        """
+        self.section_entry.delete(0, tk.END)
+        self.section_entry.insert(1, str(self.current_section + 1))
+        self.section_number_label.config(text=f"/ {len(self.sections)}")
 
     def _update_chunk_label(self) -> None:
         """
@@ -571,6 +681,59 @@ class TextEditor:
             self.textbox.insert(tk.INSERT, f"{prefix}{selected_text}{suffix}")
         except tk.TclError:
             messagebox.showwarning("No Selection", "Please select text to format.")
+
+    def _list_to_latex(self, args: dict, body: str) -> (dict, str):
+        # Pattern to detect numbered lists (e.g., 1. Text 2. Text ...)
+        list_pattern = r'(?:\d+\.?\s)([^\d]+)'
+
+        # Function to convert the detected lists to a single LaTeX list
+        def convert(match):
+            items = re.findall(list_pattern, match.group(), re.DOTALL)
+            latex_list = "\\begin{enumerate}\n"
+            for item in items:
+                latex_list += f"\\item {item.strip()}\n"
+            latex_list += "\\end{enumerate}"
+            return latex_list
+
+        # Replace all detected lists with their LaTeX versions
+        new_body = re.sub(r'((?:\d+\.?\s+.+?)(?=(?:\d+\.?\s+)|\n\n|$))+', convert, body, flags=re.DOTALL)
+
+        return args, new_body
+
+    def _sections_to_latex(self, args: dict, body: str) -> (dict, str):
+        if "\nAnswers" in body:
+            body = re.sub(r'(?<=\n)Answers', r"\\section{Answers}", body)
+            if args and "With Answers" not in args["modifier"] and "With Answer" not in args["modifier"]:
+                args["modifier"].append("With Answer")
+
+        if "\nSolution" in body:
+            body = re.sub(r'(?<=\n)Answers', r"\\section{Answers}", body)
+            if args and "With Answers" not in args["modifier"] and "With Answer" not in args["modifier"]:
+                args["modifier"].append("With Answer")
+
+        if "\nHints" in body:
+            body = re.sub(r'(?<=\n)Hints', r"\\section{Hints}", body)
+            if args and "With Hints" not in args["modifier"] and "With Hint" not in args["modifier"]:
+                args["modifier"].append("With Hint")
+        return args, body
+
+    def _text_format_to_latex(self, args: dict, body: str) -> (dict, str):
+        # Pattern for bold text with double stars (**bold**)
+        bold_pattern = r"(?<=\s)\*\*(\w+)\*\*(?=\s)"
+        # Replace bold matches with \textbf{}
+        text = re.sub(bold_pattern, r"\\textbf{\1}", body)
+
+        # Pattern for italic text with single stars (*italic*)
+        italic_pattern = r"(?<=\s)\*(\w+)\*(?=\s)"
+        # Replace italic matches with \emph{}
+        text = re.sub(italic_pattern, r"\\emph{\1}", text)
+
+        # Pattern for underlined text with underscores (_underlined_)
+        underline_pattern = r"(?<=\s)_(\w+)_(?=\s)"
+        # Replace underlined matches with \underline{}
+        text = re.sub(underline_pattern, r"\\underline{\1}", text)
+
+        return args, text
 
 
 if __name__ == "__main__":

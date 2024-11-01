@@ -1,0 +1,5336 @@
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item a_h_
+\item z_m_r
+\item l_i_e_
+\item m_t_l_n
+\item g_n_t
+\end{enumerate}
+
+\section{Hints}
+\begin{enumerate}
+\item The second letter of the answer is \emph{c}
+The meaning of this word (in English) :
+\emph{eight}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{summer}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{lead}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\item The second letter of the answer is \emph{u}
+The meaning of this word (in English) :
+\emph{favor}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item acht
+\item zomer
+\item leiden
+\item metalen
+\item gunst
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item gnnize
+\item senl
+\item asnta
+\item risdpeign
+\item itehdcg
+\end{enumerate}
+
+\section{Hints}
+\begin{enumerate}
+\item The answer starts with the letter \emph{z}
+The meaning of this word (in English) : \emph{sing}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) : \emph{fast}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) : \emph{stand}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) : \emph{spread}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) : \emph{poem}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item zingen
+\item snel
+\item staan
+\item spreiding
+\item gedicht
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item g_o_e_
+\item z_j_
+\item o_h_o_
+\item p_o_l_e_
+\item S_o_
+\end{enumerate}
+
+\section{Hints}
+\begin{enumerate}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) : \emph{throw}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) : \emph{be}
+\item The second letter of the answer is \emph{m}
+The meaning of this word (in English) : \emph{up}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) : \emph{problem}
+\item The second letter of the answer is \emph{h}
+The meaning of this word (in English) : \emph{show}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item gooien
+\item zijn
+\item omhoog
+\item probleem
+\item Show
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item oatalt
+\item kglije
+\item asnta
+\item jmin
+\item lniutjaurke
+\end{enumerate}
+
+\section{Hints}
+\begin{enumerate}
+\item The answer starts with the letter \emph{t}
+The meaning of this word (in English) : \emph{total}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) : \emph{equal}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) : \emph{stand}
+\item The answer starts with the letter \emph{m}
+The meaning of this word (in English) : \emph{my}
+\item The answer starts with the letter \emph{n}
+The meaning of this word (in English) : \emph{natural}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item totaal
+\item gelijk
+\item staan
+\item mijn
+\item natuurlijke
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item g_o_i_n
+\item k_a_
+\item w_s_
+\item t_m_e_a_u_r
+\item w_a_n_m_n
+\end{enumerate}
+
+\section{Hints}
+\begin{enumerate}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{grow}
+\item The second letter of the answer is \emph{w}
+The meaning of this word (in English) :
+\emph{came}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{knew}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{temperature}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{observe}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item groeien
+\item kwam
+\item wist
+\item temperatuur
+\item waarnemen
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item etnes
+\item dkiek
+\item badona
+\item aotrpno
+\item qttë iuno
+\end{enumerate}
+
+\section{Hints}
+\begin{enumerate}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{stone}
+\item The answer starts with the letter \emph{d}
+The meaning of this word (in English) :
+\emph{thick}
+\item The answer starts with the letter \emph{a}
+The meaning of this word (in English) :
+\emph{offer}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{pattern}
+\item The answer starts with the letter \emph{q}
+The meaning of this word (in English) :
+\emph{quotient}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item steen
+\item dikke
+\item aanbod
+\item patroon
+\item quotië nt
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item r_g_o
+\item z_l_s
+\item z_c_t
+\item k_n_
+\item t_k_n_n
+\end{enumerate}
+
+\section{Hints}
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{region}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{even}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{sight}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{child}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{draw}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item regio
+\item zelfs
+\item zicht
+\item kind
+\item tekenen
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item trandoow
+\item oelke
+\item eebbnh
+\item obrer
+\item umru
+\end{enumerate}
+
+\section{Hints}
+\begin{enumerate}
+\item The answer starts with the letter \emph{a}
+The meaning of this word (in English) :
+\emph{answer}
+\item The answer starts with the letter \emph{k}
+The meaning of this word (in English) :
+\emph{cool}
+\item The answer starts with the letter \emph{h}
+The meaning of this word (in English) :
+\emph{have}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{brother}
+\item The answer starts with the letter \emph{m}
+The meaning of this word (in English) :
+\emph{wall}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item antwoord
+\item koele
+\item hebben
+\item broer
+\item muur
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item e_e_e_e_t
+\item m_a_
+\item b_s_h_r_e_
+\item b_g_n_e_
+\item d_b_e_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{v}
+The meaning of this word (in English) :
+\emph{event}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{but}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{protect}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{begin}
+\item The second letter of the answer is \emph{u}
+The meaning of this word (in English) :
+\emph{double}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item evenement
+\item maar
+\item beschermen
+\item beginnen
+\item dubbel
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item erovwenge
+\item neegrueb
+\item seechtktrsre
+\item indw
+\item rotwel
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{consider}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{happen}
+\item The answer starts with the letter \emph{r}
+The meaning of this word (in English) :
+\emph{direct}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{wind}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{root}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item overwegen
+\item gebeuren
+\item rechtstreeks
+\item wind
+\item wortel
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item m_d_e_
+\item z_t_e_
+\item a_o_m
+\item r_i_t_
+\item a_o_m
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{middle}
+--
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{put}
+--
+\item The second letter of the answer is \emph{t}
+The meaning of this word (in English) :
+\emph{atom}
+--
+\item The second letter of the answer is \emph{u}
+The meaning of this word (in English) :
+\emph{space}
+--
+\item The second letter of the answer is \emph{t}
+The meaning of this word (in English) :
+\emph{atom}
+--
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item midden
+\item zetten
+\item atoom
+\item ruimte
+\item atoom
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item potro
+\item oedr
+\item eldi
+\item vsneeire
+\item ethef
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{port}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{order}
+\item The answer starts with the letter \emph{l}
+The meaning of this word (in English) :
+\emph{song}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{require}
+\item The answer starts with the letter \emph{h}
+The meaning of this word (in English) :
+\emph{has}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item poort
+\item orde
+\item lied
+\item vereisen
+\item heeft
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item w_n_n
+\item b_g_l_i_e_
+\item t_o_h_o_t_
+\item o_t_o_t_n
+\item r_k_n_n
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{live}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{guide}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{pitch}
+\item The second letter of the answer is \emph{n}
+The meaning of this word (in English) :
+\emph{meet}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{charge}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item wonen
+\item begeleiden
+\item toonhoogte
+\item ontmoeten
+\item rekenen
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item ovrm
+\item djit
+\item sbui
+\item iewune
+\item iwst
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{shape}
+\item The answer starts with the letter \emph{t}
+The meaning of this word (in English) :
+\emph{time}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{tube}
+\item The answer starts with the letter \emph{n}
+The meaning of this word (in English) :
+\emph{new}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{knew}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item vorm
+\item tijd
+\item buis
+\item nieuwe
+\item wist
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item s_r_m_n
+\item k_j_e_
+\item b_e_
+\item k_r_e
+\item r_e_s
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{t}
+The meaning of this word (in English) :
+\emph{flow}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{watch}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{leg}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{short}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{range}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item stromen
+\item kijken
+\item been
+\item korte
+\item reeks
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item svntgeei
+\item feeldi
+\item ellb
+\item solspgnoi
+\item kraal
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{settle}
+\item The answer starts with the letter \emph{l}
+The meaning of this word (in English) :
+\emph{love}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{bell}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{solution}
+\item The answer starts with the letter \emph{k}
+The meaning of this word (in English) :
+\emph{ready}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item vestigen
+\item liefde
+\item bell
+\item oplossing
+\item klaar
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item b_g_l_i_e_
+\item w_o_d_n_o_k
+\item v_r_
+\item m_k_n
+\item e_c_t_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{guide}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{dictionary}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{shape}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{make}
+\item The second letter of the answer is \emph{x}
+The meaning of this word (in English) :
+\emph{excite}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item begeleiden
+\item woordenboek
+\item vorm
+\item maken
+\item excite
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item elst
+\item zcathe
+\item reerncë
+\item ewdeo
+\item eevilkougedn
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{imagine}
+\item The answer starts with the letter \emph{z}
+The meaning of this word (in English) :
+\emph{gentle}
+\item The answer starts with the letter \emph{c}
+The meaning of this word (in English) :
+\emph{create}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{anger}
+\item The answer starts with the letter \emph{e}
+The meaning of this word (in English) :
+\emph{single}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item stel
+\item zachte
+\item creë ren
+\item woede
+\item enkelvoudige
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item w_e_
+\item k_e_g
+\item o_t_e_p
+\item g_v_a_
+\item g_l_i_s_v_r_a_t
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{week}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{got}
+\item The second letter of the answer is \emph{n}
+The meaning of this word (in English) :
+\emph{design}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{danger}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{noise}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item week
+\item kreeg
+\item ontwerp
+\item gevaar
+\item geluidsoverlast
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item apdn
+\item idleen
+\item unogninertsde
+\item egnelt
+\item eronbge
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{property}
+\item The answer starts with the letter \emph{l}
+The meaning of this word (in English) :
+\emph{lead}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{support}
+\item The answer starts with the letter \emph{l}
+The meaning of this word (in English) :
+\emph{length}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{born}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item pand
+\item leiden
+\item ondersteuning
+\item lengte
+\item geboren
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item v_n_t_r
+\item p_s_e_e_
+\item g_a_i_k
+\item m_d_a_
+\item a_t_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{window}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{pass}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{chart}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{noon}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{doctor}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item venster
+\item passeren
+\item grafiek
+\item middag
+\item arts
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item ebennrg
+\item undnievit
+\item edenlk
+\item iewv
+\item epsl
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{bring}
+\item The answer starts with the letter \emph{u}
+The meaning of this word (in English) :
+\emph{invent}
+\item The answer starts with the letter \emph{k}
+The meaning of this word (in English) :
+\emph{clothe}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{view}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{game}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item brengen
+\item uitvinden
+\item kleden
+\item view
+\item spel
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item m_e_l_j_
+\item b_i_f
+\item d_n_
+\item l_j_t
+\item h_n_e_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{difficult}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{letter}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{guess}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{list}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{trade}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item moeilijk
+\item brief
+\item denk
+\item lijst
+\item handel
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item agbn
+\item pers
+\item tslpaa
+\item osod
+\item alle
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{afraid}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{press}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{stead}
+\item The answer starts with the letter \emph{d}
+The meaning of this word (in English) :
+\emph{box}
+\item The answer starts with the letter \emph{a}
+The meaning of this word (in English) :
+\emph{all}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item bang
+\item pers
+\item plaats
+\item doos
+\item alle
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item i_s_r_m_n_
+\item s_a_i_n
+\item p_o_s_l_n_
+\item f_j_e
+\item o_z_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{n}
+The meaning of this word (in English) :
+\emph{instrument}
+\item The second letter of the answer is \emph{t}
+The meaning of this word (in English) :
+\emph{station}
+\item The second letter of the answer is \emph{l}
+The meaning of this word (in English) :
+\emph{sudden}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{fine}
+\item The second letter of the answer is \emph{n}
+The meaning of this word (in English) :
+\emph{our}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item instrument
+\item station
+\item plotseling
+\item fijne
+\item onze
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item eigrakf
+\item tnneeimsm
+\item lpcehs
+\item delv
+\item nesse
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{chart}
+\item The answer starts with the letter \emph{i}
+The meaning of this word (in English) :
+\emph{agree}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{shell}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{field}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{sense}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item grafiek
+\item instemmen
+\item schelp
+\item veld
+\item sense
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item e_v_r_n_
+\item b_t_k_n_e
+\item k_n_t
+\item z_a_s
+\item v_o_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{experience}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{meant}
+\item The second letter of the answer is \emph{u}
+The meaning of this word (in English) :
+\emph{art}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{like}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{before}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item ervaring
+\item betekende
+\item kunst
+\item zoals
+\item voor
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item eaenlmt
+\item rvse
+\item oolorg
+\item omleb
+\item eeidbn
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{m}
+The meaning of this word (in English) :
+\emph{metal}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{fresh}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{war}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{flower}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{provide}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item metalen
+\item vers
+\item oorlog
+\item bloem
+\item bieden
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item k_a_s_
+\item w_s_
+\item o_e_
+\item s_i_
+\item b_s_a_e_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{l}
+The meaning of this word (in English) :
+\emph{class}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{knew}
+\item The second letter of the answer is \emph{v}
+The meaning of this word (in English) :
+\emph{about}
+\item The second letter of the answer is \emph{t}
+The meaning of this word (in English) :
+\emph{silent}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{save}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item klasse
+\item wist
+\item over
+\item stil
+\item besparen
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item nlda
+\item gvene
+\item fnkeuadrk
+\item oodnekwerbo
+\item ukijelibrkeeg
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{l}
+The meaning of this word (in English) :
+\emph{country}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{indicate}
+\item The answer starts with the letter \emph{a}
+The meaning of this word (in English) :
+\emph{print}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{dictionary}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{usual}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item land
+\item geven
+\item afdrukken
+\item woordenboek
+\item gebruikelijke
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item v_r_a_e_e_
+\item w_l_e_
+\item g_d_a_
+\item e_e_e_e_t
+\item g_a_d
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{gather}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{want}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{done}
+\item The second letter of the answer is \emph{v}
+The meaning of this word (in English) :
+\emph{event}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{grand}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item verzamelen
+\item willen
+\item gedaan
+\item evenement
+\item grand
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item splle
+\item eerz
+\item smuulcuni
+\item irrive
+\item newon
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{spell}
+\item The answer starts with the letter \emph{z}
+The meaning of this word (in English) :
+\emph{very}
+\item The answer starts with the letter \emph{m}
+The meaning of this word (in English) :
+\emph{tiny}
+\item The answer starts with the letter \emph{r}
+The meaning of this word (in English) :
+\emph{river}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{live}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item spell
+\item zeer
+\item minuscuul
+\item rivier
+\item wonen
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item v_e_g_e
+\item s_a_t
+\item o_d_r_e_l
+\item c_a_
+\item r_i_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{joy}
+\item The second letter of the answer is \emph{t}
+The meaning of this word (in English) :
+\emph{state}
+\item The second letter of the answer is \emph{n}
+The meaning of this word (in English) :
+\emph{element}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{coat}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{trip}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item vreugde
+\item staat
+\item onderdeel
+\item coat
+\item reis
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item eoevr
+\item akaetrkr
+\item etif
+\item oordw
+\item srcehbneem
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{shore}
+\item The answer starts with the letter \emph{k}
+The meaning of this word (in English) :
+\emph{character}
+\item The answer starts with the letter \emph{f}
+The meaning of this word (in English) :
+\emph{fact}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{word}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{protect}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item oever
+\item karakter
+\item feit
+\item woord
+\item beschermen
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item S_o_
+\item t_r_i_l
+\item m_n_e_
+\item s_h_e_f
+\item a_n_e_e_e_h_i_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{h}
+The meaning of this word (in English) :
+\emph{show}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{while}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{men}
+\item The second letter of the answer is \emph{c}
+The meaning of this word (in English) :
+\emph{wrote}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{matter}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Show
+\item terwijl
+\item mannen
+\item schreef
+\item aangelegenheid
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item potro
+\item otsp
+\item irrive
+\item fjetledi
+\item indw
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{port}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{post}
+\item The answer starts with the letter \emph{r}
+The meaning of this word (in English) :
+\emph{river}
+\item The answer starts with the letter \emph{l}
+The meaning of this word (in English) :
+\emph{age}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{wind}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item poort
+\item post
+\item rivier
+\item leeftijd
+\item wind
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item i_c_
+\item k_a_h_
+\item v_l_e_i_e
+\item g_e_
+\item v_e_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{n}
+The meaning of this word (in English) :
+\emph{inch}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{power}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{full}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{good}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{foot}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item inch
+\item kracht
+\item volledige
+\item goed
+\item voet
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item lilhgamc
+\item jiebrdf
+\item etfiacr
+\item nolgve
+\item zewebnji
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{smile}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{company}
+\item The answer starts with the letter \emph{f}
+The meaning of this word (in English) :
+\emph{fraction}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{follow}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{prove}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item glimlach
+\item bedrijf
+\item fractie
+\item volgen
+\item bewijzen
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item b_s_r_k_n
+\item c_m_l_e_
+\item g_w_c_t
+\item z_v_n
+\item p_t_o_n
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{discuss}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{complete}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{weight}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{seven}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{pattern}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item bespreken
+\item compleet
+\item gewicht
+\item zeven
+\item patroon
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item nadrb
+\item alpk
+\item alpk
+\item ienoielrg
+\item hrclilsvene
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{fire}
+\item The answer starts with the letter \emph{k}
+The meaning of this word (in English) :
+\emph{blow}
+\item The answer starts with the letter \emph{k}
+The meaning of this word (in English) :
+\emph{blow}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{original}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{differ}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item brand
+\item klap
+\item klap
+\item origineel
+\item verschillen
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item w_e_s
+\item l_i_
+\item a_d_r_
+\item v_r_e_i_g
+\item a_n_a_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{whose}
+\item The second letter of the answer is \emph{u}
+The meaning of this word (in English) :
+\emph{loud}
+\item The second letter of the answer is \emph{n}
+The meaning of this word (in English) :
+\emph{other}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{claim}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{number}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item wiens
+\item luid
+\item andere
+\item vordering
+\item aantal
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item etfiacr
+\item aernakna
+\item encopuredr
+\item oaatlsd
+\item aotrpno
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{f}
+The meaning of this word (in English) :
+\emph{fraction}
+\item The answer starts with the letter \emph{a}
+The meaning of this word (in English) :
+\emph{touch}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{produce}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{soldier}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{pattern}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item fractie
+\item aanraken
+\item produceren
+\item soldaat
+\item patroon
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item l_j_t
+\item s_o_d_g
+\item v_a_t_
+\item n_m_n
+\item w_r_i_g
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{list}
+\item The second letter of the answer is \emph{p}
+The meaning of this word (in English) :
+\emph{soon}
+\item The second letter of the answer is \emph{l}
+The meaning of this word (in English) :
+\emph{plain}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{take}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{effect}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item lijst
+\item spoedig
+\item vlakte
+\item nemen
+\item werking
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item utrfi
+\item ostdprsa
+\item tejzi
+\item orve
+\item rngad
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{f}
+The meaning of this word (in English) :
+\emph{fruit}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{tie}
+\item The answer starts with the letter \emph{z}
+The meaning of this word (in English) :
+\emph{seat}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{feed}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{grand}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item fruit
+\item stropdas
+\item zitje
+\item voer
+\item grand
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item l_a_s_e
+\item m_a_
+\item v_r_a_l
+\item p_r_g_a_f
+\item g_l_j_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{last}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{but}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{story}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{paragraph}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{equal}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item laatste
+\item maar
+\item verhaal
+\item paragraaf
+\item gelijk
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item jnzi
+\item srcehbneem
+\item odod
+\item meailfi
+\item sadren
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{z}
+The meaning of this word (in English) :
+\emph{be}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{protect}
+\item The answer starts with the letter \emph{d}
+The meaning of this word (in English) :
+\emph{death}
+\item The answer starts with the letter \emph{f}
+The meaning of this word (in English) :
+\emph{family}
+\item The answer starts with the letter \emph{a}
+The meaning of this word (in English) :
+\emph{else}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item zijn
+\item beschermen
+\item dood
+\item familie
+\item anders
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item v_l_e_i_e
+\item o_e_s_e_e_
+\item z_e_m_n
+\item e_n_o_d_g
+\item w_l_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{full}
+\item The second letter of the answer is \emph{v}
+The meaning of this word (in English) :
+\emph{cross}
+\item The second letter of the answer is \emph{w}
+The meaning of this word (in English) :
+\emph{swim}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{simple}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{wild}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item volledige
+\item oversteken
+\item zwemmen
+\item eenvoudig
+\item wild
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item obnkvele
+\item eeedsnbt
+\item eprsoc
+\item irekoedh
+\item fjvi
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{populate}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{spend}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{process}
+\item The answer starts with the letter \emph{d}
+The meaning of this word (in English) :
+\emph{triangle}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{five}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item bevolken
+\item besteden
+\item proces
+\item driehoek
+\item vijf
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item d_i_e_i_k
+\item b_l_
+\item g_e_
+\item z_a_
+\item j_i_t
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{u}
+The meaning of this word (in English) :
+\emph{clear}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{bell}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{good}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{seed}
+\item The second letter of the answer is \emph{u}
+The meaning of this word (in English) :
+\emph{correct}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item duidelijk
+\item bell
+\item goed
+\item zaad
+\item juist
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item otve
+\item igveddarhai
+\item nivbejl
+\item tlchu
+\item ennemg
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{foot}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{skill}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{continue}
+\item The answer starts with the letter \emph{l}
+The meaning of this word (in English) :
+\emph{air}
+\item The answer starts with the letter \emph{m}
+The meaning of this word (in English) :
+\emph{mix}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item voet
+\item vaardigheid
+\item blijven
+\item lucht
+\item mengen
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item w_l_
+\item s_s_e_m
+\item a_o_m
+\item f_u_t
+\item v_r_e_i_k_n
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{wild}
+\item The second letter of the answer is \emph{y}
+The meaning of this word (in English) :
+\emph{system}
+\item The second letter of the answer is \emph{t}
+The meaning of this word (in English) :
+\emph{atom}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{fruit}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{compare}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item wild
+\item systeem
+\item atoom
+\item fruit
+\item vergelijken
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item kioegjml
+\item pers
+\item igveddarhai
+\item weeu
+\item readv
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{m}
+The meaning of this word (in English) :
+\emph{possible}
+\item The answer starts with the letter \emph{p}
+The meaning of this word (in English) :
+\emph{press}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{skill}
+\item The answer starts with the letter \emph{e}
+The meaning of this word (in English) :
+\emph{century}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{father}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item mogelijk
+\item pers
+\item vaardigheid
+\item eeuw
+\item vader
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item s_m_o_l
+\item w_s_
+\item p_s_t_e
+\item s_e_u_
+\item w_a_s_h_j_l_j_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{y}
+The meaning of this word (in English) :
+\emph{symbol}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{knew}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{position}
+\item The second letter of the answer is \emph{n}
+The meaning of this word (in English) :
+\emph{snow}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{probable}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item symbool
+\item wist
+\item positie
+\item sneeuw
+\item waarschijnlijk
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item jimetnr
+\item sadren
+\item engen
+\item chgeenrevs
+\item usen
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{t}
+The meaning of this word (in English) :
+\emph{term}
+\item The answer starts with the letter \emph{a}
+The meaning of this word (in English) :
+\emph{else}
+\item The answer starts with the letter \emph{n}
+The meaning of this word (in English) :
+\emph{nine}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{written}
+\item The answer starts with the letter \emph{n}
+The meaning of this word (in English) :
+\emph{nose}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item termijn
+\item anders
+\item negen
+\item geschreven
+\item neus
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item w_r_e_
+\item b_i_e
+\item u_t_e_c_a_e_d
+\item b_r_i_e_
+\item d_e_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{operate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{both}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{off}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{reach}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{does}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item werken
+\item beide
+\item uitgeschakeld
+\item bereiken
+\item doet
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item bavetten
+\item mrka
+\item knkeui
+\item orve
+\item nsceerltee
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{contain}
+\item The answer starts with the letter \emph{m}
+The meaning of this word (in English) :
+\emph{mark}
+\item The answer starts with the letter \emph{k}
+The meaning of this word (in English) :
+\emph{chick}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{feed}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{select}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item bevatten
+\item mark
+\item kuiken
+\item voer
+\item selecteren
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item k_a_r
+\item z_i_
+\item h_r_
+\item j_a_
+\item h_p_n
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{l}
+The meaning of this word (in English) :
+\emph{ready}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{sail}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{hard}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{year}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{hope}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item klaar
+\item zeil
+\item hard
+\item jaar
+\item hopen
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item neniusatal
+\item stwgeee
+\item eensegmnt
+\item ceshrt
+\item nburi
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{a}
+The meaning of this word (in English) :
+\emph{connect}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{been}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{segment}
+\item The answer starts with the letter \emph{r}
+The meaning of this word (in English) :
+\emph{right}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{brown}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item aansluiten
+\item geweest
+\item segmenten
+\item rechts
+\item bruin
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item b_s_a_e_
+\item z_e_m_n
+\item k_n_j_
+\item c_a_
+\item n_t_e
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{save}
+\item The second letter of the answer is \emph{w}
+The meaning of this word (in English) :
+\emph{swim}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{baby}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{coat}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{nation}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item besparen
+\item zwemmen
+\item kindje
+\item coat
+\item natie
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item shcala
+\item toio
+\item iklejre
+\item onsohc
+\item lkok
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{scale}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{ever}
+\item The answer starts with the letter \emph{e}
+The meaning of this word (in English) :
+\emph{fair}
+\item The answer starts with the letter \emph{s}
+The meaning of this word (in English) :
+\emph{clean}
+\item The answer starts with the letter \emph{k}
+The meaning of this word (in English) :
+\emph{clock}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item schaal
+\item ooit
+\item eerlijk
+\item schoon
+\item klok
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item e_n_
+\item h_p_y
+\item h_u_e_
+\item v_i_
+\item z_u_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{duck}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{happy}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{hold}
+\item The second letter of the answer is \emph{r}
+The meaning of this word (in English) :
+\emph{pretty}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{salt}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item eend
+\item happy
+\item houden
+\item vrij
+\item zout
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item nwekre
+\item rngad
+\item eeegvtnoo
+\item ntvteamo
+\item undnievit
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{w}
+The meaning of this word (in English) :
+\emph{operate}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{grand}
+\item The answer starts with the letter \emph{t}
+The meaning of this word (in English) :
+\emph{add}
+\item The answer starts with the letter \emph{o}
+The meaning of this word (in English) :
+\emph{include}
+\item The answer starts with the letter \emph{u}
+The meaning of this word (in English) :
+\emph{invent}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item werken
+\item grand
+\item toevoegen
+\item omvatten
+\item uitvinden
+\end{enumerate}
+
+
+(Dutch) (Word Completion) D G (With Answer, With Hint)
+
+Guess the word in each case; some of the letters have been hidden by the underscore ( _ ) sign.
+\begin{enumerate}
+\item b_t_r
+\item r_v_e_
+\item z_i_e_
+\item h_e_e_
+\item y_r_
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The second letter of the answer is \emph{e}
+The meaning of this word (in English) :
+\emph{better}
+\item The second letter of the answer is \emph{i}
+The meaning of this word (in English) :
+\emph{river}
+\item The second letter of the answer is \emph{u}
+The meaning of this word (in English) :
+\emph{south}
+\item The second letter of the answer is \emph{o}
+The meaning of this word (in English) :
+\emph{though}
+\item The second letter of the answer is \emph{a}
+The meaning of this word (in English) :
+\emph{yard}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item beter
+\item rivier
+\item zuiden
+\item hoewel
+\item yard
+\end{enumerate}
+
+
+(Dutch) (Word Scramble) D G (With Answer, With Hint)
+
+All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item eotrg
+\item oetemn
+\item vofioetsl
+\item edel
+\item eeekndbet
+\end{enumerate}
+
+\section{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{g}
+The meaning of this word (in English) :
+\emph{major}
+\item The answer starts with the letter \emph{m}
+The meaning of this word (in English) :
+\emph{should}
+\item The answer starts with the letter \emph{v}
+The meaning of this word (in English) :
+\emph{liquid}
+\item The answer starts with the letter \emph{d}
+The meaning of this word (in English) :
+\emph{part}
+\item The answer starts with the letter \emph{b}
+The meaning of this word (in English) :
+\emph{meant}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item grote
+\item moeten
+\item vloeistof
+\item deel
+\item betekende
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Dit is Karel Bos.
+Hij is zakenman.
+Hij spreekt Engels en Frans.
+Hij woont in Amsterdam.
+Hij helpt Jill Johnson.
+
+Dit is Wieteke Jansma.
+Zij is kunstenares.
+Zij spreekt Engels en Duits.
+Zij woont in Arnhem.
+Zij helpt Farah Ahmeti.
+
+Look at the following forms, which give you information about two people.
+\begin{enumerate}
+\item naam: Tom Peters; beroep: docent; talen: Engels en Spaans; woonplaats: Utrecht; helpt: Allie Mitchel
+\item naam: Leona Beke; beroep: bankassistent; talen: Engels en Italiaans; woonplaats: Amersfoort; helpt: Marisa Del porte
+Write a memo about these two people using the same pattern as in the Tekst.
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Dit is Tom Peters.
+Hij is docent.
+Hij spreekt Engels en Spaans.
+Hij woont in Utrecht. Hij helpt Allie Mitchel.
+\end{enumerate}
+
+\begin{enumerate}
+\item Dit is Leona Beke.
+Zij is bankassistente.
+Zij spreekt Engels en Italiaans.
+Zij woont in Amersfoort.
+Zij helpt Marisa Delporte.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Ik ben Sara Bakker.
+Ik ben verpleegster.
+Ik spreek Engels en Frans.
+Ik woon in Hilversum.
+Ik help Ben Mendoza.
+Ik werk in een ziekenhuis.
+
+Look at the following forms, which give you information about two people.
+\begin{enumerate}
+\item naam: Karel Bos; beroep: zakenman; talen: Engels en Frans; woonplaats: Amsterdam; helpt: Jill Johnson
+\item naam: Tom Peters; beroep: docent; talen: Engels en Spaans; woonplaats: Utrecht; helpt: Allie Mitchel
+Introduce yourself using the pattern given earlier as if you were Karel Bos. Then try it as if you were Tom Peters.
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik ben Karel Bos.
+Ik ben zakenman.
+Ik spreek Engels en Frans.
+Ik woon in Amsterdam.
+Ik help Jill Johnson.
+\end{enumerate}
+
+\begin{enumerate}
+\item Ik ben Tom Peters.
+Ik ben docent.
+Ik spreek Engels en Spaans.
+Ik woon in Utrecht.
+Ik help Allie Mitchel.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Ik ben Sara Bakker.
+Ik ben verpleegster.
+Ik spreek Engels en Frans.
+Ik woon in Hilversum.
+Ik help Ben Mendoza.
+Ik werk in een ziekenhuis.
+
+Write two short introductions for yourself for the website mentioned in the Tekst as if you were the following people.
+\begin{enumerate}
+\item naam: Gail Boonstra; beroep: computerprogrammeur; talen: Nederlands (Dutch) en Engels; woonplaats: Edam; werk: bij een bedrijf (with a company)
+\item naam: Ad Visser; beroep: manager; talen: alleen (only) Nederlands; woonplaats: Zutphen; werk: bij/in een winkel (in a shop)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik ben Gail Boonstra.
+Ik ben computerprogrammeur.
+Ik spreek Nederlands en Engels.
+Ik woon in Edam.
+Ik werk bij een bedrijf.
+\end{enumerate}
+
+\begin{enumerate}
+\item Ik ben Ad Visser.
+Ik ben manager.
+Ik spreek alleen Nederlands.
+Ik woon in Zutphen.
+Ik werk in een winkel.
+\end{enumerate}
+
+
+
+
+
+(Dutch) (Verb Conjugation) D G (With Answer)
+
+Helpen (to help)
+Ik help [I help]
+Jij helpt [You help (singular, informal)]
+U helpt [You help (singular, formal)]
+Hij/Zij/Het helpt [He/She/It helps]
+Wij helpen [We help]
+Jullie helpen [You help (plural, informal)]
+U helpt [You help (plural, formal)]
+Zij helpen [They help]
+
+Write out a table for the verbs (a) denken (to think) and (b) drinken (to drink) following the pattern given for helpen.
+
+\section{Answers}
+(a) Denken
+Ik denk
+Jij denkt
+U denkt
+Hij/Zij/Het denkt
+Wij denken
+Jullie denken
+U denkt
+Zij denken
+
+(b) Drinken
+Ik drink
+Jij drinkt
+U drinkt
+Hij/Zij/Het drinkt
+Wij drinken
+Jullie drinken
+U drinkt
+Zij drinken
+
+
+(Dutch) (Write Sentences) D G (With Answer, With Example)
+
+Here is  a list of people you are going to speak to at a party.
+Go up to them and check who they are, using the correct form of address (e.g. u  or jij).
+
+For example:
+Meneer Verkerk: U bent meneer Verkerk?
+Jos Woudstra: Jij  bent Jos Woudstra?
+
+\begin{enumerate}
+\item Mevrouw Schipper ( een winkelbediende)
+\item Wim Den Uyl  (een medestudent)
+\item Joop Tersteeg (een kind)
+\item Meneer Brink (een docent)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Mevrouw Schipper: U bent mevrouw Schipper?
+\item Wim Den Uyl: Jij bent Wim Den Uyl?
+\item Joop Tersteeg: Jij bent Joop Tersteeg?
+\item Meneer Brink: U bent meneer Brink?
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Answer, With Example)
+
+You are meeting the people who work as volunteers for your agency and you want to check that the information on your files is correct.
+Check with Sara Bakker and Leona Beke, that the information you have is correct.
+You can do this by asking them a question based on the following pattern:
+Jij bent tandarts, hè? [You are a dentist, aren't you?]
+U spreekt toch Spaans? [You speak Spanish, don't you?]
+
+\begin{enumerate}
+\item naam: Sara Bakker; beroep: verpleegster; talen: Engels en Frans; woonplaats: Hilversum; helpt: Ben Mendoza
+\item naam: Leona Beke; beroep: bankassistent; talen: Engels en Italiaans; woonplaats: Amersfoort; helpt: Marisa Del porte
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Jij bent (toch) Sara Bakker (hè)?
+Jij bent (toch) verpleegster (hè)?
+Jij spreekt (toch) Engels en Frans (hè)?
+Jij woont (toch) in Hilversum (hè)?
+Jij helpt (toch) Ben Mendoza (hè)?
+\item Jij bent (toch) Leona Beke (hè)?
+Jij bent (toch) bankassistent (hè)?
+Jij spreekt (toch) Engels en Italiaans (hè)?
+Jij woont (toch) in Amersfoort (hè)?
+Jij helpt (toch) Marisa Delporte (hè)?
+\end{enumerate}
+
+
+(Dutch) (Verb Conjugation) D G (With Answer, Multiple Steps, With Example)
+
+You are collecting data about people for your particular organization.
+Using the information given below, write down the appropriate information for your files.
+Example sentences could be:
+Peter van Dam woont in Den Haag.
+Meneer Verkerk en Jos Woudstra wonen in Haarlem.
+
+Mevrouw Schipper, Amersfoort
+Meneer Brink, Utrecht
+Joop Tersteeg, Leeuwarden
+Marco Cohen, Leeuwarden
+
+\paragraph
+Next you want to file  information about the languages people
+speak. Using the information about people already given in this
+unit plus the extra information given  below, write down the
+appropriate sentences. For example:
+Kees  Spier spreekt Frans en Italiaans.
+Klaas Kortemans, Karel Bos en Sara Bakker spreken Engels en Frans.
+
+Saskia de  Boer, Engels  en Duits
+Ruud Krol, Engels en Spaans
+Sietske Zwart, Engels  en Russisch
+Marco Cohen, Engels en Russisch
+
+\section{Answers}
+Mevrouw Schipper woont in Amersfoort.
+Meneer Brink woont in Utrecht.
+Joop Tersteeg en Marco Cohen wonen in Leeuwarden.
+
+Saskia de Boer spreekt Engels en Duits.
+Ruud Krol spreekt Engels en Spaans.
+Sietske Zwart en Joop Tersteeg spreken Engels en Russisch.
+
+
+(Dutch) (Find Correct Term) D G (With Answer, With Example)
+
+Read the following and find the correct answers.
+For example:
+Hij  werkt op een school. He works in  a school.
+Antwoord (answer):  Hij is docent.
+
+\begin{enumerate}
+\item Hij  werkt in een winkel.
+\item Hij  trekt tanden. (He  pulls teeth.)
+\item Zij  gaat naar de  universiteit. (She  goes to university.)
+\item Zij  schildert.
+\item Hij  ontwerpt websites.
+\item Zij  werkt op een bank.
+\item Hij  ontwerpt huizen en gebouwen. (He designs houses and
+buildings.)
+\item Zij doet administratief werk. (She  does administrative work.)
+\item Hij  speelt in een film. (He is in a film.)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Hij is winkelbediende.
+\item Hij is tandarts.
+\item Zij is student.
+\item Zij is schilderes.
+\item Hij is webdesigner.
+\item Zij is bankbediende.
+\item Hij is architect.
+\item Zij is administratief medewerkster.
+\item Hij is acteur.
+\end{enumerate}
+
+
+(Dutch) (Dialogue Writing) D G (With Answer, With Example)
+
+Make up a  dialogue along the following pattern, using the information given over the page.
+Make sure you use the correct forms: hij, zij, ik, jullie or jij.
+For example:
+Ask Mieke where Ellie lives - Mieke, waar woont Ellie eigenlijk? - Zij woont in de Turfstraat
+Ask Mieke where she works - Waar werk jij? - Ik werk in Den Haag
+
+\begin{enumerate}
+\item Ask Frans where he  lives  (Leeuwarden).
+\item Ask Ellie where Frans and Mieke live  (Rotterdam).
+\item Ask Mieke where Janneke lives  (Den Bosch).
+\item Ask Ellie where she works (Haarlem).
+\item Ask Frans where Karel works  (Amsterdam).
+\item Ask Dennis and Ria where they live  (Groningen).
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Frans, waar woon jij? - Ik woon in Leeuwarden.
+\item Ellie, waar wonen Frans en Mieke? - Zij wonen in Rotterdam.
+\item Mieke, waar woont Janneke? - Zij woont in Den Bosch.
+\item Ellie, waar werk jij? - Ik werk in Haarlem.
+\item Frans, waar werkt Karel? - Hij werkt in Amsterdam.
+\item Dennis en Ria, waar wonen jullie? - Wij wonen in Groningen.
+\end{enumerate}
+
+
+(Dutch) (Question Writing) D G (With Answer, With Example)
+
+Ask  where the following are:
+\begin{enumerate}
+\item Ask in a restaurant where the toilet is (de w.c.)
+\item Making coffee at a friend's house, ask where the coffee is (de koffie)
+\item Ask where Lieve lives (do not use the verb wonen)
+\item Looking for a child who is hiding, call out and ask where s/he is (do not use the verb to be)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Waar is de w.c.?
+\item Waar staat de koffie?
+\item Waar zit Lieve?
+\item Waar zit je?
+\end{enumerate}
+
+
+(Dutch) (Response Writing) D G (With Answer, With Example)
+
+Your friend is  bragging and generally asking for a lot of attention.
+You respond to all her statements appropriately. Various answers
+might be  possible. For example:
+Ik heb een nieuwe auto. I've got a new car.
+Oh, wat leuk!
+
+\begin{enumerate}
+\item Ik ben ziek.
+\item Ik ben morgen jarig.
+\item Ik spreek Russisch en Japans.
+\item Ik heb een schilderij van Picasso.
+\item Ik heb een huis in Frankrijk.
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Oh, wat vervelend!
+\item Oh, wat leuk!
+\item Oh, wat knap!
+\item Oh, wat interessant!
+\item Oh, wat leuk!
+\end{enumerate}
+
+
+(Dutch) (Question and Answer Writing) D G (With Answer, With Example)
+
+Practice asking for information about where something is, using the word waar, and giving simple directions.
+Identify the signs for the following places and give answers about where they are.
+For example:
+Waar is het internetcafe?
+Het internetcafe is  aan de rechterkant.
+
+\begin{enumerate}
+\item het ziekenhuis
+\item het zwembad
+\item het station
+\item het internetcafe
+\item het postkantoor
+\item het wisselkantoor
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Waar is het ziekenhuis?
+Het ziekenhuis is aan de linkerkant.
+\item Waar is het zwembad?
+Het zwembad is aan de rechterkant.
+\item Waar is het station?
+Het station is rechtdoor.
+\item Waar is het internetcafe?
+Het internetcafe is aan de rechterkant.
+\item Waar is het postkantoor?
+Het postkantoor is aan de linkerkant.
+\item Waar is het wisselkantoor?
+Het wisselkantoor is rechtdoor.
+\end{enumerate}
+
+
+(Dutch) (Question and Answer Writing) D G (With Answer)
+
+Ask the following people what they do and give their reply. Use the
+correct form of address, either u or jij.
+\begin{enumerate}
+\item Mevrouw Kooiman verpleegster
+\item Wim advocaat (lawyer)
+\item Dirk docent
+\item meneer Spaans dokter
+\item Jannie redacteur (editor)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Mevrouw Kooiman, wat doet u? - Ik ben verpleegster.
+\item Wim, wat doe jij? - Ik ben advocaat.
+\item Dirk, wat doe jij? - Ik ben docent.
+\item Meneer Spaans, wat doet u? - Ik ben dokter.
+\item Jannie, wat doe jij? - Ik ben redacteur.
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (With Answer)
+
+Complete the dialogues:
+\begin{enumerate}
+\item Hanny - Jij drinkt toch wijn?
+Marja - Nee, bier. __________?
+\item Peter - Jij zoekt toch het station?
+Helen - Nee, het postkantoor. __________?
+\item Annie - Jij  maakt toch de soep?
+Raymond - Nee, het slaatje. __________?
+\item Meneer Vogel - U schrijft toch kinderboeken?
+Mevrouw de Loo - Nee, romans. Wat \underline{________} u?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Hanny - Jij drinkt toch wijn?
+Marja - Nee, bier. Wat drink jij?
+\item Peter - Jij zoekt toch het station?
+Helen - Nee, het postkantoor. Wat zoek jij?
+\item Annie - Jij maakt toch de soep?
+Raymond - Nee, het slaatje. Wat maak jij?
+\item Meneer Vogel - U schrijft toch kinderboeken?
+Mevrouw de Loo - Nee, romans. Wat schrijft u?
+\end{enumerate}
+
+
+(Dutch) (Writing Words) D G (With Answer)
+
+Read the following numbers out loud in Dutch and write them:
+7, 4, 12, 5, 19, 2, 8, 10, 20, 17.
+
+\section{Answers}
+zeven, vier, twaalf, vijf, negentien, twee, acht, tien, twintig, zeventien.
+
+
+(Dutch) (Writing Words) D G (With Answer, Exercise on Numbers, With Example)
+
+Answer the following questions  using the patterns in these examples:
+Wat is uw huisnummer? (8) (What is your house number?)
+- Acht.
+Wat is je telefoonnummer? (564367) (What is  your telephone number?)
+- Vijf zes vier drie zes zeven.
+Wat is je PINnummer? (17 14) (What is your PIN number?)
+- Éen zeven éen vier.
+
+\begin{enumerate}
+\item Wat is uw huisnummer? (17)
+\item Wat is je telefoonnummer? (987621)
+\item Wat is je PINnummer? (11 19)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Zeventien.
+\item Negen acht zeven zes twee éen.
+\item Éen Éen Éen negen.
+\end{enumerate}
+
+
+(Dutch) (Time writing) D G (With Answer, With Example)
+
+Make a  dialogue for each of these times, asking the time and giving the time.
+For example:
+Hoe laat is het? Het is half drie.
+
+\begin{enumerate}
+\item 7:10
+\item 12:30
+\item 4:15
+\item 8:45
+\item 5:00
+\item 8:25
+\item 3:20
+\item 6:25
+\item 9:50
+\item 10:35
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Hoe laat is het? Het is tien over zeven.
+\item Hoe laat is het? Het is half één.
+\item Hoe laat is het? Het is kwart over vier.
+\item Hoe laat is het? Het is kwart voor negen.
+\item Hoe laat is het? Het is vijf uur.
+\item Hoe laat is het? Het is vijf voor half negen.
+\item Hoe laat is het? Het is twintig over drie.
+\item Hoe laat is het? Het is vijf voor half zeven.
+\item Hoe laat is het? Het is tien voor tien.
+\item Hoe laat is het? Het is vijf over half elf.
+\end{enumerate}
+
+
+(Dutch) (Time writing) D G (With Answer, With Example)
+
+Answer these questions.
+For example:
+Hoe laat begint de les?  (De les begint) om half drie.
+
+\begin{enumerate}
+\item Hoe laat ontbijt jij? (7:45)
+\item Hoe laat vertrekt de trein? (6:15)
+\item Hoe laat komt Paula? (10:30)
+\item Hoe laat begint het concert? (7:15)
+\item Hoe laat eindigt de film? (9:45)
+\item Hoe laat eet jij? (5:45)
+\item Hoe laat kom jij? (8:00)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik ontbijt om kwart voor acht.
+\item De trein vertrekt om kwart over zes.
+\item Paula komt om half elf.
+\item Het concert begint om kwart over zeven.
+\item De film eindigt om kwart voor tien.
+\item Ik eet om kwart voor zes.
+\item Ik kom om acht uur.
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (With Answer)
+
+Complete the sentences that follow using the correct form of the verb in brackets.
+
+\begin{enumerate}
+\item Ik __ naar huis. (gaan)
+\item Wij __ morgen bij  jou op bezoek. (komen)
+\item U __ tach naar Frankrijk op vakantie? (gaan)
+\item Wat __ jij  hier? (doen)
+\item Wat __ u voor werk? (doen)
+\item Ik __ morgen terug. (komen)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik ga naar huis.
+\item Wij komen morgen bij jou op bezoek.
+\item U gaat toch naar Frankrijk op vakantie?
+\item Wat doe jij hier?
+\item Wat doet u voor werk?
+\item Ik kom morgen terug.
+\end{enumerate}
+
+
+(Dutch) (Creative Writing) D G (Exercise on diaglogues)
+
+Create two (or more) dialogues between two acquaintances who happen to meet at a reception.
+They haven't seen one another for some time.
+One of your dialogues should be between a younger and an older person, so you need to think about how they address one another.
+Your second dialogue should be between two younger people.
+Use the following points to help you in creating this conversation.
+- Greet one another
+- Ask how s/he is
+- Ask what she is actually doing (One way of doing this is by showing you seem to remember his/her profession, e.g.: Jij bent toch advocaat?)
+- Ask about their relatives or acquaintances (by name) you have in common
+- You might want to respond that s/he/they are abroad
+- You can follow this up by further questions, such as where they live, or what they are doing there
+
+
+(Dutch) (Short Answers) D G (Multiple parts)
+
+Answer these Questions.
+\begin{enumerate}
+\item Translate: You Jive in Maastricht. (singular, informal)
+\item Translate: Do you live in Maastricht? (singular,  informal)
+\item Would you say De fles wijn zit op tafel. or De fles wijn staat op tafel.?
+\item A colleague says he has booked a holiday.
+Would you reply Wat leuk. or Wat vervelend.?
+\item A good friend is visiting you. Ask her what she is drinking.
+\item Give two positive replies to the question Hoe gaat het?
+\item Give a negative reply to the question Hoe gaat het?
+\item In Dutch, count out loud from zero to 20, and then from 20 to zero.
+\item Say what time it is right now.
+\item Say that the train is leaving at 20 to 8.
+\end{enumerate}
+
+
+(Dutch) (Number Writing) D G (With Answers, With Example)
+
+Wijnand is taking stock in the supermarket.
+He is  making a list of how many items there are left.
+Read the list out loud and write it down.
+For example:
+25 potten pindakaas
+Er zijn nog vijfentwintig potten pindakaas. (There are (still) 25 jars of peanut butter.)
+
+\begin{enumerate}
+\item 32 croissants
+\item 175 flessen witte wijn
+\item 239 flessen rode wijn
+\item 64 pakken melk (cartons of milk)
+\item 95 kuipjes boter (tubs of butter )
+\item 78 tubes tandpasta (tubes of toothpaste)
+\item 116 plastic tasjes (plastic bags)
+\item 22 kratten pils (crates of beer)
+
+\section{Answers}
+\begin{enumerate}
+\item Er zijn nog tweeëndertig croissants.
+\item Er zijn nog honderdvijfenzeventig flessen witte wijn.
+\item Er zijn nog tweehonderdnegenendertig flessen rode wijn.
+\item Er zijn nog vierenzestig pakken melk.
+\item Er zijn nog vijfennegentig kuipjes boter.
+\item Er zijn nog achtenzeventig tubes tandpasta.
+\item Er zijn nog honderdzestien plastic tasjes.
+\item Er zijn nog tweeëntwintig kratten pils.
+
+
+(Dutch) (Question and Answer Writing) D G (With Answers)
+
+Ask how much the following cost and provide the answers.
+
+\begin{enumerate}
+\item Fles rode wijn (4.25 euros)
+\item Krat pils (11.10 euros)
+\item Pak melk (0.76 euros)
+\item Kilo peren (1.88 euros)
+\item Kaas (3.05 euros)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Hoeveel kost de fles rode wijn? - De fles rode wijn kost vier euro vijfentwintig.
+\item Hoeveel kost het krat pils? - Het krat pils kost elf euro tien.
+\item Hoeveel kost het pak melk? - Het pak melk kost zesenzeventig cent.
+\item Hoeveel kost de kilo peren? - De kilo peren kost een euro achtentachtig.
+\item Hoeveel kost de kaas? - De kaas kost drie euro vijf.
+\end{enumerate}
+
+
+(Dutch) (Question and Answer Writing) D G (With Answers, With Example)
+
+Your partner has written a shopping list and you are checking the items together.
+Ask him how much is needed of each of the items listed.
+For example:
+Hoeveel flessen wijn heb je nodig?
+Ik heb drie flessen nodig.
+Hoeveel tomaten heb je nodig?
+Ik heb een kilo tomaten nodig.
+
+\begin{enumerate}
+\item sinaasappels (5)
+\item pakken melk (2)
+\item flessen bier (12
+\item bloemkolen (1)
+\item appels (1 kilo)
+\item pakken rijst (4)
+\item bonen (2 kilo)
+\item druiven (1 pond)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Hoeveel sinaasappels heb je nodig? - Ik heb vijf sinaasappels nodig.
+\item Hoeveel pakken melk heb je nodig? - Ik heb twee pakken melk nodig.
+\item Hoeveel flessen bier heb je nodig? - Ik heb twaalf flessen bier nodig.
+\item Hoeveel bloemkolen heb je nodig? - Ik heb één bloemkool nodig.
+\item Hoeveel appels heb je nodig? - Ik heb één kilo appels nodig.
+\item Hoeveel pakken rijst heb je nodig? - Ik heb vier pakken rijst nodig.
+\item Hoeveel bonen heb je nodig? - Ik heb twee kilo bonen nodig.
+\item Hoeveel druiven heb je nodig? - Ik heb één pond druiven nodig.
+\end{enumerate}
+
+
+(Dutch) (Plural Form Writing) D G (With Answers)
+
+Try making plurals for these words:
+appel, vrouw, disco, fles,  programma, computer, gracht (canal)
+
+\section{Answers}
+appels, vrouwen, disco's, flessen, programma's, computers, grachtens
+
+
+(Dutch) (Writing sentences) D G (Exercise on numbers and measures)
+
+You're going to the supermarket.
+Make up a boodschappenlijstje of as many things as you would normally buy in real life.
+You might want to try and use a dictionary.
+Once you have your own boodschappenlijstje use it to say what you need or want to buy, using the following structures:
+Ik heb ... nodig (I need ...)
+Ik wil ... (I want ...)
+
+Try and be  as  specific as possible about how much you need.
+Here are some weights and measures:
+een gram (gram)
+een kilo (a kilo)
+een liter (a litre)
+een ons (an ounce, 100 grams)
+een pond (a pound, 500 grams)
+
+
+(Dutch) (Short Answers) D G (Multiple Parts)
+
+\begin{enumerate}
+\item Give three food products and two drinks which you buy most weeks.
+\item On which e in the word drieentwintig should a trema (two dots, ë) be placed?
+\item Count out loud from 24 to 39 and then from 39 to 24
+\item Ask: How much does a bottle of white wine cost?
+\item Say whether the following words are de or het words:
+a suiker (sugar); b melk (milk); c postkantoor (post office); d brood (bread); e ding (thing)
+\item Give the plural form of the follwoing words:
+a de pot (jar); b de euro; c de man; d de foto (photo); e het meisje (girl)
+\item When you're in a shop and the shop keeper asks:
+Wie is er aan de beurt?
+What would you answer?
+\item Say: I would like a pound of cheese.
+\end{enumerate}
+
+
+(Dutch) (Writing Practice) D G (With Answers)
+
+Complete the sentences that follow about the relationships within the family.
+Each sentence should be made up from the point of view of the family member in brackets.
+For example:
+Opa is ... man (oma) -> opa is haar man
+
+\begin{enumerate}
+\item oom Jan is ... zoon. (opa)
+\item oom Jan is ... broer. (vader)
+\item oma is ... moeder. (tante Nel)
+\item vader is ... zoon. (oma)
+\item moeder is ... vrouw. (vader)
+\item tante Nel is ... dochter. (oma)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Oom Jan is zijn zoon.
+\item Oom Jan is zijn broer.
+\item Oma is haar moeder.
+\item Vader is zijn zoon.
+\item Moeder is zijn vrouw.
+\item Tante Nel is haar dochter.
+\end{enumerate}
+
+
+(Dutch) (Creative Writing) D G M
+
+Describe what you and your friend are going to wear tomorrow.
+
+
+(Dutch) (Writing Sentences) D G (With Example)
+
+Make a list of your own and your relatives' or friends' likes as far as food and drink are concerned.
+For example:
+Ik hou van bier.
+Mijn zus houdt van appels.
+
+
+(Dutch) (Writing Sentences) D G (With Example)
+
+Make a list of your own and your relatives' or friends' likes  as far as  activities  are concerned.
+For example:
+Ik hou van fietsen.
+Mijn vriend John houdt van skateboarden (skateboarding).
+
+
+(Dutch) (Writing Practice) D G (With Answers, With Example)
+
+Complete the sentences  and use the information between brackets.
+You do not have to use de or het. They are given here to help you
+in using the adjectives correctly. For example:
+Mijn broer Jan houdt van (het bier, koud).
+Mijn broer Jan houdt van koud bier.
+
+\begin{enumerate}
+\item Ik hou van ___________ (de  wijn, wit).
+\item Jij  houdt van ___________ (de  wijn, rood) hè?
+\item Jantien ___________ (de kleren, zwart).
+\item Mijn ouders  ___________ (de huizen,  groat).
+\item Mijn kinderen ___________ (de  voetbalshirts, oranje).
+\item Mandy ___________ (de  kinderen, klein).
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik hou van witte wijn.
+\item Jij houdt van rode wijn hè?
+\item Jantien houdt van zwarte kleren.
+\item Mijn ouders houden van grote huizen.
+\item Mijn kinderen houden van oranje voetbalshirts.
+\item Mandy houdt van kleine kinderen.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Example)
+
+Describe what you are wearing at the moment.
+Write the sentences down, then describe what two other people in your environment are wearing.
+For example:
+Ik draag een grijs T-shirt en een korte broek.
+Mijn vriendin draagt een strakke blouse en een spijkerbroek.
+
+
+(Dutch) (Short Answer) D G M
+
+Answer these questions:
+\begin{enumerate}
+\item Hoeveel broers heb je?;
+\item Hoeveel zussen heb je?;
+\item Hoeveel ooms heb je?
+\end{enumerate}
+
+
+(Dutch) (Pronunciation) D G M
+
+Say:
+\begin{enumerate}
+\item This is her mother.
+\item These are her parents.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Answer)
+
+Which of the following descriptive words gets an extra -e, and
+which doesn't? Can you explain why?
+\begin{enumerate}
+\item Ik draag een blauw_ spijkerbroek.
+\item Ik draag een groen_ overhemd.
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik draag een blauwe spijkerbroek.
+\item Ik draag een groen overhemd.
+\end{enumerate}
+A descriptive word gets an extra -e when it is used with a de word.
+When it is used with a het word, it does not get an extra -e.
+
+
+(Dutch) (Pronunciation) D G M
+
+Say:
+I am wearing a white T-shirt.
+
+
+(Dutch) (Short Answer) D G M
+
+Describe what you are wearing.
+
+
+(Dutch) (Pronunciation) D G M
+
+Say:
+We like red wine.
+
+
+(Dutch) (Short Answer) D G (With Answer)
+
+A friend's young son has made a drawing.
+Comment on it by saying: That's really beautiful!
+
+\section{Answers}
+Dat is echt mooi!
+
+
+(Dutch) (Writing Practice) D G (With Answer)
+
+\begin{enumerate}
+\item order a glass of orange juice
+\item order a glass of cordial
+\item order a strong drink (use the general term)
+\item ask for a cold drink (use the general term)
+\item ask for a sparkling blackcurrant drink
+\item ask for a tea with milk and sugar
+\item ask for a coffee with milk and without sugar
+\item ask for a pineapple juice
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik wil graag een glas sinaasappelsap.
+\item Ik wil graag een glas limonade.
+\item Ik wil graag een sterk drankje.
+\item Ik wil graag een koud drankje.
+\item Ik wil graag een bruisende zwarte bessendrank.
+\item Ik wil graag een thee met melk en suiker.
+\item Ik wil graag een koffie met melk en zonder suiker.
+\item Ik wil graag een ananassap.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Dialoog 1
+Barkeeper: Hoi.
+Chantal: Hoi. Heb je een lekker drankje voor me?
+Barkeeper: Jazeker. Zeg't maar. Cola? Wijntje? Pilsje?
+Chantal: Doe maar een glas limonade.
+
+Dialoog 2
+Ober: Wil u iets bestellen
+Berend: Geeft u mij maar een pilsje.
+Annie: Mag ik een jus d'orange?
+Ober: Wil u ook iets eten?
+Annie: Ja, wat neem jij?
+Berend: Ik wil graag een uitsmijter.
+Annie: Ja voor mij ook.
+Ober: Een pilsje, een jus d'orange en twee uitsmijters. En de kinderen?
+Annie: Geeft u hun maar patat.
+
+Compare Dialoog 1 and Dialoog 2.
+Answer the following questions in English.
+\begin{enumerate}
+\item Which one is more formal, do you think?
+\item Can you think of a few ways in which the language makes one dialogue more formal than the other?
+\end{enumerate}
+
+
+(Dutch) (Writing Practice) D G (With Answer, With Example)
+
+Order each of the following,  using a variety of expressions.
+For example:
+Geeft u mij maar een jus d'orange.
+Mag ik een jus d'orange?
+Doe maar een jus d' orange.
+Een jus d' orange, graag.
+
+\begin{enumerate}
+\item a glass of white wine
+\item a cup of tea
+\item an uitsmijter
+\item a gin
+\item a grape juice
+\item one piece of apple pie (het stuk means the piece)
+\item a salad
+\item a pizza
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Geeft u mij maar een glas witte wijn.
+\item Mag ik een kopje thee?
+\item Doe maar een uitsmijter.
+\item Een jenever, graag.
+\item Een druivensapje, alstublieft.
+\item Een stuk appeltaart.
+\item Een salade, graag.
+\item Een pizza, graag.
+\end{enumerate}
+
+
+(Dutch) (Writing Practice) D G (With Answer)
+
+Order the following in a formal and polite way:
+\begin{enumerate}
+\item een fles witte wijn
+\item vruchtensap
+\item aspergesoep
+\item de vegetarische
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Mag ik een fles witte wijn?
+\item Mag ik een vruchtensap?
+\item Mag ik een aspergesoep?
+\item Mag ik de vegetarische?
+\end{enumerate}
+
+
+(Dutch) (Writing Practice) D G (With Answer)
+
+Order the following in an informal manner:
+\begin{enumerate}
+\item spa rood
+\item bruin bolletje met geitenkaas en tijm
+\item een tonijnsalade
+\item de dagschotel
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Doe maar een spa rood.
+\item Doe maar een bruin bolletje met geitenkaas en tijm.
+\item Doe maar een tonijnsalade.
+\item Doe maar de dagschotel.
+\end{enumerate}
+
+
+(Dutch) (Complete the sentence) D G (With Answer)
+
+Complete the sentences and substitute the words in brackets by one of the object pronouns in the list:
+
+\begin{enumerate}
+\item mij - me
+\item jou - you
+\item u - you
+\item hem - him
+\item haar - her
+\item ons - us
+\item jullie - you
+\item u - you
+\item hen/hun/ze - them
+\end{enumerate}
+
+\begin{enumerate}
+\item Herman werkt met ... (Tania).
+\item Geef ... (ik) maar een stukje appeltaart.
+\item Jaap helpt ... (Jan en Luuk).
+\item Kees woont met ... (wij) samen (samen = together).
+\item Is dit van ... (jij)?
+\item Ik kus ... (mijn man).
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Herman werkt met haar.
+\item Geef mij maar een stukje appeltaart.
+\item Jaap helpt hen.
+\item Kees woont met ons samen.
+\item Is dit van jou?
+\item Ik kus hem.
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G M
+
+Fill in the gaps.
+The following conversation between two girls was overheard on a bus.
+
+Claire is verliefd op Jack.
+Echt? Maar hij is niet verliefd op ___
+Hij is volgens ___ (me) gek op Anita.
+Maar Anita gaat toch met Bart?
+Nee hoor. Bart is gek op Maarten. En Maarten ook op ___
+Echt?
+Ja, ik zag ___ samen zoenen.
+
+
+(Dutch) (Short Answer) D G (Exercise on drinks and food)
+
+A waiter in a  cafe says Zegt u het maar.
+Order two cups of coffee, a cola and an orange juice.
+
+
+(Dutch) (Short Answer) D G M
+
+Order the following things.
+Try to do it in different ways:
+\begin{enumerate}
+\item pizza
+\item fries with mayonaise
+\item coffee with milk and without sugar
+\end{enumerate}
+
+
+(Dutch) (Pronunciation) D G M
+
+Say:
+\begin{enumerate}
+\item I am hungry.
+\item They are thirsty.
+\end{enumerate}
+
+
+(Dutch) (Pronunciation) D G M
+
+Say:
+Juliet kisses Jake.
+
+
+(Dutch) (Fill in the gaps) D G M
+
+Fill in the correct form of the verb:
+\begin{enumerate}
+\item Ty ___ (werken) samen met een collega aan een nieuw product.
+(Ty is working with a colleague on a new product.)
+\item ___ (Werken) jij samen met Ty?
+\end{enumerate}
+
+
+(Dutch) (Modify Sentence) D G M
+
+Fill in the missing word. Then, replace Gabriella and Peter-Jan
+with one of the following words:
+ik, mij, zij, hij, wij, hem, haar, jou, jij.
+
+Gabriella is verliefd ___ Peter-Jan.
+
+
+(Dutch) (Pronunciation) D G M
+
+Tell a friend:
+Robert is in love with you.
+
+
+(Dutch) (Writing Sentences) D G (With Answer, With Example)
+
+You're going on holiday with a friend. There's a lot that still needs to be organized.
+Your friend is checking to see what you are doing, but because you are busy with work, you can't really do anything.
+Give negative answers and tell him/her that you're too busy (Ik heb het te druk).
+For example:
+Bel jij het hotel?,
+Answer: Nee, ik bel het hotel niet. Ik heb het te druk.
+
+\begin{enumerate}
+\item Boek jij de tickets?
+\item Bestel jij de taxi? (bestellen to order)
+\item Organiseer jij de excursies? (to organize the excursions)
+\item Pak jij de koffers? (to pack the suitcases)
+\item Koop jij de malariapillen? (malaria pills/tablets)
+\item Wissel jij het geld? (to change the money)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Nee, ik boek de tickets niet. Ik heb het te druk.
+\item Nee, ik bestel de taxi niet. Ik heb het te druk.
+\item Nee, ik organiseer de excursies niet. Ik heb het te druk.
+\item Nee, ik pak de koffers niet. Ik heb het te druk.
+\item Nee, ik koop de malariapillen niet. Ik heb het te druk.
+\item Nee, ik wissel het geld niet. Ik heb het te druk.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Answer the following questions from your own perspective.
+Answer with a whole sentence.
+
+\begin{enumerate}
+\item Hou je van modeme kleren?
+\item Houdt u van grate tuinen?
+\item Werk je  in Groningen?
+\item Woont u in Amersfoort?
+\item Zijn je schoenen oud?
+\item Drink je graag thee zonder melk?  (NB  graag is  an adverb here)
+\item Bent  u de  nieuwe manager?
+\item Zijn de  bananen duur?  (NB  duur is  an adjective here)
+\item Gaat u naar uw werk?
+\item Is  dit je jas?
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Practise answering with geen by completing the following mini-dialogues.
+Answer all these questions in the negative:
+
+\begin{enumerate}
+\item Drink je melk?
+\item Koop je appels?
+\item Eet je chocola?
+\item Spreek je Frans?
+\item Heb je kinderen?
+\item Neem je een uitsmijter?
+\item Wil je een slaatje?
+\item Breng jij een pizza?
+\end{enumerate}
+
+
+(Dutch) (Write Sentences) D G M
+
+Unfortunately, things are not going as  planned and you're having to give negative answers to all the following questions.
+
+\begin{enumerate}
+\item Hebt u een auto?
+\item Woont u in de buurt?
+\item Hebt u ervaring? (experience)
+\item Hebt u diploma's?
+\item Werkt u graag?
+\item Bent u punctueel? (punctual)
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer, With Example)
+
+Practice checking information you have about people on a list by asking yes/no questions.
+Formulate your questions according to patterns you know.
+For example:
+Bent u meneer Plantinga?
+Woon jij in Heerenveen?
+Is jouw adres Turfstraat
+
+\begin{enumerate}
+\item Meneer Plantinga
+woonplaats: Harderwijk
+beroep: politieagent
+adres: Pijlslaan 15
+postcode: 2586 AL
+telefoonnummer: 4326781
+\item Kaatje Lijbers
+woonplaats: Heerenveen
+beroep: verpleegster
+adres: Seringenlaan 18
+postcode:  1864 KN
+telefoonnummer: 567392
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Bent u meneer Plantinga?
+Ben u politieagent?
+Woon u in Harderwijk?
+Is uw adres Pijlslaan 15?
+Is uw postcode 2586 AL?
+Is uw telefoonnummer 4326781?
+\item Bent u Kaatje Lijbers?
+Ben u verpleegster?
+Woon u in Heerenveen?
+Is uw adres Seringenlaan 18?
+Is uw postcode 1864 KN?
+Is uw telefoonnummer 567392?
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer, With Example)
+
+You are conducting a survey of people's leisure activities.
+You want to know whether they do certain things.
+Ask about the activities listed.
+For example:
+tv kijken (to watch tv)
+Kijkt u tv?
+
+Write out the questions based on these activities.
+\begin{enumerate}
+\item naar de radio luisteren (to listen to the radio)
+\item naar restaurants gaan
+\item naar feesten gaan (to go to parties)
+\item wijn drinken
+\item Frans spreken
+\item pizza's eten
+\item spijkerbroeken dragen
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Luistert u naar de radio?
+\item Gaat u naar restaurants?
+\item Gaat u naar feesten?
+\item Drinkt u wijn?
+\item Spreekt u Frans?
+\item Eet u pizza's?
+\item Draagt u spijkerbroeken?
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer, With Example)
+
+Make questions and answers following this example:
+naar de bioscoop (the cinema) gaan
+Ga je naar de bioscoop?
+Nee, ik ga niet naar de bioscoop.
+
+\begin{enumerate}
+\item naar de  radio luisteren
+\item naar restaurants gaan
+\item naar feesten gaan
+\end{enumerate}
+
+And now do the same following this example for the last four:
+Leest u  boeken?
+Nee, ik lees geen boeken.
+\begin{enumerate}
+\item wijn drinken
+\item Frans spreken
+\item pizza's eten
+\item spijkerbroeken dragen
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ga je naar de radio luisteren?
+Nee, ik ga niet naar de radio luisteren.
+\item Ga je naar restaurants?
+Nee, ik ga niet naar restaurants.
+\item Ga je naar feesten?
+Nee, ik ga niet naar feesten.
+\end{enumerate}
+\begin{enumerate}
+\item Drinkt u wijn?
+Nee, ik drink geen wijn.
+\item Spreekt u Frans?
+Nee, ik spreek geen Frans.
+\item Eet u pizza's?
+Nee, ik eet geen pizza's.
+\item Draagt u spijkerbroeken?
+Nee, ik draag geen spijkerbroeken.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer, With Example)
+
+You're at a Dutch course in the Netherlands.
+All students are asked what nationality they are.
+Give their answers.
+For example:
+meneer Callenbach (Dutch) --> Ik ben Nederlands.
+
+\begin{enumerate}
+\item Jean Roach (American)
+\item Françoise Le Lerre (French)
+\item Tony Jackson (Irish)
+\item mevrouw Wong (Chinese)
+\item Mary Brander (Scottish)
+\item Annette Braun (German)
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik ben Amerikaans.
+\item Ik ben Frans.
+\item Ik ben Iers.
+\item Ik ben Chinees.
+\item Ik ben Schots.
+\item Ik ben Duits.
+\end{enumerate}
+
+
+(Dutch) (Fill in the gaps) D G (With Answer, With Example)
+
+Fill in the gap, using the correct descriptive word.
+For example:
+Ik hou van ... humor (England) --> Ik hou van Engelse humor.
+(I like English humour)
+
+\begin{enumerate}
+\item Jack houdt van ... kaas (Nederland).
+\item Cynthia koopt meestal ... chips (Amerika).
+\item Ik hou van ... whisky (Schotland).
+\item Ik eet vaak ... brood (Duitsland). (NB het brood)
+\item Mijn man draagt vaak ... kleren (Italië).
+\item Wij drinken meestal ... wijn (Spanje).
+\item Tony luistert vaak naar ... muziek (Ierland).
+\item Chris kijkt meestal naar ... tv programma's (Groot Brittannie).
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Jack houdt van Nederlandse kaas.
+\item Cynthia koopt meestal Amerikaanse chips.
+\item Ik hou van Schotse whisky.
+\item Ik eet vaak Duits brood.
+\item Mijn man draagt vaak Italiaanse kleren.
+\item Wij drinken meestal Spaanse wijn.
+\item Tony luistert vaak naar Ierse muziek.
+\item Chris kijkt meestal naar Britse tv programma's.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Make the following sentences negative using niet:
+\begin{enumerate}
+\item Johanna komt uit Belgie.
+\item We houden van strandvakanties.
+\item Hij is de nieuwe directeur.
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Johanna komt niet uit Belgie.
+\item We houden niet van strandvakanties.
+\item Hij is niet de nieuwe directeur.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Give a negative answer using geen:
+\begin{enumerate}
+\item Heb je een auto?
+\item Wil Saskia een biertje?
+\item Spreken jullie Duits?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Nee, ik heb geen auto.
+\item Nee, Saskia wil geen biertje.
+\item Nee, wij spreken geen Duits.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Give a negative answer using niet or geen:
+\begin{enumerate}
+\item Heb je ervaring?
+\item Werken Joost en zijn vriend hard?
+\item Woon jij in Groningen?
+\item Neem jij een patatje met?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Nee, ik heb geen ervaring.
+\item Nee, Joost en zijn vriend werken niet hard.
+\item Nee, ik woon niet in Groningen.
+\item Nee, ik neem geen patatje met.
+\end{enumerate}
+
+
+(Dutch) (Fill in the blanks) D G (With Answer)
+
+Finish the following sentences, following the example.
+Example: Klaas komt uit Frankrijk, hij is Frans.
+
+\begin{enumerate}
+\item Meike komt uit Duitsland, zij is ____.
+\item Isa komt uit Nederland, zij is ____.
+\item Mary en Li komen uit Amerika, zij zijn ____.
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Meike komt uit Duitsland, zij is Duits.
+\item Isa komt uit Nederland, zij is Nederlands.
+\item Mary en Li komen uit Amerika, zij zijn Amerikaans.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+You're talking to your friend, Marijke.
+She's asking you what you are going to do tomorrow.
+Answer her by using the activities provided.
+For example:
+Wat ga je morgen doen? (dancing) --> Ik ga morgen dansen.
+
+\begin{enumerate}
+\item phone the school
+\item skating
+\item swimming
+\item eat in a restaurant
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ik ga morgen naar school bellen.
+\item Ik ga morgen schaatsen.
+\item Ik ga morgen zwemmen.
+\item Ik ga morgen in een restaurant eten.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer, With Example)
+
+Ask Marijke what she has to do tomorrow and give her answers.
+Use moeten.
+For example:
+to work
+Moet je morgen werken?
+Ja, ik moet morgen werken.
+
+\begin{enumerate}
+\item to do the shopping
+\item to paint her house
+\item to email her friend
+\item to clean
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Moet je morgen boodschappen doen?
+Ja, ik moet morgen boodschappen doen.
+\item Moet je morgen je huis schilderen?
+Ja, ik moet morgen mijn huis schilderen.
+\item Moet je morgen je vriendin e-mailen?
+Ja, ik moet morgen mijn vriendin e-mailen.
+\item Moet je morgen schoonmaken?
+Ja, ik moet morgen schoonmaken.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Ask Frans whether he is going to eat in a Chinese restaurant this evening.
+For example:
+Ga je vanavond in een Chinees restaurant eten?
+
+\begin{enumerate}
+\item Ask Frans whether he is going to go dancing the day after tomorrow.
+\item Ask him if he is going to play sports (sporten) this evening.
+\item Ask him if he is going to work next week.
+\item Ask him if he is going to go shopping this afternoon.
+\item Ask him if he is going to paint his house next year.
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ga je overmorgen dansen?
+\item Ga je vanavond sporten?
+\item Ga je volgende week werken?
+\item Ga je vanmiddag winkelen?
+\item Ga je volgend jaar je huis schilderen?
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (Multiple Steps)
+
+\begin{enumerate}
+\item Say that you are not interested in the following:
+\begin{enumerate}
+\item moderne kunst (modern art)
+\item politiek (politics)
+\item science fiction
+\item sport
+popmuziek (pop music)
+\end{enumerate}
+\end{enumerate}
+
+\paragraph
+\begin{enumerate}
+\item Now give a more nuanced view of what you think of them by including
+the following phrases:
+\begin{enumerate}
+\item ik ben vreselijk geinteresseerd in - I'm terribly/very interested in
+\item vooral - I'm especially interested in
+\item nogal - I'm quite interested in
+\item minder - I'm less interested in
+\item niet echt - I'm not really interested in
+\item helemaal niet - I'm not at all interested in
+\end{enumerate}
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (Multiple Steps)
+
+\begin{enumerate}
+\item Say that you are interested in the following:
+\begin{enumerate}
+\item klassieke muziek (classical music)
+\item Nederlandse literatuur (Dutch literature)
+\item autotechniek (car  engineering)
+\item toneel (drama)
+\end{enumerate}
+\end{enumerate}
+
+\begin{enumerate}
+\item Now give a more nuanced view of what you think of them by including
+the following phrases:
+\begin{enumerate}
+\item ik ben vreselijk geinteresseerd in - I'm terribly/very interested in
+\item vooral - I'm especially interested in
+\item nogal - I'm quite interested in
+\item minder - I'm less interested in
+\item niet echt - I'm not really interested in
+\item helemaal niet - I'm not at all interested in
+\end{enumerate}
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (With Answer)
+
+Fill in the gaps.
+
+\begin{enumerate}
+\item Welke dag is het vandaag? Vandaag is het ...
+\item Welke dag is het morgen? Morgen is het ...
+\item De dagen in het weekend zijn ...
+\item De dag na woensdag is ... (na means after)
+\item De dag voor woensdag is ... (voor means before)
+\item De dag na zondag is ...
+\item De dag voor zaterdag is ...
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Welke dag is het vandaag? Vandaag is het maandag.
+\item Welke dag is het morgen? Morgen is het dinsdag.
+\item De dagen in het weekend zijn zaterdag en zondag.
+\item De dag na woensdag is donderdag.
+\item De dag voor woensdag is dinsdag.
+\item De dag na zondag is maandag.
+\item De dag voor zaterdag is vrijdag.
+\end{enumerate}
+
+
+(Dutch) (Translation) D G M
+
+Write a short dialogue:
+Ask what you and your partner should do on Saturday.
+Your partner suggests going to a Chinese restaurant.
+You are keen, but you can't make it on Saturday, but you can on Sunday.
+Arrange to meet at 2.15 at the entrance.
+
+Read this new dialogue out loud and then write it down.
+
+
+(Dutch) (Short Answer) D G (Multiple Parts)
+
+Jan's diary:
+Zaterdagmiddag: nieuwe voetbalschoenen kopen
+Zondagochtend: voetballen
+
+\begin{enumerate}
+\item Ask Jan what he is going to do on the days listed in his diary and also provide his response.
+Say it out loud first and then write it down.
+Make sure you alter the form of the main verb as necessary.
+\item Marjan is asking you about Jan's activities.
+She wants to know what he is going to do on Saturday afternoon and Sunday morning.
+Make a mini-dialogue with her questions and your answers.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Kees and Maria's diary:
+Vrijdagavond: Maria's verjaardag vieren
+Zaterdagochtend: langs de dijk fietsen
+
+\begin{enumerate}
+\item Ask them what they are going to do on these days and provide the answers.
+\item Piet is asking you what Kees and Maria are doing on Friday evening and Saturday morning.
+Make a mini-dialogue with his questions and your answers.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G M
+
+Look at this list of activities:
+\begin{enumerate}
+\item mijn haar wassen - to wash my hair
+\item in de tuin werken - to work in the garden
+\item eten koken - to cook dinner (literally: to cook food)
+\item mijn zoon met zijn huiswerk helpen - to help my son with his homework
+\item naar het feest van Maria gaan - to go to Maria's party
+\item een cadeau voor Maria kopen - to buy a present for Maria
+\item foto's in het museum  maken - to take pictures in the museum
+\end{enumerate}
+
+Use the verbs gaan, mogen, moeten, willen and kunnen to make sentences about these listed activities.
+Which verb you use depends on what seems appropriate to you, whether you can, want, are allowed or have to do these activities.
+
+
+(Dutch) (Pronounciation) D G M
+
+Say:
+\begin{enumerate}
+\item I am going to go  cycling tomorrow.
+\item We have to work tomorrow.
+\item Henk is  not going to do the shopping on Tuesday.
+\end{enumerate}
+
+
+(Dutch) (Write Sentence) D G M
+
+Ask Carla whether she is going to watch television tonight.
+Write the sentence and say it out loud.
+
+
+(Dutch) (Short Answer) D G M
+
+Say how much you are interested (or not) in the following things:
+\begin{enumerate}
+\item football (soccer) / not really
+\item films / quite
+\item politiek / especially
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Make suggestions to your friends, saying you can do the following things.
+Add the day on which you could undertake these things:
+\begin{enumerate}
+\item in een restaurant eten / Wednesday
+\item go to the cinema / Friday
+\item play sports / Sunday
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Example)
+
+Say  you can't join your friends on a particular day, because of the following reasons:
+Example: Sunday / zwemmen.
+Answer: Ik kan niet, ik moet zondag zwemmen.
+
+\begin{enumerate}
+\item Monday / wash my hair
+\item Thursday / do the shopping
+\item Tuesday / work
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (Exercise on food)
+
+\textbf{Dialogue: Bij De Delicatessen}
+Wieteke: Wat zullen we nemen?
+Gerrit: Ik heb zin in de gevulde burrito's vanavond.
+Wieteke: Die zijn een beetje duur.
+Gerrit Hm ja. De loempia's zijn goedkoper. Zullen we die maar nemen?
+
+Answer the following questions about the dialogue in English.
+\begin{enumerate}
+\item Why is Wieteke not that keen on buying the burritos?
+\item What does Gerrit suggest they buy instead?
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Answer, Answer in English, Exercise on text comprehension)
+
+\textbf{Dialogue: In De Sportswinkel}
+Mark: Jee, wat een cool T-shirtl
+Tony: Nee joh. Die daar is toch veel hipper?
+Mark: Ja, en ook stukken duurder.
+Tony: Ach man, wat maakt dat nou uit? Dan werkje toch een paar dagen  meer in de  zomer?
+
+Answer in English:
+What arguments does Tony use in trying to convince Mark to buy the more expensive T-shirt?
+
+\section{Answers}
+Tony suggests that Mark could work a few more days in the summer to pay for the more expensive T-shirt.
+
+
+(Dutch) (Short Answer) D G (With Answer)
+
+\textbf{Dialogue 1: Bij De Delicatessen}
+Wieteke: Wat zullen we nemen?
+Gerrit: Ik heb zin in de gevulde burrito's vanavond.
+Wieteke: Die zijn een beetje duur.
+Gerrit Hm ja. De loempia's zijn goedkoper. Zullen we die maar nemen?
+
+Dialogue 2: In De Restaurant
+Wieteke: Neem jij het dagmenu?
+Gerrit: Ik heb eigenlijk zin in biefstuk, maar dat is minder gezond.
+Wieteke: Dan neem je het dagmenu toch? Dat vind je toch ook lekker.
+
+Dialogue 3: In De Sportswinkel
+Mark: Jee, wat een cool T-shirtl
+Tony: Nee joh. Die daar is toch veel hipper?
+Mark: Ja, en ook stukken duurder.
+Tony: Ach man, wat maakt dat nou uit? Dan werk je toch een paar dagen meer in de zomer?
+
+Which of the three dialogues is the most informal and colloquial?
+How can you tell by the language used?
+
+\section{Answers}
+Dialogue \begin{enumerate}
+\item is the most informal and colloquial.
+The language used is more informal and colloquial, with the use of jee, joh, cool, hipper, stukken duurder en ach man.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+Look at this list:
+Mevrouw Dijkstal / een groot feest
+Erwin / een Italiaanse maaltijd
+Pieter / de vakantie
+Meneer Paardekoper / een lange wandeling
+
+\begin{enumerate}
+\item Make up mini-dialogues and ask each of these people what they fancy and give their responses.
+After you have practiced saying the dialogues out loud, write them down.
+Think about the correct register.
+\item Write down for each of these people what they fancy.
+For example:
+Mevrouw Dijkstal heeft zin in een groot feest.
+\item Write down for yourself what you fancy.
+Perhaps you could add to the list.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Example)
+
+Answer the following questions and put the words between brackets in the correct form.
+For example:
+WeJke bloemen (flowers) wil je?
+Ik vind die blauwe ... (mooi) --> Ik vind die blauwe mooier.
+
+\begin{enumerate}
+\item Wie vraag (ask) je op je feestje, Hans of Margaret?
+Hans, denk ik. Ik vind hem ... (aardig).
+\item Welke appels vind je lekker? De rode of de groene?
+Ik vind de rode ... (lekker). De groene zijn ... (zuur) (sour).
+\item Welke koekjes wil je? Deze of die?
+Ik vind de ronde koekjes ... (lekker). Die zijn ... (zoet).
+\item Welke auto wil je hebben? Een Ford Galaxy of een Ferrari?
+Een Ford Galaxy is ... (groot), maar een Ferrari is ... (snel).
+\item Wat doe je liever? Skeeleren of schaatsen?
+Skeeleren vind ik ... (leuk).
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (With Answers, With Example)
+
+Complete using die or dat.
+Fill in the correct form of the word between brackets.
+For example:
+Wil je in die stoel zitten?
+Nee, ... stoel zit ... (lekker)  --> Nee, deze stoel zit lekkerder.
+
+\begin{enumerate}
+\item Vind je dit boek moeilijk?
+Nee, ik  vind ... boek ... (moeilijk).
+\item Vind je deze gele broek mooi?
+Nee, ik vind ... rode broek ... (mooi).
+\item Wil je deze krant hebben?
+Nee, ik vind ... krant ... (interessant).
+\item Vind je dit artikel saai?
+Nee, ik vind ... artikel ... (saai).
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Vind je dit boek moeilijk?
+Nee, ik vind dat boek moeilijker.
+\item Vind je deze gele broek mooi?
+Nee, ik vind die rode broek mooier.
+\item Wil je deze krant hebben?
+Nee, ik vind die krant interessanter.
+\item Vind je dit artikel saai?
+Nee, ik vind dat artikel saaier.
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (With Example)
+
+You have been asked to participate in a wine-tasting session for a market research company.
+Write down your findings using the words below.
+For example:
+Wijn A is/smaakt fruitiger dan wijn B.
+
+\begin{enumerate}
+\item smaken to taste
+\item fruitig fruity
+\item lekker nice
+\item vol full bodied
+\item Licht light
+\item zwaar heavy
+\item zoet sweet
+\item kruidig spicy\end{enumerate}
+
+
+(Dutch) (Sentence Practice) D G (With Example)
+
+You are talking with a friend about the dress sense of two of your colleagues.
+Use the words in the list below.
+For example:
+Jane's kleren zijn vrouweJijker dan die van Els. Jane's clothes are  more feminine than Els'.
+
+net neat and tidy
+saai boring
+ouderwets old fashioned
+hip hip
+modern modem
+fleurig colourful
+vrouwelijk feminine
+truttig dowdy
+opvallend striking
+goedkoop cheap
+duur expensive
+schoon clean
+
+
+(Dutch) (Writing Practice) D G M
+
+Write a comparison of two major public figures.
+They could be sporting heroes, political figures or figures in the royal family.
+Use adjectives you already know and some from this list in your description:
+
+\begin{enumerate}
+\item conservatief conservative
+\item progressief progressive
+\item tolerant tolerant
+\item agressief aggressive
+\item dik fat
+\item slank slim
+\item aantrekkelijk attractive
+\item intelligent intelligent
+\item dom stupid
+\item stijf stiff\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G (Multiple Steps, With Example)
+
+Wat heb je liever? Say which of the following pairs you prefer, following the example.
+Example:
+rode wijn / bier.
+Answer: Ik heb liever bier dan rode wijn.
+\begin{enumerate}
+\item appel/ sinaasappel
+\item pata/ salad
+\item koffi/ kruidenthe
+\item aardappel/ rijs
+\item eefrikande/ eekroke
+\end{enumerate}
+
+\paragraph
+Make comparisons of people you know, using the pairs given below.
+Example:
+lang / klein.
+Answer: Mijn vriend Peter is langer dan mijn vriendin Johanna.
+Or: Mijn vriendin Johanna is kleiner dan mijn vriend Peter. (The answer depends on the people you know, of course.)
+\begin{enumerate}
+\item di/ dun
+\item rij/ arm
+\item saa/ interessant
+\item jon/ oud
+\item moder/ ouderwets
+\end{enumerate}
+
+
+(Dutch) (Vocabulary Practice) D G (With Answer)
+
+There are various ways of saying goodbye in Dutch:
+You can use tot zo and tot straks, which both mean see you in a little while.
+If two individuals did not know when they would meet again, they could say tot ziens.
+Similarly, if they knew they would meet again in the evening or the next morning, they could have said tot vanavond, tot morgen or tot dan (see you then).
+
+\begin{enumerate}
+\item What would they have said if they were going to meet again this afternoon?
+\item And what would they have said if they were going to meet again on Sunday?
+\item And on Wednesday?
+\item And on Tuesday?
+\item And what if they were going to meet again next week?
+\item And next month?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Tot straks.
+\item Tot zondag.
+\item Tot woensdag.
+\item Tot dinsdag.
+\item Tot volgende week.
+\item Tot volgende maand.
+\end{enumerate}
+
+
+(Dutch) (Reading Comprehension) D G (With Answer)
+
+Read the advertisement for the treintaxi and answer the questions in Dutch.
+
+DOE EENS MAKKELIJK. NEEM DE TREINTAXI.
+De Treintaxi brengt u op een comfortabele manier van en naar het NS-station.
+U deelt de Treintaxi met andere passagiers.
+Een kaartje voor de Treintaxi kost €4,70.
+U kunt dit op het station kopen.
+U geeft uw kaartje aan de chauffeur.
+U kunt een kaartje voor de taxi ook bij de chauffeur kopen, maar dan is het duurder.
+De chauffeur wacht bij het station maximaal 10 minuten op andere passagiers.
+De Treintaxi rijdt van en naar meer dan 30 stations.
+De Treintaxi kan u dus ook ophalen en naar het station brengen.
+Bel dan een half uur voor u wilt vertrekken naar de Treintaxi-centrale
+
+\begin{enumerate}
+\item Wat is het voordeel (advantage) van de treintaxi?
+\item Waar koop je een kaartje voor de treintaxi?
+\item Hoe lang wacht de chauffeur op andere passagiers?
+\item Bij hoeveel stations staat een treintaxi?
+\item Wat is het nadeel (disadvantage) als je een kaartje bij de chauffeur koopt?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Het voordeel van de treintaxi is dat het u op een comfortabele manier van en naar het NS-station brengt.
+\item Je koopt een kaartje voor de treintaxi op het station.
+\item De chauffeur wacht maximaal
+\item minuten op andere passagiers.
+\item Een treintaxi staat bij meer dan
+\item stations.
+\item Het nadeel als je een kaartje bij de chauffeur koopt, is dat het duurder is.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (With Answer)
+
+Frouke: Met Frouke van den Broek.
+Dinie: Dag Frouke, met Dinie Heijermans.
+Zeg, ik heb eigenlijk een afspraak met je voor maandag, maar ik moet dat helaas afzeggen.
+Kan ik voor een andere keer afspreken?
+Frouk: Ja, natuurlijk. Komt morgen je goed uit?
+Dinie: Nee, dat komt mij niet zo goed uit. Donderdag is beter.
+Frouke: Om tien uur?
+Dinie: Ja dat is goed. Dan spreken we donderdag om tien uur af.
+Frouke: Tot dan.
+Dinie: Ja, tot dan.
+
+Answer the following questions about the phone conversation between Dinie and Frouke in English, but answer the third and fourth in Dutch.
+\begin{enumerate}
+\item What does Frouke say when she answers the phone? (give the English translation)
+\item Why does Dinie phone her homeopath?
+\item Which expression indicates that Frouke readily agrees to this?
+\item How does Frouke ask whether tomorrow will suit Dinie? (give the Dutch expression)
+\item Does that suit Dinie?
+\item When do they agree to meet?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Frouke says: Hello, speaking with Frouke van den Broek.
+\item Dinie phones her homeopath because she has to cancel her appointment with Frouke for Monday.
+\item Frouke says: Ja, natuurlijk.
+\item Frouke asks: Komt morgen je goed uit?
+\item No
+\item They agree to meet on Thursday at ten o'clock.
+\end{enumerate}
+
+
+(Dutch) (Short Answers) D G (With Answer, Exercise on telephone conversations)
+
+\begin{enumerate}
+\item Give two phrases that can be used on the phone to ask to talk to someone?
+\item \begin{enumerate}
+\item Ask if you can talk to meneer Plantinga.
+\item Ask if Menno is at home.
+\end{enumerate}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Is ... thuis?
+Kan ik met ... spreken?
+\item \begin{enumerate}
+\item Kan ik met meneer Plantinga spreken?
+\item Is Menno thuis?
+\end{enumerate}
+\end{enumerate}
+
+
+(Dutch) (Writing Sentences) D G M
+
+Make up dialogues for the following situations.
+\begin{enumerate}
+\item You are phoning your friend Alice.
+Her husband, Dirk Jansen, answers the phone and says that Alice is at a party, but that she will be home tomorrow.
+You say you will phone tomorrow.
+\item You are phoning the loans department of your local bank.
+You ask for Mrs Blom and the girl who answers the phone says she will put you through.
+\end{enumerate}
+
+
+(Dutch) (Conjugation Practice) D G (With Example, With Hint)
+
+Answer the following questions in the affirmative using the
+separable verb.
+For example:
+Zullen we nu weggaan?
+Ja, we gaan nu weg.
+
+\begin{enumerate}
+\item Willen jullie morgen meekomen?
+\item Willen jullie graag thuisblijven?
+\item Ga jij het schilderij in de kamer ophangen?
+\item Wil jij de pizza meebrengen?
+\item Wil jij het huis schoonmaken?
+\end{enumerate}
+
+\section{Hint}
+Think about the correct forms of the verbs as well as the
+correct pronouns (wij, jullie, ik, etc.).
+
+
+(Dutch) (Short Answer) D G M
+
+\begin{enumerate}
+\item Give two ways of saying "See you later" in Dutch.
+\item If you're saying goodbye to someone who you'll see again in the afternoon, what could you say?
+\item Give two different ways of greeting someone.
+\item What would you say if you were answering the phone in Dutch?
+\item You're calling Simon. His girlfriend Petra answers the phone. Ask Petra if Simon is at home.
+\item Use the verb afspreken to tell a friend that your are arranging to meet tomorrow at a quarter to two.
+\item Translate the following sentences, using the verbs in brackets:
+\begin{enumerate}
+\item I am going to finish my work. (afmaken)
+\item I'll pick you up at half past six. (ophalen)
+\item Jean arrives at five o'clock. (aankomen)
+\item We are staying at home tonight. (thuisblijven)
+\end{enumerate}
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G M
+
+Complete using toch or maar as appropriate.
+\begin{enumerate}
+\item Ga ... naar huis. (colleague who is fed up with the secretary sneezing and spluttering over her desk)
+\item Ga ... naar huis. (boss, kindly, to secretary who is obviously ill)
+\item Zit ... stil. (mother to fidgety child)
+\item Hou ... je mond. (mother to her incessantly chatting child)
+\item Doe het raam ... open. (teacher gives child permission to open the window, because it is so warm)
+\item Doe het raam ... open. (teacher to same child who is delaying opening the window)
+\item Ga ... met Jantien uit vanavond. Ik pas wel op de kinderen. (husband encourages his wife to go out while he looks after the children)
+\end{enumerate}
+
+
+(Dutch) (Writing Practice) D G (With Example)
+
+Can you change the following questions into orders? For example:
+Kun je de deur dicht doen? --> Doe de deur dicht.
+\begin{enumerate}
+\item Kun je straks de boodschappen doen?
+\item Kun je me vanavond bellen?
+\item Kun je deze les voor morgen leren?
+\item Wil je oom Jan vanavond schrijven?
+\item Kun je dit artikellezen?
+\item Wil je niet zo hard schreeuwen?
+\end{enumerate}
+
+
+(Dutch) (Short Answers, Fill in the gap) D G (With Answer)
+
+\begin{enumerate}
+\item Some friends  are coming over for dinner. You're welcoming them in Dutch. Follow the instructions.
+\begin{enumerate}
+\item They knock on the door. Greet them and invite them in.
+\item Invite them to take their coat off.
+\item Suggest that they sit down.
+\end{enumerate}
+\item In the following sentences, does maar indicate that the speaker is being polite or irritated?
+\begin{enumerate}
+\item Geef je jas maar aan mij!
+\item Kom maar met me mee.
+\end{enumerate}
+\item In the following sentences, does toch indicate that the speaker is being polite or irritated?
+\begin{enumerate}
+\item Geef dat boek toch hier!
+\item Kom toch met me mee.
+\end{enumerate}
+\item Fill in maar or toch.
+\begin{enumerate}
+\item Je hebt al genoeg gedaan. Ga ..... naar huis. (Your boss tells you that you can go home).
+\item Blijf ..... stil zitten! (A father to his daughter, who has been annyoing him).
+\item Drink je drankje .... op. (A husband to his wife, at a party he wants to leave).
+\item Geef mij ..... een biertje. (Your answer to your host's question what you'd like to drink).
+\end{enumerate}
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item \begin{enumerate}
+\item Hallo, kom maar binnen.
+\item Doe je jas maar uit.
+\item Ga maar zitten.
+\end{enumerate}
+\item \begin{enumerate}
+\item Irritated
+\item Polite
+\end{enumerate}
+\item \begin{enumerate}
+\item Irritated
+\item Polite
+\end{enumerate}
+\item \begin{enumerate}
+\item maar
+\item toch
+\item maar
+\item maar
+\end{enumerate}
+\end{enumerate}
+
+
+(Dutch) (Reading Comprehension) D G (With Answer)
+
+Ludwien Wij Willen volgende maand een weekje op vakantie.
+Gewoon in Nederland. Hebben jullie misschien zin om mee te gaan?
+Jackie Ja, dat lijkt me erg leuk.
+Ludwien We moeten wel goede afspraken maken.
+Jackie Over wat we precies gaan doen, bedoel je?
+Ludwien Nee, ik bedoel afspraken over wie wat gaat voorbereiden.
+Jackie O, goed. Ik zal op het internet zoeken op de website van de VVV.
+Ludwien Ik zal naar de ANWB gaan.
+
+Answer the following questions in English.
+\begin{enumerate}
+\item When does Ludwien want to go on holiday and for how long?
+\item Which word shows that Ludwien thinks a holiday in Holland is nothing special?
+\item Is Jackie keen to come along with Ludwien and her family?
+\item What does Ludwien want to ensure both Jackie and her are clear about?
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Ludwien wants to go on holiday next month for a week.
+\item The word gewoon shows that Ludwien thinks a holiday in Holland is nothing special.
+\item Yes, Jackie is keen to come along with Ludwien and her family.
+\item Ludwien wants to ensure both Jackie and her are clear about who will prepare what.
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (With Answer, With Example)
+
+Maria is trying to engage her husband, who is engrossed in a football magazine, in planning their summer holiday.
+Play the role of Maria in asking her husband whether he fancies the following activities.
+For example:
+naar Spanje gaan --> Heb je zin om naar Spanje te gaan?
+
+\begin{enumerate}
+\item thuis blijven
+\item op het strand liggen
+\item in de bergen wandelen
+\item kamperen
+\item met Marloes en Eddie op vakantie gaan
+\item naar de finale van het wereldkampioenschap voetbal kijken
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Heb je zin om thuis te blijven?
+\item Heb je zin om op het strand te liggen?
+\item Heb je zin om in de bergen te wandelen?
+\item Heb je zin om te kamperen?
+\item Heb je zin om met Marloes en Eddie op vakantie te gaan?
+\item Heb je zin om naar de finale van het wereldkampioenschap voetbal te kijken?
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (With Example)
+
+Before Jackie does her research on the VVV website she wants to get an idea of what kind of things Ludwien would like to do on holiday.
+Unfortunately, Ludwien is rather negative.
+Play the role of Ludwien in answering Jackie's questions and choose what seems to be an appropriate answer.
+There will be various possibilities.
+For example:
+Zullen we in hotels overnachten?
+Sorry hoor, maar ik vind dat te duur.
+
+\begin{enumerate}
+\item Zullen we een strandvakantie houden?
+\item Wil je gaan kamperen?
+\item Heb je zin om musea te bezoeken?
+\item Zullen we een trektocht maken op de fiets?
+\item Wil je naar een pretpark?
+\item Wil je gaan parachutespringen?
+\item Heb je zin om te gaan zeilen?
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (Exercise on reading comprehension, Theme is holidays)
+
+Jackie has  found the following descriptions of a few holidays on
+the VVW website:
+VAKANTIE A
+Lekker verwend worden?
+Dat kan met dit comfortabele arrangement.
+U verblijft in Hotel Terheijden in Drenthe.
+Dit luxueuze hotelligt op een magnifieke locatie omgeven door bossen, heidevelden en kleine meertjes.
+Het hotel biedt uitstekende faciliteiten zoals een overdekt zwembad, solarium en sauna, waar u heerlijk kunt ontspannen.
+'s Avonds kunt u in het restaurant genieten van de overheerlijke gerechten van de chef-kok.
+U kunt het alledaagse leven even helemaal vergeten.
+Al met al vijf dagen luxe en comfort.
+
+VAKANTIE  B
+Een ontdekkingstocht door de Biesbosch
+Een ontdekkingstocht door de  Biesbosch kan natuurlijk aileen over het water.
+U trekt vijf dagen per boot door dit unieke natuurgebied.
+U kunt deze avontuurlijke tocht maken met een kano of met een motorboat.
+U overnacht in een eenvoudige trekkershut op een camping.
+U moet wel zelf uw slaapzakken meenemen.
+Aan het eind van uw tocht staat er een uitgebreid diner voor u klaar in een restaurant in het dorpje Made.
+
+Answer the following questions in English.
+In relation to holiday A:
+\begin{enumerate}
+\item What is  the main theme of this holiday?
+\item Describe the setting of the hotel.
+\item Apart from the location, what other attractive features of this hotel are listed?
+\item Which two sentences sum up the theme of the holiday and the benefit you will derive from it?
+\end{enumerate}
+In relation to holiday B:
+\begin{enumerate}
+\item What is the main theme of this holiday?
+\item What will you be doing during this holiday?
+\item Where will you spend the nights?
+\item What luxury treat are you promised at the end of the holiday?
+\end{enumerate}
+
+
+(Dutch) (Underline, Writing Sentences) D G (Multiple Steps)
+
+Underline the words in the following sentences which you could (in some cases should) change to a diminutive.
+Think about the attitude which is expressed.
+
+\begin{enumerate}
+\item Zullen we een tocht maken met de fiets?
+\item Ik wil wel op een terras zitten, maar niet in de zon.
+\item Ik heb zin in een brood met kaas.
+\item Ja lekker, ik ook. Zullen weer een wijn of een bier bij nemen?
+\item Kijk eens wat een leuk klein rok ik heb gekocht.
+\item Wat een verschrikkelijk weer vandaag.
+\end{enumerate}
+
+\paragraph
+Now change the words you have highlighted into diminutives. Rewrite the sentences.
+
+
+(Dutch) (Writing Sentences) D G (Multiple Steps, Oral)
+
+Ask your partner whether s/he feels like doing the following things.
+Use Heb je zin om ... ?
+\begin{enumerate}
+\item naar de  bioscoop gaan
+\item bij je ouders koffie drinken
+\item in de stad boodschappen doen
+\item thuis een dvd kijken
+\end{enumerate}
+
+Pretend you're the partner from the previous question and say what you think of these suggestions.
+Use \textit{Dat lijkt me ...}
+
+
+(Dutch) (Writing Sentences) D G M
+
+Give three activities which you like doing on your holidays.
+Start your sentences with Ik wil op vakantie ...
+
+
+(Dutch) (Writing Sentences) D G (With Example)
+
+Choose which of the following activities you prefer doing, and say why, following the example.
+Example:
+chique dineren / barbecueen.
+Answer: Ik ga liever barbecueen, want dat doe je buiten.
+
+\begin{enumerate}
+\item autorijden / fietsen
+\item sporten / winkelen
+\item naar de film / naar het theater
+\end{enumerate}
+
+
+(Dutch) (Short Answer, Reading Comprehension) D G M
+
+Koen is IT -specialiste bij een grote bank.
+Petra heeft een riant salaris, maar moet wel hard werken.
+Niet iedereen geeft vrije tijd of studie een hoge prioriteit.
+Sommige mensen zien hun werk bijna als vrije tijd.
+De cultuur bij Petra op kantoor is anders.
+'Iedereen werkt over bij ons. Doe je  dat niet, dan is het moeilijk.'
+Petra heeft een contract voor 36 uur.
+Maar meestal werkt ze  45 tot 50  uur.
+Ze heeft een partner.
+'En dat is niet altijd makkelijk. Soms kom ik de hele week pas om acht uur thuis.
+Dan gaat hij wei zeuren. Maar ik vind mijn baan veel te leuk.'
+Kan ze het overwerk beperken met een betere planning?
+'lk denk het wel,' zegt Petra.
+'Maar het is gewoon onze bedrijfscultuur. We moeten veel reizen.'
+Niet voor niets is Petra de enige op haar afdeling met een partner.
+
+Answer the following questions about the reading text in English.
+\begin{enumerate}
+\item How many hours a week does Petra work on average?
+\item For how many hours a week does  Petra get paid?
+\item Does Petra feel  inclined to try and reduce the number of hours she works?
+\item Is her partner happy with this? And does this bother Petra?
+\end{enumerate}
+
+
+(Dutch) (Short Answer, Reading Comprehension) D G M
+
+Jos Korenaar is eindredacteur bij een krant.
+'Voor fulltimewerk, kom ik niet,' zegt Jos.
+Jos doet een fulltimewerkweek in drie dagen.
+Jos z'n contract is gebaseerd op 24 uur per week.
+Drie dagen per week betekent minder geld dan vijf. Maar dat vindt hij geen probleem.
+'Voor mij is mijn vrije tijd belangrijker.
+En het is toch schitterend dat mijn weekend langer is dan mijn werkweek?'
+Maar de werkdruk?
+'Ja, de werkdruk is wel hoog, eh ... hoger, denk ik.
+Maar ik vind dat het goed kan. Kletsen op het werk is leuk, maar ik werk liever door en ga dan naar huis.'
+Wat doet Jos met zijn vrije tijd?
+'lk ga veel uit, naar het theater of de kroeg.
+Of ik ga gewoon de stad in, cd'tjes kopen.
+Ik verzamel ook strips.
+Daarnaast ga ik vier a vijf keer per jaar een week of langer op vakantie, met de motor.
+En ik doe heel veel met mijn vriendin.
+Het leven hoeft niet duur te zijn. Ik volg de nieuwste mode niet, bijvoorbeeld.
+Geld is een kwestie van kiezen.'
+
+Answer the following questions about the reading text in English.
+\begin{enumerate}
+\item How many days a week does Jos work? And how many hours?
+\item What is the main advantage of working only three days a week?
+\item What are the main disadvantages of working only three days a week?
+\item What does Jos do in his spare time?
+\item Is earning less money a problem for Jos?
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (With example, Multiple Steps)
+
+Wat vind je belangrijker? What do you  think is more important?
+Say what you find more important by answering the questions following the example:
+Wat vind je belangrijker, je vrije tijd of je werk?
+Ik vind mijn vrije tijd belangrijker.
+
+\begin{enumerate}
+\item Wat vind je belangrijker, kletsen of werken?
+\item Wat vind je belangrijker, veel vrije tijd of veel geld?
+\item Wat vind je belangrijker, reizen of veel met je vriend(in) doen?
+\item Wat vind je belangrijker, je baan of je partner?
+\end{enumerate}
+
+\paragraph
+Wat doe je liever?  What  would you rather do?
+Give  your preferences by answering the following questions following the example:
+Werk je liever door, of ga je liever naar huis?
+Ik ga liever naar huis.
+
+\begin{enumerate}
+\item Ga je liever naar het theater, of ga je liever naar de kroeg?
+\item Ga je liever naar de stad, of blijf je liever thuis?
+\item Werk je liever drie of vijf dagen per week?
+\item Ga je liever op vakantie met de motor of met de auto?
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (With example)
+
+Your partner is  planning on moving in with you.
+It's a big step, so s/he is checking with you to see if there are going to be any problems.
+S/he is telling you about his/her habits and asks whether you think these will be a problem.
+Give an (honest!) answer.
+For example:
+Ik kom vaak laat thuis. Vind je dat een probleem?
+Ja, dat vind ik een probleem. / Nee, dat vind ik geen probleem.
+
+\begin{enumerate}
+\item Ik klets veel. Vind je dat een probleem?
+\item Ik ga vaak naar de kroeg. Vind je dat een probleem?
+\item Ik heb veel vrienden. Vind je dat een probleem?
+\item Ik werk vaak over. Vind je  dat een probleem?
+\item Ik heb geen riant salaris. Vind je dat een probleem?
+\end{enumerate}
+
+
+(Dutch) (Question Answer Practice) D G (Multiple Steps, With Example)
+
+You can use wel to emphasize a certain point and to indicate that something is the case, whereas something else wasn't.
+In English there is no special word to use here, but you change the tone of your voice.
+The example will make this clear:
+a Ik ben geen echte Ram. / I  am not a real Aries.
+b Ik ben wel een echte Ram. / I  am a real Aries.
+In fact, b could also simply have answered:
+Ik wel. I am.
+
+Now reply to the following statements, using wel. (Answer with ik.)
+(Answer in full sentences, even though Ik wel would suffice in most cases.)
+
+\begin{enumerate}
+\item Ik ben niet filosofisch.
+\item Zij houdt niet van humeurige mensen.
+\item Hij is geen geboren leider.
+\item Zij gaan niet op vakantie in de zomer.
+\item Jij hebt geen auto.
+\item Ik ben vaak niet veeleisend genoeg (enough).
+\end{enumerate}
+
+\paragraph
+Wel is often used with its opposite niet (or geen). Using wd
+and niet, and looking at the character traits given in the various
+star signs, make up a list of characteristics that you do or don't
+possess. Make some five pairs, following the examples:
+Ik ben niet bazig maar wel koppig. / I am not bossy but I am headstrong.
+Ik ben niet kleinzielig maar wel veeleisend. / I am not small-minded but I am demanding.
+
+
+(Dutch) (Writing Sentences) D G M
+
+Think of what you are looking for in a partner (present or future).
+Make up a list of as many characteristics as you can think of (at least five), following the example:
+Hij/zij moet geduldig zijn. He/she must be patient.
+Hij/zij moet een goed gevoel voor humor hebben. He/she must have a good sense of humour
+
+
+(Dutch) (Writing Sentences) D G (Multiple Steps, With Example)
+
+You're going on holiday with a friend.
+S/he is telling you about their habits.
+Say if you think these are problems or not:
+Ja, dat vind ik een probleem. / Nee, dat vind ik geen probleem.
+\begin{enumerate}
+\item Ik doe graag niets. Vind je dat een probleem?
+\item Ik ben niet erg sportief. Vind je dat een probleem?
+\item Ik heb niet veel geld. Vind je dat een probleem?
+\item Ik hou van zon en strand. Vind je dat een probleem?
+\end{enumerate}
+
+\paragraph
+Your friend is asking you which activities you like.
+Answer his/her questions.
+\begin{enumerate}
+\item Lig je liever op het strand of speel je liever tennis?
+\item Ga je liever naar de kroeg, of ga je liever vroeg naar bed?
+\item Sta je liever vroeg op, of blijf je iever lang in bed liggen?
+\item Eet je liever in een duur restaurant of in de snackbar?
+\end{enumerate}
+
+\paragraph
+Using the following pair of characteristics, say what you are and aren't, using niet and wel, as in the example.
+Example: koppig / geduldig.
+Answer: Ik ben niet koppig, maar wel geduldig.
+\begin{enumerate}
+\item humeurig / vrolijk
+\item egoïstisch / liefhebbend
+\item spiritueel / romantisch
+\item praktisch / sociaal
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G M
+
+Complete the following sentences, using \textit{gewoon}, \textit{hoor} or \textit{natuurlijk} as appropriate.
+
+\begin{enumerate}
+\item Your boyfriend is going on a three-day break with the lads, and you remind him in a friendly way that he must phone you:
+Je moet me wel bellen, __ .
+\item He has forgotten to phone you before on these occasions, so this time you remind him with greater urgency:
+Je moet me wel bellen, __ .
+\item You tell your junior colleague not to worry about the fact that the door to your office is often closed and to just walk in:
+Je moet ___ naar binnen lopen, ___ .
+\item The door to the secretary's office is always closed and she doesn't like it when you just walk in.
+She reminds you to knock first: Ja, je moet wel even aankloppen, ___.
+\item You encourage your friend to be decisive and go ahead with her plan.
+After all, it's not a big deal: Je moet het ___ doen.
+\item You strongly advise your friend to go ahead with it: ___ moet je het doen.
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (Exercise on time measures)
+
+Complete these mini-dialogues using the information given in brackets.
+
+\begin{enumerate}
+\item Hoelang werk je nu in Nederland? (2 weeks and you think that's a short time)
+Nog maar net. Ik werk hier ___ .
+\item Hoelang sta je al op me te wachten?  (10 minutes and you think that's a long time)
+Daar ben je eindelijk. Ik sta hier ___ .
+\item Hoelang zijn we nu samen? (3 years, 5 months and 23 days, to be exact. You are fairly neutral about this)
+We zijn samen, om precies te zijn.
+\item Hoelang leer je al Nederlands? Je spreekt 'tal zo goed. (2 years, neutral)
+Dank je. Ik spreek ____ Nederlands.
+\item Hoelang woon je hier al?  (8 months, not a long time)
+Niet zo lang, hoor. Ik woon _____.
+\item Moet jij  niet werken?  Hoelang zit je hier nu al koffie te drinken? (only 2 hours)
+Eh ____ ik zit hier. Ik heb zeeën van tijd.
+\end{enumerate}
+
+
+(Dutch) (Fill in the blank) D G (With Example)
+
+Answer the following 'why' questions, using the information in brackets.
+For example:
+Waarom woon je in Vlaanderen? (Ik werk hier)
+Omdat ik hier werk.
+
+\begin{enumerate}
+\item Waarom draag je  altijd zwart? (Ik hou van zwart)
+Omdat _______.
+\item Waarom ga je niet met me mee vanavond? (Ik heb geen tijd)
+Omdat _______.
+\item Waarom leer je Nederlands? (Ik wil in Nederland wonen en werken)
+Omdat _______.
+\item Waarom lees je dat ingewikkelde boek? (Ik heb een uitdaging nodig)
+Omdat _______.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G M
+
+What is  the function of nou in the following sentences?
+\begin{enumerate}
+\item Kom nou, ga nou mee!
+\item Hoe doe je dat nou?
+\item Nou nee, dat vind ik niet.
+\item Nou, eerst gaan we lekker winkelen en dan gaan we lekker een kopje koffie drinken.
+\item Nou zeg, dat vind ik ook.
+\end{enumerate}
+
+
+(Dutch) (Put in Order) D G M
+
+You have been asked to participate in the Sinterklaas celebration at work.
+Names were allocated secretly and you have to get a present for Andrew.
+You quite like him, but you are annoyed about the fact that he is often late.
+
+Make a poem for Andrew out of these jumbled-up sentences. Then write the whole peom.
+
+\begin{enumerate}
+\item Sint denkt
+\item Dat is niet leuk voor anderen,
+\item Zodat je voortaan niet in je bed blijft liggen dromen
+\item dus je moet je gedrag veranderen.
+\item Andrew, je bent wel een aardige vent,
+\item en je nooit meer te laat hoeft te komen.
+\item Het wordt hoe langer hoe gekker
+\item behalve dat je vaak te laat bent.
+\item Sint geeft je daarom een mooie wekker.
+\end{enumerate}
+
+
+(Dutch) (Short Answer) D G (Exercise on cultural questions)
+
+\begin{enumerate}
+\item How do you buy your beer in the supermarket if you want to buy  bottles at a time?
+In a pak, a fles, a krat or a kuipje?
+\item What are the chocolate hundreds and thousands that Dutch people put on their bread called?
+\item What is the Dutch word for paying by swiping your bank card in the little machine found at supermarket checkouts?
+\item What do you call the extra charge you pay on glass bottles?
+\item What is the reason for this charge?
+\item How do you ask for fries with mayonnaise in Dutch?
+\item What do you call fries with mayonnaise, tomato ketchup and onions?
+\item Where do you go to buy fries in Flanders?
+\item What do you call the little cabins you can rent at some campsites?
+\item Which two expressions can you use to answer the phone?
+\item What is the name of the 200-kilometre ice skating tour in Friesland?
+\item What is the name of the traditional cafe dish which consists of fried eggs, tomatoes, ham and gherkins on slices of bread?
+\item What do you say in Dutch when you wish someone 'bon appetit!'?
+\item What are the local tourist offices in the Netherlands called?
+\item What is the name of the activity referred to as 'mud walking' in English?
+\item And where can you do this?
+\item When is Sinterklaas celebrated?
+\item When is koninginnedag celebrated?
+\end{enumerate}
+
+
+(Dutch) (Short Answers) D G (Multiple Steps)
+
+Answer the questions, using the information in brackets.
+\begin{enumerate}
+\item Hoelang woon je al in Nederland? (months; you don't think that's a long time)
+\item Hoelang leer je al Nederlands? (months, you think that's a long time)
+\item Hoelang ben je al lid (member) van de sportschool? (years, you think that's a long time)
+\item Hoelang kijk je al televisie? (hours, you don't think that's a long time)
+\item Hoelang ben je al op vakantie? (week, you don't think that's a long time)
+\end{enumerate}
+
+\paragraph
+Answer the questions with Omdat ... ,using the information in brackets.
+\begin{enumerate}
+\item Waarom leer je Nederlands? (Je wilt in Nederland of Belgie wonen)
+\item Waarom vind je Petra niet aardig? (Ze praat altijd zo veel)
+\item Waarom ga je naar Italie op vakantie. (lk hou van zon en cultuur)
+\item Waarom ga je zo vroeg naar bed? (lk moet morgen vroeg naar mijn werk)
+\item Waarom drink je cafeinevrije koffie? (Cafeïne is slecht voor je)
+\end{enumerate}
+
+
+(Dutch) (Writing Words, Translation) D G (With Answer)
+
+How to say it in Dutch?
+\begin{enumerate}
+\item 13 =
+\item 8 =
+\item 27 =
+\item 63 =
+\item 78 =
+\item 104 =
+\item 12 =
+\item 140 =
+\item 549 =
+\item 636 =
+\item 244 =
+\item 82 =
+\end{enumerate}
+
+\section{Answers}
+13 = dertien; 8 = acht; 27 = zevenentwintig; 63 = drieënzestig; 78 = achtenzeventig; 104 = honderdvier; 12 = twaalf; 140 = honderdveertig; 549 = vijfhonderdnegenenveertig; 636 = zeshonderdzesendertig; 244 = tweehonderdvierenveertig; 82 = tweeëntachtig
+
+
+(Dutch) (Activity) D G (Requires Material)
+
+If you live in an area where Dutch words are everywhere, try to find ten Dutch words with these double vowels, write them down, learn how to pronounce them, and look up what they mean.
+
+\section{Material}
+Collection of native dutch texts, could be newspapers, advertisements, product labels, etc.
+Alternatively, go outside and look in your environment.
+
+
+(Dutch) (Writing Phrases) D G (With Hint)
+
+Write down ten simple sentences with: an article, a noun, an adjective, and a preposition. Keep it simple, no verbs yet!
+For instance: A nice book under the sofa – wow, two articles, two nouns, one adjective, and one preposition!
+
+\section{Hints}
+Feel free to look up words in the dictionary that don’t come to mind
+
+
+(Dutch) (Writing Sentences) D G (With Answer)
+
+Below are some nouns, adjectives, articles, and verbs for you to construct Dutch sentences with. You can make one sentence/conjugation with each line, or conjugate the whole verb!
+\begin{enumerate}
+\item Eten – maaltijd – hij – lekkere – een
+\item Planten – bloemen – wij – allerlei
+\item Lezen – krant – jij – een – goede
+\item Wassen – kleren – ik – vuile
+\item Drinken – thee - zij (s) – warme
+\item Strijken – overhemd – jullie – het – blauwe
+\item Schrijven – lange – brief – ik – een
+\item Geven – cadeau – klein – jij – een
+\item Hebben - hond - zij (p) – grote – een
+\item Kopen – schoenen – ik – nieuwe
+\end{enumerate}
+
+\section{Answers}
+\begin{enumerate}
+\item Hij eet een lekkere maaltijd
+\item Wij planten allerlei bloemen
+\item Jij leest een goede krant
+\item Ik was de vuile kleren
+\item Zij drinkt warme thee
+\item Jullie strijken het blauwe overhemd
+\item Ik schrijf een lange brief
+\item Jij geeft een klein cadeau
+\item Zij hebben een grote hond
+\item Ik koop nieuwe schoenen
+\end{enumerate}
+
+
+
+
+
+(Dutch) (Writing words) D G (With Answer, Exercise on past tense)
+
+Write down the past tense (ovt) of these ten verbs (Tip: Look up the verbs you don’t recognize): koken; wonen; fietsen; rollen; draaien; fotograferen; graaien; lachen; sjouwen; drinken
+
+\section{Answers}
+Past tense (ovt) of the following verbs: koken – kookte; wonen – woonde; fietsen – fietste; rollen – rolde; draaien – draaide; fotograferen – fotografeerde; graaien – graaide; lachen – lachte; sjouwen – sjouwde
+
+
+(Dutch) (Writing Sentences) D G (With Answer, Tone is entertaining)
+
+Write down ten Dutch sentences in which you use the past participle, with the auxiliary verb “hebben.” Then write five sentences using the past participle with the auxiliary verb “zijn.” When you are done, give yourself a compliment for writing and knowing so much Dutch already! Try to talk as much as possible and don’t forget: Practice makes perfect!
+
+
+(Dutch) (Creative Writing) D G (With Answer, Tone is entertaining)
+
+Try to come up with ten small conversations in Dutch involving bread, meat, vegetables, and fruits. Ask for the items, the price, and order a certain amount. Write them down and repeat them out loud several times, to get used to these everyday things. You will need them daily. So, start chewing on them…
+
+
+(Dutch) (Writing Sentences) D G (With Example, Tone is entertaining)
+
+Ask several questions using the interrogative pronouns hoe (how), wie (who), wat (what), waar (where), wanneer (when). And while you are at it, how about forming an answer to them as well? Example: (1) "Hoe werkt dit keukenapparaat? Dat kun je beter aan mijn vader vragen." (2) "Hoe laat vertrekt de trein naar Amsterdam? De volgende trein vertrekt om kwart over vier."
+Write down ten of these sets and call yourself an advanced speaker of Dutch!
+
