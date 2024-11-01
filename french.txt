@@ -1,0 +1,5016 @@
+(French) (Conjugation) D G (With Answer)  
+Mettre au présent les verbes entre parenthèses.  
+\begin{enumerate}  
+    \item Nous (prendre)           le petit déjeuner à huit heures.  
+    \item Il (entreprendre)           toujours des choses dangereuses.  
+    \item Je (apprendre)           l'allemand.  
+    \item Vous (comprendre)           son hésitation.  
+    \item Ils (apprendre)           à conduire.  
+    \item Il (surprendre)           le secret.  
+    \item Vous (prendre)           de longues vacances.  
+    \item Nous (comprendre)           le chinois.  
+    \item Tu (prendre)           une autre direction.  
+    \item Elle (comprendre)           tout.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item prenons  
+\item entreprend  
+\item apprends  
+\item comprenez  
+\item apprennent  
+\item surprend  
+\item prenez  
+\item comprenons  
+\item prends  
+\item comprend  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous si nécessaire. 
+\begin{enumerate}
+    \item He is learning Chinese.  
+    \item She takes the subway every day.  
+    \item He often loses his keys.  
+    \item I can hear Pierre on the street.  
+    \item He claims to be the king's brother.  
+    \item You answer quickly.  
+    \item She sells flowers.  
+    \item We go down the Champs-Élysées.  
+    \item I am going down.  
+    \item We are waiting for an answer.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Il apprend le chinois.  
+    \item Elle prend le métro tous les jours.  
+    \item Il perd souvent ses clés.  
+    \item J'entends Pierre dans la rue.  
+    \item Il prétend être le frère du roi.  
+    \item Vous répondez rapidement.  
+    \item Elle vend des fleurs.  
+    \item Nous descendons les Champs-Élysées.  
+    \item Je descends.  
+    \item Nous attendons une réponse.
+\end{enumerate}
+
+
+(French) (Interrogative) D G (With Answer)
+
+Mettre les phrases suivantes à la forme interrogative en utilisant l'inversion. 
+
+\begin{enumerate}
+    \item Ils remplissent les formulaires.  
+    \item Il réfléchit au problème.  
+    \item Vous aimez aller au théâtre.  
+    \item Elle préfère voyager en Italie.  
+    \item Tu écoutes le discours du président.  
+    \item Ils influencent le public.  
+    \item Elle annule son voyage au Brésil.  
+    \item Tu travailles le jeudi.  
+    \item Vous apportez un nouveau livre.  
+    \item Elle agrandit les photos.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Remplissent-ils les formulaires?  
+\item Réfléchit-il au problème?  
+\item Aimez-vous aller au théâtre?  
+\item Préfère-t-elle voyager en Italie?  
+\item Écoutes-tu le discours du président?  
+\item Influencent-ils le public?  
+\item Annule-t-elle son voyage au Brésil?  
+\item Travailles-tu le jeudi?  
+\item Apportez-vous un nouveau livre?  
+\item Agrandit-elle les photos?  
+\end{enumerate}
+
+
+(French) (Interrogative) D G (With Answer)
+
+Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que. 
+
+\begin{enumerate}
+    \item Ils parlent de la nouvelle transaction.  
+    \item Elle apprend le portugais.  
+    \item Vous commandez une bouteille de vin blanc.  
+    \item Tu demandes une augmentation de salaire.  
+    \item Ils financent un grand projet.  
+    \item Vous choisissez une autre direction.  
+    \item Ils finissent tard.  
+    \item Il prétend être pauvre.  
+    \item Ils défendent cette théorie.  
+    \item Vous descendez par l'escalier.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Est-ce qu'ils parlent de la nouvelle transaction?  
+    \item Est-ce qu'elle apprend le portugais?  
+    \item Est-ce que vous commandez une bouteille de vin blanc?  
+    \item Est-ce que tu demandes une augmentation de salaire?  
+    \item Est-ce qu'ils financent un grand projet?  
+    \item Est-ce que vous choisissez une autre direction?  
+    \item Est-ce qu'ils finissent tard?  
+    \item Est-ce qu'il prétend être pauvre?  
+    \item Est-ce qu'ils défendent cette théorie?  
+    \item Est-ce que vous descendez par l'escalier?  
+\end{enumerate}
+
+
+(French) (Exercise) D G (With Answer)  
+Mettre les phrases suivantes à la forme négative.  
+\begin{enumerate}
+    \item Il encourage ses employés.  
+    \item Ils visitent le musée.  
+    \item Tu gagnes à la loterie.  
+    \item Elle enlève son chapeau.  
+    \item Vous exprimez vos opinions.  
+    \item Tu pèses les fruits.  
+    \item Il danse la valse.  
+    \item Vous corrigez les copies des étudiants.  
+    \item Nous étudions l'arabe.  
+    \item Il maigrit en vacances.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Il n'encourage pas ses employés.  
+\item Ils ne visitent pas le musée.  
+\item Tu ne gagnes pas à la loterie.  
+\item Elle n'enlève pas son chapeau.  
+\item Vous n'exprimez pas vos opinions.  
+\item Tu ne pèses pas les fruits.  
+\item Il ne danse pas la valse.  
+\item Vous ne corrigez pas les copies des étudiants.  
+\item Nous n'étudions pas l'arabe.  
+\item Il ne maigrit pas en vacances.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire. 
+\begin{enumerate}
+    \item I am learning Japanese.  
+    \item He does not speak Italian.  
+    \item She eats neither meat nor cheese.  
+    \item They never listen to anybody.  
+    \item You work late.  
+    \item They like neither tea nor coffee.  
+    \item Do you understand the question?  
+    \item We pick flowers in the garden.  
+    \item He never takes off his hat.  
+    \item She never lies.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item J'apprends le japonais.  
+    \item Il ne parle pas italien.  
+    \item Elle ne mange ni viande ni fromage.  
+    \item Ils (Elles) n'écoutent jamais personne.  
+    \item Vous travaillez tard.  
+    \item Ils (Elles) n'aiment ni le thé ni le café.  
+    \item Comprenez-vous la question?  
+    \item Nous cueillons des fleurs dans le jardin.  
+    \item Il n'enlève jamais son chapeau.  
+    \item Elle ne ment jamais.
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au présent les verbes entre parenthèses.  
+\begin{enumerate}  
+    \item Le château (être)           vieux.  
+    \item Nous (être)           libres demain soir.  
+    \item Les produits (être)           beaucoup trop chers.  
+    \item Tu (être)           plus jeune que lui?  
+    \item Elles (être)           vraiment charmantes.  
+    \item Vous (être)           occupé cet après-midi?  
+    \item Ce (être)           un nouveau livre.  
+    \item Leurs méthodes (ne pas être)           très efficaces.  
+    \item Est-ce qu'il (être)           aussi amusant que son frère?  
+    \item Je (être)           un peu en retard.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item est  
+\item sommes  
+\item sont  
+\item es  
+\item sont  
+\item êtes  
+\item C'est  
+\item ne sont pas  
+\item est  
+\item suis  
+\end{enumerate}
+
+
+(French) (Q&A) D G (With Answer)
+
+Répondre aux questions à la forme affirmative.  
+\begin{enumerate}
+    \item Est-ce qu'ils sont en retard?  
+    \item Le climat est sec?  
+    \item Êtes-vous libre ce soir?  
+    \item Est-il heureux?  
+    \item Est-ce qu'elle est sympathique?  
+    \item Ce restaurant français est cher?  
+    \item Êtes-vous fatigué?  
+    \item Est-ce que nous sommes à la bonne adresse?  
+    \item Ce film est amusant?  
+    \item Le musée est ouvert?
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Oui, ils sont en retard.  
+\item Oui, le climat est sec.  
+\item Oui, je suis libre ce soir.  
+\item Oui, il est heureux.  
+\item Oui, elle est sympathique.  
+\item Oui, ce restaurant français est cher.  
+\item Oui, je suis fatigué.  
+\item Oui, vous êtes à la bonne adresse.  
+\item Oui, ce film est amusant.  
+\item Oui, le musée est ouvert.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au présent les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Nous (avoir)           quelques minutes. 
+    \item Tu (ne pas avoir)           assez d'arguments. 
+    \item Je (avoir)           une grande estime pour lui. 
+    \item Vous (avoir)           des amis à Londres? 
+    \item Elle (avoir)           beaucoup de chance dans les affaires. 
+    \item Ils (avoir)           une réunion à quinze heures. 
+    \item Tu (avoir)           une maison à la campagne? 
+    \item Nous (ne pas avoir)           besoin de son aide. 
+    \item Vous (ne pas avoir)           toujours raison. 
+    \item Je (avoir)           froid.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item avons  
+\item n'as pas  
+\item J'ai  
+\item avez  
+\item a  
+\item ont  
+\item as  
+\item n'avons pas  
+\item n'avez pas  
+\item J'ai
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire.  
+\begin{enumerate}  
+    \item I am tired.  
+    \item He is very hungry.  
+    \item They are always right.  
+    \item Are they French?  
+    \item Are you afraid of his reaction?  
+    \item He is ashamed.  
+    \item They have a dog.  
+    \item She has a new hat.  
+    \item It's very expensive.  
+    \item Close the window. We are cold.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Je suis fatigué(e).  
+\item Il a très faim.  
+\item Ils (Elles) ont toujours raison.  
+\item Sont-ils français? (Sont-elles françaises?)  
+\item Avez-vous peur de sa réaction?  
+\item Il a honte.  
+\item Ils (Elles) ont un chien.  
+\item Elle a un nouveau chapeau.  
+\item C'est très cher.  
+\item Fermez la fenêtre. Nous avons froid.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au présent les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Est-ce que vous (savoir)           jouer au poker?  
+    \item Je (savoir)           que Laurent est un bon musicien.  
+    \item Elle (ne pas savoir)           s'il travaille lundi.  
+    \item Nous (savoir)           utiliser cet ordinateur.  
+    \item Tu (savoir)           parler espagnol?  
+    \item Est-ce que tu (savoir)           parler anglais?  
+    \item Il (ne pas savoir)           faire la cuisine.  
+    \item (Savoir)           -vous quand ils partent?  
+    \item Tu (savoir)           si ce restaurant est cher?  
+    \item Vous (savoir)           où se trouve la Bastille?  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item savez  
+\item sais  
+\item ne sait pas  
+\item savons  
+\item sais  
+\item sais  
+\item ne sait pas  
+\item Savez  
+\item sais  
+\item savez  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Conjuguer le verbe connaître au présent.  
+\begin{enumerate}
+    \item Ils \_\_\_\_\_\_\_\_\_\_ bien la Normandie.  
+    \item Nous \_\_\_\_\_\_\_\_\_\_ Julien depuis trois ans.  
+    \item Ce nouveau club \_\_\_\_\_\_\_\_\_\_ un grand succès.  
+    \item Je \_\_\_\_\_\_\_\_\_\_ ce fait.  
+    \item Cet artisan \_\_\_\_\_\_\_\_\_\_ son métier.  
+    \item Vous \_\_\_\_\_\_\_\_\_\_ cette chanson?  
+    \item Est-ce que vous \_\_\_\_\_\_\_\_\_\_ un bon restaurant italien?  
+    \item Je \_\_\_\_\_\_\_\_\_\_ Paris comme ma poche.  
+    \item Il \_\_\_\_\_\_\_\_\_\_ cette méthode à la perfection.  
+    \item \_\_\_\_\_\_\_\_\_\_ -vous l'œuvre de Victor Hugo?  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item connaissent  
+\item connaissons  
+\item connaît  
+\item connais  
+\item connaît  
+\item connaissez  
+\item connaissez  
+\item connais  
+\item connaît  
+\item Connaissez  
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)
+
+Connaître ou savoir? 
+\begin{enumerate}
+    \item Est-ce que tu __________ pourquoi il est absent?  
+    \item Elle __________ cette chanson par cœur.  
+    \item Tu __________ jouer au base-ball?  
+    \item Nous __________ la fille de José.  
+    \item Je ne __________ pas à quelle heure ouvre la banque.  
+    \item Ils __________ un bon dentiste.  
+    \item Ce nouveau produit __________ un grand succès sur le marché.  
+    \item Vous __________ Bertrand?  
+    \item Il __________ qu'il n'est pas qualifié pour ce travail.  
+    \item Nous ne __________ pas ce quartier.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item sais  
+\item sait  
+\item sais  
+\item connaissons  
+\item sais  
+\item connaissent  
+\item connaît  
+\item connaissez  
+\item sait  
+\item connaissons  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au présent les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Nous (vouloir)           une chambre qui donne sur le jardin. 
+    \item Je (ne pas pouvoir)           assister à la réunion à quinze heures. 
+    \item Je (vouloir)           vous parler avant jeudi. 
+    \item Nous (pouvoir)           envoyer les documents par la poste. 
+    \item Tu (vouloir)           venir ce soir? 
+    \item Est-ce que vous (pouvoir)           écrire une lettre de recommandation? 
+    \item Elle (pouvoir)           remplir ce formulaire. 
+    \item Ils (vouloir)           partir avant midi. 
+    \item Vous (vouloir)           prendre un verre? 
+    \item Est-ce qu'ils (pouvoir)           arriver un peu plus tôt?
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item voulons  
+    \item ne peux pas  
+    \item veux  
+    \item pouvons  
+    \item veux  
+    \item pouvez  
+    \item peut  
+    \item veulent  
+    \item voulez  
+    \item peuvent  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au présent les verbes entre parenthèses.  
+\begin{enumerate}  
+    \item Je (apercevoir)           un château en haut de la colline.  
+    \item Il (prévoir)           un avenir meilleur.  
+    \item Il (pleuvoir)           toujours dans cette région.  
+    \item Nous (voir)           une amélioration.  
+    \item Tu (décevoir)           ton professeur.  
+    \item Cette organisation (promouvoir)           la recherche scientifique.  
+    \item Cela (valoir)           très cher.  
+    \item Il (falloir)           apprendre les conjugaisons.  
+    \item Cet écrivain (émouvoir)           le public.  
+    \item Vous (recevoir)           nos félicitations.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item J'aperçois  
+\item prévoit  
+\item pleut  
+\item voyons  
+\item déçois  
+\item promeut  
+\item vaut  
+\item faut  
+\item émeut  
+\item recevez  
+\end{enumerate}
+
+
+(French) (Exercise) D G (With Answer)
+
+Mettre au présent les verbes entre parenthèses en utilisant tu et la forme est-ce que si nécessaire. 
+
+\begin{enumerate}
+    \item Can you swim?  
+    \item Can he cook?  
+    \item I don't know where he is.  
+    \item Can she fill out this form?  
+    \item She knows Caroline.  
+    \item Do you know this French song by heart?  
+    \item It is raining in France.  
+    \item You must arrive at noon.  
+    \item He foresees a great improvement.  
+    \item I see the castle.
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Est-ce que tu sais nager?  
+    \item Est-ce qu'il sait faire la cuisine?  
+    \item Je ne sais pas où il est.  
+    \item Est-ce qu'elle peut remplir ce formulaire?  
+    \item Elle connaît Caroline.  
+    \item Est-ce que tu sais cette chanson française par cœur?  
+    \item Il pleut en France.  
+    \item Tu dois arriver à midi.  
+    \item Il prévoit une grande amélioration.  
+    \item Je vois le château.
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au présent les verbes entre parenthèses. 
+
+\begin{enumerate}
+    \item Nous (aller)          à la plage cet après-midi.  
+    \item Ils (aller)          à Tahiti en décembre.  
+    \item Je (aller)          chez le dentiste demain matin.  
+    \item Le lundi, il (aller)          à son cours d'anglais.  
+    \item Vous (aller)          en vacances à la fin de la semaine.  
+    \item Ça (aller)          ?  
+    \item Elle (aller)          à la banque cet après-midi.  
+    \item Je (aller)          en Afrique avec mes amis.  
+    \item Il (aller)          au match de base-ball ce soir.  
+    \item Comment (aller)          -vous?  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item allons  
+\item vont  
+\item vais  
+\item va  
+\item allez  
+\item va  
+\item va  
+\item vais  
+\item va  
+\item allez  
+\end{enumerate}
+
+
+(French) (Exercise: Futur Imminent) D G (With Answer)
+
+Mettre les phrases suivantes au futur immédiat:  
+\begin{enumerate}
+    \item Nous achetons une nouvelle machine à laver.  
+    \item Il prend des vacances cet automne.  
+    \item Vous investissez au Japon.  
+    \item Elle a vingt ans.  
+    \item Cette agence promeut cette marchandise.  
+    \item Il est président.  
+    \item Nous choisissons un cadeau.  
+    \item Tu dînes au restaurant.  
+    \item Ils déménagent en janvier.  
+    \item Elle travaille au centre-ville.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Nous allons acheter une nouvelle machine à laver.  
+\item Il va prendre des vacances cet automne.  
+\item Vous allez investir au Japon.  
+\item Elle va avoir vingt ans.  
+\item Cette agence va promouvoir cette marchandise.  
+\item Il va être président.  
+\item Nous allons choisir un cadeau.  
+\item Tu vas dîner au restaurant.  
+\item Ils vont déménager en janvier.  
+\item Elle va travailler au centre-ville.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au présent les verbes entre parenthèses.  
+\begin{enumerate}
+    \item Il (venir)          d'Espagne.  
+    \item Est-ce qu'elles (venir)          ce midi?  
+    \item Tu (venir)          avec nous?  
+    \item Elle (venir)          du Canada.  
+    \item Vous (revenir)          des Maldives?  
+    \item Elle nous (prévenir)          toujours à la dernière minute.  
+    \item Nous (venir)          tous ce soir.  
+    \item Il (devenir)          fou avec tout ce travail.  
+    \item Vous (revenir)          cet après-midi?  
+    \item Je (venir)          de la contacter.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item vient  
+\item viennent  
+\item viens  
+\item vient  
+\item revenez  
+\item prévient  
+\item venons  
+\item devient  
+\item revenez  
+\item viens  
+\end{enumerate}
+
+
+(French) (Exercise: Passé immédiat) D G (With Answer)
+
+Mettre les phrases suivantes au passé immédiat:  
+\begin{enumerate}
+    \item Je téléphone à Bernard.  
+    \item Il annule son vol.  
+    \item Elle remplace tous ses meubles.  
+    \item La police révèle le secret.  
+    \item Vous commencez à travailler.  
+    \item Elle manque le train.  
+    \item Tu as trente ans.  
+    \item Il achève ses études.  
+    \item Nous parlons à la directrice.  
+    \item Ils voient un bon film.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Je viens de téléphoner à Bernard.  
+\item Il vient d'annuler son vol.  
+\item Elle vient de remplacer tous ses meubles.  
+\item La police vient de révéler le secret.  
+\item Vous venez de commencer à travailler.  
+\item Elle vient de manquer le train.  
+\item Tu viens d'avoir trente ans.  
+\item Il vient d'achever ses études.  
+\item Nous venons de parler à la directrice.  
+\item Ils viennent de voir un bon film.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant tu et l'inversion si nécessaire.  
+\begin{enumerate}
+    \item Are you going to the movies on Sunday?  
+    \item They are going to move soon.  
+    \item How are you doing?  
+    \item They are going to invest in Portugal.  
+    \item She's just started a new job.  
+    \item This hat looks good on you.  
+    \item They just canceled my flight.  
+    \item He goes to the library on Saturdays.  
+    \item She just called François.  
+    \item She is going to finish the book this afternoon.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Vas-tu au cinéma dimanche?  
+\item Ils (Elles) vont bientôt déménager.  
+\item Comment vas-tu?  
+\item Ils (Elles) vont investir au Portugal.  
+\item Elle vient de commencer un nouveau travail.  
+\item Ce chapeau te va bien.  
+\item Ils viennent d'annuler mon vol.  
+\item Il va à la bibliothèque le samedi.  
+\item Elle vient d'appeler François.  
+\item Elle va finir le livre cet après-midi.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au présent les verbes entre parenthèses.  
+\begin{enumerate}
+    \item Qui (faire)          quoi dans cette entreprise?  
+    \item Ils (faire)          un grand voyage chaque année.  
+    \item Tu (faire)          la cuisine?  
+    \item Quel temps (faire)         -il à Rome aujourd'hui?  
+    \item Nous (faire)          une promenade dans les jardins du Luxembourg.  
+    \item Elle (faire)          le marché le samedi matin.  
+    \item On (faire)          la queue depuis une demi-heure!  
+    \item Ils (faire)          la sieste de trois à cinq heures.  
+    \item Vous (faire)          de l'exercice pour rester en forme?  
+    \item Il (faire)          des grimaces devant le miroir.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item fait  
+\item font  
+\item fais  
+\item fait  
+\item faisons  
+\item fait  
+\item fait  
+\item font  
+\item faites  
+\item fait  
+\end{enumerate}
+
+
+(French) (Causative) D G (With Answer)  
+Mettre les phrases suivantes à la forme causative.  
+\begin{enumerate}  
+    \item Je lis le dossier.  
+    \item Vous lavez la voiture.  
+    \item Il répare la télévision.  
+    \item Elle investit sa fortune.  
+    \item J'envoie le paquet.  
+    \item Il annule le voyage.  
+    \item Tu remplaces l'employé malade.  
+    \item Il visite l'entreprise.  
+    \item Je corrige les copies des étudiants.  
+    \item Je chante la chanson.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Je fais lire le dossier.  
+\item Vous faites laver la voiture.  
+\item Il fait réparer la télévision.  
+\item Elle fait investir sa fortune.  
+\item Je fais envoyer le paquet.  
+\item Il fait annuler le voyage.  
+\item Tu fais remplacer l'employé malade.  
+\item Il fait visiter l'entreprise.  
+\item Je fais corriger les copies des étudiants.  
+\item Je fais chanter la chanson.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant vous et la forme est-ce que si nécessaire.  
+\begin{enumerate}  
+    \item They have the letter sent to Paris.  
+    \item I have been standing in line for ten minutes.  
+    \item They are attached to their friends.  
+    \item He really wants to sing this song.  
+    \item She is holding a vase.  
+    \item He looks like his father.  
+    \item It's raining.  
+    \item Can you cook?  
+    \item She has her car washed.  
+    \item It's cold.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ils (Elles) font envoyer la lettre à Paris.  
+\item Je fais la queue depuis dix minutes.  
+\item Ils (Elles) tiennent à leurs amis.  
+\item Il tient à chanter cette chanson.  
+\item Elle tient un vase.  
+\item Il tient de son père.  
+\item Il pleut.  
+\item Est-ce que vous savez faire la cuisine?  
+\item Elle fait laver sa voiture.  
+\item Il fait froid.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au présent les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Elle (devoir) prévenir sa mère.  
+    \item Tu (devoir) partir immédiatement.  
+    \item Vous (devoir) refuser leur offre.  
+    \item Elle (devoir) prendre une navette.  
+    \item Ils (ne pas devoir) arriver avant dimanche.  
+    \item Je (devoir) appeler Michel?  
+    \item L'avion (devoir) décoller dans quelques minutes.  
+    \item Les voitures (devoir) embarquer sur le ferry.  
+    \item Je (devoir) préparer le dîner.  
+    \item Tu (devoir) faire le plein sur l'autoroute.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item doit  
+\item dois  
+\item devez  
+\item doit  
+\item ne doivent pas  
+\item dois  
+\item doit  
+\item doivent  
+\item dois  
+\item dois  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous et la forme est-ce que si nécessaire. 
+\begin{enumerate}
+    \item You must cook tonight.  
+    \item She must not work today.  
+    \item At what time is he supposed to arrive?  
+    \item How much do I owe you?  
+    \item Why must he sell his car?  
+    \item She owes an excuse to Carole.  
+    \item Are we supposed to know these verbs?  
+    \item He owes two thousand dollars to the bank.  
+    \item You should call Vincent.  
+    \item You should not invite Pierre.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Vous devez faire la cuisine ce soir.  
+    \item Elle ne doit pas travailler aujourd'hui.  
+    \item À quelle heure est-ce qu'il doit arriver?  
+    \item Combien est-ce que je vous dois?  
+    \item Pourquoi est-ce qu'il doit vendre sa voiture?  
+    \item Elle doit une excuse à Carole.  
+    \item Est-ce que nous devons connaître ces verbes?  
+    \item Il doit deux mille dollars à la banque.  
+    \item Vous devriez appeler Vincent.  
+    \item Vous ne devriez pas inviter Pierre.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Conjuguer au présent les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Elle (craindre)          de profonds changements.  
+    \item Il (feindre)          la tristesse.  
+    \item Ils (plaindre)          la pauvre femme.  
+    \item La muraille (ceindre)          la ville.  
+    \item Vous (feindre)          l'indifférence.  
+    \item Nous (craindre)          le ridicule.  
+    \item Vous (peindre)          le mur en bleu.  
+    \item Ils (craindre)          le froid.  
+    \item Elle (teindre)          en blond les moustaches de l'acteur.  
+    \item Elle (se plaindre)          tout le temps.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item craint  
+\item feint  
+\item plaignent  
+\item ceint  
+\item feignez  
+\item craignons  
+\item peignez  
+\item craignent  
+\item teint  
+\item se plaint  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant tu et la forme est-ce que si nécessaire.  
+\begin{enumerate}  
+    \item She is painting the kitchen.  
+    \item There is a dog in the car.  
+    \item They pity the poor child.  
+    \item This book is about the French president.  
+    \item What is it about?  
+    \item He fears the worst.  
+    \item There are books on the table.  
+    \item Is there a computer?  
+    \item Are you painting the flowers?  
+    \item It's a matter of passion.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Elle peint la cuisine.  
+\item Il y a un chien dans la voiture.  
+\item Ils (Elles) plaignent le pauvre enfant.  
+\item Dans ce livre, il s'agit du président français.  
+\item De quoi est-ce qu'il s'agit?  
+\item Il craint le pire.  
+\item Il y a des livres sur la table.  
+\item Est-ce qu'il y a un ordinateur?  
+\item Est-ce que tu peins les fleurs?  
+\item Il s'agit de passion.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au présent les verbes réfléchis entre parenthèses. 
+\begin{enumerate}
+    \item Je (s'habiller)          avant de prendre le petit déjeuner. 
+    \item Nous (se lever)          tôt le matin. 
+    \item Elle (se couper)          les cheveux elle-même. 
+    \item Tu (se coucher)          trop tard tous les soirs. 
+    \item Ils (se laver)          les mains. 
+    \item Tu (se peigner)          avant de sortir. 
+    \item Vous (se balader)          dans le parc. 
+    \item Ils (se reposer)          le week-end. 
+    \item Nous (s'amuser)          à la fête. 
+    \item Elle (se détendre)          les jambes sur le canapé.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item m'habille  
+    \item nous levons  
+    \item se coupe  
+    \item te couches  
+    \item se lavent  
+    \item te peignes  
+    \item vous baladez  
+    \item se reposent  
+    \item nous amusons  
+    \item se détend  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au présent les verbes réciproques entre parenthèses.  
+\begin{enumerate}  
+    \item Ils (se marier)          la semaine prochaine.  
+    \item Vous (s'embrasser)          sur le balcon.  
+    \item Nous (s'écrire)          une fois par an.  
+    \item Ils (se retrouver)          devant la brasserie.  
+    \item Elles (se voir)          rarement.  
+    \item Nous (se téléphoner)          chaque jour.  
+    \item Vous (se quitter)          sur le quai de la gare.  
+    \item Nous (se disputer)          assez souvent.  
+    \item Ils (se détester)          depuis toujours.  
+    \item Nous (se rencontrer)          toujours par hasard dans la rue.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item se marient  
+\item vous embrassez  
+\item nous écrivons  
+\item se retrouvent  
+\item se voient  
+\item nous téléphonons  
+\item vous quittez  
+\item nous disputons  
+\item se détestent  
+\item nous rencontrons  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au présent les verbes subjectifs entre parenthèses.  
+\begin{enumerate}  
+    \item Elle (s'apercevoir) de sa gaffe.  
+    \item Ils (se dépêcher) pour arriver à l'heure.  
+    \item Tu (s'attendre) à sa visite.  
+    \item Qu'est-ce qui (se passer) ?  
+    \item Vous (se servir) d'un nouvel appareil.  
+    \item Je (se rendre compte) de mon erreur.  
+    \item Tu (se demander) ce qui va se passer.  
+    \item Elle (se dépêcher) car elle est en retard.  
+    \item Tu (se tromper) de chemin.  
+    \item L'oiseau (s'envoler) dans le ciel.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item s'aperçoit  
+\item se dépêchent  
+\item t'attends  
+\item se passe  
+\item vous servez  
+\item me rends compte  
+\item te demandes  
+\item se dépêche  
+\item te trompes  
+\item s'envole  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Conjuguer les verbes entre parenthèses. 
+\begin{enumerate}
+    \item J'aime (se promener)          le long de la Seine. 
+    \item À quelle heure est-ce que tu vas (se lever)          ? 
+    \item Nous venons de (se rendre compte)          des conséquences. 
+    \item Elle ne peut pas (se souvenir)          de son nom. 
+    \item Ils doivent (se marier)          au printemps. 
+    \item Vous allez (se demander)          pourquoi il quitte Paris. 
+    \item Nous voulons (s'écrire)          plus souvent. 
+    \item Je dois (s'habiller)          pour aller au bal. 
+    \item Vous allez (se voir)          pendant les vacances? 
+    \item Nous ne pouvons pas (se plaindre)          de la situation.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item me promener  
+    \item te lever  
+    \item nous rendre compte  
+    \item se souvenir  
+    \item se marier  
+    \item vous demander  
+    \item nous écrire  
+    \item m'habiller  
+    \item vous voir  
+    \item nous plaindre  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant tu et l'inversion si nécessaire.  
+\begin{enumerate}
+    \item Get up!  
+    \item She is getting dressed for the party.  
+    \item She cuts her hair.  
+    \item We are walking in the park.  
+    \item They rest because their legs are tired.  
+    \item He is shaving.  
+    \item They just got married.  
+    \item They write to each other.  
+    \item He is tired. He sits on a bench.  
+    \item They love each other.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Lève-toi!  
+\item Elle s'habille pour la soirée.  
+\item Elle se coupe les cheveux.  
+\item Nous nous promenons dans le parc.  
+\item Ils (Elles) se reposent car leurs jambes sont fatiguées.  
+\item Il se rase.  
+\item Ils viennent de se marier.  
+\item Ils (Elles) s'écrivent.  
+\item Il est fatigué. Il s'assoit sur un banc.  
+\item Ils s'aiment.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes entre parenthèses au passé composé. 
+\begin{enumerate}
+    \item Il (inviter)          beaucoup de monde.  
+    \item Nous (refuser)          leur invitation.  
+    \item Tu (travailler)          hier matin?  
+    \item Il (comprendre)          l'intrigue.  
+    \item Elle (apporter)          un joli cadeau.  
+    \item Je (voyager)          avec Rémi.  
+    \item Vous (louer)          une voiture?  
+    \item Elle (sous-titrer)          le film.  
+    \item Vous (téléphoner)          à vos cousins.  
+    \item Tu (assister)          à la pièce de théâtre.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item a invité  
+\item avons refusé  
+\item as travaillé  
+\item a compris  
+\item a apporté  
+\item J'ai voyagé  
+\item avez loué  
+\item a sous-titré  
+\item avez téléphoné  
+\item as assisté  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes entre parenthèses au passé composé. 
+\begin{enumerate}
+    \item Ils (investir)          une grosse somme.  
+    \item Le public (applaudir)          les comédiens.  
+    \item Elles (réfl échir)          toute la journée.  
+    \item La voiture (ralentir)          au carrefour.  
+    \item Ils (attendre)          le train une demi-heure.  
+    \item Nous (réussir)          à les convaincre.  
+    \item Elle (perdre)          ses bijoux en vacances.  
+    \item Tu (grandir)          en Europe?  
+    \item Elle (sentir)          une bonne odeur venant de la cuisine.  
+    \item Le théâtre (vendre)          beaucoup de billets.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item ont investi  
+    \item a applaudi  
+    \item ont réfléchi  
+    \item a ralenti  
+    \item ont attendu  
+    \item avons réussi  
+    \item a perdu  
+    \item as grandi  
+    \item a senti  
+    \item a vendu  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes.  
+\begin{enumerate}  
+    \item They sold the house in France.  
+    \item I waited ten minutes.  
+    \item He finished the novel.  
+    \item She lost her dictionary.  
+    \item I called Marc.  
+    \item They served an elegant dinner.  
+    \item He bought a car.  
+    \item I chose a very good cheese.  
+    \item We watched the film.  
+    \item They applauded the actor.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ils (Elles) ont vendu la maison en France.  
+\item J'ai attendu dix minutes.  
+\item Il a fini le roman.  
+\item Elle a perdu son dictionnaire.  
+\item J'ai appelé Marc.  
+\item Ils (Elles) ont servi un dîner élégant.  
+\item Il a acheté une voiture.  
+\item J'ai choisi un très bon fromage.  
+\item Nous avons regardé le film.  
+\item Ils (Elles) ont applaudi le comédien.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre les verbes entre parenthèses au passé composé.  
+\begin{enumerate}  
+    \item Je (prendre)          le train à Lille.  
+    \item Nous (ne pas pouvoir)          joindre les Quentin.  
+    \item Ils (suivre)          un cours d'anglais en Angleterre.  
+    \item Elle (peindre)          un paysage breton.  
+    \item Il (pleuvoir)          tout l'après-midi.  
+    \item Vous (recevoir)          beaucoup de compliments.  
+    \item Nous (lire)          un roman de Zola.  
+    \item Je (faire)          la cuisine pour toute la famille.  
+    \item Il (mettre)          son chapeau gris.  
+    \item Elle (ouvrir)          les fenêtres.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item J'ai pris  
+\item n'avons pas pu  
+\item ont suivi  
+\item a peint  
+\item a plu  
+\item avez reçu  
+\item avons lu  
+\item J'ai fait  
+\item a mis  
+\item a ouvert  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes entre parenthèses au passé composé en utilisant l'inversion si nécessaire. 
+
+\begin{enumerate}
+    \item À quel âge ce comédien (monter)          sur scène?  
+    \item Nous (rentrer)          du théâtre à minuit.  
+    \item La voiture (tomber)          en panne près de Madrid.  
+    \item Ils (descendre)          par l'escalier.  
+    \item Elles (revenir)          de vacances mardi.  
+    \item Quel jour (partir)          ?  
+    \item Elle (aller)          à l'opéra hier soir.  
+    \item Luc (aller)          au Mexique l'hiver dernier.  
+    \item Molière (mourir)          en 1673.  
+    \item Le metteur en scène (rester)          dans les coulisses.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item est-il monté  
+\item sommes rentré(e)s  
+\item est tombée  
+\item sont descendus  
+\item sont revenues  
+\item est-il parti  
+\item est allée  
+\item est allé  
+\item est mort  
+\item est resté  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes.  
+\begin{enumerate}
+    \item She read the newspaper.  
+    \item We went to Paris.  
+    \item They left last night.  
+    \item He had to leave at five o'clock.  
+    \item They lived in Italy.  
+    \item Zola died in 1902.  
+    \item I wrote a long letter.  
+    \item She has painted the wall white.  
+    \item She stayed at home.  
+    \item He took some vacation.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Elle a lu le journal.  
+\item Nous sommes allé(e)s à Paris.  
+\item Ils sont partis (Elles sont parties) hier soir.  
+\item Il a dû partir à cinq heures.  
+\item Ils (Elles) ont habité en Italie.  
+\item Zola est mort en 1902.  
+\item J'ai écrit une longue lettre.  
+\item Elle a peint le mur en blanc.  
+\item Elle est restée à la maison.  
+\item Il a pris des vacances.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au passé composé les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Ils (se promener)          le long de la rivière.  
+    \item Il (se douter)          de quelque chose.  
+    \item Elles (se maquiller)          pour aller au bal.  
+    \item Ils (s'écrire)          régulièrement.  
+    \item Nous (s'arrêter)          au bord de la route.  
+    \item Ils (s'occuper)          de tout.  
+    \item Elles (se balader)          à la campagne.  
+    \item Ils (se rencontrer)          à une conférence.  
+    \item Tu (se couper)          le doigt.  
+    \item Nous (se demander)          pourquoi il était absent.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item se sont promenés  
+\item s'est douté  
+\item se sont maquillées  
+\item se sont écrit  
+\item nous sommes arrêté(e)s  
+\item se sont occupés  
+\item se sont baladées  
+\item se sont rencontrés  
+\item t'es coupé  
+\item nous sommes demandé  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes:  
+\begin{enumerate}  
+    \item They spent a month in China.  
+    \item She fainted.  
+    \item They kissed each other.  
+    \item They had fun at the party.  
+    \item She took the suitcases down.  
+    \item He brushed his teeth.  
+    \item He woke up tired.  
+    \item They wrote each other regularly.  
+    \item Anna stopped for ten minutes.  
+    \item He flipped the omelette.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ils (Elles) ont passé un mois en Chine.  
+\item Elle s'est évanouie.  
+\item Ils se sont embrassés.  
+\item Ils se sont amusés (Elles se sont amusées) à la soirée.  
+\item Elle a descendu les valises.  
+\item Il s'est brossé les dents.  
+\item Il s'est réveillé fatigué.  
+\item Ils (Elles) se sont écrit régulièrement.  
+\item Anna s'est arrêtée dix minutes.  
+\item Il a retourné l'omelette.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre les verbes entre parenthèses à l'imparfait.  
+\begin{enumerate}  
+    \item Il (voyager)          chaque année en Australie.  
+    \item Tu (faire)          du sport à l'école?  
+    \item Nous (être)          enchantés de notre expédition.  
+    \item Ils (boire)          du café noir le matin.  
+    \item Je (être)          champion de tennis.  
+    \item Nous (aimer)          faire la cuisine.  
+    \item Elles (partager)          une chambre à l'université.  
+    \item Il (prendre)          toujours une semaine de vacances en février.  
+    \item Le guide (encourager)          les marcheurs.  
+    \item Vous (aller)          au bord de la mer en été.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item voyageait  
+\item faisais  
+\item étions  
+\item buvaient  
+\item J'étais  
+\item aimions  
+\item partageaient  
+\item prenait  
+\item encourageait  
+\item alliez  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre les verbes entre parenthèses à l'imparfait.  
+\begin{enumerate}  
+    \item Il (croire) que tu ne voulais pas venir.  
+    \item Je (être) à la montagne.  
+    \item Elle (penser) à ses prochaines vacances.  
+    \item Ils (espérer) un miracle.  
+    \item Elle (avoir) très faim.  
+    \item Je (savoir) qu'il avait raison.  
+    \item Nous (être) réalistes.  
+    \item Vous (paraître) sceptique.  
+    \item L'exposition (être) fascinante.  
+    \item Il (faire) un temps glacial.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item croyait  
+\item J'étais  
+\item pensait  
+\item espéraient  
+\item avait  
+\item savais  
+\item étions  
+\item paraissiez  
+\item était  
+\item faisait  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes entre parenthèses à l'imparfait. 
+\begin{enumerate}
+    \item Nous (suivre)          des cours de danse tous les mardis. 
+    \item Je (faire)          de la natation tous les jours. 
+    \item La vie (être)          plus facile. 
+    \item Nous (faire)          la grasse matinée tous les dimanches. 
+    \item À cette époque, ils (habiter)          en banlieue. 
+    \item Nous (boire)          du café. 
+    \item Autrefois, ils (assister)          à tous les concerts. 
+    \item Dans son enfance, elle (faire)          de l'équitation. 
+    \item Dans le passé, vous (se voir)          plus souvent. 
+    \item Elle (travailler)          chez Guerlain.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item suivions  
+    \item faisais  
+    \item était  
+    \item faisions  
+    \item habitaient  
+    \item buvions  
+    \item assistaient  
+    \item faisait  
+    \item vous voyiez  
+    \item travaillait  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes entre parenthèses à l'imparfait. 
+\begin{enumerate}
+    \item Il (faire)          un discours quand quelqu'un dans l'assistance l'a interrompu. 
+    \item Je (dormir)          quand le chat a sauté sur mon lit. 
+    \item Nous (bavarder)          depuis une heure quand il est arrivé. 
+    \item Ils (se reposer)          quand une alarme a retenti. 
+    \item Vous (parler)          depuis un moment quand soudain il s'est levé. 
+    \item Elle (étudier)          l'architecture depuis un an quand elle a décidé de changer de filière. 
+    \item Ils (danser)          quand la musique s'est arrêtée. 
+    \item Il (réfléchir)          quand une idée lui a traversé l'esprit. 
+    \item Elle (travailler)          dans son bureau quand ils ont frappé à la porte. 
+    \item Je (attendre)          Roland depuis dix minutes quand enfin...
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item faisait  
+\item dormais  
+\item bavardions  
+\item se reposaient  
+\item parliez  
+\item étudiait  
+\item dansaient  
+\item réfléchissait  
+\item travaillait  
+\item J'attendais
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant la forme tu si nécessaire.  
+\begin{enumerate}  
+    \item I used to play tennis every Thursday.  
+    \item You were studying when the phone rang.  
+    \item We were sleeping when suddenly we heard a loud noise.  
+    \item The restaurant was crowded.  
+    \item It was cold in the mountains.  
+    \item They looked tired.  
+    \item The play was fascinating.  
+    \item She used to work at the Galeries Lafayette.  
+    \item We were waiting for the bus when it started to rain.  
+    \item She knew they were wrong.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Je jouais au tennis tous les jeudis.  
+\item Tu étudiais quand le téléphone a sonné.  
+\item Nous dormions quand tout à coup nous avons entendu un bruit fort.  
+\item Le restaurant était bondé.  
+\item Il faisait froid à la montagne.  
+\item Ils (Elles) avaient l'air fatigué.  
+\item La pièce était fascinante.  
+\item Elle travaillait aux Galeries Lafayette.  
+\item Nous attendions l'autobus quand il a commencé à pleuvoir.  
+\item Elle savait qu'ils (elles) avaient tort.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes entre parenthèses à l'imparfait. 
+\begin{enumerate}
+    \item Si on (aller)          se promener dans la forêt? 
+    \item Si on (déjeuner)          ensemble? 
+    \item Si on (apporter)          une boîte de chocolats à Julie? 
+    \item Si on (attendre)          encore quelques minutes? 
+    \item Si on (commander)          un dessert? 
+    \item Si on (faire)          un voyage en Grèce? 
+    \item Si on (ouvrir)          un restaurant? 
+    \item Si on (investir)          dans cette entreprise? 
+    \item Si on (réfl échir)          avant de prendre une décision? 
+    \item Si on (choisir)          une autre formule?
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item allait  
+\item déjeunait  
+\item apportait  
+\item attendait  
+\item commandait  
+\item faisait  
+\item ouvrait  
+\item investissait  
+\item réfléchissait  
+\item choisissait  
+\end{enumerate}
+
+
+(French) (Grammar) D G (With Answer)
+
+Passé composé ou imparfait? 
+\begin{enumerate}
+    \item Je (aller)          chez le dentiste hier. 
+    \item Quand il (être)          adolescent, il (jouer)          au football. 
+    \item À cette époque-là, ils (tenir)          une brasserie place d'Italie. 
+    \item Ils (randonner)          dans les Alpes le week-end passé. 
+    \item Nous (dîner)          dans ce restaurant tous les samedis. 
+    \item Si on (prendre)          un café? 
+    \item Tu (avoir)          l'air fatigué. 
+    \item Chaque jour, il (écrire)          une lettre à son amie. 
+    \item Je (regarder)          un fi lm quand elle (arriver). 
+    \item La campagne (être)          si belle.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item Je suis allé(e) chez le dentiste hier.  
+\item Quand il était adolescent, il jouait au football.  
+\item À cette époque-là, ils tenaient une brasserie place d'Italie.  
+\item Ils ont randonné dans les Alpes le week-end passé.  
+\item Nous dînions dans ce restaurant tous les samedis.  
+\item Si on prenait un café?  
+\item Tu avais l'air fatigué.  
+\item Chaque jour, il écrivait une lettre à son amie.  
+\item Je regardais un fi lm quand elle est arrivée.  
+\item La campagne était si belle.
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au futur simple les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Vous (suivre)          un cours de français.  
+    \item Nous (dîner)          chez Yann la semaine prochaine.  
+    \item Tu (entendre)          de la belle musique.  
+    \item Elle (chercher)          un autre emploi.  
+    \item Ils (ne jamais oublier)          votre générosité.  
+    \item Je (travailler)          samedi après-midi.  
+    \item Nous (rendre visite)          à notre famille.  
+    \item Il (finir)          le livre avant lundi.  
+    \item On (remplacer)          tous les meubles.  
+    \item Tu (partir)          avant nous.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item suivrez  
+\item dînerons  
+\item entendras  
+\item cherchera  
+\item n'oublieront jamais  
+\item travaillerai  
+\item rendrons visite  
+\item finira  
+\item remplacera  
+\item partiras  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au futur simple les verbes entre parenthèses. 
+
+\begin{enumerate}
+    \item Il (être)          déçu de ne pas vous voir.  
+    \item L'étudiant (faire)          un stage à Nantes.  
+    \item Tu (savoir)          demain si tu as réussi à ton examen.  
+    \item Nous (avoir)          les résultats demain.  
+    \item Le professeur (aller)          à Paris en juin.  
+    \item Il (préférer)          suivre le cours d'histoire de l'art.  
+    \item Nous (voir)          un bon film au cinéma.  
+    \item Il (falloir)          remettre les devoirs jeudi.  
+    \item Elle (pouvoir)          aller à la campagne avec nous.  
+    \item Il (pleuvoir)          demain.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item sera  
+\item fera  
+\item sauras  
+\item aurons  
+\item ira  
+\item préférera  
+\item verrons  
+\item faudra  
+\item pourra  
+\item pleuvra  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au futur simple les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Vous (aller)          à l'opéra quand vos amis (être)          à Lyon. 
+    \item Nous (prendre)          une décision dès que la presse (annoncer)          les résultats. 
+    \item L'exposition (avoir lieu)          en janvier quand tous les tableaux (être)          réunis. 
+    \item Le professeur (emmener)          les élèves au musée dès qu'il (pouvoir)          . 
+    \item Il (devoir)          nous appeler dès qu'il (être)          en contact avec M. Clément. 
+    \item Tant qu'il y (avoir)          des hommes, il y (avoir)          des guerres. 
+    \item Elle (enseigner)          le français quand elle (habiter)          au Vietnam. 
+    \item Nous (jouer)          au bridge quand nous (rendre visite)          à nos amis. 
+    \item Elle (se reposer)          quand elle (avoir)          de longues vacances. 
+    \item Dès qu'il (obtenir)          l'accord, il (partir)          .
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item Vous irez à l'opéra quand vos amis seront à Lyon.  
+\item Nous prendrons une décision dès que la presse annoncera les résultats.  
+\item L'exposition aura lieu en janvier quand tous les tableaux seront réunis.  
+\item Le professeur emmènera les élèves au musée dès qu'il pourra.  
+\item Il devra nous appeler dès qu'il sera en contact avec M. Clément.  
+\item Tant qu'il y aura des hommes, il y aura des guerres.  
+\item Elle enseignera le français quand elle habitera au Vietnam.  
+\item Nous jouerons au bridge quand nous rendrons visite à nos amis.  
+\item Elle se reposera quand elle aura de longues vacances.  
+\item Dès qu'il obtiendra l'accord, il partira.
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Changer les verbes du futur immédiat au futur simple. 
+\begin{enumerate}
+    \item L'avion va décoller à onze heures.  
+    \item Tu vas apprendre à conduire.  
+    \item Je vais peindre le salon.  
+    \item Ils vont sortir avec des amis.  
+    \item Vous allez recevoir une invitation.  
+    \item Nous allons débarquer à midi.  
+    \item Elle va écrire une lettre au président.  
+    \item Tu vas mettre ton chapeau gris.  
+    \item Ils vont aller en Bolivie.  
+    \item Il va vivre jusqu'à cent ans.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item L'avion décollera à onze heures.  
+    \item Tu apprendras à conduire.  
+    \item Je peindrai le salon.  
+    \item Ils sortiront avec des amis.  
+    \item Vous recevrez une invitation.  
+    \item Nous débarquerons à midi.  
+    \item Elle écrira une lettre au président.  
+    \item Tu mettras ton chapeau gris.  
+    \item Ils iront en Bolivie.  
+    \item Il vivra jusqu'à cent ans.
+\end{enumerate}
+
+
+(French) (Futur Antérieur) D G (With Answer)
+
+Mettre les verbes entre parenthèses au futur antérieur. 
+\begin{enumerate}
+    \item Elle (apprendre)          le français au Laos. 
+    \item Il (finir)          son roman avant la fin de l'année. 
+    \item Nous (visiter)          tous les sites historiques de la région. 
+    \item Les chercheurs (trouver)          un nouveau vaccin. 
+    \item On (découvrir)          un remède plus efficace. 
+    \item Je (répondre)          à toutes les questions. 
+    \item Elle (se reposer)          des semaines au bord du lac. 
+    \item Ils (compléter)          leur stage de formation. 
+    \item Il (mourir)          depuis longtemps. 
+    \item Je (voir)          l'essentiel.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item aura appris  
+    \item aura fini  
+    \item aurons visité  
+    \item auront trouvé  
+    \item aura découvert  
+    \item J'aurai répondu  
+    \item se sera reposée  
+    \item auront complété  
+    \item sera mort  
+    \item J'aurai vu
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant vous si nécessaire.  
+\begin{enumerate}
+    \item We'll play tennis.  
+    \item You'll need to buy a new car.  
+    \item I'll take a history course.  
+    \item We'll visit Venice when we are in Italy.  
+    \item They'll go to Dakar.  
+    \item We'll walk along the beach.  
+    \item He'll study French when he is in Bordeaux.  
+    \item They'll see the Picasso exhibition when they are in Paris.  
+    \item She'll travel to Asia when she gets her degree.  
+    \item He'll become a doctor.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Nous jouerons au tennis.  
+\item Vous aurez besoin d'acheter une nouvelle voiture.  
+\item Je suivrai un cours d'histoire.  
+\item Nous visiterons Venise quand nous serons en Italie.  
+\item Ils (Elles) iront à Dakar.  
+\item Nous marcherons le long de la plage.  
+\item Il étudiera le français quand il sera à Bordeaux.  
+\item Ils (Elles) verront l'exposition Picasso quand ils (elles) seront à Paris.  
+\item Elle voyagera en Asie quand elle obtiendra son diplôme.  
+\item Il deviendra médecin.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au futur simple les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Puisqu'il a raté son examen, il (ne pas aller)          en vacances. 
+    \item Étant donné qu'il est parti, la situation ne (faire)          qu'empirer. 
+    \item Il devra trouver une excuse parce qu'elle (ne pas pouvoir)          assister à la réunion. 
+    \item Il fera chaud chez elle alors que chez lui, on (geler)          . 
+    \item Si nous avons le temps, nous (se promener)          au bord du lac. 
+    \item Dès que j'aurai terminé l'enregistrement, je vous (envoyer)          un CD. 
+    \item Elle dormira tandis que je (faire)          la vaisselle. 
+    \item Tant qu'ils seront là, tout (aller)          bien. 
+    \item Quand tu vivras à Paris, tu (découvrir)          beaucoup de nouvelles choses. 
+    \item Aussitôt que le paquet sera arrivé, je vous (contacter)          .
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item n'ira pas  
+\item fera  
+\item ne pourra pas  
+\item gèlera  
+\item nous promènerons  
+\item enverrai  
+\item ferai  
+\item ira  
+\item découvriras  
+\item contacterai  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au plus-que-parfait les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Je (dîner)          place d'Italie. 
+    \item Elle (expliquer)          la situation en détail. 
+    \item Vous (investir)          dans leur entreprise. 
+    \item Elles (arriver)          à la réception en retard. 
+    \item Tu (décider)          d'aller en Russie. 
+    \item Nous (rouler)          toute la nuit. 
+    \item Il (échouer)          à son examen. 
+    \item Tu (aller)          en vacances tout seul. 
+    \item Je (obtenir)          un nouveau poste. 
+    \item Il (boire)          un très bon vin.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item J'avais dîné  
+    \item Elle avait expliqué  
+    \item Vous aviez investi  
+    \item Elles étaient arrivées  
+    \item Tu avais décidé  
+    \item Nous avions roulé  
+    \item Il avait échoué  
+    \item Tu étais allé(e)  
+    \item J'avais obtenu  
+    \item Il avait bu  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre au plus-que-parfait les verbes entre parenthèses. 
+\begin{enumerate}
+    \item Il (prendre)          un cachet d'aspirine.  
+    \item Nous (se réveiller)          à l'aube.  
+    \item Tu (se demander)          s'il était allergique.  
+    \item Elle (s'habiller)          pour la soirée.  
+    \item Ils (se marier)          en septembre.  
+    \item Louise et Julie (se coucher)          tard.  
+    \item Il (se souvenir)          de cet homme.  
+    \item Nous (se promener)          dans les jardins du Luxembourg.  
+    \item Elle (se reposer)          sur un banc.  
+    \item Elles (s'écrire)          pendant des années.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item avait pris  
+\item nous étions réveillé(e)s  
+\item t'étais demandé(e)  
+\item s'était habillée  
+\item s'étaient mariés  
+\item s'étaient couchées  
+\item s'était souvenu  
+\item nous étions promené(e)s  
+\item s'était reposée  
+\item s'étaient écrites  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au plus-que-parfait les verbes entre parenthèses.  
+\begin{enumerate}
+    \item Il était en retard car sa voiture (tomber) en panne sur l'autoroute.  
+    \item Le médecin lui a demandé si elle (avoir) la grippe.  
+    \item Elle a pensé que je (ne pas expliquer) la situation.  
+    \item Il a refusé de prendre le médicament que le médecin (prescrire).  
+    \item Elle était furieuse car il (oublier) leur anniversaire de mariage.  
+    \item Lorsque Lucie est arrivée, Paul (partir).  
+    \item Je ne savais pas que Bertrand (inviter) toute sa famille.  
+    \item Elle ne se souvenait plus où elle (rencontrer) le frère de Lucien.  
+    \item Comme il n'avait pas d'analgésique, il (souffrir) pendant des heures.  
+    \item Il voulait savoir si elle (recevoir) son bouquet de fleurs.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item était tombée  
+\item avait eu  
+\item n'avais pas expliqué  
+\item avait prescrit  
+\item avait oublié  
+\item était parti  
+\item avait invité  
+\item avait rencontré  
+\item avait souffert  
+\item avait reçu  
+\end{enumerate}
+
+
+(French) (Grammar) D G (With Answer)
+
+Commencer les phrases par "si seulement" et mettre au plus-que-parfait les verbes entre parenthèses. 
+
+\begin{enumerate}
+    \item (vous) (ne pas être) en retard  
+    \item (tu) (étudier) le français plus jeune  
+    \item (nous) (savoir) la vérité  
+    \item (elle) (rester) plus longtemps  
+    \item (il) (rendre visite à) sa cousine Flore  
+    \item (je) (prendre) une meilleure décision  
+    \item (elle) (expliquer) la situation plus clairement  
+    \item (vous) (pouvoir venir) à la réception  
+    \item (tu) (comprendre) les problèmes  
+    \item (il) (conseiller) autre chose  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Si seulement vous n'aviez pas été en retard!  
+\item Si seulement tu avais étudié le français plus jeune!  
+\item Si seulement nous avions su la vérité!  
+\item Si seulement elle était restée plus longtemps!  
+\item Si seulement il avait rendu visite à sa cousine Flore!  
+\item Si seulement j'avais pris une meilleure décision!  
+\item Si seulement elle avait expliqué la situation plus clairement!  
+\item Si seulement vous aviez pu venir à la réception!  
+\item Si seulement tu avais compris les problèmes!  
+\item Si seulement il avait conseillé autre chose!  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes:  
+\begin{enumerate}
+    \item He took the medicine the doctor had prescribed.  
+    \item She knew they had made a mistake.  
+    \item He was sick because he had eaten too much dessert.  
+    \item I wondered why she had stayed three months in Vienna.  
+    \item I thought they had understood the problem.  
+    \item If only he had not been late!  
+    \item She was tired because she had only slept five hours.  
+    \item He was hungry because he had not eaten since seven A.M.  
+    \item We thought he had seen this film.  
+    \item He thought she had read the book.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Il a pris le médicament que le médecin avait prescrit.  
+\item Elle savait qu'ils (elles) avaient fait une erreur.  
+\item Il était malade car il avait mangé trop de dessert.  
+\item Je me suis demandé pourquoi elle était restée trois mois à Vienne.  
+\item Je pensais qu'ils (elles) avaient compris le problème.  
+\item Si seulement il n'avait pas été en retard!  
+\item Elle était fatiguée parce qu'elle n'avait dormi que cinq heures.  
+\item Il avait faim parce qu'il n'avait pas mangé depuis sept heures du matin.  
+\item Nous pensions qu'il avait vu ce film.  
+\item Il pensait qu'elle avait lu le livre.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes au présent du conditionnel. 
+\begin{enumerate}
+    \item aller (nous)          
+    \item voyager (elle)          
+    \item dire (nous)          
+    \item avoir (je)          
+    \item manger (ils)          
+    \item prendre (elle)          
+    \item être (tu)          
+    \item demander (vous)          
+    \item écrire (je)         
+    \item savoir (tu)          
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item irions  
+    \item voyagerait  
+    \item dirions  
+    \item j'aurais  
+    \item mangeraient  
+    \item prendrait  
+    \item serais  
+    \item demanderiez  
+    \item j'écrirais  
+    \item saurais  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les verbes entre parenthèses en utilisant vous et l'inversion. 
+
+\begin{enumerate}
+    \item (Would you) aller au théâtre la semaine prochaine?          
+    \item (Could we) passer chez vous après le spectacle?          
+    \item (Could you) changer la date de votre départ?          
+    \item (Would you) m'acheter le journal pendant mes vacances?          
+    \item (Would he) signer cette pétition?          
+    \item (Could you) nourrir mes poissons rouges?          
+    \item (Could she) prendre un train plus tard?          
+    \item (Would you) aller avec moi en Tanzanie?          
+    \item (Could we) fi nir ce projet la semaine prochaine?         
+    \item (Would they) accompagner Sonia à la gare?         
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Iriez-vous  
+    \item Pourrions-nous  
+    \item Pourriez-vous  
+    \item M'achèteriez-vous  
+    \item Signerait-il  
+    \item Pourriez-vous  
+    \item Pourrait-elle  
+    \item Iriez-vous  
+    \item Pourrions-nous  
+    \item Accompagneraient-ils (-elles)
+\end{enumerate}
+
+
+(French) (Grammar Exercise) D G (With Answer)
+
+Mettre à l'imparfait les verbes dans la proposition si, et au conditionnel ceux de la proposition principale. 
+
+\begin{enumerate}
+    \item Si je (avoir) moins de travail, je (voyager) plus.  
+    \item S'ils (attendre), ils (obtenir) un meilleur prix pour leur appartement.  
+    \item Si nous (planter) plus de fleurs, nous (avoir) un plus beau jardin.  
+    \item Si je (vendre) mon appartement, je (pouvoir) acheter cette maison.  
+    \item S'il (pouvoir), il (déménager).  
+    \item Si vous les (inviter), nous (être) ravis.  
+    \item Si ma voiture (tomber) en panne, je (piquer) une crise.  
+    \item Si elle (avoir) plus d'argent, elle (venir) avec nous.  
+    \item Si vous (s'organiser) autrement, votre vie (être) plus facile.  
+    \item Si tu (dormir) plus, tu (avoir) de meilleures notes à l'école.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+\item Si j'avais moins de travail, je voyagerais plus.  
+\item S'ils attendaient, ils obtiendraient un meilleur prix pour leur appartement.  
+\item Si nous plantions plus de fleurs, nous aurions un plus beau jardin.  
+\item Si je vendais mon appartement, je pourrais acheter cette maison.  
+\item S'il pouvait, il déménagerait.  
+\item Si vous les invitiez, nous serions ravis.  
+\item Si ma voiture tombait en panne, je piquerais une crise.  
+\item Si elle avait plus d'argent, elle viendrait avec nous.  
+\item Si vous vous organisiez autrement, votre vie serait plus facile.  
+\item Si tu dormais plus, tu aurais de meilleures notes à l'école.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Conjuguer les verbes entre parenthèses en utilisant d'abord le présent du conditionnel, puis l'imparfait. 
+
+\begin{enumerate}
+    \item Elle (être) contente si tu (venir) ce soir.  
+    \item Nous (faire) une promenade dans le parc s'il (faire) beau.  
+    \item Ils (prendre) leur retraite s'ils (pouvoir).  
+    \item Il (accompagner) Sophie à l'opéra s'il (ne pas être) occupé.  
+    \item Il y (avoir) moins de problèmes si vous (suivre) mes conseils.  
+    \item Elles (aller) au musée s'il (être) ouvert avant onze heures.  
+    \item Vous (finir) plus tôt si vous (travailler) plus efficacement.  
+    \item Nous vous (croire) si vous nous (dire) la vérité.  
+    \item Elle (acheter) cette voiture si elle (être) moins chère.  
+    \item Tu lui (offrir) ce poste si tu (avoir) confiance en lui.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+\item Elle serait contente si tu venais ce soir.  
+\item Nous ferions une promenade dans le parc s'il faisait beau.  
+\item Ils prendraient leur retraite s'ils pouvaient.  
+\item Il accompagnerait Sophie à l'opéra s'il n'était pas occupé.  
+\item Il y aurait moins de problèmes si vous suiviez mes conseils.  
+\item Elles iraient au musée s'il était ouvert avant onze heures.  
+\item Vous finiriez plus tôt si vous travailliez plus efficacement.  
+\item Nous vous croirions si vous nous disiez la vérité.  
+\item Elle achèterait cette voiture si elle était moins chère.  
+\item Tu lui offrirais ce poste si tu avais confiance en lui.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant tu si nécessaire.  
+\begin{enumerate}
+    \item He would go to Paris if he had more time.  
+    \item She would buy this coat if it were less expensive.  
+    \item We would be delighted if you came on Sunday.  
+    \item I would write a letter if you needed it.  
+    \item The president is reportedly in Brazil today.  
+    \item It would be prettier if there were more flowers.  
+    \item I would invite Chloé if I went to Paris.  
+    \item The director will reportedly sign the contract.  
+    \item She would eat the soup if she were hungry.  
+    \item He would read the paper this morning if he could.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Il irait à Paris s'il avait plus de temps.  
+\item Elle achèterait ce manteau s'il était moins cher.  
+\item Nous serions ravi(e)s si tu venais dimanche.  
+\item J'écrirais une lettre si tu en avais besoin.  
+\item Le président serait au Brésil aujourd'hui.  
+\item Ce serait plus joli s'il y avait plus de fleurs.  
+\item J'inviterais Chloé si j'allais à Paris.  
+\item Le directeur signerait le contrat.  
+\item Elle mangerait la soupe si elle avait faim.  
+\item Il lirait le journal ce matin s'il pouvait.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Conjuguer les verbes entre parenthèses en utilisant d'abord le passé du conditionnel, puis le plus-que-parfait. 
+
+\begin{enumerate}
+    \item Nous (dîner) avec vous si nous (pouvoir).  
+    \item Elle (visiter) ce musée si elle (avoir) plus de temps.  
+    \item Elle (voir) ce film s'il (être) sous-titré.  
+    \item Ils (inviter) Charles s'il (ne pas travailler) ce soir-là.  
+    \item Il (faire) un documentaire sur ce sujet s'il (trouver) le financement.  
+    \item Ils (vendre) leur maison si leurs enfants (déménager).  
+    \item Vous (arriver) à temps si votre voiture (ne pas tomber) en panne.  
+    \item Le directeur (démissionner) si les ouvriers (ne pas faire) pression.  
+    \item Cette pièce (avoir) du succès s'il y (avoir) plus de temps pour les répétitions.  
+    \item Nous (venir) si nous (recevoir) votre invitation plus tôt.
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Nous aurions dîné avec vous si nous avions pu.  
+    \item Elle aurait visité ce musée si elle avait eu plus de temps.  
+    \item Elle aurait vu ce film s'il avait été sous-titré.  
+    \item Ils auraient invité Charles s'il n'avait pas travaillé ce soir-là.  
+    \item Il aurait fait un documentaire sur ce sujet s'il avait trouvé le financement.  
+    \item Ils auraient vendu leur maison si leurs enfants avaient déménagé.  
+    \item Vous seriez arrivé à temps si votre voiture n'était pas tombée en panne.  
+    \item Le directeur aurait démissionné si les ouvriers n'avaient pas fait pression.  
+    \item Cette pièce aurait eu du succès s'il y avait eu plus de temps pour les répétitions.  
+    \item Nous serions venus si nous avions reçu votre invitation plus tôt.
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Conjuguer les verbes entre parenthèses en utilisant d'abord le plus-que-parfait, puis le passé du conditionnel. 
+
+\begin{enumerate}
+    \item S'il (finir) son projet, il (ne pas devoir) travailler le week-end.  
+    \item Si je (mettre) mon manteau, je (ne pas avoir) si froid.  
+    \item Si vous (pouvoir) témoigner au tribunal, la situation (être) différente.  
+    \item Si on (ne pas guillotiner) le roi, l'histoire du pays (prendre) une tournure différente.  
+    \item S'il (apprendre) sa grammaire, il (faire) moins de fautes.  
+    \item Si elle (se présenter) aux élections, elle (être élue).  
+    \item Si nous (commander) un couscous, nous (ne pas avoir) faim plus tard.  
+    \item Si elle (pouvoir), elle (être) danseuse.  
+    \item Si tu (être) plus pratique, nous (voyager) sans bagages.  
+    \item Si je (savoir), je (ne pas engager) Daniel.
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+\item S'il avait fini son projet, il n'aurait pas dû travailler le week-end.  
+\item Si j'avais mis mon manteau, je n'aurais pas eu si froid.  
+\item Si vous aviez pu témoigner au tribunal, la situation aurait été différente.  
+\item Si on n'avait pas guillotiné le roi, l'histoire du pays aurait pris une tournure différente.  
+\item S'il avait appris sa grammaire, il aurait fait moins de fautes.  
+\item Si elle s'était présentée aux élections, elle aurait été élue.  
+\item Si nous avions commandé un couscous, nous n'aurions pas eu faim plus tard.  
+\item Si elle avait pu, elle aurait été danseuse.  
+\item Si tu avais été plus pratique, nous aurions voyagé sans bagages.  
+\item Si j'avais su, je n'aurais pas engagé Daniel.
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant le conditionnel journalistique, présent ou passé. 
+
+\begin{enumerate}
+    \item The prime minister reportedly went to China yesterday.  
+    \item The witness allegedly gave the police a different version.  
+    \item The cyclone reportedly killed two hundred people in this town.  
+    \item The director reportedly resigned.  
+    \item The storm has reportedly destroyed a hundred houses.  
+    \item Unemployment is reportedly going to decline next year.  
+    \item The health minister reportedly signed the reform.  
+    \item Penguins are reportedly unable to reproduce because of global warming.  
+    \item His new neighbor allegedly stole his car.  
+    \item A French actor reportedly bought a house in California last week.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Le Premier Ministre serait allé en Chine hier.  
+    \item Le témoin aurait donné une version différente à la police.  
+    \item Le cyclone aurait tué deux cents personnes dans cette ville.  
+    \item Le directeur aurait démissionné.  
+    \item La tempête aurait détruit des centaines de maisons.  
+    \item Le chômage baisserait l'année prochaine.  
+    \item Le ministre de la Santé aurait signé la réforme.  
+    \item Les pingouins ne pourraient pas se reproduire en raison du réchauffement climatique.  
+    \item Son nouveau voisin aurait volé sa voiture.  
+    \item Un acteur français aurait acheté une maison en Californie la semaine dernière.
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire. 
+\begin{enumerate}
+    \item Could you help clean the house after the party?  
+    \item We could not go on vacation.  
+    \item I could buy her a new flute.  
+    \item At that time, they could not understand.  
+    \item Could we start eating?  
+    \item We could go see a movie tonight.  
+    \item Thanks to her rich aunt, she could pay for her studies.  
+    \item I think she could do better.  
+    \item When you were a kid, you would play with your dolls for hours.  
+    \item Could you teach me how to play the guitar?
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Pourriez-vous aider à nettoyer la maison après la soirée?  
+    \item Nous n'avons pas pu partir en vacances.  
+    \item Je pourrais lui acheter une nouvelle flûte.  
+    \item À cette époque-là, ils (elles) ne pouvaient pas comprendre.  
+    \item Pourrions-nous commencer à manger?  
+    \item Nous pourrions aller voir un film ce soir.  
+    \item Grâce à sa tante riche, elle a pu payer ses études.  
+    \item Je pense qu'elle pourrait mieux faire.  
+    \item Quand vous étiez enfant, vous jouiez avec vos poupées pendant des heures.  
+    \item Pourriez-vous m'apprendre à jouer de la guitare?
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire. 
+\begin{enumerate}
+    \item You should learn to play the guitar.  
+    \item They shouldn't have said that. Could, should, would?  
+    \item I should write to Pierre.  
+    \item I should have talked to them.  
+    \item Do you think Julien should have called you before coming?  
+    \item I shouldn't have called so early.  
+    \item We shouldn't take the car, it's too dangerous.  
+    \item I think you should take a vacation.  
+    \item You should rent a piano for the party.  
+    \item Marie thinks her father should be present for this occasion.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Vous devriez apprendre à jouer de la guitare.  
+    \item Ils (Elles) n'auraient pas dû dire cela.  
+    \item Je devrais écrire à Pierre.  
+    \item J'aurais dû leur parler.  
+    \item Pensez-vous que Julien aurait dû vous appeler avant de venir?  
+    \item Je n'aurais pas dû vous appeler si tôt.  
+    \item Nous ne devrions pas prendre la voiture, c'est trop dangereux.  
+    \item Je pense que vous devriez prendre des vacances.  
+    \item Vous devriez louer un piano pour la soirée.  
+    \item Marie pense que son père devrait être présent pour cette occasion.
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire en anglais les phrases suivantes.  
+\begin{enumerate}
+    \item S'il était moins paresseux, il aurait de meilleures notes à l'école.  
+    \item Quand nous étions enfants, nos parents nous emmenaient en vacances au Maroc tous les ans.  
+    \item Samuel a demandé un peu plus d'argent. Son patron n'a pas voulu le lui donner.  
+    \item Si Emmanuelle était disponible, elle viendrait.  
+    \item Quand elle était étudiante à Paris, elle allait au cinéma tous les dimanches.  
+    \item Si Sylvie avait plus d'argent, elle s'achèterait de nouvelles chaussures.  
+    \item S'ils avaient le choix, ils ne déménageraient pas.  
+    \item Voudrais-tu me dire ce qui s'est passé à cette réunion?  
+    \item Catherine voulait faire demi-tour, mais son mari n'a pas voulu le faire.  
+    \item Pourriez-vous m'expliquer comment cela marche?  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item If he were less lazy, he would have better grades in school.  
+    \item When we were children, our parents would take us on vacation to Morocco every year.  
+    \item Samuel asked for a little more money. His boss would not do it (refused).  
+    \item If Emmanuelle were available, she would come.  
+    \item When she was a student in Paris, she would go to the movies every Sunday.  
+    \item If Sylvie had more money, she would buy herself new shoes.  
+    \item If they had a choice, they would not move.  
+    \item Would you tell me what happened at that meeting?  
+    \item Catherine wanted to turn around, but her husband would not do it (refused).  
+    \item Could you explain to me how this works?  
+\end{enumerate}  
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire en français les phrases suivantes en utilisant tu et l'inversion si nécessaire. 
+
+\begin{enumerate}
+    \item Could you read this document?  
+    \item We should buy tickets for the concert.  
+    \item Valérie could help you!  
+    \item At that time, she could not go out very often.  
+    \item Could you send me a copy of that letter?  
+    \item I asked her to help me; she would not do it.  
+    \item Pascal would play the violin if he had more time.  
+    \item Marie could not tell him the truth.  
+    \item When we were kids, we would play for hours on the beach.  
+    \item Don't you think you should change your haircut?  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Pourrais-tu lire ce document?  
+    \item Nous devrions acheter des billets pour le concert.  
+    \item Valérie pourrait t'aider!  
+    \item À cette époque-là, elle ne pouvait pas sortir souvent.  
+    \item Pourrais-tu m'envoyer un double de cette lettre?  
+    \item Je lui ai demandé de m'aider; elle n'a pas voulu.  
+    \item Pascal jouerait du violon s'il avait plus de temps.  
+    \item Marie n'a pas pu lui dire la vérité.  
+    \item Quand nous étions enfants, nous jouions sur la plage pendant des heures.  
+    \item Ne penses-tu pas que tu devrais changer de coiffure?  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Could, would ou should? Traduire en anglais les phrases suivantes.  
+\begin{enumerate}
+    \item Pourrais-tu ouvrir la porte?  
+    \item À cette heure, il devrait être à la maison.  
+    \item Ils n'ont pas pu avoir de billets.  
+    \item Voudriez-vous bien participer à ce projet?  
+    \item Je suis venu le chercher; il n'a pas voulu venir avec moi.  
+    \item Si tu étais moins égoïste, tu aurais plus d'amis.  
+    \item Voudrais-tu bien me montrer comment ça fonctionne?  
+    \item Il n'a pas pu partir à temps.  
+    \item Lorsque nous étions enfants, nous allions à la mer tous les étés.  
+    \item Il devrait réfléchir avant de parler.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Could you open the door?  
+\item At that time, he should be home.  
+\item They could not get tickets.  
+\item Would you like to participate in this project?  
+\item I came to pick him up. He would not come with me.  
+\item If you were not so selfish, you would have more friends.  
+\item Would you be willing to show me how it works?  
+\item He could not leave in time.  
+\item When we were children, we would go to the seashore every summer.  
+\item He should think before talking.
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes au subjonctif. 
+\begin{enumerate}
+    \item Elle préfère que tout le monde (être)          là avant de commencer. 
+    \item Je doute que vous (comprendre)          l'importance de cet événement. 
+    \item Sa mère aimerait mieux qu'elle (ne pas sortir)          ce soir. 
+    \item A-t-il fini le projet? Non. Mais je tiens à ce qu'il le (finir)          aujourd'hui. 
+    \item Je doute qu'ils (gérer)          cette affaire correctement. 
+    \item J'ai peur que ces logiciels (ne pas être)          compatibles. 
+    \item Ils souhaitent que cette aventure (avoir)          une fin heureuse. 
+    \item Il craint que ce projet (être)          un échec. 
+    \item Elle est contente qu'il (pouvoir)          acheter la maison de ses rêves. 
+    \item Le juge ne croit pas qu'il (dire)          la vérité.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item soit  
+    \item compreniez  
+    \item ne sorte pas  
+    \item finisse  
+    \item gèrent  
+    \item ne soient pas  
+    \item ait  
+    \item soit  
+    \item puisse  
+    \item dise  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre les propositions subordonnées au subjonctif.  
+\begin{enumerate}  
+    \item Il faut que vous (aller)          voir ce film.  
+    \item Il est essentiel que vous (arriver)          avant la fin de la semaine.  
+    \item Il est impensable que nous (accepter)          ces conditions.  
+    \item Il est possible que nous (voyager)          cet été.  
+    \item Il est important qu'il (être)          à l'heure.  
+    \item Il vaut mieux que nous (ne rien dire)          .  
+    \item Il est regrettable que ses enfants (habiter)          si loin.  
+    \item Il est dommage que vous (vendre)          votre maison de campagne.  
+    \item Il est indispensable qu'elle (suivre)          un cours d'informatique.  
+    \item Il est rare que nous (emporter)          du travail à la maison.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item alliez  
+\item arriviez  
+\item acceptions  
+\item voyagions  
+\item soit  
+\item ne disions rien  
+\item habitent  
+\item vendiez  
+\item suive  
+\item emportions  
+\end{enumerate}
+
+
+(French) (Subjonctif) D G (With Answer)
+
+Mettre les verbes entre parenthèses au subjonctif. 
+
+\begin{enumerate}
+    \item Il ne commencera pas son discours avant que vous (donner)          le signal.  
+    \item Elle est généreuse quoiqu'elle (ne pas être)          riche.  
+    \item Je t'aiderai à condition que tu me (faire)          une faveur.  
+    \item Nous les inviterons pour qu'ils (ne pas se sentir)          délaissés.  
+    \item Elle déposera un brevet de peur qu'on lui (voler)          son idée.  
+    \item J'achèterai leur appartement pour qu'ils (pouvoir)          s'installer à la campagne.  
+    \item Il téléchargera le dossier bien qu'il (ne pas répondre)          exactement à ses besoins.  
+    \item Elle a un blog pour que ses lecteurs (donner)          leurs réactions.  
+    \item Nous donnerons nos opinions pourvu qu'elles (rester)          anonymes.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item donniez  
+\item ne soit pas  
+\item fasses  
+\item ne se sentent pas  
+\item vole  
+\item puissent  
+\item ne réponde pas  
+\item donnent  
+\item restent  
+\item puisse  
+\end{enumerate}
+
+
+(French) (Exercise) D G (With Answer)
+
+**Indicatif ou subjonctif?**  
+\begin{enumerate}
+    \item Il dit que leur page d'accueil (\textit{être})          attrayante.  
+    \item Elle doute qu'il (\textit{faire})          chaud demain.  
+    \item Ils sont heureux que leurs enfants (\textit{pouvoir})          aller en Europe cet été.  
+    \item Je pense que Maud (\textit{avoir})          raison.  
+    \item Je veux que tu (\textit{faire})          la présentation jeudi.  
+    \item Tu ne crois pas qu'ils (\textit{avoir})          assez d'expérience.  
+    \item Vous savez qu'ils (\textit{être})          toujours en retard.  
+    \item Nous souhaitons que vous (\textit{obtenir})          ce poste.  
+    \item Ils exigent que vous (\textit{parler})          une langue étrangère.  
+    \item Vous savez que cet ordinateur (\textit{être})          obsolète.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item est  
+    \item fasse  
+    \item puissent  
+    \item a  
+    \item fasses  
+    \item aient  
+    \item sont  
+    \item obteniez  
+    \item parliez  
+    \item est  
+\end{enumerate}  
+
+
+(French) (Subjonctif) D G (With Answer)
+
+Mettre les propositions subordonnées suivantes au subjonctif. 
+
+\begin{enumerate}
+    \item Il est rare que nous (voyager)          dans cette région.  
+    \item Il me semble que vous (se tromper)          souvent.  
+    \item Il faut que nous (trouver)          un bon restaurant.  
+    \item Il est naturel que je (connaître)          cette ville. C'est ma ville natale!  
+    \item Il est essentiel que nous (acheter)          un nouvel ordinateur.  
+    \item Il est dommage que ce logiciel (ne pas être)          plus performant.  
+    \item Elle reste chez elle de peur qu'il y (avoir)          une tempête de neige.  
+    \item Nous vous contacterons avant que vous (envoyer)          la rédaction du contrat.  
+    \item Vérifiez les chiffres afin qu'on (pouvoir)          communiquer le rapport.  
+    \item Bien que son livre (être)          bien écrit, il ne trouvera guère de lecteurs.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item voyagions  
+\item vous trompiez  
+\item trouvions  
+\item connaisse  
+\item achetions  
+\item ne soit pas  
+\item ait  
+\item envoyiez  
+\item puisse  
+\item soit  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous si nécessaire. 
+\begin{enumerate}
+    \item Let's hope he is right!  
+    \item She is happy he can study French.  
+    \item It is possible you can buy this software here.  
+    \item Call us before we go to France!  
+    \item It is strange he is late.  
+    \item Let's hope he can come!  
+    \item She wants you to buy this computer.  
+    \item Although he is tired, he reads the newspaper.  
+    \item Although he makes a few mistakes, his French is very good.  
+    \item It is the most beautiful city I know.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Pourvu qu'il ait raison!  
+    \item Elle est heureuse qu'il puisse étudier le français.  
+    \item Il est possible que vous puissiez acheter ce logiciel ici.  
+    \item Appelez-nous avant que nous allions en France!  
+    \item Il est étrange qu'il soit en retard.  
+    \item Pourvu qu'il puisse venir!  
+    \item Elle veut que vous achetiez cet ordinateur.  
+    \item Bien qu'il soit fatigué, il lit le journal.  
+    \item Bien qu'il fasse quelques fautes, son français est très bon.  
+    \item C'est la plus belle ville que je connaisse.
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Mettre les verbes entre parenthèses au passé du subjonctif. 
+
+\begin{enumerate}
+    \item Je doute que tu (lire)          tout le livre.  
+    \item Nous sommes ravis que vous (pouvoir)          être parmi nous.  
+    \item Il est possible que le logiciel (être)          défectueux.  
+    \item Je suis surpris que vous (ne pas voir)          ce film.  
+    \item Il a peur que Charles (manquer)          le train.  
+    \item Il n'est pas certain qu'il (réussir)          à son examen.  
+    \item Je crains qu'il (plagier)          mes idées.  
+    \item Il a envoyé le courriel avant que je (pouvoir)          ajouter un mot.  
+    \item Il est douteux qu'ils (lire)          tous les dossiers.  
+    \item Je suis content que vous (dire)          la vérité.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item aies lu  
+\item ayez pu  
+\item ait été  
+\item n'ayez pas vu  
+\item ait manqué  
+\item ait réussi  
+\item ait plagié  
+\item j'aie pu  
+\item aient lu  
+\item ayez dit  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Changer du présent au passé du subjonctif. 
+
+\begin{enumerate}
+    \item Il est content que nous partions.  
+    \item Nous sommes ravis que tu puisses venir avec nous.  
+    \item Je ne crois pas qu'il aille à l'exposition.  
+    \item Il doute qu'elle réussisse.  
+    \item Elle a peur qu'il ait un accident de moto.  
+    \item Ils sont contents que Laurent se marie.  
+    \item Nous sommes désolés que votre sœur soit malade.  
+    \item Il est douteux qu'ils aillent en Patagonie.  
+    \item Il est regrettable que leurs enfants soient si peu reconnaissants.  
+    \item Il est incroyable que vous ne sachiez pas la réponse.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Il est content que nous soyons parti(e)s.  
+    \item Nous sommes ravis que tu aies pu venir avec nous.  
+    \item Je ne crois pas qu'il soit allé à l'exposition.  
+    \item Il doute qu'elle ait réussi.  
+    \item Elle a peur qu'il ait eu un accident de moto.  
+    \item Ils sont contents que Laurent se soit marié.  
+    \item Nous sommes désolés que votre sœur ait été malade.  
+    \item Il est douteux qu'ils soient allés en Patagonie.  
+    \item Il est regrettable que leurs enfants aient été si peu reconnaissants.  
+    \item Il est incroyable que vous n'ayez pas su la réponse.
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant l'infinitif présent.  
+\begin{enumerate}  
+    \item Writing this book was a challenge.  
+    \item Studying French is fun.  
+    \item Working four days a week is ideal.  
+    \item Finding a new job will be difficult.  
+    \item Walking along the Seine is pleasant.  
+    \item Waking up at five A.M. is too early.  
+    \item Cooking takes a lot of time.  
+    \item Take this medicine twice a day.  
+    \item Add some pepper.  
+    \item Do not put in any garlic.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Écrire ce livre était un défi.  
+\item Étudier le français est amusant.  
+\item Travailler quatre jours par semaine est idéal.  
+\item Trouver un nouveau travail sera difficile.  
+\item Marcher le long de la Seine est agréable.  
+\item Se réveiller à cinq heures du matin est trop tôt.  
+\item Faire la cuisine prend beaucoup de temps.  
+\item Prendre ce médicament deux fois par jour.  
+\item Ajouter du poivre.  
+\item Ne pas mettre d'ail.  
+\end{enumerate}
+
+
+(French) (Rewrite) D G (With Answer)
+
+Réécrire les phrases suivantes en traduisant les expressions entre parenthèses. 
+
+\begin{enumerate}
+    \item Elle passe ses après-midi (cooking).  
+    \item Ils passent leurs nuits (dancing).  
+    \item Ils sont accoudés au comptoir (talking).  
+    \item Elle est assise (peeling vegetables).  
+    \item Il a gaspillé sa vie (working for them).  
+    \item Tu as perdu ton temps (looking for another job).  
+    \item Je suis allongée sur la plage (reading).  
+    \item Elle est debout dans le jardin (picking some flowers).  
+    \item Il passe son temps (dreaming).  
+    \item Ils passent leurs journées (shopping).  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item à faire la cuisine  
+\item à danser  
+\item à parler  
+\item à éplucher des légumes  
+\item à travailler pour eux  
+\item à chercher un autre travail  
+\item à lire  
+\item à cueillir des fleurs  
+\item à rêver  
+\item à faire les courses  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre les verbes suivants à l'infinitif passé, au masculin singulier.  
+\begin{enumerate}
+    \item dormir  
+    \item aller  
+    \item manger  
+    \item se promener  
+    \item regarder  
+    \item tomber  
+    \item se lever  
+    \item préparer  
+    \item partir  
+    \item allumer  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item avoir dormi  
+\item être allé  
+\item avoir mangé  
+\item s'être promené  
+\item avoir regardé  
+\item être tombé  
+\item s'être levé  
+\item avoir préparé  
+\item être parti  
+\item avoir allumé  
+\end{enumerate}
+
+
+(French) (Change) D G (With Answer)
+
+Changer avant de en après en utilisant l'infinitif passé. 
+
+\begin{enumerate}
+    \item Elle prend des vacances avant de compléter son projet.  
+    \item Il écrit la lettre avant de consulter son ami.  
+    \item Je prépare un thé avant de cueillir des fruits.  
+    \item Ils rendent visite à leurs amis avant d'aller au théâtre.  
+    \item Il verse le vin avant de servir le dîner.  
+    \item Elle se maquille avant de s'habiller.  
+    \item Nous dînons avant de regarder le film à la télévision.  
+    \item Ils se promènent avant de travailler.  
+    \item Je réfléchis avant de téléphoner.  
+    \item Nous allons chez Julien avant de choisir un cadeau.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Elle prend des vacances après avoir complété son projet.  
+    \item Il écrit la lettre après avoir consulté son ami.  
+    \item Je prépare un thé après avoir cueilli des fruits.  
+    \item Ils rendent visite à leurs amis après être allés au théâtre.  
+    \item Il verse le vin après avoir servi le dîner.  
+    \item Elle se maquille après s'être habillée.  
+    \item Nous dînons après avoir regardé le film à la télévision.  
+    \item Ils se promènent après avoir travaillé.  
+    \item Je réfléchis après avoir téléphoné.  
+    \item Nous allons chez Julien après avoir choisi un cadeau.  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au présent les verbes entre parenthèses.  
+\begin{enumerate}  
+    \item Il (détester)          attendre.  
+    \item Ils (vouloir)          acheter un nouvel ordinateur.  
+    \item Nous (devoir)          partir dans une heure.  
+    \item Je (pouvoir)          vous aider.  
+    \item Nous (désirer)          renouveler notre abonnement.  
+    \item Tu (vouloir)          goûter ces plats.  
+    \item Elle (sembler)          comprendre les conséquences.  
+    \item Tu (penser)          pouvoir réussir?  
+    \item Il (falloir)          faire mariner le poisson.  
+    \item Vous (aller)          passer une bonne soirée.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item déteste  
+\item veulent  
+\item devons  
+\item peux  
+\item désirons  
+\item veux  
+\item semble  
+\item penses  
+\item faut  
+\item allez  
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)
+
+À ou de? Mettre la préposition.  
+\begin{enumerate}
+    \item J'ai appris \_\_\_\_ faire une mousse au chocolat.  
+    \item Ils ont choisi \_\_\_\_ s'installer dans une région gastronomique.  
+    \item Il s'habitue \_\_\_\_ vivre dans une grande ville.  
+    \item Elle nous reproche \_\_\_\_ ne jamais lui rendre visite.  
+    \item Tu as renoncé \_\_\_\_ faire ce voyage.  
+    \item Elle se souvient \_\_\_\_ la cuisine de sa grand-mère.  
+    \item Il tient \_\_\_\_ sa voiture.  
+    \item Tu lui as conseillé \_\_\_\_ suivre des cours de cuisine.  
+    \item Ils se plaignent \_\_\_\_ tout.  
+    \item Son grand-père a promis \_\_\_\_ faire des gâteaux.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item à  
+    \item de  
+    \item à  
+    \item de  
+    \item à  
+    \item de  
+    \item à  
+    \item de  
+    \item de  
+    \item de  
+\end{enumerate}  
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant la forme vous si nécessaire.  
+\begin{enumerate}
+    \item They want to travel to France.  
+    \item He spent hours peeling potatoes.  
+    \item Cooking is her favorite pastime.  
+    \item Do not forget to add some salt!  
+    \item He is afraid of burning the meat.  
+    \item They feel like eating a chocolate soufflé.  
+    \item He stopped smoking.  
+    \item They refused to go out.  
+    \item She is learning how to cook.  
+    \item Try to understand the situation!
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ils (Elles) veulent voyager en France.  
+\item Il a passé des heures à éplucher des pommes de terre.  
+\item Faire la cuisine est son passe-temps favori.  
+\item N'oubliez pas d'ajouter du sel!  
+\item Il a peur de brûler la viande.  
+\item Ils (Elles) ont envie de manger un soufflé au chocolat.  
+\item Il a cessé de fumer.  
+\item Ils (Elles) ont refusé de sortir.  
+\item Elle apprend à faire la cuisine.  
+\item Essayez de comprendre la situation!
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au participe présent les verbes suivants:  
+\begin{enumerate}
+    \item finir  
+    \item savoir  
+    \item donner  
+    \item protéger  
+    \item faire  
+    \item avoir  
+    \item avancer  
+    \item être  
+    \item prononcer  
+    \item vendre  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item finissant  
+\item sachant  
+\item donnant  
+\item protégeant  
+\item faisant  
+\item ayant  
+\item avançant  
+\item étant  
+\item prononçant  
+\item vendant  
+\end{enumerate}
+
+
+(French) (Gérondif) D G (With Answer)
+
+Mettre au gérondif les verbes suivants:  
+\begin{enumerate}
+    \item C'est en (faire) de l'exercice que vous serez en forme.  
+    \item Elle chante en (prendre) une douche.  
+    \item Il s'est tordu la cheville en (jouer) au volley.  
+    \item Ils ont bronzé en (faire) du ski de fond.  
+    \item Il l'a invitée à dîner en (savoir) que cela lui ferait plaisir.  
+    \item En (aller) en Inde, il a fait escale en Allemagne.  
+    \item Tout en (se plaindre), elle avait l'air satisfaite.  
+    \item Ils ont découvert la basilique de Lisieux en (visiter) la Normandie.  
+    \item J'ai rencontré un ami en (arriver) à Paris.  
+    \item Il a tout perdu en (parier) tous les jours au casino.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item faisant  
+\item prenant  
+\item jouant  
+\item faisant  
+\item sachant  
+\item allant  
+\item se plaignant  
+\item visitant  
+\item arrivant  
+\item pariant  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes:  
+\begin{enumerate}
+    \item He lost his keys while walking in the park.  
+    \item Not having seen the film, I can't make any comment.  
+    \item They saw Paul while crossing the street.  
+    \item Knowing the truth, she could not stay silent.  
+    \item He made money selling paintings.  
+    \item It was a fascinating game.  
+    \item Having finished the book, he left.  
+    \item They listen to music while working.  
+    \item I knit while watching television.  
+    \item He fell while jumping over the wall.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Il a perdu ses clés en marchant dans le parc.  
+\item N'ayant pas vu le film, je ne peux pas faire de commentaires.  
+\item Ils (Elles) ont vu Paul en traversant la rue.  
+\item Sachant la vérité, elle ne pouvait pas rester silencieuse.  
+\item Il a gagné de l'argent en vendant des tableaux.  
+\item C'était un match fascinant.  
+\item Ayant fini le livre, il est parti.  
+\item Ils (Elles) écoutent de la musique en travaillant.  
+\item Je tricote en regardant la télévision.  
+\item Il est tombé en sautant par-dessus le mur.
+\end{enumerate}
+
+
+(French) (Infinitive) D G (With Answer)  
+Mettre l'infinitif des verbes suivants.  
+\begin{enumerate}  
+    \item Ils furent de grands collectionneurs.  
+    \item J'eus un profond respect pour cet artiste.  
+    \item Elles peignirent des natures mortes.  
+    \item Nous fîmes un tour de son atelier.  
+    \item Il vint nous rejoindre au vernissage.  
+    \item Tu lus toutes ses œuvres.  
+    \item Vous voulûtes lui faire un compliment.  
+    \item Elle sut tout de suite que c'était un chef-d'œuvre.  
+    \item Il plut à tout le monde.  
+    \item J'éteignis la lumière.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item être  
+\item avoir  
+\item peindre  
+\item faire  
+\item venir  
+\item lire  
+\item vouloir  
+\item savoir  
+\item plaire  
+\item éteindre  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)  
+Mettre au passé simple les verbes entre parenthèses.  
+\begin{enumerate}  
+    \item Le Rouge et le noir (être)          publié en 1830.  
+    \item En France, les femmes (obtenir)          le droit de vote en 1944.  
+    \item Jacques Cartier (explorer)          la région de Montréal en 1535.  
+    \item Charles de Gaulle (mourir)          en 1970.  
+    \item Édouard Manet (peindre)          Le déjeuner sur l'herbe en 1863.  
+    \item La terre (trembler)          au Japon en 1923.  
+    \item Catherine de Médicis (introduire)          l'usage de la fourchette en France.  
+    \item Le voyage inaugural du TGV (avoir lieu)          en 1981.  
+    \item Johnny Hallyday (faire)          son premier concert à l'Olympia en 1961.  
+    \item La Côte-d'Ivoire (devenir)          indépendante en 1960.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item fut  
+\item obtinrent  
+\item explora  
+\item mourut  
+\item peignit  
+\item trembla  
+\item introduisit  
+\item eut lieu  
+\item fit  
+\item devint  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant le passé simple. 
+\begin{enumerate}
+    \item He lived ten years in Amsterdam.  
+    \item She introduced this new method.  
+    \item They read all his books.  
+    \item He died in Italy.  
+    \item He was surprised.  
+    \item I wanted to thank him.  
+    \item She was born in Rouen.  
+    \item They bought a new easel.  
+    \item She became a portrait painter.  
+    \item He smiled and left.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Il vécut dix ans à Amsterdam.  
+    \item Elle introduisit cette nouvelle méthode.  
+    \item Ils (Elles) lurent tous ses livres.  
+    \item Il mourut en Italie.  
+    \item Il fut surpris.  
+    \item Je voulus le remercier.  
+    \item Elle naquit à Rouen.  
+    \item Ils (Elles) achetèrent un nouveau chevalet.  
+    \item Elle devint portraitiste.  
+    \item Il sourit et partit.
+\end{enumerate}
+
+
+(French) (Transformation) D G (With Answer)  
+Mettre les phrases suivantes à la voix passive. Attention aux temps de verbe!  
+\begin{enumerate}
+    \item Le policier a attrapé le voleur.  
+    \item Le roi a signé le traité.  
+    \item Le médecin prescrit un nouveau traitement.  
+    \item Le cambrioleur a volé le tableau.  
+    \item Le chien a mordu l'homme au chapeau gris.  
+    \item L'ennemi a pris l'otage.  
+    \item L'enfant a déchiré le canapé.  
+    \item Le marchand d'art vendra un célèbre tableau.  
+    \item Les envahisseurs prennent la forteresse.  
+    \item Le professeur félicite les étudiants.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Le voleur a été attrapé par le policier.  
+\item Le traité a été signé par le roi.  
+\item Un nouveau traitement est prescrit par le médecin.  
+\item Le tableau a été volé par le cambrioleur.  
+\item L'homme au chapeau gris a été mordu par le chien.  
+\item L'otage a été pris par l'ennemi.  
+\item Le canapé a été déchiré par l'enfant.  
+\item Un célèbre tableau sera vendu par le marchand d'art.  
+\item La forteresse est prise par les envahisseurs.  
+\item Les étudiants sont félicités par le professeur.  
+\end{enumerate}
+
+
+(French) (Transformation D G) (With Answer)  
+Mettre les phrases suivantes à la voix active. Attention aux temps de verbe!  
+\begin{enumerate}  
+    \item Le gâteau a été fait par le chef.  
+    \item L'objet a été conçu par l'artisan.  
+    \item Le château a été érigé par le roi.  
+    \item Le document sera signé par l'ambassadeur.  
+    \item Le tableau a été vendu par le propriétaire.  
+    \item Le fauteuil est griffé par le chat.  
+    \item L'amende a été payée par le malfaiteur.  
+    \item Le vase a été volé par l'antiquaire.  
+    \item Le livre sera écrit par un journaliste.  
+    \item Les élèves sont punis par le professeur.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Le chef a fait le gâteau.  
+\item L'artisan a conçu l'objet.  
+\item Le roi a érigé le château.  
+\item L'ambassadeur signera le document.  
+\item Le propriétaire a vendu le tableau.  
+\item Le chat griffé le fauteuil.  
+\item Le malfaiteur a payé l'amende.  
+\item L'antiquaire a volé le vase.  
+\item Un journaliste écrira le livre.  
+\item Le professeur punit les élèves.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant la voix passive.  
+\begin{enumerate}
+    \item The castle is being built by the queen.  
+    \item The painting was stolen by an art dealer.  
+    \item A pink hat was found in the park yesterday.  
+    \item This verb is followed by the indicative (mood).  
+    \item The house is surrounded by the police.  
+    \item A new remedy will be invented before 2050.  
+    \item This vaccine was invented in 1885.  
+    \item The decision was made on Monday.  
+    \item The letter was read by a witness.  
+    \item The house is surrounded by trees.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Le château est construit par la reine.  
+\item Le tableau a été volé par un marchand d'art.  
+\item Un chapeau rose a été retrouvé dans le parc hier.  
+\item Ce verbe est suivi de l'indicatif.  
+\item La maison est entourée par la police.  
+\item Un nouveau remède sera inventé avant 2050.  
+\item Ce vaccin a été inventé en 1885.  
+\item La décision a été prise lundi.  
+\item La lettre a été lue par un témoin.  
+\item La maison est entourée d'arbres.  
+\end{enumerate}
+
+
+(French) (Indirect Speech) D G (With Answer)
+
+Mettre les phrases suivantes au discours indirect en commençant la phrase par "Il veut savoir si":
+\begin{enumerate}
+    \item Le programme du parti est bien défini.
+    \item Nous allons boycotter les prochaines élections.
+    \item Tu vas voter dimanche.
+    \item Le ministre de l'éducation a proposé des réformes.
+    \item Elle acceptera notre proposition.
+    \item Le parti a choisi son candidat.
+    \item Les femmes peuvent voter dans ce pays.
+    \item Vous viendrez samedi soir.
+    \item Elle a fini ses recherches.
+    \item La parité sera jamais réalisée.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Il veut savoir si le programme du parti est bien défini.
+    \item Il veut savoir si nous allons boycotter les prochaines élections.
+    \item Il veut savoir si tu vas voter dimanche.
+    \item Il veut savoir si le ministre de l'éducation a proposé des réformes.
+    \item Il veut savoir si elle acceptera notre proposition.
+    \item Il veut savoir si le parti a choisi son candidat.
+    \item Il veut savoir si les femmes peuvent voter dans ce pays.
+    \item Il veut savoir si vous viendrez samedi soir.
+    \item Il veut savoir si elle a fini ses recherches.
+    \item Il veut savoir si la parité sera jamais réalisée.
+\end{enumerate}
+
+
+(French) (Relier les deux membres de phrase) D G (With Answer)
+
+\begin{enumerate}
+    \item Elle sera absente mardi. (Elle annonce que)  
+    \item Paul s'est trompé. (Ils avouent que)  
+    \item Ses produits sont les meilleurs. (La marchande dit)  
+    \item Elles avaient tort. (Tu sais bien que)  
+    \item Le candidat a peu de chance de gagner. (On se rend compte que)  
+    \item Le musée est ouvert. (Ils ne savent pas si)  
+    \item Tu n'avais rien entendu. (Tu réponds que)  
+    \item Il n'est jamais allé en France. (Elle nous apprend que)  
+    \item Ils avaient dilapidé leur fortune. (Il nous déclare que)  
+    \item Le peintre habite. (Il ignore où)  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Elle annonce qu'elle sera absente mardi.  
+\item Ils avouent que Paul s'est trompé.  
+\item La marchande dit que ses produits sont les meilleurs.  
+\item Tu sais bien qu'elles avaient tort.  
+\item On se rend compte que le candidat a peu de chance de gagner.  
+\item Ils ne savent pas si le musée est ouvert.  
+\item Tu réponds que tu n'avais rien entendu.  
+\item Elle nous apprend qu'il n'est jamais allé en France.  
+\item Il nous déclare qu'ils avaient dilapidé leur fortune.  
+\item Il ignore où le peintre habite.
+\end{enumerate}
+
+
+(French) (Transformation) D G (With Answer)
+
+Commencer les phrases par "J'ai entendu dire que". Attention à la concordance des temps.
+
+\begin{enumerate}
+    \item Tu as accepté leur offre la semaine dernière.  
+    \item Elle a vendu sa voiture hier.  
+    \item Tu travailleras à Chicago l'an prochain.  
+    \item Elle ira en Asie demain.  
+    \item Ils se sont mariés le mois dernier.  
+    \item Il fait froid à Moscou aujourd'hui.  
+    \item Ils s'installeront au Canada l'an prochain.  
+    \item Il a quitté son poste vendredi dernier.  
+    \item Elle est la candidate favorite en ce moment.  
+    \item Tu as pris beaucoup de photos hier soir.
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item J'ai entendu dire que tu avais accepté leur offre la semaine dernière.  
+    \item J'ai entendu dire qu'elle avait vendu sa voiture hier.  
+    \item J'ai entendu dire que tu travaillerais à Chicago l'an prochain.  
+    \item J'ai entendu dire qu'elle irait en Asie demain.  
+    \item J'ai entendu dire qu'ils s'étaient mariés le mois dernier.  
+    \item J'ai entendu dire qu'il faisait froid à Moscou aujourd'hui.  
+    \item J'ai entendu dire qu'ils s'installeraient au Canada l'an prochain.  
+    \item J'ai entendu dire qu'il avait quitté son poste vendredi dernier.  
+    \item J'ai entendu dire qu'elle était la candidate favorite en ce moment.  
+    \item J'ai entendu dire que tu avais pris beaucoup de photos hier soir.
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous si nécessaire.  
+\begin{enumerate}
+    \item They know you are living in Paris.  
+    \item I have heard you are living in Paris.  
+    \item I heard you lived in Paris in 1995.  
+    \item I heard you’ll go to Paris next year.  
+    \item He says his cat is adorable.  
+    \item I heard you had a cat.  
+    \item I heard you had a cat when you lived on the Victor Hugo Boulevard.  
+    \item I heard your sister will give you her cat.  
+    \item I was told you voted for me.  
+    \item We realize she has a chance to win.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ils (Elles) savent que vous habitez à Paris.  
+\item J'ai entendu dire que vous habitiez à Paris.  
+\item J'ai entendu dire que vous aviez habité à Paris en 1995.  
+\item J'ai entendu dire que vous iriez à Paris l'année prochaine.  
+\item Il dit que son chat est adorable.  
+\item J'ai entendu dire que vous aviez un chat.  
+\item J'ai entendu dire que vous aviez un chat quand vous habitiez boulevard Victor Hugo.  
+\item J'ai entendu dire que votre sœur vous donnerait son chat.  
+\item On m'a dit que vous aviez voté pour moi.  
+\item Nous nous rendons compte qu'elle a une chance de gagner.
+\end{enumerate}
+
+
+(French) (Exercise) D G (With Answer)
+
+Mettre à l'impératif les phrases suivantes:  
+\begin{enumerate}
+    \item Prendre le train de neuf heures. (tu)  
+    \item Regarder le film à la télé ce soir. (vous)  
+    \item Dîner sur la terrasse. (nous)  
+    \item Acheter le journal. (tu)  
+    \item Boire à sa santé. (nous)  
+    \item Expliquer les conditions. (vous)  
+    \item Ne pas courir si vite. (tu)  
+    \item Épeler ton nom. (tu)  
+    \item Prêter votre dictionnaire à Marie. (vous)  
+    \item Ne pas inviter Denis. (tu)  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Prends le train de neuf heures!  
+\item Regardez le film à la télé ce soir!  
+\item Dînons sur la terrasse!  
+\item Achète le journal!  
+\item Buvons à sa santé!  
+\item Expliquez les conditions!  
+\item Ne cours pas si vite!  
+\item Épelle ton nom!  
+\item Prêtez votre dictionnaire à Marie!  
+\item N'invite pas Denis!  
+\end{enumerate}
+
+
+(French) (Imperative) D G (With Answer)  
+Mettre à l'impératif les phrases suivantes:  
+\begin{enumerate}
+    \item Se laver les mains. (tu)  
+    \item Se balader dans la forêt. (vous)  
+    \item S'écrire plus souvent. (nous)  
+    \item Ne pas se coucher trop tard. (tu)  
+    \item Se réveiller à cinq heures. (vous)  
+    \item S'habiller vite. (tu)  
+    \item Ne pas se tromper de route. (vous)  
+    \item Se retrouver devant la Brasserie Lipp. (nous)  
+    \item Se dépêcher. (tu)  
+    \item Se rencontrer un jour à Paris. (nous)  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Lave-toi les mains!  
+\item Baladez-vous dans la forêt.  
+\item Écrivons-nous plus souvent!  
+\item Ne te couche pas trop tard!  
+\item Réveillez-vous à cinq heures!  
+\item Habille-toi vite!  
+\item Ne vous trompez pas de route!  
+\item Retrouvons-nous devant la Brasserie Lipp!  
+\item Dépêche-toi!  
+\item Rencontrons-nous un jour à Paris!  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant l'impératif.  
+\begin{enumerate}  
+    \item Don't forget your passport! (tu)  
+    \item Let's rest on the bench! (nous)  
+    \item Bring your identification card! (vous)  
+    \item Tell us his first name! (tu)  
+    \item Take this medicine! (tu)  
+    \item Don't be late! (vous)  
+    \item Let's go to Italy! (nous)  
+    \item Close the door! (tu)  
+    \item Wait for me! (vous)  
+    \item Write your address on the envelope! (vous)  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item N'oublie pas ton passeport!  
+\item Reposons-nous sur le banc!  
+\item Apportez votre carte d'identité!  
+\item Dis-nous son prénom!  
+\item Prends ce médicament!  
+\item Ne soyez pas en retard!  
+\item Allons en Italie!  
+\item Ferme la porte!  
+\item Attendez-moi!  
+\item Écrivez votre adresse sur l'enveloppe!  
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)  
+Compléter avec l'article partitif approprié.  
+\begin{enumerate}  
+    \item Il prend \_\_\_\_ vacances.  
+    \item Nous mangeons \_\_\_\_ pain.  
+    \item Elle visite \_\_\_\_ monuments.  
+    \item Elle a \_\_\_\_ chance.  
+    \item Il met \_\_\_\_ ail dans la salade.  
+    \item Vous choisissez \_\_\_\_ cadeaux pour vos amis.  
+    \item Il boit \_\_\_\_ lait.  
+    \item Nous envoyons \_\_\_\_ cartes postales en vacances.  
+    \item Tu plantes \_\_\_\_ légumes.  
+    \item Elle veut \_\_\_\_ crème fraîche.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item des  
+\item du  
+\item des  
+\item de la  
+\item de l'  
+\item des  
+\item du  
+\item des  
+\item des  
+\item de la  
+\end{enumerate}
+
+
+(French) (Gender Identification) D G (With Answer)
+
+Masculin ou féminin? Le ou la? 
+\begin{enumerate}
+    \item réveil  
+    \item chanteur  
+    \item culture  
+    \item propriété  
+    \item courage  
+    \item chance  
+    \item document  
+    \item restaurant  
+    \item beauté  
+    \item gouvernement  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item le  
+    \item le  
+    \item la  
+    \item la  
+    \item le  
+    \item la  
+    \item le  
+    \item le  
+    \item la  
+    \item le  
+\end{enumerate}
+
+
+(French) (Transformation) D G (With Answer)  
+Mettre au masculin les noms suivants. Ne pas oublier l'article défini.  
+\begin{enumerate}
+    \item reine  
+    \item sœur  
+    \item grand-mère  
+    \item vendeuse  
+    \item décoratrice  
+    \item nièce  
+    \item fille  
+    \item rédactrice  
+    \item Brésilienne  
+    \item princesse  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item le roi  
+    \item le frère  
+    \item le grand-père  
+    \item le vendeur  
+    \item le décorateur  
+    \item le neveu  
+    \item le fils  
+    \item le rédacteur  
+    \item le Brésilien  
+    \item le prince  
+\end{enumerate}  
+
+
+(French) (Exercise: Gender Transformation) D G (With Answer)
+
+Mettre au féminin les noms suivants:  
+\begin{enumerate}
+    \item C'est le directeur.  
+    \item C'est mon coiffeur.  
+    \item C'est le pharmacien.  
+    \item C'est l'oncle de Paul.  
+    \item C'est mon frère.  
+    \item C'est son instituteur.  
+    \item C'est le roi.  
+    \item C'est mon cousin.  
+    \item C'est un homme.  
+    \item C'est le boucher.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item la directrice  
+\item ma coiffeuse  
+\item la pharmacienne  
+\item la tante de Paul  
+\item ma sœur  
+\item son institutrice  
+\item la reine  
+\item ma cousine  
+\item une femme  
+\item la bouchère  
+\end{enumerate}
+
+
+(French) (Identification) D G (With Answer)  
+Masculin ou féminin? Mettre l'article défini.  
+\begin{enumerate}
+    \item Belgique  
+    \item Californie  
+    \item Canada  
+    \item Angleterre  
+    \item Colorado  
+    \item Russie  
+    \item Égypte  
+    \item Irlande  
+    \item Guatemala  
+    \item Hongrie  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item la  
+    \item la  
+    \item le  
+    \item l' (f.)  
+    \item le  
+    \item la  
+    \item l' (f.)  
+    \item l' (f.)  
+    \item le  
+    \item la  
+\end{enumerate}  
+
+
+(French) (Fill in the blanks) D G (With Answer)
+
+Compléter avec la préposition appropriée.  
+\begin{enumerate}
+    \item Jean habite \_\_\_\_ Italie.  
+    \item Maud s'est installée \_\_\_\_ Virginie.  
+    \item Alex a des amis \_\_\_\_ Normandie.  
+    \item Il envisage d'acheter une maison \_\_\_\_ Maroc.  
+    \item Renée est en voyage d'affaires \_\_\_\_ Canada.  
+    \item Ils passent leurs vacances \_\_\_\_ Bolivie.  
+    \item Sandrine a de la famille \_\_\_\_ Espagne.  
+    \item Laurent a accepté un poste \_\_\_\_ Norvège.  
+    \item Nous aimerions aller \_\_\_\_ Japon.  
+    \item Voudriez-vous aller \_\_\_\_ Inde avec nous?  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item en  
+\item en  
+\item en  
+\item au  
+\item au  
+\item en  
+\item en  
+\item en  
+\item au  
+\item en  
+\end{enumerate}
+
+
+(French) (Sentence Construction) D G (With Answer)  
+Formuler une phrase complète en utilisant le verbe habiter et les prépositions appropriées.  
+\begin{enumerate}  
+    \item Marie/Lyon/France  
+    \item Christina/Istanbul/Turquie  
+    \item Fatima/Tunis/Tunisie  
+    \item Laurent/Varsovie/Pologne  
+    \item Vincent/Caracas/Venezuela  
+    \item Nancy/Toronto/Canada  
+    \item Xavier/Mexico/Mexique  
+    \item Patrick/Boston/États-Unis  
+    \item Henri/Sydney/Australie  
+    \item Martha/Berlin/Allemagne  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Marie habite à Lyon, en France.  
+\item Christina habite à Istanbul, en Turquie.  
+\item Fatima habite à Tunis, en Tunisie.  
+\item Laurent habite à Varsovie, en Pologne.  
+\item Vincent habite à Caracas, au Venezuela.  
+\item Nancy habite à Toronto, au Canada.  
+\item Xavier habite à Mexico, au Mexique.  
+\item Patrick habite à Boston, aux États-Unis.  
+\item Henri habite à Sydney, en Australie.  
+\item Martha habite à Berlin, en Allemagne.  
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)
+
+Compléter les phrases suivantes. 
+\begin{enumerate}
+    \item Cet objet vient \_\_\_\_ Égypte.  
+    \item Ces bijoux en provenance \_\_\_\_ Inde sont en argent.  
+    \item Marc vient \_\_\_\_ Normandie.  
+    \item Rapporte-moi un pull \_\_\_\_ Écosse.  
+    \item Ils sont natifs \_\_\_\_ Chili.  
+    \item Ces épices viennent \_\_\_\_ Maroc.  
+    \item Ce paquet est arrivé ce matin \_\_\_\_ États-Unis.  
+    \item Ces épices proviennent \_\_\_\_ Asie.  
+    \item Ces produits en provenance \_\_\_\_ Colombie sont vendus dans les supermarchés.  
+    \item Il est tout juste revenu \_\_\_\_ Mexique.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item d'  
+    \item d'  
+    \item de  
+    \item d'  
+    \item du  
+    \item du  
+    \item des  
+    \item d'  
+    \item de  
+    \item du  
+\end{enumerate}  
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes:  
+\begin{enumerate}
+    \item She lives in a village in Ireland.  
+    \item Her brother lives in Russia.  
+    \item He studied in France.  
+    \item She went to Normandy last summer.  
+    \item They traveled to Greece in May.  
+    \item They import products from Argentina.  
+    \item Their son works in California.  
+    \item She took this picture in Japan.  
+    \item They are building a bridge in a village in Senegal.  
+    \item Let's go to China!
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item Elle habite dans un village en Irlande.  
+    \item Son frère habite en Russie.  
+    \item Il a étudié en France.  
+    \item Elle est allée en Normandie l'été dernier.  
+    \item Ils (Elles) ont voyagé en Grèce en mai.  
+    \item Ils (Elles) importent des produits d'Argentine.  
+    \item Leur fils travaille en Californie.  
+    \item Elle a pris cette photo au Japon.  
+    \item Ils (Elles) construisent un pont dans un village au Sénégal.  
+    \item Allons en Chine!  
+\end{enumerate}
+
+
+(French) (Replace T with a concise exercise type) D G (With Answer)  
+Remplacer les mots en caractères gras par un pronom objet direct.  
+\begin{enumerate}  
+    \item Elle achète les fleurs bleues.  
+    \item Il consulte le médecin.  
+    \item Nous soutenons votre projet.  
+    \item Ils construisent la maison de leurs rêves.  
+    \item J'ouvre la porte.  
+    \item Elle conduit la voiture de son père.  
+    \item Il accepte les résultats.  
+    \item Nous comprenons leur décision.  
+    \item Tu visites le château de Fontainebleau.  
+    \item Elle étudie sa leçon.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Elle les achète.  
+\item Il le consulte.  
+\item Nous le soutenons.  
+\item Ils la construisent.  
+\item Je l'ouvre.  
+\item Elle la conduit.  
+\item Il les accepte.  
+\item Nous la comprenons.  
+\item Tu le visites.  
+\item Elle l'étudie.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire.  
+\begin{enumerate}
+    \item He thanks me.  
+    \item The writer sends them.  
+    \item They invite us.  
+    \item We accept it.  
+    \item She called them.  
+    \item Bring them!  
+    \item I am going to buy it.  
+    \item Do not sell it!  
+    \item We must see it.  
+    \item Do you know her?  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Il me remercie.  
+\item L'écrivain les envoie.  
+\item Ils (Elles) nous invitent.  
+\item Nous l'acceptons.  
+\item Elle les a appelé(e)s.  
+\item Apportez-les!  
+\item Je vais l'acheter.  
+\item Ne le (la) vendez pas!  
+\item Nous devons le (la) voir.  
+\item La connaissez-vous?  
+\end{enumerate}
+
+
+(French) (Remplacement) D G (With Answer)  
+Remplacer les mots en caractères gras par un pronom objet indirect.  
+\begin{enumerate}  
+    \item La grand-mère a raconté une histoire aux petits-enfants.  
+    \item Nous avons fait un cadeau à Marie.  
+    \item Je ferai parvenir le dossier à Jean dès que possible.  
+    \item Nous enverrons des fleurs à notre collègue.  
+    \item Ce théâtre appartient à un ancien comédien.  
+    \item Est-ce que tu as écrit au rédacteur en chef?  
+    \item Téléphonez à Louise aussitôt que possible!  
+    \item Ne mentionnez rien à Odile!  
+    \item Il annoncera sa décision à ses employés demain.  
+    \item Il donnera le scénario aux acteurs en fin de journée.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item La grand-mère leur a raconté une histoire.  
+\item Nous lui avons fait un cadeau.  
+\item Je lui ferai parvenir le dossier dès que possible.  
+\item Nous lui enverrons des fleurs.  
+\item Ce théâtre lui appartient.  
+\item Est-ce que tu lui as écrit?  
+\item Téléphonez-lui aussitôt que possible!  
+\item Ne lui mentionnez rien!  
+\item Il leur annoncera sa décision demain.  
+\item Il leur donnera le scénario en fin de journée.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant tu et l'inversion si nécessaire.  
+\begin{enumerate}  
+    \item Bring me a book!  
+    \item Do not call them after eight P.M.!  
+    \item Send us your new play!  
+    \item I will write him a letter.  
+    \item She'll give me an answer on Monday.  
+    \item He did not return the books to me.  
+    \item This pen belongs to her.  
+    \item He does not talk to us.  
+    \item They told us a good story.  
+    \item They'll lend you their house for the weekend.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}  
+    \item Apporte-moi un livre!  
+    \item Ne les appelle pas après huit heures du soir!  
+    \item Envoie-nous ta nouvelle pièce!  
+    \item Je lui écrirai une lettre.  
+    \item Elle me donnera une réponse lundi.  
+    \item Il ne m'a pas rendu les livres.  
+    \item Ce stylo lui appartient.  
+    \item Il ne nous parle pas.  
+    \item Ils (Elles) nous ont raconté une bonne histoire.  
+    \item Ils (Elles) te prêteront leur maison pour le week-end.  
+\end{enumerate}  
+
+
+(French) (Remplacement) D G (With Answer)
+
+Remplacer les éléments en caractères gras par y.  
+\begin{enumerate}
+    \item Elle s'habitue à tout.  
+    \item Tu devrais prêter attention à ce qu'il dit.  
+    \item Nous nous intéressons à son œuvre.  
+    \item Je m'abonne à ce magazine.  
+    \item Elle tient à ses bijoux.  
+    \item Nous ne croyons pas à cette nouvelle théorie scientifique.  
+    \item Il ne pense jamais aux conséquences de ses actes.  
+    \item Ils n'obéissent pas à la loi.  
+    \item Elle réfléchira au rôle que vous lui proposez.  
+    \item Pourquoi n'avez-vous jamais répondu à notre demande?  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item Elle s'y habitue.  
+    \item Tu devrais y prêter attention.  
+    \item Nous nous y intéressons.  
+    \item Je m'y abonne.  
+    \item Elle y tient.  
+    \item Nous n'y croyons pas.  
+    \item Il n'y pense jamais.  
+    \item Ils n'y obéissent pas.  
+    \item Elle y réfléchira.  
+    \item Pourquoi n'y avez-vous jamais répondu?  
+\end{enumerate}
+
+
+(French) (Replace) D G (With Answer)  
+Remplacer les éléments en caractères gras par le pronom en.  
+\begin{enumerate}  
+    \item J'ai parlé de tous nos problèmes.  
+    \item Ils ont envie d'aller en France en mai.  
+    \item Nous avons besoin d'un logiciel plus performant.  
+    \item Il s'est approché du château très lentement.  
+    \item Je me chargerai de tout ce qui facilitera son séjour à Aix.  
+    \item Tu te sers de ce dictionnaire?  
+    \item Il a peur des changements.  
+    \item Je ne me souviens pas de sa conférence.  
+    \item Elle s'est occupée des réservations.  
+    \item Il ne pourra jamais se débarrasser de ses livres de l'école primaire.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}  
+    \item J'en ai parlé.  
+    \item Ils en ont envie.  
+    \item Nous en avons besoin.  
+    \item Il s'en est approché très lentement.  
+    \item Je m'en chargerai.  
+    \item Tu t'en sers?  
+    \item Il en a peur.  
+    \item Je ne m'en souviens pas.  
+    \item Elle s'en est occupée.  
+    \item Il ne pourra jamais s'en débarrasser.  
+\end{enumerate}  
+
+
+(French) (Fill in the blanks) D G (With Answer)
+
+Remplacer les éléments en caractères gras par les pronoms appropriés. 
+
+\begin{enumerate}
+    \item Ne parlez pas de ce détail à Zoé!  
+    \item Elle a emprunté de l'argent à sa sœur.  
+    \item Je ferai parvenir ce document à votre avocat.  
+    \item Patrick a raconté ses aventures (f.pl.) à son frère.  
+    \item Le musicien a envoyé sa nouvelle composition à son agent.  
+    \item L'ouvrier a donné la lettre au patron.  
+    \item J'ai demandé la photo au photographe.  
+    \item Il vendra sa maison à son cousin.  
+    \item Le médecin a prescrit ce médicament au malade.  
+    \item Je recommande cet hôtel à tous mes amis.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ne lui en parlez pas!  
+\item Elle lui en a emprunté.  
+\item Je le lui ferai parvenir.  
+\item Patrick les lui a racontées.  
+\item Le musicien la lui a envoyée.  
+\item L'ouvrier la lui a donnée.  
+\item Je la lui ai demandée.  
+\item Il la lui vendra.  
+\item Le médecin le lui a prescrit.  
+\item Je le leur recommande.
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant tu si nécessaire.  
+\begin{enumerate}  
+    \item I am thinking about it.  
+    \item He is not interested in it.  
+    \item She took care of it.  
+    \item I sent it (f.) to you.  
+    \item We gave it (m.) to them.  
+    \item I use it every day.  
+    \item He spoke about it.  
+    \item I need it.  
+    \item She borrowed some from me.  
+    \item They gave us some.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item J'y pense.  
+\item Il ne s'y intéresse pas.  
+\item Elle s'en est occupée.  
+\item Je te l'ai envoyée.  
+\item Nous le leur avons donné.  
+\item Je m'en sers tous les jours.  
+\item Il en a parlé.  
+\item J'en ai besoin.  
+\item Elle m'en a emprunté.  
+\item Ils (Elles) nous en ont donné.  
+\end{enumerate}
+
+
+(French) (Mettre en relief) D G (With Answer)
+
+Mettre en relief le pronom sujet avec un pronom disjoint en utilisant l'expression C'est... qui. 
+
+\begin{enumerate}
+    \item Il a gagné le prix.  
+    \item Je prendrai la décision.  
+    \item Vous écrirez le discours.  
+    \item Nous préparons le dîner.  
+    \item Tu as fait cette erreur.  
+    \item Elle lui fait toujours de beaux cadeaux.  
+    \item Je vous ai invité.  
+    \item Ils sont responsables de cette situation désastreuse.  
+    \item Elles s'occuperont de tous les détails.  
+    \item Il fait les courses.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item C'est lui qui a gagné...  
+    \item C'est moi qui prendrai...  
+    \item C'est vous qui écrirez...  
+    \item C'est nous qui préparons...  
+    \item C'est toi qui as fait...  
+    \item C'est elle qui lui fait...  
+    \item C'est moi qui vous ai invité.  
+    \item C'est eux qui sont...  
+    \item C'est elles qui s'occuperont...  
+    \item C'est lui qui fait...
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant un pronom disjoint et la forme tu si nécessaire.  
+\begin{enumerate}
+    \item He will go to France with me.  
+    \item I hate coffee!  
+    \item She works for us.  
+    \item Whose book is this?  
+    \item Do it yourself!  
+    \item I can't make this decision without you.  
+    \item He is taller than you are.  
+    \item I am thinking about her.  
+    \item They are afraid of him.  
+    \item She said it herself.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Il ira en France avec moi.  
+\item Moi, je déteste le café!  
+\item Elle travaille pour nous.  
+\item À qui est ce livre?  
+\item Fais-le toi-même!  
+\item Je ne peux pas prendre cette décision sans toi.  
+\item Il est plus grand que toi.  
+\item Je pense à elle.  
+\item Ils (Elles) ont peur de lui.  
+\item Elle l'a dit elle-même.  
+\end{enumerate}
+
+
+(French) (Question-Réponse) D G (With Answer)  
+Formuler une question-réponse en reliant les phrases et en utilisant aussi ou non plus.  
+\begin{enumerate}  
+    \item Il n'aime pas le froid. Je n'aime pas le froid.  
+    \item Nous allons en France. Ils vont en France.  
+    \item Je prends des vacances. Elle prend des vacances.  
+    \item Nous commandons un dessert. Elles commandent un dessert.  
+    \item Il lit beaucoup. Nous lisons beaucoup.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}  
+    \item Moi non plus.  
+    \item Eux aussi.  
+    \item Elle aussi.  
+    \item Elles aussi.  
+    \item Nous aussi.  
+\end{enumerate}  
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les adjectifs entre parenthèses.  
+\begin{enumerate}
+    \item Ta grand-mère est (French)? —Non, elle est (Italian).  
+    \item Ces fenêtres sont (clean)? —Non, ces fenêtres sont (dirty).  
+    \item Sa femme est (blond)? —Non, elle est (redhead).  
+    \item Il porte ses chaussures (black)? —Non, il porte des chaussures (navy blue).  
+    \item C'est une situation (serious)? —Oui, c'est une situation très (serious).  
+    \item C'est une histoire (tragic)? —Non, c'est une histoire (funny).  
+    \item C'est un (long) voyage? —Non, c'est assez (short).  
+    \item Votre projet est (ambitious). —Non, c'est la directrice qui est (ambitious).  
+    \item Ses idées sont (good)? —Oui, ses idées sont (better) que les nôtres.  
+    \item Ton travail est (boring)? —Non, mon travail est très (interesting).
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ta grand-mère est française? —Non, elle est italienne.  
+\item Ces fenêtres sont propres? —Non, ces fenêtres sont sales.  
+\item Sa femme est blonde? —Non, elle est rousse.  
+\item Il porte ses chaussures noires? —Non, il porte des chaussures bleu marine.  
+\item C'est une situation sérieuse? —Oui, c'est une situation très sérieuse.  
+\item C'est une histoire tragique? —Non, c'est une histoire amusante.  
+\item C'est un long voyage? —Non, c'est assez court.  
+\item Votre projet est ambitieux? —Non, c'est la directrice qui est ambitieuse.  
+\item Ses idées sont bonnes? —Oui, ses idées sont meilleures que les nôtres.  
+\item Ton travail est ennuyeux? —Non, mon travail est très intéressant.  
+\end{enumerate}
+
+
+(French) (Choose) D G (With Answer)  
+Choisir l'adjectif logique.  
+\begin{enumerate}  
+    \item Les antiquités sont          méchantes/vieilles/courtes.  
+    \item Mon chat est          adorable/bavard/immense.  
+    \item Le musée du Louvre est          brave/dernier/fascinant.  
+    \item Le professeur d'italien est          silencieux/intéressant/fi nal.  
+    \item Sa nouvelle histoire est          première/folle/violette.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item vieilles  
+\item adorable  
+\item fascinant  
+\item intéressant  
+\item folle  
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)
+
+Mettre les adjectifs au féminin en remplaçant Patrick par Sonia. 
+
+\begin{enumerate}
+    \item Patrick est français. Sonia est ________.  
+    \item Patrick est charmant. Sonia est ________.  
+    \item Patrick est amoureux. Sonia est ________.  
+    \item Patrick est beau. Sonia est ________.  
+    \item Patrick est agressif. Sonia est ________.  
+    \item Patrick est actif. Sonia est ________.  
+    \item Patrick est fou. Sonia est ________.  
+    \item Patrick est généreux. Sonia est ________.  
+    \item Patrick est roux. Sonia est ________.  
+    \item Patrick est doué. Sonia est ________.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item française  
+\item charmante  
+\item amoureuse  
+\item belle  
+\item agressive  
+\item active  
+\item folle  
+\item généreuse  
+\item rousse  
+\item douée  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les éléments entre parenthèses. 
+\begin{enumerate}
+    \item Je suis (more optimistic) que lui.  
+    \item Cécile est (as efficient) que Carole.  
+    \item Ce vin-ci est (better) que ce vin-là.  
+    \item Sa sœur est (as intelligent) qu'elle.  
+    \item Votre chambre est (less expensive) que la mienne.  
+    \item Arnaud a (as much) argent que vous?  
+    \item Ce prix est (the best)!  
+    \item Marie a (fewer) paires de chaussures que toi.  
+    \item Elle est (more organized) que lui.  
+    \item Cet appartement est (the most beautiful) de l'immeuble.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item Je suis plus optimiste que lui.  
+\item Cécile est aussi efficace que Carole.  
+\item Ce vin-ci est meilleur que ce vin-là.  
+\item Sa sœur est aussi intelligente qu'elle.  
+\item Votre chambre est moins chère que la mienne.  
+\item Arnaud a autant d'argent que vous?  
+\item Ce prix est le meilleur!  
+\item Marie a moins de paires de chaussures que toi.  
+\item Elle est plus organisée que lui.  
+\item Cet appartement est le plus beau de l'immeuble.  
+\end{enumerate}
+
+
+(French) (Phrase Construction) D G (With Answer)  
+Formuler une phrase avec les éléments ci-dessous.  
+\begin{enumerate}  
+    \item Charlotte/Lucie/grande/!  
+    \item Charles/Xavier/drôle/"  
+    \item Véronique/Sébastien/optimiste/#  
+    \item Lucien/sa sœur/intelligent/!  
+    \item Élodie/Thérèse/bronzée/"  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Charlotte est plus grande que Lucie.  
+\item Charles est aussi drôle que Xavier.  
+\item Véronique est moins optimiste que Sébastien.  
+\item Lucien est plus intelligent que sa sœur.  
+\item Élodie est aussi bronzée que Thérèse.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes:  
+\begin{enumerate}
+    \item It's a good idea.  
+    \item They bought an old house in Normandy.  
+    \item This young man is ambitious.  
+    \item This white shirt is mine.  
+    \item Her aunt loves old French songs.  
+    \item I do not have your new address.  
+    \item England is smaller than France.  
+    \item She does not like this yellow jacket.  
+    \item She is as ambitious as he is.  
+    \item This story is boring.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item C'est une bonne idée.  
+    \item Ils (Elles) ont acheté une vieille maison en Normandie.  
+    \item Ce jeune homme est ambitieux.  
+    \item Cette chemise blanche est à moi.  
+    \item Sa tante aime les vieilles chansons françaises.  
+    \item Je n'ai pas votre nouvelle adresse.  
+    \item L'Angleterre est plus petite que la France.  
+    \item Elle n'aime pas cette veste jaune.  
+    \item Elle est aussi ambitieuse que lui.  
+    \item Cette histoire est ennuyeuse.  
+\end{enumerate}
+
+
+(French) (Fill in the Blanks) D G (With Answer)  
+Compléter avec ce, cet, cette ou ces.  
+\begin{enumerate}  
+    \item Ma sœur n'aime pas (this) ________ robe rouge.  
+    \item Mon petit frère préfère (this) ________ dessin animé.  
+    \item Nos parents arrivent (this) ________ semaine.  
+    \item Tu vas voir ton cousin (this) ________ soir.  
+    \item J'achète (these) ________ cadeaux pour mes enfants.  
+    \item (This) ________ maison est trop petite pour notre famille.  
+    \item Son neveu trouve (this) ________ jeu difficile.  
+    \item Ma cousine fait toujours (these) ________ plats pour sa belle-mère.  
+    \item (This) ________ famille habite ici depuis longtemps et les enfants aiment (this) ________ quartier.  
+    \item (This) ________ bébé est adorable.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item cette  
+\item ce  
+\item cette  
+\item ce  
+\item ces  
+\item Cette  
+\item ce  
+\item ces  
+\item Cette/ce  
+\item Ce  
+\end{enumerate}
+
+
+(French) (Distinction Exercise) D G (With Answer)
+
+Faire la distinction entre les deux éléments en ajoutant -ci et -là aux noms qui suivent les adjectifs démonstratifs. 
+
+\begin{enumerate}
+    \item Ma mère achète les biscuits dans (this) pâtisserie et les gâteaux dans (that) pâtisserie.  
+    \item Leur enfant joue avec (this) jouet mais il ne joue pas avec (that) jouet.  
+    \item Mes parents habitent loin d'ici. (This) cousin habite à San Francisco, (that) cousin est à New York.  
+    \item (This) maison appartient à Tante Marthe, (that) maison appartient à son fils.  
+    \item (This) neveu et (that) neveu sont nés le même jour.  
+    \item Mon mari aime (this) belle-sœur, mais il n'aime pas (that) belle-sœur.  
+    \item Son frère a écrit (this) roman, mais il n'a pas écrit (that) roman.  
+    \item Leurs enfants aiment (this) jeu mais ils n'aiment pas (that) jeu.  
+    \item (This) poupée et (that) poupée sont des cadeaux de Tante Agathe.  
+    \item (This) carte est un souvenir de voyage, (that) carte est un cadeau.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item cette pâtisserie-ci / cette pâtisserie-là  
+    \item ce jouet-ci / ce jouet-là  
+    \item Ce cousin-ci / ce cousin-là  
+    \item Cette maison-ci / cette maison-là  
+    \item Ce neveu-ci / ce neveu-là  
+    \item cette belle-sœur-ci / cette belle-sœur-là  
+    \item ce roman-ci / ce roman-là  
+    \item ce jeu-ci / ce jeu-là  
+    \item Cette poupée-ci / cette poupée-là  
+    \item cette carte-ci / cette carte-là  
+\end{enumerate}
+
+
+(French) (Fill in the Blanks) D G (With Answer)  
+Compléter avec l'adjectif possessif approprié en utilisant vous si nécessaire.  
+\begin{enumerate}  
+    \item Aimez-vous (his)          nouvelle pièce?  
+    \item Non, mais j'aime (his)          nouveau conte de fée.  
+    \item Que penses-tu de (her)          dernier roman?  
+    \item (Her)          dernière pièce est plus intéressante.  
+    \item As-tu besoin de (our)          voiture?  
+    \item Oui, j'ai besoin de (your)          voiture.  
+    \item (Your)          sœur est actrice?  
+    \item Non, (my)          sœur est architecte.  
+    \item Quel âge a (their)          fi lle?  
+    \item (Their)          fi lle est très talentueuse.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item sa  
+\item son  
+\item son  
+\item Sa  
+\item notre  
+\item votre  
+\item Votre  
+\item ma  
+\item leur  
+\item Leur  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les pronoms possessifs entre parenthèses.  
+\begin{enumerate}
+    \item Mes documents sont en anglais. (His)          sont en français.  
+    \item Ses parents viennent d'Écosse. (Mine)          viennent d'Irlande.  
+    \item Il n'a pas trouvé son acte de naissance. Voici (mine)          .  
+    \item Nous avons choisi notre itinéraire. Avez-vous choisi (yours)          ?  
+    \item Elle a fi ni son roman. As-tu fi ni (yours)          ?  
+    \item Ses idées sont étranges. Et (theirs)          aussi.  
+    \item Je suis vos conseils et je vous demande de suivre (ours)          .  
+    \item Mon blouson est en cuir marron et (hers)          est en cuir noir.  
+    \item Ton plat est trop épicé et (mine)          est trop salé.  
+    \item Mon neveu est trop âgé et (his)          est trop jeune pour ce spectacle.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Les siens  
+\item Les miens  
+\item le mien  
+\item le vôtre  
+\item le tien  
+\item les leurs  
+\item les nôtres  
+\item le sien  
+\item le mien  
+\item le sien  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous si nécessaire.  
+\begin{enumerate}
+    \item My family is larger than yours.  
+    \item Our situation is more difficult than his.  
+    \item Her brothers are younger than she is.  
+    \item Their city is cleaner than ours.  
+    \item My exercise is more advanced than theirs.  
+    \item Your dog is more handsome than his.  
+    \item Our neighbors are nicer than yours.  
+    \item Your winters are colder than ours.  
+    \item Their products are more expensive than yours.  
+    \item Your children are more active than mine.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ma famille est plus grande que la vôtre.  
+\item Notre situation est plus difficile que la sienne.  
+\item Ses frères sont plus jeunes qu'elle.  
+\item Leur ville est plus propre que la nôtre.  
+\item Mon exercice est plus avancé que le leur.  
+\item Votre chien est plus beau que le sien.  
+\item Nos voisins sont plus sympathiques que les vôtres.  
+\item Vos hivers sont plus froids que les nôtres.  
+\item Leurs produits sont plus chers que les vôtres.  
+\item Vos enfants sont plus actifs que les miens.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant tu et l'inversion si nécessaire. 
+
+\begin{enumerate}
+    \item What dress are you going to wear? —The one (that) I bought in Paris.  
+    \item What do you think of his new novel? —It's awful!  
+    \item What are these rings made of? —This one is gold and that one is silver.  
+    \item What do you think of my new house? —It's beautiful!  
+    \item What dishes can we prepare? —We can prepare the ones you prefer.  
+    \item Are these films available? —This one is available but that one is not.  
+    \item Are they subtitled? —This one is subtitled in French and that one is in German.  
+    \item Their children like games but not the ones that are difficult.  
+    \item Look at these two books. Do you think my mother would like this one or that one?  
+    \item Here are two bracelets. This one is Indian. That one is Egyptian.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item —Quelle robe vas-tu porter? —Celle que j'ai achetée à Paris.  
+\item —Que penses-tu de son nouveau roman? —C'est affreux!  
+\item —En quoi sont ces bagues? —Celle-ci est en or et celle-là est en argent.  
+\item —Que penses-tu de ma nouvelle maison? —C'est belle!  
+\item —Quels plats pouvons-nous préparer? —Nous pouvons préparer ceux que tu préfères.  
+\item —Ces films sont disponibles? —Celui-ci est disponible mais pas celui-là.  
+\item —Sont-ils sous-titrés? —Celui-ci est sous-titré en français et celui-là en allemand.  
+\item Leurs enfants aiment les jeux mais pas ceux qui sont difficiles.  
+\item Regarde ces deux livres. Penses-tu que ma mère aimerait celui-ci ou celui-là?  
+\item Voici deux bracelets. Celui-ci est indien. Celui-là est égyptien.  
+\end{enumerate}
+
+
+(French) (Remplacement) D G (With Answer)
+
+Remplacer l'adjectif démonstratif par le pronom démonstratif. 
+
+\begin{enumerate}
+    \item Cette robe est rose. Cette robe est blanche.  
+    \item Ces écrivains sont inconnus. Ces écrivains sont célèbres.  
+    \item Cet oncle est jeune. Cet oncle est plus âgé.  
+    \item Ce rendez-vous est trop tôt. Ce rendez-vous est trop tard.  
+    \item Ce roman est un best-seller. Ce roman est épuisé.  
+    \item Cet ordinateur est vieux. Cet ordinateur est le dernier modèle.  
+    \item Cette peinture est trop claire. Cette peinture est trop foncée.  
+    \item Ces articles sont bien écrits. Ces articles sont mal écrits.  
+    \item Cette valise est légère. Cette valise est lourde.  
+    \item Ces arguments sont bons. Ces arguments sont nuls.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Celle-ci est rose. Celle-là est blanche.  
+    \item Ceux-ci sont inconnus. Ceux-là sont célèbres.  
+    \item Celui-ci est jeune. Celui-là est plus âgé.  
+    \item Celui-ci est trop tôt. Celui-là est trop tard.  
+    \item Celui-ci est un best-seller. Celui-là est épuisé.  
+    \item Celui-ci est vieux. Celui-là est le dernier modèle.  
+    \item Celle-ci est trop claire. Celle-là est trop foncée.  
+    \item Ceux-ci sont bien écrits. Ceux-là sont mal écrits.  
+    \item Celle-ci est légère. Celle-là est lourde.  
+    \item Ceux-ci sont bons. Ceux-là sont nuls.
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant des expressions idiomatiques contenant un pronom possessif et la forme tu si nécessaire.  
+\begin{enumerate}  
+    \item After ten difficult years, she went back to her family.  
+    \item My friend René is not at ease among his peers.  
+    \item His young dog has been acting up again!  
+    \item Their granddaughter has been acting up again in school!  
+    \item Cheers! It's your birthday.  
+    \item You are going to lose everything if you don't make an effort!  
+    \item If he does not contribute his share, the presentation will be a disaster!  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Après dix années difficiles, elle est retournée chez les siens.  
+\item Mon ami René n'est pas à l'aise parmi les siens.  
+\item Son jeune chien a encore fait des siennes!  
+\item Leur petite-fille a encore fait des siennes à l'école!  
+\item À la tienne! C'est ton anniversaire.  
+\item Tu vas tout perdre si tu n'y mets pas du tien!  
+\item S'il n'y met pas du sien, la présentation sera un désastre!  
+\end{enumerate}
+
+
+(French) (Conjugation) D G (With Answer)
+
+Conjuguer les verbes entre parenthèses au présent. 
+\begin{enumerate}
+    \item C'est moi qui (être)          en charge de l'exposition. 
+    \item C'est lui qui (suivre)          l'affaire. 
+    \item C'est nous qui (avoir)          les documents d'authenticité. 
+    \item Ce sont eux qui (pouvoir)          prendre cette décision. 
+    \item C'est elle qui (savoir)          la vérité. 
+    \item C'est moi qui (avoir)          l'armoire de grand-mère. 
+    \item C'est vous qui (devoir)          nous aider à choisir. 
+    \item C'est lui qui (faire)          la restauration. 
+    \item C'est toi qui (écrire)          l'article? 
+    \item C'est eux qui (vouloir)          acheter ce buff.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+\item suis  
+\item suit  
+\item avons  
+\item peuvent  
+\item sait  
+\item ai  
+\item devez  
+\item fait  
+\item écris  
+\item veulent  
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)
+
+Exercise:
+\begin{enumerate}
+    \item Le magasin \_\_\_\_ se trouve place d'Italie a beaucoup de choix.  
+    \item L'antiquaire \_\_\_\_ elle a conseillé est fermé le dimanche.  
+    \item Tu veux me vendre le coff re \_\_\_\_ est dans le salon?  
+    \item Les manteaux sont dans le placard \_\_\_\_ est à gauche de la porte.  
+    \item Le livre \_\_\_\_ je lis en ce moment est passionnant.  
+    \item Les clients \_\_\_\_ sont dans le magasin sont indécis.  
+    \item Il choisit toujours des gravures \_\_\_\_ je déteste.  
+    \item Achète quelque chose \_\_\_\_ fera plaisir aux enfants.  
+    \item Le dessert \_\_\_\_ tu as acheté est délicieux.  
+    \item Il n'est pas satisfait du tableau \_\_\_\_ il peint.  
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item qui  
+    \item qu'  
+    \item qui  
+    \item qui  
+    \item que  
+    \item qui  
+    \item que  
+    \item qui  
+    \item que  
+    \item qu'  
+\end{enumerate}
+
+
+(French) (Compléter) D G (With Answer)  
+Compléter avec un pronom relatif en utilisant la préposition entre parenthèses.  
+\begin{enumerate}  
+    \item La femme,          je restaure ces meubles, est australienne. (pour)  
+    \item La route          nous devons passer, est dangereuse. (par)  
+    \item Le tissu          il recouvre le canapé, est de la soie sauvage. (avec)  
+    \item L'époque          ils s'intéressent, est le dix-neuvième siècle. (à)  
+    \item Les livres          je fais mes recherches, sont à Sylvie. (avec)  
+    \item Le fauteuil          il est assis, appartenait à sa tante. (dans)  
+    \item Le poste          elle aspire, sera vacant d'ici la fin de l'année. (à)  
+    \item Les amis,          nous avons déjeuné dimanche, ont une belle collection de gravures. (chez)  
+    \item Il pense à ses vacances? À ses projets? Je ne sais pas          il pense. (à)  
+    \item Merci à Julie          ce projet n'aurait jamais vu le jour. (sans)  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item pour qui / pour laquelle  
+\item par laquelle  
+\item avec lequel  
+\item à laquelle  
+\item avec lesquels  
+\item dans lequel  
+\item auquel  
+\item chez qui / chez lesquels  
+\item à quoi  
+\item sans qui / sans laquelle  
+\end{enumerate}
+
+
+(French) (Compléter) D G (With Answer)
+
+Compléter avec qui, que ou dont.  
+\begin{enumerate}
+    \item L'artisan \_\_ tu parles est à la retraite.  
+    \item Le film \_\_ nous regardons est sous-titré.  
+    \item Le dictionnaire \_\_ ils se servent est bilingue.  
+    \item Le cadre \_\_ vous plaît n'est pas à vendre.  
+    \item Les pinceaux \_\_ elle a besoin sont dans l'autre atelier.  
+    \item Le livre d'art \_\_ est sur la table appartient à un client.  
+    \item Le seul incident \_\_ je me souviens c'est celui-ci.  
+    \item Le coussin \_\_ tu regardes est en soie.  
+    \item La maison \_\_ ils veulent acheter est en Camargue.  
+    \item Les ouvriers \_\_ il est content recevront une augmentation de salaire.
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item dont  
+    \item que  
+    \item dont  
+    \item qui  
+    \item dont  
+    \item qui  
+    \item dont  
+    \item que  
+    \item qu'  
+    \item dont  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire les phrases suivantes en utilisant vous si nécessaire.  
+\begin{enumerate}
+    \item I can remember the year he opened his shop.  
+    \item The chandelier he bought is for the living room.  
+    \item The tool with which she is working is very old.  
+    \item Are you the owner?  
+    \item The armchair you are sitting on belonged to my grandfather.  
+    \item The city where they live is quite beautiful.  
+    \item I know the person he is talking about.  
+    \item It's the only detail I remember.  
+    \item The documents you need are at Valérie's.  
+    \item I don't know what he is thinking about.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Je peux me souvenir de l'année où il a ouvert son magasin (sa boutique).  
+\item Le lustre qu'il a acheté est pour le salon.  
+\item L'outil avec lequel elle travaille est très vieux.  
+\item C'est vous qui êtes le (la) propriétaire?  
+\item Le fauteuil dans lequel vous êtes assis(e) appartenait à mon grand-père.  
+\item La ville où ils (elles) habitent est très belle.  
+\item Je connais la personne dont il parle.  
+\item C'est le seul détail dont je me souviens.  
+\item Les documents dont vous avez besoin sont chez Valérie.  
+\item Je ne sais pas à quoi il pense.
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)
+
+Compléter par ce qui, ce que, ce à quoi ou ce dont. 
+
+\begin{enumerate}
+    \item          ils s'intéressent, c'est à l'opéra.  
+    \item          elle se souvient, c'est de son enfance en Indochine.  
+    \item          ils aiment, c'est l'art déco.  
+    \item          tu as envie est beaucoup trop cher.  
+    \item          j'ai besoin, c'est de votre aide.  
+    \item          est arrivé hier risque d'avoir des conséquences graves.  
+    \item          je ne comprends pas, c'est son indifférence.  
+    \item          est fascinant, c'est sa collection.  
+    \item          il parle n'a aucun intérêt.  
+    \item          je décris dans mon roman, c'est le paysage savoyard.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Ce à quoi  
+\item Ce dont  
+\item Ce qu'  
+\item Ce dont  
+\item Ce dont  
+\item Ce qui  
+\item Ce que  
+\item Ce qui  
+\item Ce dont  
+\item Ce que  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en commençant par ce qui, ce que, ce à quoi ou ce dont. 
+
+\begin{enumerate}
+    \item What he wants is more free time.  
+    \item What the glassblower uses is in the other workshop.  
+    \item What I can't remember is this incident in Camargue.  
+    \item What I expected was different.  
+    \item What he needs is this book.  
+    \item What they are talking about is interesting.  
+    \item What he does is difficult.  
+    \item What she is interested in is this art collection.  
+    \item What they love is chocolate.  
+    \item What happened last night is very sad.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Ce qu'il veut, c'est plus de temps libre.  
+    \item Ce dont le souffleur de verre se sert est dans l'autre atelier.  
+    \item Ce dont je ne peux pas me souvenir, c'est de cet incident en Camargue.  
+    \item Ce à quoi je m'attendais était différent.  
+    \item Ce dont il a besoin, c'est de ce livre.  
+    \item Ce dont ils (elles) parlent est intéressant.  
+    \item Ce qu'il fait est difficile.  
+    \item Ce à quoi elle s'intéresse, c'est à cette collection d'art.  
+    \item Ce qu'ils (elles) aiment, c'est le chocolat.  
+    \item Ce qui s'est passé hier soir est très triste.
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)  
+Compléter avec le pronom relatif qui convient.  
+\begin{enumerate}
+    \item Pourquoi la bibliothèque,          est dans le coin à gauche, est-elle si chère?  
+    \item L'artiste          tu parles vit actuellement à Paris.  
+    \item La chaise sur          elle est assise a besoin d'être repeinte.  
+    \item          j'ai envie, c'est de faire le tour du monde.  
+    \item Le chinois est une langue étrangère          est très utile de nos jours.  
+    \item Je ne comprends pas          vous demandez.  
+    \item C'est un lustre          vient d'Espagne.  
+    \item Les objets          il s'intéresse sont du dix-huitième siècle.  
+    \item L'ottoman          je veux faire recouvrir appartenait à un de mes ancêtres.  
+    \item          est fait, est fait.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item qui  
+    \item dont  
+    \item laquelle  
+    \item Ce dont  
+    \item qui  
+    \item ce que  
+    \item qui  
+    \item auxquels  
+    \item que  
+    \item Ce qui  
+\end{enumerate}  
+
+
+(French) (Fill in the Blanks) D G (With Answer)
+
+Compléter les phrases avec l'adverbe approprié. 
+
+\begin{enumerate}
+    \item Virginie arrive (tomorrow)          ? —Oui, elle arrive (tomorrow evening)          .  
+    \item Vous êtes libres (next week)          ? —Non, nous ne sommes pas libres (next week)          .  
+    \item Où vas-tu (today)          ? —Je vais à Nantes (today)          .  
+    \item Vous mangez des fruits (every day)          ? —Non, je mange des fruits (every other day)          .  
+    \item Tu rentres (late)          ce soir? —Non, je rentre vers sept heures.  
+    \item Est-ce qu'ils arrivent (often)          en avance? —Non, ils arrivent (rarely)          en avance.  
+    \item Est-ce qu'elles vont (sometimes)          à la plage? —Non, elles ne vont (never)          à la plage.  
+    \item Vous avez beaucoup de travail (right now)          ? —Non, (right now)          , c'est très calme.  
+    \item Ton anniversaire est (next week)          ? —Non, mon anniversaire est (the day after tomorrow)          .  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item demain / demain soir  
+\item la semaine prochaine / la semaine prochaine  
+\item aujourd'hui / aujourd'hui  
+\item tous les jours / tous les deux jours  
+\item tard  
+\item souvent / rarement  
+\item parfois / jamais  
+\item en ce moment / en ce moment  
+\item la semaine prochaine / après-demain  
+\item hier / avant-hier  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant tu et la forme est-ce que si nécessaire. 
+
+\begin{enumerate}
+    \item Today is the first day of winter.  
+    \item She often travels.  
+    \item I am never on time. I am always late.  
+    \item He arrives the day after tomorrow.  
+    \item Her appointment is in two weeks.  
+    \item We are working tomorrow, but we are not working the day after tomorrow.  
+    \item They sold their house last week.  
+    \item Are you going to the opera tonight?  
+    \item You are early. I am not ready.  
+    \item The bakery will be closed next week.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Aujourd'hui, c'est le premier jour de l'hiver.  
+\item Elle voyage souvent.  
+\item Je ne suis jamais à l'heure. Je suis toujours en retard.  
+\item Il arrive après-demain.  
+\item Son rendez-vous est dans deux semaines.  
+\item Nous travaillons demain, mais nous ne travaillons pas après-demain.  
+\item Ils (Elles) ont vendu leur maison la semaine dernière.  
+\item Est-ce que tu vas à l'opéra ce soir?  
+\item Tu es tôt. Je ne suis pas prêt(e).  
+\item La boulangerie sera fermée la semaine prochaine.
+\end{enumerate}
+
+
+(French) (Q&A) D G (With Answer)  
+Répondre aux questions à l'aide des éléments entre parenthèses.  
+\begin{enumerate}  
+    \item Depuis combien de temps travailles-tu pour cette agence de voyages? (5 ans)  
+    \item Depuis combien de temps cherches-tu un nouvel appartement? (le mois de janvier)  
+    \item Depuis quand allez-vous chez cet opticien? (des années)  
+    \item Cela fait longtemps que vous êtes mariés? (14 ans)  
+    \item Cela fait combien de temps que nous nous connaissons? (9 ans)  
+    \item Cela fait longtemps que tu m'attends sous la pluie? (45 minutes)  
+    \item Vous prenez cette ligne de métro depuis combien de temps? (5 ans)  
+    \item Cela fait longtemps que le coiffeur est situé par ici? (6 mois)  
+    \item Depuis quand ne fumes-tu plus? (la semaine dernière)  
+    \item Depuis combien de temps est-il en vacances? (3 semaines)  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Je travaille pour cette agence de voyages depuis cinq ans.  
+\item Je cherche un nouvel appartement depuis le mois de janvier.  
+\item Je vais chez cet opticien depuis des années.  
+\item Nous sommes mariés depuis quatorze ans.  
+\item Nous nous connaissons depuis neuf ans.  
+\item Je t'attends depuis quarante-cinq minutes.  
+\item Je prends cette ligne de métro depuis cinq ans.  
+\item Le coiffeur est situé par ici depuis six mois.  
+\item Je ne fume plus depuis la semaine dernière.  
+\item Il est en vacances depuis trois semaines.  
+\end{enumerate}
+
+
+(French) (Change) D G (With Answer)
+
+Changer "depuis" ou "cela fait... que" en "il y a... que". 
+
+\begin{enumerate}
+    \item J'attends depuis une demi-heure.  
+    \item Cela fait quatre mois que Valérie a sa voiture.  
+    \item Cela fait dix jours que nous essayons de joindre le banquier.  
+    \item Il est en voyage d'affaires depuis deux jours.  
+    \item Sophie étudie le chinois depuis un an.  
+    \item Elle veut adopter un enfant depuis cinq ans.  
+    \item Cela fait des semaines que nous cherchons un appartement.  
+    \item Cela fait trois mois que j'attends votre réponse.  
+    \item Ses idées sont dénuées d'intérêt depuis longtemps.  
+    \item Le chien de nos voisins est perdu depuis une semaine.  
+\end{enumerate}
+
+\subsection{Answers}
+
+\begin{enumerate}
+    \item Il y a une demi-heure que j'attends.  
+    \item Il y a quatre mois que Valérie a sa voiture.  
+    \item Il y a dix jours que nous essayons de joindre le banquier.  
+    \item Il y a deux jours qu'il est en voyage d'affaires.  
+    \item Il y a un an que Sophie étudie le chinois.  
+    \item Il y a cinq ans qu'elle veut adopter un enfant.  
+    \item Il y a des semaines que nous cherchons un appartement.  
+    \item Il y a trois mois que j'attends votre réponse.  
+    \item Il y a longtemps que ses idées sont dénuées d'intérêt.  
+    \item Il y a une semaine que le chien de nos voisins est perdu.
+\end{enumerate}
+
+
+(French) (Grammar) D G (With Answer)  
+Mettre les phrases suivantes au passé composé.  
+\begin{enumerate}
+    \item Ils voyagent souvent en Asie.  
+    \item On mange bien chez eux.  
+    \item Elle dépense beaucoup.  
+    \item Il lit rarement des romans policiers.  
+    \item Nous ne travaillons pas assez.  
+    \item Je parle trop.  
+    \item Elle écrit très peu.  
+    \item Tu vas souvent au théâtre.  
+    \item Il s'exprime toujours très mal.  
+    \item Nous aimons bien la maison.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item Ils ont souvent voyagé en Asie.  
+    \item On a bien mangé chez eux.  
+    \item Elle a beaucoup dépensé.  
+    \item Il a rarement lu des romans policiers.  
+    \item Nous n'avons pas assez travaillé.  
+    \item J'ai trop parlé.  
+    \item Elle a très peu écrit.  
+    \item Tu es souvent allé(e) au théâtre.  
+    \item Il s'est toujours très mal exprimé.  
+    \item Nous avons bien aimé la maison.  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les mots entre parenthèses. 
+\begin{enumerate}
+    \item (How many)          livres lisez-vous? —Je lis deux livres. 
+    \item (How)          allons-nous à la plage? —Nous allons à la plage en voiture. 
+    \item (Who)          loue la maison bleue? —Suzanne loue la maison bleue. 
+    \item (What)          pensez-vous de ce roman? —C'est un mauvais roman. 
+    \item (How much)          coûte l'appartement de Stéphane? —L'appartement de Stéphane coûte cher. 
+    \item (Where)          travaille votre mari? —Il travaille à Berlin. 
+    \item (When)          vont-ils au théâtre? —Ils vont au théâtre samedi soir. 
+    \item (Why)          étudiez-vous le français? —J'étudie le français pour mon travail. 
+    \item (When)          arrive-t-il? —Il arrive la semaine prochaine. 
+    \item (Who)          chante? —C'est Laurent qui chante.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Combien de  
+    \item Comment  
+    \item Qui  
+    \item Que  
+    \item Combien  
+    \item Où  
+    \item Quand  
+    \item Pourquoi  
+    \item Quand  
+    \item Qui  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire. 
+\begin{enumerate}
+    \item He planted flowers everywhere.  
+    \item Do you want to live here?  
+    \item My car is parked just behind yours.  
+    \item We'll go somewhere else.  
+    \item He is outside.  
+    \item I live near the river.  
+    \item You live too far.  
+    \item I see strange things here and there.  
+    \item He is in front of you.  
+    \item Come sit next to me.
+\end{enumerate}
+
+\subsection{Answers}
+\begin{enumerate}
+    \item Il a planté des fleurs partout.  
+    \item Voulez-vous vivre ici?  
+    \item Ma voiture est garée juste derrière la vôtre.  
+    \item Nous irons ailleurs.  
+    \item Il est dehors.  
+    \item J'habite près de la rivière.  
+    \item Vous habitez trop loin.  
+    \item Je vois des choses bizarres ça et là.  
+    \item Il est devant vous.  
+    \item Venez vous asseoir près de moi.
+\end{enumerate}
+
+
+(French) (Writing) D G (With Answer)  
+Écrire les nombres suivants en toutes lettres.  
+\begin{enumerate}
+    \item 6  
+    \item 14  
+    \item 23  
+    \item 28  
+    \item 35  
+    \item 39  
+    \item 41  
+    \item 46  
+    \item 49  
+    \item 52  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item six  
+\item quatorze  
+\item vingt-trois  
+\item vingt-huit  
+\item trente-cinq  
+\item trente-neuf  
+\item quarante et un  
+\item quarante-six  
+\item quarante-neuf  
+\item cinquante-deux  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire en anglais les phrases suivantes.  
+\begin{enumerate}
+    \item Il a perdu pour la troisième fois.  
+    \item J'habite au trente et unième étage.  
+    \item Elle a vendu sa deuxième voiture.  
+    \item C'est son cinquante-huitième anniversaire.  
+    \item Nous avons fait du ski pour la première fois.  
+    \item C'est la quatrième fois que nous nous croisons dans la rue.  
+    \item Il a obtenu la quarante-huitième place.  
+    \item J'adore la neuvième symphonie de Beethoven.  
+    \item Il habite au coin de la vingt-troisième rue et de la septième avenue.  
+    \item C'est sa deuxième année?  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item He lost for the third time.  
+\item I live on the thirty-first floor.  
+\item She sold her second car.  
+\item It's his fifty-eighth birthday.  
+\item We skied for the first time.  
+\item It's the fourth time we have run into each other on the street.  
+\item He got forty-eighth place.  
+\item I love Beethoven's Ninth Symphony.  
+\item He lives at the corner of Twenty-third Street and Seventh Avenue.  
+\item Is it his second year?  
+\end{enumerate}
+
+
+(French) (Transcription) D G (With Answer)  
+Transcrire en chiffres les nombres suivants:  
+\begin{enumerate}
+    \item cinquante-trois  
+    \item cinquante-neuf  
+    \item soixante-deux  
+    \item soixante-dix  
+    \item soixante et onze  
+    \item soixante-dix-huit  
+    \item quatre-vingt-trois  
+    \item quatre-vingt-sept  
+    \item quatre-vingt-dix  
+    \item quatre-vingt-treize  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item 53  
+    \item 59  
+    \item 62  
+    \item 70  
+    \item 71  
+    \item 78  
+    \item 83  
+    \item 87  
+    \item 90  
+    \item 93  
+\end{enumerate}  
+
+
+(French) (Writing) D G (With Answer)
+
+Écrire les nombres suivants en toutes lettres:  
+\begin{enumerate}
+    \item 101  
+    \item 114  
+    \item 126  
+    \item 139  
+    \item 145  
+    \item 156  
+    \item 160  
+    \item 178  
+    \item 181  
+    \item 199  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item cent un  
+\item cent quatorze  
+\item cent vingt-six  
+\item cent trente-neuf  
+\item cent quarante-cinq  
+\item cent cinquante-six  
+\item cent soixante  
+\item cent soixante-dix-huit  
+\item cent quatre-vingt-un  
+\item cent quatre-vingt-dix-neuf  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire (en toutes lettres) les nombres suivants:  
+\begin{enumerate}
+    \item two hundred twelve  
+    \item three hundred fifteen  
+    \item four hundred twenty  
+    \item five hundred thirty-one  
+    \item six hundred twenty-three  
+    \item seven hundred ninety  
+    \item eight hundred forty-eight  
+    \item nine hundred four  
+    \item six hundred forty-five  
+    \item one hundred one  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+    \item deux cent douze  
+    \item trois cent quinze  
+    \item quatre cent vingt  
+    \item cinq cent trente et un  
+    \item six cent vingt-trois  
+    \item sept cent quatre-vingt-dix  
+    \item huit cent quarante-huit  
+    \item neuf cent quatre  
+    \item six cent quarante-cinq  
+    \item cent un  
+\end{enumerate}
+
+
+(French) (Writing) D G (With Answer)
+
+Écrire les nombres suivants en toutes lettres:  
+\begin{enumerate}
+    \item 205  
+    \item 389  
+    \item 456  
+    \item 504  
+    \item 678  
+    \item 745  
+    \item 800  
+    \item 815  
+    \item 901  
+    \item 940  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item deux cent cinq  
+\item trois cent quatre-vingt-neuf  
+\item quatre cent cinquante-six  
+\item cinq cent quatre  
+\item six cent soixante-dix-huit  
+\item sept cent quarante-cinq  
+\item huit cents  
+\item huit cent quinze  
+\item neuf cent un  
+\item neuf cent quarante  
+\end{enumerate}
+
+
+(French) (Écriture) D G (With Answer)  
+Écrire les nombres suivants en toutes lettres:  
+\begin{enumerate}
+    \item 1 005  
+    \item 2 456  
+    \item 3 021  
+    \item 4 789  
+    \item 10 450  
+    \item 24 008  
+    \item 170 890  
+    \item 1 230 000  
+    \item 30 030 000  
+    \item 1 600 000 000  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item mille cinq  
+\item deux mille quatre cent cinquante-six  
+\item trois mille vingt et un  
+\item quatre mille sept cent quatre-vingt-neuf  
+\item dix mille quatre cent cinquante  
+\item vingt-quatre mille huit  
+\item cent soixante-dix mille huit cent quatre-vingt-dix  
+\item un million deux cent trente mille  
+\item trente million trente mille  
+\item un milliard six cent millions  
+\end{enumerate}
+
+
+(French) (Transcription) D G (With Answer)
+
+Dans les phrases suivantes, transcrire les nombres.  
+\begin{enumerate}
+    \item Leur bibliothèque numérique sera prête en 2015.  
+    \item Cet appartement coûte 150 000 euros.  
+    \item Hier, j'ai bu du Saint-Émilion 1978.  
+    \item Le soixantième Festival de Cannes a lieu en mai 2007.  
+    \item Il y a plus d'1 000 000 000 d'étoiles dans le ciel.  
+    \item Il a remporté la médaille d'or du 1 500 mètres.  
+    \item D'après une étude en 2006, plus d'1 000 000 de personnes écrivent un blog en France.  
+    \item Victor Hugo est mort en 1885.  
+    \item Cet administrateur de site gagne 5 000 euros par mois.  
+    \item Nous sommes plus de 6 000 000 000 sur cette planète.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item deux mille quinze  
+\item cent cinquante mille  
+\item mille neuf cent soixante-dix-huit  
+\item deux mille sept  
+\item un milliard  
+\item mille cinq cents  
+\item deux mille six / un million  
+\item mille huit cent quatre-vingt-cinq  
+\item cinq mille  
+\item six milliards  
+\end{enumerate}
+
+
+(French) (Fill in the blanks) D G (With Answer)  
+Compléter avec la préposition appropriée.  
+\begin{enumerate}  
+    \item Elle aime jouer \_\_\_\_ la clarinette.  
+    \item Paul a décidé \_\_\_\_ partir tôt.  
+    \item La chambre donne \_\_\_\_ une cour très calme.  
+    \item Je crois \_\_\_\_ la vertu médicinale des plantes.  
+    \item J'ai rêvé \_\_\_\_ toi.  
+    \item Émilie tient \_\_\_\_ ses livres.  
+    \item Hier, nous avons parlé \_\_\_\_ toi.  
+    \item Est-ce qu'il croit \_\_\_\_ Dieu?  
+    \item Nous nous sommes décidés \_\_\_\_ prendre de très longues vacances.  
+    \item Elle m'a demandé \_\_\_\_ fermer la porte.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}
+\item de  
+\item de  
+\item sur  
+\item à  
+\item de  
+\item à  
+\item de  
+\item en  
+\item à  
+\item de  
+\end{enumerate}
+
+
+(French) (Translation) D G (With Answer)  
+Traduire en anglais les phrases suivantes.  
+\begin{enumerate}  
+    \item Paul me manque.  
+    \item Mon frère a manqué à sa parole.  
+    \item Cet écrivain manque de talent.  
+    \item J'ai manqué le début du cours.  
+    \item Le patron a manqué à ses devoirs.  
+\end{enumerate}  
+
+\subsection{Answers}  
+\begin{enumerate}  
+    \item I miss Paul.  
+    \item My brother did not keep his word.  
+    \item This writer lacks talent.  
+    \item I missed the beginning of the course.  
+    \item The boss failed to do his duty.  
+\end{enumerate}  
+
+
+(French) (Translation) D G (With Answer)
+
+Traduire les phrases entre parenthèses en utilisant tu si nécessaire. 
+
+\begin{enumerate}
+    \item (Whatever you say), je reste sur ma position.  
+    \item (Whatever her decision), la mienne est prise.  
+    \item (Whoever you are), je ne t'autorise pas à me parler sur ce ton.  
+    \item (Wherever you go), j'irai avec toi.  
+    \item (Whoever she is), elle n'est pas autorisée à venir!  
+    \item (Whatever you think), je m'en moque.  
+    \item (Wherever they live), je les retrouverai.  
+    \item (Whatever their suggestion), je trouve mon idée très bonne.  
+    \item (Whoever you are), aide-moi.  
+    \item (Whatever your mother may think), c'est ta décision.  
+\end{enumerate}
+
+\subsection{Answers}  
+\begin{enumerate}
+\item Quoi que tu dises...  
+\item Quelle que soit sa décision...  
+\item Qui que tu sois...  
+\item Où que tu ailles...  
+\item Qui qu'elle soit...  
+\item Quoi que tu penses...  
+\item Où qu'ils (elles) habitent...  
+\item Quelle que soit leur suggestion...  
+\item Qui que tu sois...  
+\item Quoi que ta mère puisse penser (Quoi que pense ta mère)...
+\end{enumerate}
