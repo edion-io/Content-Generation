@@ -2579,7 +2579,7 @@ Underline the similes in these sentences
 \item My sister can swim like a fish and jump like a frog.
 \end{enumerate}
 
-\section{Context}
+\subsection{Context}
 Vocabulary excercise, simile
 
 
@@ -2592,7 +2592,7 @@ Use these similes in sentences of your own:
 \item bright like the sun
 \end{enumerate}
 
-\section{Context}
+\subsection{Context}
 Vocabulary, Similes
 
 
@@ -2725,7 +2725,7 @@ Now write each of your rules with a reason for this rule.
 
 You are going to write an index from a book called The Planets. Read the names of the planets that go around the sun. Then, in the book, you can find information about the different planets on the following pages. Finally, make an index for the book. The first entry has been done to help you.
 
-\section(Example)
+\subsection(Example)
 Mercury:
 Mercury is the smallest planet in our solar system and the closest one to the Sun. It's a rocky planet with a surface covered in craters, like our Moon. Because it's so close to the Sun, Mercury has extremely hot days and freezing cold nights.
 
@@ -2735,7 +2735,7 @@ Mercury is the smallest planet in our solar system and the closest one to the Su
 
 (English) (Creative writing) D 4 (Multiple Steps)
 
-\section{Introduction}
+\subsection{Introduction}
 Imagine you are a reporter for your local newspaper and your boss sent you on your next assignment. You can come up with your own story or use one of the suggestions below:
 
 \subsubsection*{Scenario 1}
@@ -2747,30 +2747,30 @@ Yesterday, a neighborhood dog named Max found a lost kitten and brought it safel
 \subsubsection*{Scenario 3}
 The school's annual science fair is happening today, and students have created amazing projects like homemade rockets and robot models. Everyone is excited to see the cool inventions and find out who will win the top prizes.
 
-\section{Planning}
+\subsection{Planning}
 What event are you going to write about? Write two to three sentences about the story you chose or came up with. Why do you think this would make a good story?
 
-\section{Headline Creation}
+\subsection{Headline Creation}
 Your report will need an eye-catching headline. Write a few ideas here.
 
-\section{Reporter Identification}
+\subsection{Reporter Identification}
 Include the name of the reporter (you could use your own name or a made-up name).
 
-\section{Background Information}
+\subsection{Background Information}
 What background information will you include? For example: the events that led up to what you are reporting and background information about the people involved.
 
-\section{Fact Gathering}
+\subsection{Fact Gathering}
 Make notes on the facts you have found out about your event. Of course you can be creative here.
 
-\section{Interview Planning}
+\subsection{Interview Planning}
 Who will you interview? For example: people who were there and saw what happened. Give them names and say why they were there.
 What questions will you ask the people who saw what happened?
 
-\section{Illustration Selection}
+\subsection{Illustration Selection}
 What illustrations will you use? Tick.
 photographs ☐ maps ☐ diagrams ☐
 
-\section{Write Report}
+\subsection{Write Report}
 Now you have everything together to write your report! Use all answers to the previous questions to write up your report. Also include parts of the interview or think of quotes that you could have gotten from an interview.
 
 
@@ -2922,7 +2922,7 @@ Read this information about animals carefully:
 Some animals are much faster than other animals. The fastest land animal is the cheetah, which lives mainly in Africa. It can run at over 100 kilometres per hour! Some animals are much bigger than other animals. The blue whale is even bigger than a basketball court. Amazingly, blue whales feed on tiny fish called krill. They can eat over 4 tonnes of krill a day.
 
 
-\section{Questionnaire}
+\subsection{Questionnaire}
 What can you find out about cheetahs and blue whales?
 \begin{enumerate}
 \item What is the fastest land animal?
@@ -2933,7 +2933,7 @@ What can you find out about cheetahs and blue whales?
 \item How much food do they eat each day?
 \end{enumerate}
 
-\section{Written Answer}
+\subsection{Written Answer}
 Use your notes to write sentences about each animal.
 The fastest animal
 __________________
@@ -3355,7 +3355,7 @@ Write the word for the following clues, all words have one sound in common.
 \item You use me to eat: _____
 \end{enumerate}
 
-\section{hint}
+\subsection{Hints}
 [STARTDGM] The image includes various objects related to the rhyming words and clues, such as a pair of boots, a flute, a screw, a glue stick, and a circular object resembling a plate with food with a spoon. [STOPDGM]
 
 
@@ -3368,7 +3368,7 @@ I can taste the ___________________.
 I can hear the ___________________.
 I can smell the ___________________.
 
-\section{hint}
+\subsection{Hints}
 [STARTDGM] An illustration of a park scene with children playing, a dog, a person cooking food, and rain falling. [STOPDGM]
 
 
@@ -3795,7 +3795,7 @@ Circle the words with the right colour corresponding to the words listed.
 \item brown
 \end{enumerate}
 
-\section{Material}
+\subsection{Materials}
 Coloured pencils
 
 
@@ -3810,7 +3810,7 @@ Circle the words with the right colour corresponding to the words listed.
 \item coal
 \end{enumerate}
 
-\section{Material}
+\subsection{Materials}
 Coloured pencils
 
 
@@ -6030,7 +6030,7 @@ Copy these sentences. Replace the underlined words with ones that have a similar
 \item Weather forecasts aren't always \underline{correct}.
 \end{enumerate}
 
-\section{Material}
+\subsection{Materials}
 A thesaurus
 
 
@@ -6744,7 +6744,7 @@ Write the number of the page on which each of the following words would appear: 
 \item range: ___
 \end{enumerate}
 
-\section{Materials}
+\subsection{Materials}
 A dictionary
 
 
@@ -6770,7 +6770,7 @@ Finally _______________
 \paragraph
 Read your sentences aloud. Do they make sense?
 
-\section{Material}
+\subsection{Materials}
 A short story for the students to summarize
 
 
@@ -7773,7 +7773,7 @@ Paragraph 4:
 \paragraph
 Use your plan to write a first draft of your information text in your exercise book.
 
-\section{Material}
+\subsection{Materials}
 Internet access or books/other material on deserts
 
 
@@ -8219,7 +8219,7 @@ Use the subheadings to plan an information text about rubbish and recycling. Ans
 \item 3rd paragraph: How can we reduce the rubbish in landfill sites?
 \end{enumerate}
 
-\section{Material}
+\subsection{Materials}
 Information text about Trash and recycling or Internet access
 
 
@@ -9728,7 +9728,7 @@ Write sentences using the synonyms you wrote in Activity A.
 \end{enumerate}
 \end{enumerate}
 
-\section{Materials}
+\subsection{Materials}
 A thesaurus
 
 
@@ -10017,7 +10017,7 @@ Imagine you are Icarus and it is the night before you are going to escape by fly
 
 [STARTDGM] An image of a pair of wings resting on a table in a dimly lit room, suggesting a sense of anticipation and escape. [STOPDGM]
 
-\section{Materials}
+\subsection{Materials}
 The story of Icarus
 
 
@@ -10166,7 +10166,7 @@ Sketch an early bridge built using tree trunks. Include in your sketch:
 \item a tree trunk
 \end{enumerate}
 
-\section{Materials}
+\subsection{Materials}
 Internet access or books about bridges
 
 
@@ -10398,7 +10398,7 @@ Write the underlined words as contractions.
 
 Write your own simple story about something that happened to you. Start by drawing a little picture to show the beginning, middle, and end of your story. Next to each box write a sentence describing what happens in your story. Remember to put the events in the right order.
 
-\section{Hint}
+\subsection{Hints}
 If you can't think of your own idea here is one for you to use: Imagine you went out for the day. You took your favourite toy with you but it got lost. How did you find it again?
 
 
@@ -10899,7 +10899,7 @@ Match each of these words with an anagrams.
 \item late __________
 \end{enumerate}
 
-\section{Hint}
+\subsection{Hints}
 [STARTDGM] A box containing the words: parts, ocean, wolves, tale, oils [STOPDGM]
 
 
@@ -10964,7 +10964,7 @@ Describe each picture by adding an adjective into the gap:
 \item the __________ snail[STARTDGM] A simple cartoon image of a small snail [STOPDGM]
 \end{enumerate}
 
-\section{Hint}
+\subsection{Hints}
 [STARTDGM] A box containing the words small, long, tall, flat [STOPDGM]
 
 
@@ -10998,7 +10998,7 @@ Add ull or ul to the gaps to make a word. Use a dictionary to check you have spe
 \item d____
 \end{enumerate}
 
-\section{Material}
+\subsection{Materials}
 a dictionary or internet access
 
 
@@ -23762,7 +23762,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item g_n_t
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 \begin{enumerate}
 \item The second letter of the answer is \emph{c}
 The meaning of this word (in English) :
@@ -23780,7 +23780,7 @@ The meaning of this word (in English) :
 \emph{favor}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item acht
 \item zomer
@@ -23801,7 +23801,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item itehdcg
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 \begin{enumerate}
 \item The answer starts with the letter \emph{z}
 The meaning of this word (in English) : \emph{sing}
@@ -23815,7 +23815,7 @@ The meaning of this word (in English) : \emph{spread}
 The meaning of this word (in English) : \emph{poem}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item zingen
 \item snel
@@ -23836,7 +23836,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item S_o_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 \begin{enumerate}
 \item The second letter of the answer is \emph{o}
 The meaning of this word (in English) : \emph{throw}
@@ -23850,7 +23850,7 @@ The meaning of this word (in English) : \emph{problem}
 The meaning of this word (in English) : \emph{show}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item gooien
 \item zijn
@@ -23871,7 +23871,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item lniutjaurke
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 \begin{enumerate}
 \item The answer starts with the letter \emph{t}
 The meaning of this word (in English) : \emph{total}
@@ -23885,7 +23885,7 @@ The meaning of this word (in English) : \emph{my}
 The meaning of this word (in English) : \emph{natural}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item totaal
 \item gelijk
@@ -23906,7 +23906,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item w_a_n_m_n
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 \begin{enumerate}
 \item The second letter of the answer is \emph{r}
 The meaning of this word (in English) :
@@ -23925,7 +23925,7 @@ The meaning of this word (in English) :
 \emph{observe}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item groeien
 \item kwam
@@ -23946,7 +23946,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item qttë iuno
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 \begin{enumerate}
 \item The answer starts with the letter \emph{s}
 The meaning of this word (in English) :
@@ -23965,7 +23965,7 @@ The meaning of this word (in English) :
 \emph{quotient}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item steen
 \item dikke
@@ -23986,7 +23986,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item t_k_n_n
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
 The meaning of this word (in English) :
@@ -24005,7 +24005,7 @@ The meaning of this word (in English) :
 \emph{draw}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item regio
 \item zelfs
@@ -24026,7 +24026,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item umru
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 \begin{enumerate}
 \item The answer starts with the letter \emph{a}
 The meaning of this word (in English) :
@@ -24045,7 +24045,7 @@ The meaning of this word (in English) :
 \emph{wall}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item antwoord
 \item koele
@@ -24066,7 +24066,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item d_b_e_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{v}
@@ -24086,7 +24086,7 @@ The meaning of this word (in English) :
 \emph{double}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item evenement
 \item maar
@@ -24107,7 +24107,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item rotwel
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{o}
@@ -24127,7 +24127,7 @@ The meaning of this word (in English) :
 \emph{root}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item overwegen
 \item gebeuren
@@ -24148,7 +24148,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item a_o_m
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{i}
@@ -24173,7 +24173,7 @@ The meaning of this word (in English) :
 --
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item midden
 \item zetten
@@ -24194,7 +24194,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item ethef
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{p}
@@ -24214,7 +24214,7 @@ The meaning of this word (in English) :
 \emph{has}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item poort
 \item orde
@@ -24235,7 +24235,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item r_k_n_n
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{o}
@@ -24255,7 +24255,7 @@ The meaning of this word (in English) :
 \emph{charge}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item wonen
 \item begeleiden
@@ -24276,7 +24276,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item iwst
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{v}
@@ -24296,7 +24296,7 @@ The meaning of this word (in English) :
 \emph{knew}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item vorm
 \item tijd
@@ -24317,7 +24317,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item r_e_s
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{t}
@@ -24337,7 +24337,7 @@ The meaning of this word (in English) :
 \emph{range}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item stromen
 \item kijken
@@ -24358,7 +24358,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item kraal
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{v}
@@ -24378,7 +24378,7 @@ The meaning of this word (in English) :
 \emph{ready}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item vestigen
 \item liefde
@@ -24399,7 +24399,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item e_c_t_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -24419,7 +24419,7 @@ The meaning of this word (in English) :
 \emph{excite}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item begeleiden
 \item woordenboek
@@ -24440,7 +24440,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item eevilkougedn
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{s}
@@ -24460,7 +24460,7 @@ The meaning of this word (in English) :
 \emph{single}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item stel
 \item zachte
@@ -24481,7 +24481,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item g_l_i_s_v_r_a_t
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -24501,7 +24501,7 @@ The meaning of this word (in English) :
 \emph{noise}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item week
 \item kreeg
@@ -24522,7 +24522,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item eronbge
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{p}
@@ -24542,7 +24542,7 @@ The meaning of this word (in English) :
 \emph{born}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item pand
 \item leiden
@@ -24563,7 +24563,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item a_t_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -24583,7 +24583,7 @@ The meaning of this word (in English) :
 \emph{doctor}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item venster
 \item passeren
@@ -24604,7 +24604,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item epsl
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{b}
@@ -24624,7 +24624,7 @@ The meaning of this word (in English) :
 \emph{game}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item brengen
 \item uitvinden
@@ -24645,7 +24645,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item h_n_e_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{o}
@@ -24665,7 +24665,7 @@ The meaning of this word (in English) :
 \emph{trade}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item moeilijk
 \item brief
@@ -24686,7 +24686,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item alle
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{b}
@@ -24706,7 +24706,7 @@ The meaning of this word (in English) :
 \emph{all}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item bang
 \item pers
@@ -24727,7 +24727,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item o_z_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{n}
@@ -24747,7 +24747,7 @@ The meaning of this word (in English) :
 \emph{our}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item instrument
 \item station
@@ -24768,7 +24768,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item nesse
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{g}
@@ -24788,7 +24788,7 @@ The meaning of this word (in English) :
 \emph{sense}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item grafiek
 \item instemmen
@@ -24809,7 +24809,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item v_o_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{r}
@@ -24829,7 +24829,7 @@ The meaning of this word (in English) :
 \emph{before}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item ervaring
 \item betekende
@@ -24850,7 +24850,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item eeidbn
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{m}
@@ -24870,7 +24870,7 @@ The meaning of this word (in English) :
 \emph{provide}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item metalen
 \item vers
@@ -24891,7 +24891,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item b_s_a_e_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{l}
@@ -24911,7 +24911,7 @@ The meaning of this word (in English) :
 \emph{save}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item klasse
 \item wist
@@ -24932,7 +24932,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item ukijelibrkeeg
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{l}
@@ -24952,7 +24952,7 @@ The meaning of this word (in English) :
 \emph{usual}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item land
 \item geven
@@ -24973,7 +24973,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item g_a_d
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -24993,7 +24993,7 @@ The meaning of this word (in English) :
 \emph{grand}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item verzamelen
 \item willen
@@ -25014,7 +25014,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item newon
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{s}
@@ -25034,7 +25034,7 @@ The meaning of this word (in English) :
 \emph{live}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item spell
 \item zeer
@@ -25055,7 +25055,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item r_i_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{r}
@@ -25075,7 +25075,7 @@ The meaning of this word (in English) :
 \emph{trip}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item vreugde
 \item staat
@@ -25096,7 +25096,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item srcehbneem
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{o}
@@ -25116,7 +25116,7 @@ The meaning of this word (in English) :
 \emph{protect}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item oever
 \item karakter
@@ -25137,7 +25137,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item a_n_e_e_e_h_i_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{h}
@@ -25157,7 +25157,7 @@ The meaning of this word (in English) :
 \emph{matter}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Show
 \item terwijl
@@ -25178,7 +25178,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item indw
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{p}
@@ -25198,7 +25198,7 @@ The meaning of this word (in English) :
 \emph{wind}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item poort
 \item post
@@ -25219,7 +25219,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item v_e_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{n}
@@ -25239,7 +25239,7 @@ The meaning of this word (in English) :
 \emph{foot}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item inch
 \item kracht
@@ -25260,7 +25260,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item zewebnji
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{g}
@@ -25280,7 +25280,7 @@ The meaning of this word (in English) :
 \emph{prove}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item glimlach
 \item bedrijf
@@ -25301,7 +25301,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item p_t_o_n
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -25321,7 +25321,7 @@ The meaning of this word (in English) :
 \emph{pattern}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item bespreken
 \item compleet
@@ -25342,7 +25342,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item hrclilsvene
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{b}
@@ -25362,7 +25362,7 @@ The meaning of this word (in English) :
 \emph{differ}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item brand
 \item klap
@@ -25383,7 +25383,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item a_n_a_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{i}
@@ -25403,7 +25403,7 @@ The meaning of this word (in English) :
 \emph{number}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item wiens
 \item luid
@@ -25424,7 +25424,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item aotrpno
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{f}
@@ -25444,7 +25444,7 @@ The meaning of this word (in English) :
 \emph{pattern}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item fractie
 \item aanraken
@@ -25465,7 +25465,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item w_r_i_g
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{i}
@@ -25485,7 +25485,7 @@ The meaning of this word (in English) :
 \emph{effect}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item lijst
 \item spoedig
@@ -25506,7 +25506,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item rngad
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{f}
@@ -25526,7 +25526,7 @@ The meaning of this word (in English) :
 \emph{grand}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item fruit
 \item stropdas
@@ -25547,7 +25547,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item g_l_j_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{a}
@@ -25567,7 +25567,7 @@ The meaning of this word (in English) :
 \emph{equal}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item laatste
 \item maar
@@ -25588,7 +25588,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item sadren
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{z}
@@ -25608,7 +25608,7 @@ The meaning of this word (in English) :
 \emph{else}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item zijn
 \item beschermen
@@ -25629,7 +25629,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item w_l_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{o}
@@ -25649,7 +25649,7 @@ The meaning of this word (in English) :
 \emph{wild}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item volledige
 \item oversteken
@@ -25670,7 +25670,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item fjvi
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{b}
@@ -25690,7 +25690,7 @@ The meaning of this word (in English) :
 \emph{five}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item bevolken
 \item besteden
@@ -25711,7 +25711,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item j_i_t
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{u}
@@ -25731,7 +25731,7 @@ The meaning of this word (in English) :
 \emph{correct}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item duidelijk
 \item bell
@@ -25752,7 +25752,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item ennemg
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{v}
@@ -25772,7 +25772,7 @@ The meaning of this word (in English) :
 \emph{mix}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item voet
 \item vaardigheid
@@ -25793,7 +25793,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item v_r_e_i_k_n
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{i}
@@ -25813,7 +25813,7 @@ The meaning of this word (in English) :
 \emph{compare}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item wild
 \item systeem
@@ -25834,7 +25834,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item readv
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{m}
@@ -25854,7 +25854,7 @@ The meaning of this word (in English) :
 \emph{father}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item mogelijk
 \item pers
@@ -25875,7 +25875,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item w_a_s_h_j_l_j_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{y}
@@ -25895,7 +25895,7 @@ The meaning of this word (in English) :
 \emph{probable}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item symbool
 \item wist
@@ -25916,7 +25916,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item usen
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{t}
@@ -25936,7 +25936,7 @@ The meaning of this word (in English) :
 \emph{nose}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item termijn
 \item anders
@@ -25957,7 +25957,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item d_e_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -25977,7 +25977,7 @@ The meaning of this word (in English) :
 \emph{does}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item werken
 \item beide
@@ -25998,7 +25998,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item nsceerltee
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{b}
@@ -26018,7 +26018,7 @@ The meaning of this word (in English) :
 \emph{select}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item bevatten
 \item mark
@@ -26039,7 +26039,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item h_p_n
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{l}
@@ -26059,7 +26059,7 @@ The meaning of this word (in English) :
 \emph{hope}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item klaar
 \item zeil
@@ -26080,7 +26080,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item nburi
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{a}
@@ -26100,7 +26100,7 @@ The meaning of this word (in English) :
 \emph{brown}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item aansluiten
 \item geweest
@@ -26121,7 +26121,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item n_t_e
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -26141,7 +26141,7 @@ The meaning of this word (in English) :
 \emph{nation}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item besparen
 \item zwemmen
@@ -26162,7 +26162,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item lkok
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{s}
@@ -26182,7 +26182,7 @@ The meaning of this word (in English) :
 \emph{clock}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item schaal
 \item ooit
@@ -26203,7 +26203,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item z_u_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -26223,7 +26223,7 @@ The meaning of this word (in English) :
 \emph{salt}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item eend
 \item happy
@@ -26244,7 +26244,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item undnievit
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{w}
@@ -26264,7 +26264,7 @@ The meaning of this word (in English) :
 \emph{invent}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item werken
 \item grand
@@ -26285,7 +26285,7 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item y_r_
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The second letter of the answer is \emph{e}
@@ -26305,7 +26305,7 @@ The meaning of this word (in English) :
 \emph{yard}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item beter
 \item rivier
@@ -26326,7 +26326,7 @@ All the letters of these words are jumbled up. Rearrange the letters so that the
 \item eeekndbet
 \end{enumerate}
 
-\section{Hints}
+\subsection{Hints}
 
 \begin{enumerate}
 \item The answer starts with the letter \emph{g}
@@ -26346,7 +26346,7 @@ The meaning of this word (in English) :
 \emph{meant}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item grote
 \item moeten
@@ -26377,7 +26377,7 @@ Look at the following forms, which give you information about two people.
 Write a memo about these two people using the same pattern as in the Tekst.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Dit is Tom Peters.
 Hij is docent.
@@ -26410,7 +26410,7 @@ Look at the following forms, which give you information about two people.
 Introduce yourself using the pattern given earlier as if you were Karel Bos. Then try it as if you were Tom Peters.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik ben Karel Bos.
 Ik ben zakenman.
@@ -26443,7 +26443,7 @@ Write two short introductions for yourself for the website mentioned in the Teks
 \item naam: Ad Visser; beroep: manager; talen: alleen (only) Nederlands; woonplaats: Zutphen; werk: bij/in een winkel (in a shop)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik ben Gail Boonstra.
 Ik ben computerprogrammeur.
@@ -26478,7 +26478,7 @@ Zij helpen [They help]
 
 Write out a table for the verbs (a) denken (to think) and (b) drinken (to drink) following the pattern given for helpen.
 
-\section{Answers}
+\subsection{Answers}
 (a) Denken
 Ik denk
 Jij denkt
@@ -26516,7 +26516,7 @@ Jos Woudstra: Jij  bent Jos Woudstra?
 \item Meneer Brink (een docent)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Mevrouw Schipper: U bent mevrouw Schipper?
 \item Wim Den Uyl: Jij bent Wim Den Uyl?
@@ -26538,7 +26538,7 @@ U spreekt toch Spaans? [You speak Spanish, don't you?]
 \item naam: Leona Beke; beroep: bankassistent; talen: Engels en Italiaans; woonplaats: Amersfoort; helpt: Marisa Del porte
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Jij bent (toch) Sara Bakker (hè)?
 Jij bent (toch) verpleegster (hè)?
@@ -26579,7 +26579,7 @@ Ruud Krol, Engels en Spaans
 Sietske Zwart, Engels  en Russisch
 Marco Cohen, Engels en Russisch
 
-\section{Answers}
+\subsection{Answers}
 Mevrouw Schipper woont in Amersfoort.
 Meneer Brink woont in Utrecht.
 Joop Tersteeg en Marco Cohen wonen in Leeuwarden.
@@ -26609,7 +26609,7 @@ buildings.)
 \item Hij  speelt in een film. (He is in a film.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hij is winkelbediende.
 \item Hij is tandarts.
@@ -26640,7 +26640,7 @@ Ask Mieke where she works - Waar werk jij? - Ik werk in Den Haag
 \item Ask Dennis and Ria where they live  (Groningen).
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Frans, waar woon jij? - Ik woon in Leeuwarden.
 \item Ellie, waar wonen Frans en Mieke? - Zij wonen in Rotterdam.
@@ -26661,7 +26661,7 @@ Ask  where the following are:
 \item Looking for a child who is hiding, call out and ask where s/he is (do not use the verb to be)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Waar is de w.c.?
 \item Waar staat de koffie?
@@ -26686,7 +26686,7 @@ Oh, wat leuk!
 \item Ik heb een huis in Frankrijk.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Oh, wat vervelend!
 \item Oh, wat leuk!
@@ -26713,7 +26713,7 @@ Het internetcafe is  aan de rechterkant.
 \item het wisselkantoor
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Waar is het ziekenhuis?
 Het ziekenhuis is aan de linkerkant.
@@ -26742,7 +26742,7 @@ correct form of address, either u or jij.
 \item Jannie redacteur (editor)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Mevrouw Kooiman, wat doet u? - Ik ben verpleegster.
 \item Wim, wat doe jij? - Ik ben advocaat.
@@ -26766,7 +26766,7 @@ Raymond - Nee, het slaatje. __________?
 Mevrouw de Loo - Nee, romans. Wat \underline{________} u?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hanny - Jij drinkt toch wijn?
 Marja - Nee, bier. Wat drink jij?
@@ -26784,7 +26784,7 @@ Mevrouw de Loo - Nee, romans. Wat schrijft u?
 Read the following numbers out loud in Dutch and write them:
 7, 4, 12, 5, 19, 2, 8, 10, 20, 17.
 
-\section{Answers}
+\subsection{Answers}
 zeven, vier, twaalf, vijf, negentien, twee, acht, tien, twintig, zeventien.
 
 
@@ -26804,7 +26804,7 @@ Wat is je PINnummer? (17 14) (What is your PIN number?)
 \item Wat is je PINnummer? (11 19)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Zeventien.
 \item Negen acht zeven zes twee éen.
@@ -26831,7 +26831,7 @@ Hoe laat is het? Het is half drie.
 \item 10:35
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hoe laat is het? Het is tien over zeven.
 \item Hoe laat is het? Het is half één.
@@ -26862,7 +26862,7 @@ Hoe laat begint de les?  (De les begint) om half drie.
 \item Hoe laat kom jij? (8:00)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik ontbijt om kwart voor acht.
 \item De trein vertrekt om kwart over zes.
@@ -26887,7 +26887,7 @@ Complete the sentences that follow using the correct form of the verb in bracket
 \item Ik __ morgen terug. (komen)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik ga naar huis.
 \item Wij komen morgen bij jou op bezoek.
@@ -26950,7 +26950,7 @@ Er zijn nog vijfentwintig potten pindakaas. (There are (still) 25 jars of peanut
 \item 116 plastic tasjes (plastic bags)
 \item 22 kratten pils (crates of beer)
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Er zijn nog tweeëndertig croissants.
 \item Er zijn nog honderdvijfenzeventig flessen witte wijn.
@@ -26974,7 +26974,7 @@ Ask how much the following cost and provide the answers.
 \item Kaas (3.05 euros)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hoeveel kost de fles rode wijn? - De fles rode wijn kost vier euro vijfentwintig.
 \item Hoeveel kost het krat pils? - Het krat pils kost elf euro tien.
@@ -27005,7 +27005,7 @@ Ik heb een kilo tomaten nodig.
 \item druiven (1 pond)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hoeveel sinaasappels heb je nodig? - Ik heb vijf sinaasappels nodig.
 \item Hoeveel pakken melk heb je nodig? - Ik heb twee pakken melk nodig.
@@ -27023,7 +27023,7 @@ Ik heb een kilo tomaten nodig.
 Try making plurals for these words:
 appel, vrouw, disco, fles,  programma, computer, gracht (canal)
 
-\section{Answers}
+\subsection{Answers}
 appels, vrouwen, disco's, flessen, programma's, computers, grachtens
 
 
@@ -27079,7 +27079,7 @@ Opa is ... man (oma) -> opa is haar man
 \item tante Nel is ... dochter. (oma)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Oom Jan is zijn zoon.
 \item Oom Jan is zijn broer.
@@ -27128,7 +27128,7 @@ Mijn broer Jan houdt van koud bier.
 \item Mandy ___________ (de  kinderen, klein).
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik hou van witte wijn.
 \item Jij houdt van rode wijn hè?
@@ -27176,7 +27176,7 @@ which doesn't? Can you explain why?
 \item Ik draag een groen_ overhemd.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik draag een blauwe spijkerbroek.
 \item Ik draag een groen overhemd.
@@ -27207,7 +27207,7 @@ We like red wine.
 A friend's young son has made a drawing.
 Comment on it by saying: That's really beautiful!
 
-\section{Answers}
+\subsection{Answers}
 Dat is echt mooi!
 
 
@@ -27224,7 +27224,7 @@ Dat is echt mooi!
 \item ask for a pineapple juice
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik wil graag een glas sinaasappelsap.
 \item Ik wil graag een glas limonade.
@@ -27284,7 +27284,7 @@ Een jus d' orange, graag.
 \item a pizza
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Geeft u mij maar een glas witte wijn.
 \item Mag ik een kopje thee?
@@ -27307,7 +27307,7 @@ Order the following in a formal and polite way:
 \item de vegetarische
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Mag ik een fles witte wijn?
 \item Mag ik een vruchtensap?
@@ -27326,7 +27326,7 @@ Order the following in an informal manner:
 \item de dagschotel
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Doe maar een spa rood.
 \item Doe maar een bruin bolletje met geitenkaas en tijm.
@@ -27360,7 +27360,7 @@ Complete the sentences and substitute the words in brackets by one of the object
 \item Ik kus ... (mijn man).
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Herman werkt met haar.
 \item Geef mij maar een stukje appeltaart.
@@ -27460,7 +27460,7 @@ Answer: Nee, ik bel het hotel niet. Ik heb het te druk.
 \item Wissel jij het geld? (to change the money)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Nee, ik boek de tickets niet. Ik heb het te druk.
 \item Nee, ik bestel de taxi niet. Ik heb het te druk.
@@ -27545,7 +27545,7 @@ postcode:  1864 KN
 telefoonnummer: 567392
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Bent u meneer Plantinga?
 Ben u politieagent?
@@ -27582,7 +27582,7 @@ Write out the questions based on these activities.
 \item spijkerbroeken dragen
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Luistert u naar de radio?
 \item Gaat u naar restaurants?
@@ -27617,7 +27617,7 @@ Nee, ik lees geen boeken.
 \item spijkerbroeken dragen
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ga je naar de radio luisteren?
 Nee, ik ga niet naar de radio luisteren.
@@ -27655,7 +27655,7 @@ meneer Callenbach (Dutch) --> Ik ben Nederlands.
 \item Annette Braun (German)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik ben Amerikaans.
 \item Ik ben Frans.
@@ -27684,7 +27684,7 @@ Ik hou van ... humor (England) --> Ik hou van Engelse humor.
 \item Chris kijkt meestal naar ... tv programma's (Groot Brittannie).
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Jack houdt van Nederlandse kaas.
 \item Cynthia koopt meestal Amerikaanse chips.
@@ -27706,7 +27706,7 @@ Make the following sentences negative using niet:
 \item Hij is de nieuwe directeur.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Johanna komt niet uit Belgie.
 \item We houden niet van strandvakanties.
@@ -27723,7 +27723,7 @@ Give a negative answer using geen:
 \item Spreken jullie Duits?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Nee, ik heb geen auto.
 \item Nee, Saskia wil geen biertje.
@@ -27741,7 +27741,7 @@ Give a negative answer using niet or geen:
 \item Neem jij een patatje met?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Nee, ik heb geen ervaring.
 \item Nee, Joost en zijn vriend werken niet hard.
@@ -27761,7 +27761,7 @@ Example: Klaas komt uit Frankrijk, hij is Frans.
 \item Mary en Li komen uit Amerika, zij zijn ____.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Meike komt uit Duitsland, zij is Duits.
 \item Isa komt uit Nederland, zij is Nederlands.
@@ -27784,7 +27784,7 @@ Wat ga je morgen doen? (dancing) --> Ik ga morgen dansen.
 \item eat in a restaurant
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ik ga morgen naar school bellen.
 \item Ik ga morgen schaatsen.
@@ -27809,7 +27809,7 @@ Ja, ik moet morgen werken.
 \item to clean
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Moet je morgen boodschappen doen?
 Ja, ik moet morgen boodschappen doen.
@@ -27836,7 +27836,7 @@ Ga je vanavond in een Chinees restaurant eten?
 \item Ask him if he is going to paint his house next year.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ga je overmorgen dansen?
 \item Ga je vanavond sporten?
@@ -27914,7 +27914,7 @@ Fill in the gaps.
 \item De dag voor zaterdag is ...
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Welke dag is het vandaag? Vandaag is het maandag.
 \item Welke dag is het morgen? Morgen is het dinsdag.
@@ -28059,7 +28059,7 @@ Tony: Ach man, wat maakt dat nou uit? Dan werkje toch een paar dagen  meer in de
 Answer in English:
 What arguments does Tony use in trying to convince Mark to buy the more expensive T-shirt?
 
-\section{Answers}
+\subsection{Answers}
 Tony suggests that Mark could work a few more days in the summer to pay for the more expensive T-shirt.
 
 
@@ -28085,7 +28085,7 @@ Tony: Ach man, wat maakt dat nou uit? Dan werk je toch een paar dagen meer in de
 Which of the three dialogues is the most informal and colloquial?
 How can you tell by the language used?
 
-\section{Answers}
+\subsection{Answers}
 Dialogue \begin{enumerate}
 \item is the most informal and colloquial.
 The language used is more informal and colloquial, with the use of jee, joh, cool, hipper, stukken duurder en ach man.
@@ -28152,7 +28152,7 @@ Nee, ik vind ... krant ... (interessant).
 Nee, ik vind ... artikel ... (saai).
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Vind je dit boek moeilijk?
 Nee, ik vind dat boek moeilijker.
@@ -28268,7 +28268,7 @@ Similarly, if they knew they would meet again in the evening or the next morning
 \item And next month?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Tot straks.
 \item Tot zondag.
@@ -28303,7 +28303,7 @@ Bel dan een half uur voor u wilt vertrekken naar de Treintaxi-centrale
 \item Wat is het nadeel (disadvantage) als je een kaartje bij de chauffeur koopt?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Het voordeel van de treintaxi is dat het u op een comfortabele manier van en naar het NS-station brengt.
 \item Je koopt een kaartje voor de treintaxi op het station.
@@ -28338,7 +28338,7 @@ Answer the following questions about the phone conversation between Dinie and Fr
 \item When do they agree to meet?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Frouke says: Hello, speaking with Frouke van den Broek.
 \item Dinie phones her homeopath because she has to cancel her appointment with Frouke for Monday.
@@ -28359,7 +28359,7 @@ Answer the following questions about the phone conversation between Dinie and Fr
 \end{enumerate}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Is ... thuis?
 Kan ik met ... spreken?
@@ -28398,7 +28398,7 @@ Ja, we gaan nu weg.
 \item Wil jij het huis schoonmaken?
 \end{enumerate}
 
-\section{Hint}
+\subsection{Hints}
 Think about the correct forms of the verbs as well as the
 correct pronouns (wij, jullie, ik, etc.).
 
@@ -28478,7 +28478,7 @@ Kun je de deur dicht doen? --> Doe de deur dicht.
 \end{enumerate}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item \begin{enumerate}
 \item Hallo, kom maar binnen.
@@ -28521,7 +28521,7 @@ Answer the following questions in English.
 \item What does Ludwien want to ensure both Jackie and her are clear about?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ludwien wants to go on holiday next month for a week.
 \item The word gewoon shows that Ludwien thinks a holiday in Holland is nothing special.
@@ -28546,7 +28546,7 @@ naar Spanje gaan --> Heb je zin om naar Spanje te gaan?
 \item naar de finale van het wereldkampioenschap voetbal kijken
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Heb je zin om thuis te blijven?
 \item Heb je zin om op het strand te liggen?
@@ -29006,7 +29006,7 @@ How to say it in Dutch?
 \item 82 =
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 13 = dertien; 8 = acht; 27 = zevenentwintig; 63 = drieënzestig; 78 = achtenzeventig; 104 = honderdvier; 12 = twaalf; 140 = honderdveertig; 549 = vijfhonderdnegenenveertig; 636 = zeshonderdzesendertig; 244 = tweehonderdvierenveertig; 82 = tweeëntachtig
 
 
@@ -29014,7 +29014,7 @@ How to say it in Dutch?
 
 If you live in an area where Dutch words are everywhere, try to find ten Dutch words with these double vowels, write them down, learn how to pronounce them, and look up what they mean.
 
-\section{Material}
+\subsection{Materials}
 Collection of native dutch texts, could be newspapers, advertisements, product labels, etc.
 Alternatively, go outside and look in your environment.
 
@@ -29044,7 +29044,7 @@ Below are some nouns, adjectives, articles, and verbs for you to construct Dutch
 \item Kopen – schoenen – ik – nieuwe
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hij eet een lekkere maaltijd
 \item Wij planten allerlei bloemen
@@ -29066,7 +29066,7 @@ Below are some nouns, adjectives, articles, and verbs for you to construct Dutch
 
 Write down the past tense (ovt) of these ten verbs (Tip: Look up the verbs you don't recognize): koken; wonen; fietsen; rollen; draaien; fotograferen; graaien; lachen; sjouwen; drinken
 
-\section{Answers}
+\subsection{Answers}
 Past tense (ovt) of the following verbs: koken – kookte; wonen – woonde; fietsen – fietste; rollen – rolde; draaien – draaide; fotograferen – fotografeerde; graaien – graaide; lachen – lachte; sjouwen – sjouwde
 
 
@@ -45760,7 +45760,7 @@ Fill in the blank with the appropriate form of asking how someone is in the form
 \item _________________________________ , Herr Doktor?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wie geht es Ihnen, Professor Braun?
 \item Wie geht's, Angelika?
@@ -45784,7 +45784,7 @@ _______________________________________________________
 \item der Ausländer (foreigner)/Tom Smith
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wie heißt die Frau? Die Frau heißt Maria Schmidt.
 \item Wie heißt der Student? Der Student heißt Karl.
@@ -45810,7 +45810,7 @@ Practice choosing the correct gender and saying der, die, or das with each of th
 \item Essen (eating) _____________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item der Mantel
 \item die Ausstellung
@@ -45847,7 +45847,7 @@ Now change the indefinite article of each noun to the definite article. For exam
 \item ein Richter (judge)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item ein Lehrer
 \item eine Schauspielerin
@@ -45873,7 +45873,7 @@ Change each of the following words to the plural.
 \item die Stunde (hour) _____________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item die Äpfel
 \item die Blumen
@@ -45896,7 +45896,7 @@ Fill in the blanks with the correct pronoun substitute for the subjects in paren
 \item Wo ist _______________ (die Schule)? (Where is it?)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Sie ist in der Schule.
 \item Sind sie hier?
@@ -45920,7 +45920,7 @@ Fill in each blank with one of the colors listed here: blau, braun, gelb, grau, 
 \item Das Haus ist _____________________.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Die neue Vase ist gelb.
 \item Der alte BMW ist braun.
@@ -45941,7 +45941,7 @@ Fill in each blank with the appropriate form of sein.
 \item Karl _____________________ in Frankfurt. (Karl is in Frankfurt.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ich bin in Berlin. (I am in Berlin.)
 \item Er ist in Hamburg. (He is in Hamburg.)
@@ -45967,7 +45967,7 @@ Practice conjugating the verb sein by filling in the appropriate form in the bla
 \item Sie (pl.) _____________________ in Deutschland.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item ist
 \item sind
@@ -45998,7 +45998,7 @@ Practice conjugating verbs by filling in the correct form of the verb given in p
    (Mr. Martini comes from Italy.) _____________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item geht
 \item fährt
@@ -46023,7 +46023,7 @@ _______________________________________________________
 \item Du fährst in die Stadt. (You drive in the city.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Morgen geht er ins Kino.
 \item Morgen fliegen sie nach Hause.
@@ -46045,7 +46045,7 @@ In the sentences below, fill in the correct form of the verb in parentheses.
 \item Vater _________________ (treffen) meine Freundin. (Father meets my friend.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Das Kind spricht kein Deutsch.
 \item Du schläfst im Wohnzimmer.
@@ -46083,7 +46083,7 @@ _________________ _________________
 _________________ _________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item fahren
    ich fahre
@@ -46130,7 +46130,7 @@ Practice using the accusative by changing the underlined noun direct object in e
 \item Hans und Andreas sehen den Lehrer nicht.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Sie haben sie.
 \item Sie haben sie.
@@ -46160,7 +46160,7 @@ _______________________________________________________
 _______________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Die Jungen kommen ohne Peter. Die Jungen kommen ohne meine Schwester.
 \item Wir fahren mit dem Wagen um das Schloss. Wir fahren mit dem Wagen um die Kirche.
@@ -46199,7 +46199,7 @@ Fill in the blank of each sentence with the dative form of the definite article 
    (What are you giving the student?)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 
 \begin{enumerate}
 \item Ich gebe dem Lehrer mein Heft.
@@ -46226,7 +46226,7 @@ _______________________________________________________
 \item Sabine findet \textbf{eine graue Bluse}. (Sabine finds a gray blouse.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Was kaufe ich?
 \item Wohin gehen wir morgen?
@@ -46263,7 +46263,7 @@ _______________________________________________________
 _______________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wem glaubt er nicht?
 \item Mit wem kommt Sabine?
@@ -46299,7 +46299,7 @@ _______________________________________________________
 \item \emph{die Milch - 3,05 EUR}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wie viel kostet das Brötchen? Das Brötchen kostet zwei Euro und zehn Cent.
 \item Wie viel kostet die Lampe? Die Lampe kostet sieben Euro und zehn Cent.
@@ -46325,7 +46325,7 @@ Wann kommt Peter? Er kommt morgen.
 \item Kinder / morgen Abend
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wann kommt Tante Luise? Sie kommt übermorgen.
 \item Wann kommt der Professor? Er kommt heute Nachtmittag.
@@ -46353,7 +46353,7 @@ _____________________________________________________________
 _____________________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Um wie viel Uhr ist der Film? Der Film ist um fünfzehn Uhr.
 \item Um wie viel Uhr ist die Prüfung? Die Prüfung ist um halb elf.
@@ -46382,7 +46382,7 @@ ______________________________________________
 ______________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wann ist das Konzert? Das Konzert ist am Sonntag.
 \item Wann ist der Film? Der Film ist am Dienstag.
@@ -46472,7 +46472,7 @@ Form the past tense for the following regular verbs with the pronouns provided. 
 \end{enumerate}
 \end{enumerate}
 
-\section{\section{Answers}}
+\subsection{\subsection{Answers}}
 \begin{enumerate}
 \item sagen (say)
 \begin{enumerate}
@@ -46535,7 +46535,7 @@ Fill in the correct past tense form of the verb in parentheses.
 \item Wir (singen) __________________ auf Deutsch. (We sang in German.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Meine Tante wohnte in den Vereinigten Staaten.
 \item Ich liebte Brot mit Käse.
@@ -46582,7 +46582,7 @@ _______________________________________________________
 _______________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Die Männer werden Fußball spielen. (The men will play soccer.)
 \item Er wird in Bayern wohnen. (He will live in Bavaria.)
@@ -46620,7 +46620,7 @@ _______________________________________________________
 \item Erik wird nach Hause laufen.
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Die Kinder lernen Deutsch.
 \item Ich spreche mit ihm.
@@ -46660,7 +46660,7 @@ glauben & & glaubt! & \\
 \hline
 \end{tabular}
 
-\section{Answers}
+\subsection{Answers}
 
 \begin{enumerate}
 \item machen
@@ -46748,7 +46748,7 @@ Change the following infinitives to past participles.
 \item weinen (to cry) _____________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item kaufen - gekauft
 \item stören - gestört
@@ -46784,7 +46784,7 @@ Decide whether the verbs should be used with sein or haben in the present perfec
 \item wir/nehmen _____________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item ich habe gefragt (I have asked)
 \item sie sind gereist (they have traveled)
@@ -46829,7 +46829,7 @@ _______________________________________________________
 _______________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hans und Maria waren in den Garten gelaufen. (Hans and Maria had run in the garden.)
 \item Ich hatte einen Brief von Helga bekommen. (I had received a letter from Helga.)
@@ -46872,7 +46872,7 @@ __________ - __________ - __________
 __________ - __________ - __________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 
 
 \begin{enumerate}
@@ -46916,7 +46916,7 @@ _______________________________________________________
 _______________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hast du zu Hause bleiben müssen?
 (Did you have to stay at home?)
@@ -46968,7 +46968,7 @@ _______________________________________________________
 _______________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 
 \begin{enumerate}
 \item Ich werde nicht zu Hause bleiben dürfen. (I will not be allowed to stay at home.)
@@ -47012,7 +47012,7 @@ ___________________
 \item bekommen (to receive)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item er hat versprochen (he has promised)
 \item er hat besucht (he has visited)
@@ -47056,7 +47056,7 @@ _______________________________________________________
 _______________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Dein Vater war im Wohnzimmer.
 (Your father was in the living room.)
@@ -47110,7 +47110,7 @@ Complete each sentence with the appropriate antonym or contrasting word.
 \item Der Zug fährt nicht langsam, sondern _____________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Das Haus ist nicht klein, sondern groß.
 \item Dieses Bild ist nicht hässlich, sondern hübsch.
@@ -47152,7 +47152,7 @@ Fill in the blanks with the correct form of the adjectives shown in parentheses.
     (A young man waits on us.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wie viel kostet ein neuer Wagen?
 \item Eine hässliche Katze steht vor der Tür.
@@ -47186,7 +47186,7 @@ Give the comparative and superlative for each adjective below. For example, when
 \item gern
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item schlecht, schlechter, am schlechtesten
 \item sauber, sauberer, am saubersten
@@ -47220,7 +47220,7 @@ _______________________________________________________
 _______________________________________________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Ich weiß nicht, wer das Fenster gebrochen hat.
 (I don't know who broke the window.)
@@ -47252,7 +47252,7 @@ Complete the sentences below with the correct word or phrase from the two provid
 \item Wer steht _________________ Ecke? (an der, an die)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wir sehen die Kinder in dem Garten.
 (We see the children in the garden.)
@@ -47304,7 +47304,7 @@ Rewrite each infinitive in the Subjunctive I and the Subjunctive II for the pron
    _____________________ _____________________
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item sein
    sei
@@ -47355,7 +47355,7 @@ How do you say the following numbers in German?
 \item 50
 \begin{end}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item zweihundertsiebenundachtzig
 \item eintausend
@@ -47385,7 +47385,7 @@ How do you say the following times in german?
 \item It's midnight.
 \begin{end}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Es ist Viertel vor zehn.
 \item Es ist fünf Uhr.
@@ -47446,7 +47446,7 @@ Following the rules in determining the gender of a noun, identify the correct ar
 \item ___ Unterkunft (accommodation, lodging)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item die
 \item der
@@ -47518,7 +47518,7 @@ Identify the correct plural form of the following nouns:
 \item das Buch (book)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item die Elefanten
 \item die Jungen
@@ -47560,7 +47560,7 @@ Use the correct form of the action verbs in the following sentences.
 \item Der Bus (halten) ____________ vor der Kirche. (The bus stops in front of the church.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item reserviert
 \item warten
@@ -47611,7 +47611,7 @@ Use the correct form of the auxiliary and action verbs in the following sentence
     (Hans sent Anne flowers every week for three years.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item sind, gelaufen
 \item hat, gekauft
@@ -47637,7 +47637,7 @@ Use the correct form of the verbs in the following sentences.
 \item Wir (wohnen) ____________ in den Bergen. (We lived in the mountains.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item hatte
 \item arbeiteten
@@ -47658,7 +47658,7 @@ Use the correct form of werden and the verb in the following sentences.
 \item (heiraten) Anne ___ Hans im Herbst ____. (Anne will marry Hans in the fall.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item werde, essen
 \item werden, sehen
@@ -47680,7 +47680,7 @@ Identify the case and complete the following sentences with properly declined ar
 \item Er hat __ _____ Essen gegeben. (He gave food to the stranger.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item accusative, den Präsidenten
 \item nominative, Der Präsident
@@ -47706,7 +47706,7 @@ Identify the case and complete the following sentences with properly declined pr
 \item Er hat __ Auto gekauft. (He bought that car.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item dative, uns
 \item nominative, Jene/Die
@@ -47737,7 +47737,7 @@ What question word should you use in the following sentences?
 \item _____ sind wir? (Where are we?)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Was für
 \item Wessen
@@ -47772,7 +47772,7 @@ Provide the correct form of the words inside the parenthesis in the following se
    (I can't find my socks.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item alte, stark
 \item ihrer, schönen, schönes
@@ -47809,7 +47809,7 @@ Provide the correct form of the adjective or adverb.
     (That is my warmest coat.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 
 \begin{enumerate}
 \item kälter
@@ -47842,7 +47842,7 @@ Provide the correct preposition and the correct form of the words in parentheses
 \item Er ließ sich ___ (sein) Bett fallen. (He collapsed onto his bed.)
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item bis
 \item ohne, dich
@@ -47883,7 +47883,7 @@ What's the German equivalent of the following words and expressions?
 \item Kitchen
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Guten Morgen!
 \item die Eltern
@@ -47936,7 +47936,7 @@ How do you say the following in German?
 \item Is this the way to the market?
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Wie heißen Sie?
 \item Der Flug ist verspätet.
@@ -48043,7 +48043,7 @@ How do you say the following in German?
 \item foot
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Hilfe!
 \item Ich fühle mich nicht wohl.
@@ -48127,7 +48127,7 @@ Sie sagten: "Oh, was für ein Unglück, was hättest du für ein Vermögen mit d
 \end{enumerate}
 \end{enumerate}
 
-\section{Translation}
+\subsection{Translation}
 Once upon a time there was a poor man living in a village. This man was very poor, but he owned a horse so exquisite that even kings wanted to buy it from him, at any price. But the man refused, again and again. But suddenly, one morning he realized that the horse had disappeared. All the people from the village gathered to express their empathy.
  They said, "Oh, what a misfortune, you have earned a fortune with this horse and you were offered so much for it, but unfortunately you were too stubborn and too stupid, now the horse is gone."
  But the old man just laughed and said, "Oh, do not talk nonsense. All that can be said now is that the horse is no longer in his stable. Let the future come and show us what happens.
@@ -48140,7 +48140,7 @@ Once upon a time there was a poor man living in a village. This man was very poo
  But the old man said again: "One can only say one thing about this: your sons were drafted in. My son stayed here, but that does not mean anything.”
 
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Der Mann hatte ein Pferd.
 \item Mit seinem Sohn.
@@ -48204,7 +48204,7 @@ Ein erfolgreicher Geschäftsmann wurde älter und erkannte, dass jemand ihn erse
 \end{enumerate}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Weil er in Rente gehen wollte.
 \item Jim
@@ -48268,7 +48268,7 @@ Ein träger alter Mann lebte mit seinem Sohn, seiner Schwiegertochter und seinem
 \end{enumerate}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Mit seinem Sohn, Schwiegertochter und Enkel
 \item Essen
@@ -48330,7 +48330,7 @@ Es gab einmal zwei Brüder, die auf benachbarten Farmen lebten. Eines Tages bega
 \end{enumerate}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Farmen
 \item Der ältere Bruder
@@ -48392,7 +48392,7 @@ Zu Beginn des Schuljahres rief der Direktor einer Grundschule drei Lehrer an, un
 \end{enumerate}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Der Direktor
 \item Drei
@@ -48454,7 +48454,7 @@ Ich habe vor zwanzig Jahren als Taxifahrer gearbeitet. Einmal, mitten in der Nac
 \end{enumerate}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Weil er einen Anruf bekommen hat.
 \item Eine alte Frau
@@ -48515,7 +48515,7 @@ In einer kleinen Stadt lebte eine junge Frau namens Julia Schmidt. Sie war sehr 
 \end{enumerate}
 \end{enumerate}
 
-\section{\section{Answers}}
+\subsection{\subsection{Answers}}
 \begin{enumerate}
 \item Sozialpädagogik
 \item In einem Kindergarten
@@ -48577,7 +48577,7 @@ Henry und Lucas waren zwei Jungs, die nebeneinander lebten. Als sie noch kleine 
 \end{enumerate}
 \end{enumerate}
 
-\section{Answers}
+\subsection{Answers}
 \begin{enumerate}
 \item Beste Freunde
 \item Weil er gute Noten hatte und die Lehrer ihn liebten
