@@ -1,3 +1,23 @@
+(Spanish) (Reading Comprehension Exercise) D G M
+
+\begin{spacing}{1.2}
+    \noindent \textbf{Ariana y sus amigas, Laura y Sofía}, están emocionadas porque un nuevo centro comercial ha abierto en su ciudad. Laura y Sofía han escuchado que hay muchas tiendas interesantes y un cine con películas en estreno. Quieren ir para explorar todas las tiendas y ver una película juntas.
+
+    \noindent Sin embargo, Ariana no está tan convencida de ir con ellas. Ella prefiere pasar el día en casa, ya que no le gusta mucho ir de compras y le parece que el centro comercial va a estar muy lleno de gente.
+
+    \noindent A pesar de esto, \textit{Laura y Sofía insisten} en que Ariana vaya con ellas para pasar un buen rato entre amigas. Finalmente, después de mucho insistir, logran convencerla de unirse a la salida. Ariana acepta, aunque sigue pensando que quizá habría sido mejor quedarse en casa leyendo un buen libro.
+\end{spacing}
+
+Now that you have read the story, try to answer the following questions.
+
+\begin{enumerate}
+\item ¿A dónde van Ariana y sus amigas?
+\item ¿Por qué no quiere Ariana ir con sus amigas al centro comercial?
+\item ¿Quiénes son las amigas de Ariana?
+\item ¿Por qué las amigas de Ariana quieren ir al centro comercial?
+\item ¿Es nuevo el centro comercial?
+\end{enumerate}
+
 (Spanish) (Tick the Right Answer) D G (With Answer)  
 \begin{enumerate}
     \item Camila is a friend of Paula's. She would ask her:  
@@ -5408,5 +5428,3 @@ Now that you have read the story, try to answer the following questions.
     \item ¿A qué tienda Ariana y Fabiana van para comprar lo que ellas quieren?
     \item ¿Por qué Rocío no quiere ir a la tienda de electrónicos?
 \end{enumerate}
-
-

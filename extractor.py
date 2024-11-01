@@ -116,7 +116,7 @@ if __name__ == "__main__":
             batch_results = [json.loads(line) for line in lines]
             # Iterate through each result and save the extracted text
             if args.t:
-                with open("qs.txt", "a") as f:
+                with open("spanish.txt", "a") as f:
                     for result in batch_results:
                         task_id = result['custom_id']
                         subject, grade = task_id.split('_')
