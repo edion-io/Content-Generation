@@ -54,13 +54,17 @@ Run `load_test.py` or Run `tool_call_test.py` (Optinal for tool calling)
 ```shell
 git clone https://github.com/ggerganov/llama.cpp
 cd llama.cpp
-make
+pip install -r requirements.txt
+make -j8
 ```
 
 ## 2. Download model
 ```shell
 # huggingface-cli login (if not login yet), and login to GPU node
+git lfs install
 git clone https://huggingface.co/kangsive/llama3.1-8b-chat-exercise-tool_call
+cd llama3.1-8b-chat-exercise-tool_call
+rm -rf .git
 ```
 
 ## 3. Convert to GGUF
@@ -68,6 +72,7 @@ git clone https://huggingface.co/kangsive/llama3.1-8b-chat-exercise-tool_call
 python convert-hf-to-gguf.py llama3.1-8b-chat-exercise-tool_call \
     --outfile chat_exercise.gguf \
     -- outtype f16
+# Exception: data did not match any variant of untagged enum ModelWrapper at line 1251003 column 3 --> Reinstall python envrionment.
 ```
 
 ## 4. Quantization
