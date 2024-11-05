@@ -47980,11 +47980,11 @@ Heute Morgen bin ich um elf aufgewacht. Ich hatte Pech, denn ich habe den Wecker
 Insert the correct word from the parenthesis into the space.
 
 \begin{enumerate}
-\item ________ (Eulen/Äulen) sind sehr interessante Tiere.
-\item Hier gibt es viele _________ (Heuser/Häuser).
-\item Im  ______ (Mei/Mai)  hat ________(meine/maine) Mutter Geburtstag.
-\item Am Freitag ______ (flige/fliege) ich nach Italien.
-\item Es ist wirklich _______  (heiß/haiß) draußen.
+\item  (Eulen/Äulen) sind sehr interessante Tiere.
+\item Hier gibt es viele  (Heuser/Häuser).
+\item Im   (Mei/Mai)  hat (meine/maine) Mutter Geburtstag.
+\item Am Freitag  (flige/fliege) ich nach Italien.
+\item Es ist wirklich   (heiß/haiß) draußen.
 \end{enumerate}
 
 
@@ -47993,12 +47993,12 @@ Insert the correct word from the parenthesis into the space.
 Insert the correct word from the parenthesis into the space.
 
 \begin{enumerate}
-\item Der _____ (Hund/hund) muss zum Tierarzt.
-\item ___ (ich/Ich) bin sehr hungrig.
-\item Hast du heute ______ (deine/Deine)Mutter gesehen?
-\item Mein bester _________ (Freund/ freund) hat heute Geburtstag.
-\item Hast du ____(Lust/lust) mit mir spazieren zu gehen?
-\item _________(Heute/heute) ist ein sehr schöner Tag.
+\item Der  (Hund/hund) muss zum Tierarzt.
+\item  (ich/Ich) bin sehr hungrig.
+\item Hast du heute  (deine/Deine)Mutter gesehen?
+\item Mein bester  (Freund/ freund) hat heute Geburtstag.
+\item Hast du (Lust/lust) mit mir spazieren zu gehen?
+\item (Heute/heute) ist ein sehr schöner Tag.
 \end{enumerate}
 
 
@@ -48021,12 +48021,12 @@ Hallo Anna! Ich war gestern bei meiner Freundin Lena. Sie hat viele Hunde und so
 Fill in the spaces with the appropriate article. (masculine - der, feminine - die, neuter - das)
 
 \begin{enumerate}
-\item ____ Zimmer ist wirklich schön.
-\item Ich habe vergessen ____ Tür zu schließen.
-\item ____ Kaffeemaschine funktioniert ausgezeichnet.
-\item Hast du ____ Foto von unserem Urlaub gesehen?
-\item ____ Hund ist krank.
-\item ____ Opa von Lena besucht uns Heute.
+\item  Zimmer ist wirklich schön.
+\item Ich habe vergessen  Tür zu schließen.
+\item  Kaffeemaschine funktioniert ausgezeichnet.
+\item Hast du  Foto von unserem Urlaub gesehen?
+\item  Hund ist krank.
+\item  Opa von Lena besucht uns Heute.
 \end{enumerate}
 
 
@@ -48035,12 +48035,12 @@ Fill in the spaces with the appropriate article. (masculine - der, feminine - di
 Add the correct personal pronoun in each sentence below. Pay attention to the case of each pronoun.
 
 \begin{enumerate}
-\item Hallo Anna. Hast ___ Lena gesehen?  ___habe heute schon den ganzen Tag Durst.
-\item Hallo Frau Müller! Wie geht es  ____? Ich hoffe  ____ beiden geht es gut.
-\item Hallo Maria. Wie geht es  ___?
-\item Hallo Frau Schmidt, hallo Herr Schmidt, haben ____   meinen Hund gesehen?
-\item Ja Papa, ___ geht es gut. Wie geht es  ___?
-\item Hast du heute schon was von Anna gehört? - Nein, ___ hat mich heute noch nicht angerufen.
+\item Hallo Anna. Hast  Lena gesehen?  habe heute schon den ganzen Tag Durst.
+\item Hallo Frau Müller! Wie geht es  ? Ich hoffe   beiden geht es gut.
+\item Hallo Maria. Wie geht es  ?
+\item Hallo Frau Schmidt, hallo Herr Schmidt, haben    meinen Hund gesehen?
+\item Ja Papa,  geht es gut. Wie geht es  ?
+\item Hast du heute schon was von Anna gehört? - Nein,  hat mich heute noch nicht angerufen.
 \end{enumerate}
 
 
@@ -48049,12 +48049,12 @@ Add the correct personal pronoun in each sentence below. Pay attention to the ca
 Insert the correct possessive pronoun as indicated in brackets. The first sentence gives you an example: \textit{Ich habe meine (ich) Tasche vergessen.}
 
 \begin{enumerate}
-\item Hast du ____ (du) Buch dabei? - Ich habe _____(ich) vergessen.
-\item Wie geht es  _____(du) Vater?
-\item Wem gehört der Wagen? - Das ist _____(er).
-\item Hat sie ____(sie) Freund noch?
-\item Ich habe mir ein neues Kleid gekauft. - Hast du ____(du) altes immer noch?
-\item Du bist _____(er) erste Freundin.
+\item Hast du  (du) Buch dabei? - Ich habe (ich) vergessen.
+\item Wie geht es  (du) Vater?
+\item Wem gehört der Wagen? - Das ist (er).
+\item Hat sie (sie) Freund noch?
+\item Ich habe mir ein neues Kleid gekauft. - Hast du (du) altes immer noch?
+\item Du bist (er) erste Freundin.
 \end{enumerate}
 
 
@@ -48063,11 +48063,11 @@ Insert the correct possessive pronoun as indicated in brackets. The first senten
 Add the correct form of the relative pronoun.
 
 \begin{enumerate}
-\item Die Stadt, ____ ich gesehen habe, war schön.
-\item Hast du den Kuchen gegessen, ____ ich gestern gebacken habe?
-\item Hast du den Mann heute gesehen, ____ dich komisch angesehen hat?
-\item Ich habe meine Hasuaufgaben schon alle gemacht, ____ ich heute aufbekommen habe.
-\item Ich habe heute die Frau getroffen, ____Katze weggelaufen ist.
+\item Die Stadt,  ich gesehen habe, war schön.
+\item Hast du den Kuchen gegessen,  ich gestern gebacken habe?
+\item Hast du den Mann heute gesehen,  dich komisch angesehen hat?
+\item Ich habe meine Hasuaufgaben schon alle gemacht,  ich heute aufbekommen habe.
+\item Ich habe heute die Frau getroffen, Katze weggelaufen ist.
 \end{enumerate}
 
 
@@ -48076,12 +48076,12 @@ Add the correct form of the relative pronoun.
 Add the right reflexive pronouns into the gaps.
 
 \begin{enumerate}
-\item Sie wäscht ____.
-\item Wir ruhen ____aus.
-\item Sie schämen ____.
-\item )Ich habe ____ meinem Chef vorgestellt.
-\item Sie kümmert ____um sie.
-\item Ihr habt ____geirrt.
+\item Sie wäscht .
+\item Wir ruhen aus.
+\item Sie schämen .
+\item )Ich habe  meinem Chef vorgestellt.
+\item Sie kümmert um sie.
+\item Ihr habt geirrt.
 \end{enumerate}
 
 
@@ -48097,12 +48097,12 @@ Diese Katze ist so süß! - Wirklich? Ich finde diese dort besser. Der Kühlschr
 Add the right form of "man" to the sentences below. (man, einen, einem). Tip: Always ask the W questions to find out which form is the right one.
 
 \begin{enumerate}
-\item Was kann ___denn noch sagen?
-\item Da läuft ____ ja das Wasser im Mund zusammen.
-\item Kann ____den Kaffee schon trinken oder ist er noch zu heiß?
-\item Darf ____im Krankenhaus das Handy benutzen?
-\item Das geht ____ziemlich auf die Nerven.
-\item Du machst ______ein ganz schlechtes Gewissen.
+\item Was kann denn noch sagen?
+\item Da läuft  ja das Wasser im Mund zusammen.
+\item Kann den Kaffee schon trinken oder ist er noch zu heiß?
+\item Darf im Krankenhaus das Handy benutzen?
+\item Das geht ziemlich auf die Nerven.
+\item Du machst ein ganz schlechtes Gewissen.
 \end{enumerate}
 
 
@@ -48111,11 +48111,11 @@ Add the right form of "man" to the sentences below. (man, einen, einem). Tip: Al
 Add the correct interrogative pronouns into the spaces below.
 
 \begin{enumerate}
-\item ____ gehört der Ball?
-\item _______ Hund ist das? (asking about the kind of the dog)
-\item ______ habe ich mein Buch geliehen?
-\item ______ hast du angerufen?
-\item ________ (Hut) gehört dir?
+\item  gehört der Ball?
+\item  Hund ist das? (asking about the kind of the dog)
+\item  habe ich mein Buch geliehen?
+\item  hast du angerufen?
+\item  (Hut) gehört dir?
 \end{enumerate}
 
 
@@ -48124,13 +48124,13 @@ Add the correct interrogative pronouns into the spaces below.
 Insert the correct undefined or specific article below.
 
 \begin{enumerate}
-\item Ich möchte mir _____ neues Kleid kaufen.
-\item ____ ist mein neues Auto!
-\item Gehört ___ Hund dir?
-\item ____ ist meine Katze.
-\item ____ Wetter ist heute sehr schlecht.
-\item ____ Tag pro Woche nehme ich mir nichts vor.
-\item ____ Junge, von dem ich dir gestern erzählt habe.
+\item Ich möchte mir  neues Kleid kaufen.
+\item  ist mein neues Auto!
+\item Gehört  Hund dir?
+\item  ist meine Katze.
+\item  Wetter ist heute sehr schlecht.
+\item  Tag pro Woche nehme ich mir nichts vor.
+\item  Junge, von dem ich dir gestern erzählt habe.
 \end{enumerate}
 
 
@@ -48139,12 +48139,12 @@ Insert the correct undefined or specific article below.
 Insert the correct ending of the verbs into the spaces below.
 
 \begin{enumerate}
-\item Er ha_______ ein blaues T-Shirt an.
-\item Sie frag_______ nach dem Wetter.
-\item Du spiel_______ wirklich gut Tennis!
-\item Ha_______ du Lust auf ein Eis?
-\item Woll____  ihr mitkommen?
-\item Hab_______ ihr schon was vor?
+\item Er ha ein blaues T-Shirt an.
+\item Sie frag nach dem Wetter.
+\item Du spiel wirklich gut Tennis!
+\item Ha du Lust auf ein Eis?
+\item Woll  ihr mitkommen?
+\item Hab ihr schon was vor?
 \end{enumerate}
 
 
@@ -48153,12 +48153,12 @@ Insert the correct ending of the verbs into the spaces below.
 Fill in the spaces with the correctt preterite form.
 
 \begin{enumerate}
-\item Gestern _____(kaufen) ich für die ganze Woche ein.
-\item Er _____(fragen) seine Mutter, ob er ausgehen darf.
-\item Wir _____(sagen), dass wir zu spät kommen würden.
-\item Er _____(bitten) mich um Hilfe.
-\item Die Mütter _____ (finden) ihre Kinder auf dem Spielplatz.
-\item Deine Musik _____ (klingen) sehr gut!
+\item Gestern (kaufen) ich für die ganze Woche ein.
+\item Er (fragen) seine Mutter, ob er ausgehen darf.
+\item Wir (sagen), dass wir zu spät kommen würden.
+\item Er (bitten) mich um Hilfe.
+\item Die Mütter  (finden) ihre Kinder auf dem Spielplatz.
+\item Deine Musik  (klingen) sehr gut!
 \end{enumerate}
 
 
@@ -48167,12 +48167,12 @@ Fill in the spaces with the correctt preterite form.
 Insert the correct conjugated perfect form of the verb (sein or haben + partizip 2). Here is an example: Ich habe (haben) gelacht (lachen).
 
 \begin{enumerate}
-\item Du ___(sein) _____(schwimmen).
-\item Maria_____(sein) _____(laufen).
-\item Anna und Marcus_____(haben) _____(fragen).
-\item Sie und ich _____(haben) _____(weinen).
-\item Ihr _____(haben) auf dem Stuhl ______(sitzen).
-\item Anna und Lena _____(sein) _____(reisen).
+\item Du (sein) (schwimmen).
+\item Maria(sein) (laufen).
+\item Anna und Marcus(haben) (fragen).
+\item Sie und ich (haben) (weinen).
+\item Ihr (haben) auf dem Stuhl (sitzen).
+\item Anna und Lena (sein) (reisen).
 \end{enumerate}
 
 
@@ -48181,11 +48181,11 @@ Insert the correct conjugated perfect form of the verb (sein or haben + partizip
 Write the sentences in future 1 verb form.
 
 \begin{enumerate}
-\item Ich laufe in den Park. - Ich ____ in den Park ______.
-\item Marcus spielt ein Spiel. – Marcus____ ein Spiel_____.
-\item Anna liest ein Buch. - Anna ____ein Buch _____.
-\item Wir schreiben ein Test. - Wir ____ein Test_____.
-\item Ihr redet zu viel. - Ihr ____ zu viel ______.
+\item Ich laufe in den Park. - Ich  in den Park .
+\item Marcus spielt ein Spiel. – Marcus ein Spiel.
+\item Anna liest ein Buch. - Anna ein Buch .
+\item Wir schreiben ein Test. - Wir ein Test.
+\item Ihr redet zu viel. - Ihr  zu viel .
 \end{enumerate}
 
 
@@ -48194,14 +48194,14 @@ Write the sentences in future 1 verb form.
 Add the right form of haben and sein in the plusquamperfect.
 
 \begin{enumerate}
-\item Ich ____gewesen.
-\item Du ____gewesen.
-\item Er____ gehabt.
-\item Anna und Markus _____gelaufen.
-\item Ihr _____gesprungen.
-\item Lena _____eingekauft.g) Du _____ im Urlaub gewesen.
-\item Er ___ ein Buch gelesen.
-\item Wir _____einen Brief geschrieben.
+\item Ich gewesen.
+\item Du gewesen.
+\item Er gehabt.
+\item Anna und Markus gelaufen.
+\item Ihr gesprungen.
+\item Lena eingekauft.g) Du  im Urlaub gewesen.
+\item Er  ein Buch gelesen.
+\item Wir einen Brief geschrieben.
 \end{enumerate}
 
 
@@ -48210,13 +48210,13 @@ Add the right form of haben and sein in the plusquamperfect.
 Fill the spaces with the correct modal verbs.
 
 \begin{enumerate}
-\item Ich ____(können) heute leider nicht kommen.
-\item _____ (müssen) du heute noch deine Hausaufgaben machen?
-\item Wir ____ (sollen) das Essen heute vorbereiten.
-\item Du ____(müssen) jetzt aufräumen.
-\item Wir _____(mögen) diese Arbeit nicht.
-\item Ihr _____(dürfen) im Wohnzimmer schlafen.
-\item Wir _____(können) auch schon früher gehen.
+\item Ich (können) heute leider nicht kommen.
+\item  (müssen) du heute noch deine Hausaufgaben machen?
+\item Wir  (sollen) das Essen heute vorbereiten.
+\item Du (müssen) jetzt aufräumen.
+\item Wir (mögen) diese Arbeit nicht.
+\item Ihr (dürfen) im Wohnzimmer schlafen.
+\item Wir (können) auch schon früher gehen.
 \end{enumerate}
 
 
@@ -48225,11 +48225,11 @@ Fill the spaces with the correct modal verbs.
 Fill in the spaces with the correct form of reflexive verbs and reflexive pronouns.
 
 \begin{enumerate}
-\item Ich ____ nicht an meinen Urlaub, er ist zu lange her. (sich erinnern)
-\item Mario_____ über die hohe Telefonrechnung. (sich wundern)
-\item Anna _____in jeder Stadt, auch mit Stadtplan_______. (sich verlaufen)
-\item Du solltest _____, sonst kommst du nicht mehr rein. (sich beeilen)
-\item Sie wollen ______alle für die gleiche Stelle ______. (sich bewerben)
+\item Ich  nicht an meinen Urlaub, er ist zu lange her. (sich erinnern)
+\item Mario über die hohe Telefonrechnung. (sich wundern)
+\item Anna in jeder Stadt, auch mit Stadtplan. (sich verlaufen)
+\item Du solltest , sonst kommst du nicht mehr rein. (sich beeilen)
+\item Sie wollen alle für die gleiche Stelle . (sich bewerben)
 \end{enumerate}
 
 
@@ -48238,11 +48238,11 @@ Fill in the spaces with the correct form of reflexive verbs and reflexive pronou
 Add the correct verb forms in the passive. Pay attention to the tense.
 
 \begin{enumerate}
-\item Die Häuser _____ neu_____. (werden, bauen)
-\item Ich _____, ob ich eine Schwester habe_____. (werden, fragen)
-\item Der Computer _____schon lange nicht mehr_____. (werden, benutzen)
-\item Das Auto _____ von einem Mann______. (werden, einparken)
-\item Die Post _____ heute noch nicht ______. (werden, bringen)
+\item Die Häuser  neu. (werden, bauen)
+\item Ich , ob ich eine Schwester habe. (werden, fragen)
+\item Der Computer schon lange nicht mehr. (werden, benutzen)
+\item Das Auto  von einem Mann. (werden, einparken)
+\item Die Post  heute noch nicht . (werden, bringen)
 \end{enumerate}
 
 
@@ -48251,15 +48251,15 @@ Add the correct verb forms in the passive. Pay attention to the tense.
 In this exercise, the infinitive is in the left column and the corresponding participle 1 is in the right column. Add the correct form to each space.
 
 \begin{enumerate}
-\item stehen    _______
-\item laufen    _______
-\item lachen    _______
-\item _______   fragend
-\item _______   trinkend
-\item gehen     _______
-\item _______   singend
-\item sagen     _______
-\item schreiben _______
+\item stehen    
+\item laufen    
+\item lachen    
+\item    fragend
+\item    trinkend
+\item gehen     
+\item    singend
+\item sagen     
+\item schreiben 
 \end{enumerate}
 
 
@@ -48268,16 +48268,16 @@ In this exercise, the infinitive is in the left column and the corresponding par
 In this exercise, the infinitives of the verbs are in the left column, and the corresponding participle 2 forms are in the right column. Fill in the spaces.
 
 \begin{enumerate}
-\item weinen   _______
-\item sagen    _______
-\item _______  gearbeitet
-\item _______  gelegen
-\item trinken  _______
-\item essen    _______
-\item springen _______
-\item sein     _______
-\item haben    _______
-\item _______  geschrieben
+\item weinen   
+\item sagen    
+\item   gearbeitet
+\item   gelegen
+\item trinken  
+\item essen    
+\item springen 
+\item sein     
+\item haben    
+\item   geschrieben
 \end{enumerate}
 
 
@@ -48286,11 +48286,11 @@ In this exercise, the infinitives of the verbs are in the left column, and the c
 Fill the spaces with the right subjunctive 1 form.
 
 \begin{enumerate}
-\item - er _____ (haben) Hunger.
-\item - er _____ (sein) gestern sehr spät nach Hause gekommen.
-\item - Marcus und Franko ______ (sein) heute schon um da gewesen.
-\item - er _____(kommen) heute.
-\item - du _____ (sein) zuhause.
+\item - er  (haben) Hunger.
+\item - er  (sein) gestern sehr spät nach Hause gekommen.
+\item - Marcus und Franko  (sein) heute schon um da gewesen.
+\item - er (kommen) heute.
+\item - du  (sein) zuhause.
 \end{enumerate}
 
 
@@ -48299,13 +48299,13 @@ Fill the spaces with the right subjunctive 1 form.
 Fill the spaces with the correct imperative form. Pay attention to the use of uppercase and lowercase letters at the beginning of the sentence.
 
 \begin{enumerate}
-\item _____ (gehen) wir ersteinmal nach Hause!
-\item _____ (sein) wir nett zueinander!
-\item _____ (machen) bitte die Tür zu!
-\item _____ (abschließen) dein Fahrrad bitte noch!
-\item _____ (aufpassen) gut auf euch____!
-\item _____ (lassen) mich in Ruhe!
-\item _____ (trinken) Sie nicht so viel Alkohol, das ist sehr schlecht für die Leber!
+\item  (gehen) wir ersteinmal nach Hause!
+\item  (sein) wir nett zueinander!
+\item  (machen) bitte die Tür zu!
+\item  (abschließen) dein Fahrrad bitte noch!
+\item  (aufpassen) gut auf euch!
+\item  (lassen) mich in Ruhe!
+\item  (trinken) Sie nicht so viel Alkohol, das ist sehr schlecht für die Leber!
 \end{enumerate}
 
 
@@ -48313,7 +48313,7 @@ Fill the spaces with the correct imperative form. Pay attention to the use of up
 
 Fill in the spaces with the correct form of the adjectives in parentheses.
 
-Frankfurt ist eine sehr _____ (schön) Stadt.Meine _____(rot) Tasche ist mit heute geklaut worden. Ist dein Auto _____(schnell)? Du hast einen _____ (klein) Hund. Meine Tochter ist schon richtig _____ (groß) geworden. Der Stift gehört dem ______ (klein) Mädchen.
+Frankfurt ist eine sehr  (schön) Stadt.Meine (rot) Tasche ist mit heute geklaut worden. Ist dein Auto (schnell)? Du hast einen  (klein) Hund. Meine Tochter ist schon richtig  (groß) geworden. Der Stift gehört dem  (klein) Mädchen.
 
 
 (German) (Fill-in-the-Blanks) D G M
@@ -48321,11 +48321,11 @@ Frankfurt ist eine sehr _____ (schön) Stadt.Meine _____(rot) Tasche ist mit heu
 Choose the correct word to complete the sentence.
 
 \begin{enumerate}
-\item Ich habe mir heute frei genommen. ___________ muss ich nicht zur Arbeit gehen. (Deshalb, Ganz, Sehr, Anders)
-\item __________ möchte ich den ganzen Tag auf dem Sofa liegen und mich entspannen. (Ganz, Morgen, Rechts, Hinein)
-\item ____________ ist die Prüfungsphase vorbei. (Sehr, Äußerst, Darum, Folglich, Bald)
-\item Gefällt dir das neue Sofa? - Ja, _______. (darum, sehr, ganz, bald)
-\item Wir warten _________ auf euch. (darum, bald, drinnen, ganz)
+\item Ich habe mir heute frei genommen.  muss ich nicht zur Arbeit gehen. (Deshalb, Ganz, Sehr, Anders)
+\item  möchte ich den ganzen Tag auf dem Sofa liegen und mich entspannen. (Ganz, Morgen, Rechts, Hinein)
+\item  ist die Prüfungsphase vorbei. (Sehr, Äußerst, Darum, Folglich, Bald)
+\item Gefällt dir das neue Sofa? - Ja, . (darum, sehr, ganz, bald)
+\item Wir warten  auf euch. (darum, bald, drinnen, ganz)
 \end{enumerate}
 
 
@@ -48334,13 +48334,13 @@ Choose the correct word to complete the sentence.
 Choose the correct preposition for each space below.
 
 \begin{enumerate}
-\item Das Essen steht ______ dem Tisch. – auf, unter, hinter
-\item ______ Meer schwimmen viele Fische. - Auf, Zu, Im
-\item Die Stadt ist ____ Wochenende besonders voll. - am, unter, neben
-\item ______ der Woche muss ich immer arbeiten. - Am, Auf, Unter
-\item Du kannst so _______ mit meinem Anruf rechnen. - gegen, zu, bei
-\item Ich habe jeden Montag _____ Tanztraining. - um, bei, seit
-\item Sie sind jetzt ______ Wochen ein Paar. - für, zwischen, seit
+\item Das Essen steht  dem Tisch. – auf, unter, hinter
+\item  Meer schwimmen viele Fische. - Auf, Zu, Im
+\item Die Stadt ist  Wochenende besonders voll. - am, unter, neben
+\item  der Woche muss ich immer arbeiten. - Am, Auf, Unter
+\item Du kannst so  mit meinem Anruf rechnen. - gegen, zu, bei
+\item Ich habe jeden Montag  Tanztraining. - um, bei, seit
+\item Sie sind jetzt  Wochen ein Paar. - für, zwischen, seit
 \end{enumerate}m looking for a yellow dress.
 \item I'm looking for a fleece jacket.
 \item I'm looking for black shoes.
@@ -48972,11 +48972,11 @@ Heute Morgen bin ich um elf aufgewacht. Ich hatte Pech, denn ich habe den Wecker
 Insert the correct word from the parenthesis into the space.
 
 \begin{enumerate}
-\item ________ (Eulen/Äulen) sind sehr interessante Tiere.
-\item Hier gibt es viele _________ (Heuser/Häuser).
-\item Im  ______ (Mei/Mai)  hat ________(meine/maine) Mutter Geburtstag.
-\item Am Freitag ______ (flige/fliege) ich nach Italien.
-\item Es ist wirklich _______  (heiß/haiß) draußen.
+\item  (Eulen/Äulen) sind sehr interessante Tiere.
+\item Hier gibt es viele  (Heuser/Häuser).
+\item Im   (Mei/Mai)  hat (meine/maine) Mutter Geburtstag.
+\item Am Freitag  (flige/fliege) ich nach Italien.
+\item Es ist wirklich   (heiß/haiß) draußen.
 \end{enumerate}
 
 
@@ -48985,12 +48985,12 @@ Insert the correct word from the parenthesis into the space.
 Insert the correct word from the parenthesis into the space.
 
 \begin{enumerate}
-\item Der _____ (Hund/hund) muss zum Tierarzt.
-\item ___ (ich/Ich) bin sehr hungrig.
-\item Hast du heute ______ (deine/Deine)Mutter gesehen?
-\item Mein bester _________ (Freund/ freund) hat heute Geburtstag.
-\item Hast du ____(Lust/lust) mit mir spazieren zu gehen?
-\item _________(Heute/heute) ist ein sehr schöner Tag.
+\item Der  (Hund/hund) muss zum Tierarzt.
+\item  (ich/Ich) bin sehr hungrig.
+\item Hast du heute  (deine/Deine)Mutter gesehen?
+\item Mein bester  (Freund/ freund) hat heute Geburtstag.
+\item Hast du (Lust/lust) mit mir spazieren zu gehen?
+\item (Heute/heute) ist ein sehr schöner Tag.
 \end{enumerate}
 
 
@@ -49013,12 +49013,12 @@ Hallo Anna! Ich war gestern bei meiner Freundin Lena. Sie hat viele Hunde und so
 Fill in the spaces with the appropriate article. (masculine - der, feminine - die, neuter - das)
 
 \begin{enumerate}
-\item ____ Zimmer ist wirklich schön.
-\item Ich habe vergessen ____ Tür zu schließen.
-\item ____ Kaffeemaschine funktioniert ausgezeichnet.
-\item Hast du ____ Foto von unserem Urlaub gesehen?
-\item ____ Hund ist krank.
-\item ____ Opa von Lena besucht uns Heute.
+\item  Zimmer ist wirklich schön.
+\item Ich habe vergessen  Tür zu schließen.
+\item  Kaffeemaschine funktioniert ausgezeichnet.
+\item Hast du  Foto von unserem Urlaub gesehen?
+\item  Hund ist krank.
+\item  Opa von Lena besucht uns Heute.
 \end{enumerate}
 
 
@@ -49027,12 +49027,12 @@ Fill in the spaces with the appropriate article. (masculine - der, feminine - di
 Add the correct personal pronoun in each sentence below. Pay attention to the case of each pronoun.
 
 \begin{enumerate}
-\item Hallo Anna. Hast ___ Lena gesehen?  ___habe heute schon den ganzen Tag Durst.
-\item Hallo Frau Müller! Wie geht es  ____? Ich hoffe  ____ beiden geht es gut.
-\item Hallo Maria. Wie geht es  ___?
-\item Hallo Frau Schmidt, hallo Herr Schmidt, haben ____   meinen Hund gesehen?
-\item Ja Papa, ___ geht es gut. Wie geht es  ___?
-\item Hast du heute schon was von Anna gehört? - Nein, ___ hat mich heute noch nicht angerufen.
+\item Hallo Anna. Hast  Lena gesehen?  habe heute schon den ganzen Tag Durst.
+\item Hallo Frau Müller! Wie geht es  ? Ich hoffe   beiden geht es gut.
+\item Hallo Maria. Wie geht es  ?
+\item Hallo Frau Schmidt, hallo Herr Schmidt, haben    meinen Hund gesehen?
+\item Ja Papa,  geht es gut. Wie geht es  ?
+\item Hast du heute schon was von Anna gehört? - Nein,  hat mich heute noch nicht angerufen.
 \end{enumerate}
 
 
@@ -49041,12 +49041,12 @@ Add the correct personal pronoun in each sentence below. Pay attention to the ca
 Insert the correct possessive pronoun as indicated in brackets. The first sentence gives you an example: \textit{Ich habe meine (ich) Tasche vergessen.}
 
 \begin{enumerate}
-\item Hast du ____ (du) Buch dabei? - Ich habe _____(ich) vergessen.
-\item Wie geht es  _____(du) Vater?
-\item Wem gehört der Wagen? - Das ist _____(er).
-\item Hat sie ____(sie) Freund noch?
-\item Ich habe mir ein neues Kleid gekauft. - Hast du ____(du) altes immer noch?
-\item Du bist _____(er) erste Freundin.
+\item Hast du  (du) Buch dabei? - Ich habe (ich) vergessen.
+\item Wie geht es  (du) Vater?
+\item Wem gehört der Wagen? - Das ist (er).
+\item Hat sie (sie) Freund noch?
+\item Ich habe mir ein neues Kleid gekauft. - Hast du (du) altes immer noch?
+\item Du bist (er) erste Freundin.
 \end{enumerate}
 
 
@@ -49055,11 +49055,11 @@ Insert the correct possessive pronoun as indicated in brackets. The first senten
 Add the correct form of the relative pronoun.
 
 \begin{enumerate}
-\item Die Stadt, ____ ich gesehen habe, war schön.
-\item Hast du den Kuchen gegessen, ____ ich gestern gebacken habe?
-\item Hast du den Mann heute gesehen, ____ dich komisch angesehen hat?
-\item Ich habe meine Hasuaufgaben schon alle gemacht, ____ ich heute aufbekommen habe.
-\item Ich habe heute die Frau getroffen, ____Katze weggelaufen ist.
+\item Die Stadt,  ich gesehen habe, war schön.
+\item Hast du den Kuchen gegessen,  ich gestern gebacken habe?
+\item Hast du den Mann heute gesehen,  dich komisch angesehen hat?
+\item Ich habe meine Hasuaufgaben schon alle gemacht,  ich heute aufbekommen habe.
+\item Ich habe heute die Frau getroffen, Katze weggelaufen ist.
 \end{enumerate}
 
 
@@ -49068,12 +49068,12 @@ Add the correct form of the relative pronoun.
 Add the right reflexive pronouns into the gaps.
 
 \begin{enumerate}
-\item Sie wäscht ____.
-\item Wir ruhen ____aus.
-\item Sie schämen ____.
-\item )Ich habe ____ meinem Chef vorgestellt.
-\item Sie kümmert ____um sie.
-\item Ihr habt ____geirrt.
+\item Sie wäscht .
+\item Wir ruhen aus.
+\item Sie schämen .
+\item )Ich habe  meinem Chef vorgestellt.
+\item Sie kümmert um sie.
+\item Ihr habt geirrt.
 \end{enumerate}
 
 
@@ -49089,12 +49089,12 @@ Diese Katze ist so süß! - Wirklich? Ich finde diese dort besser. Der Kühlschr
 Add the right form of "man" to the sentences below. (man, einen, einem). Tip: Always ask the W questions to find out which form is the right one.
 
 \begin{enumerate}
-\item Was kann ___denn noch sagen?
-\item Da läuft ____ ja das Wasser im Mund zusammen.
-\item Kann ____den Kaffee schon trinken oder ist er noch zu heiß?
-\item Darf ____im Krankenhaus das Handy benutzen?
-\item Das geht ____ziemlich auf die Nerven.
-\item Du machst ______ein ganz schlechtes Gewissen.
+\item Was kann denn noch sagen?
+\item Da läuft  ja das Wasser im Mund zusammen.
+\item Kann den Kaffee schon trinken oder ist er noch zu heiß?
+\item Darf im Krankenhaus das Handy benutzen?
+\item Das geht ziemlich auf die Nerven.
+\item Du machst ein ganz schlechtes Gewissen.
 \end{enumerate}
 
 
@@ -49103,11 +49103,11 @@ Add the right form of "man" to the sentences below. (man, einen, einem). Tip: Al
 Add the correct interrogative pronouns into the spaces below.
 
 \begin{enumerate}
-\item ____ gehört der Ball?
-\item _______ Hund ist das? (asking about the kind of the dog)
-\item ______ habe ich mein Buch geliehen?
-\item ______ hast du angerufen?
-\item ________ (Hut) gehört dir?
+\item  gehört der Ball?
+\item  Hund ist das? (asking about the kind of the dog)
+\item  habe ich mein Buch geliehen?
+\item  hast du angerufen?
+\item  (Hut) gehört dir?
 \end{enumerate}
 
 
@@ -49116,13 +49116,13 @@ Add the correct interrogative pronouns into the spaces below.
 Insert the correct undefined or specific article below.
 
 \begin{enumerate}
-\item Ich möchte mir _____ neues Kleid kaufen.
-\item ____ ist mein neues Auto!
-\item Gehört ___ Hund dir?
-\item ____ ist meine Katze.
-\item ____ Wetter ist heute sehr schlecht.
-\item ____ Tag pro Woche nehme ich mir nichts vor.
-\item ____ Junge, von dem ich dir gestern erzählt habe.
+\item Ich möchte mir  neues Kleid kaufen.
+\item  ist mein neues Auto!
+\item Gehört  Hund dir?
+\item  ist meine Katze.
+\item  Wetter ist heute sehr schlecht.
+\item  Tag pro Woche nehme ich mir nichts vor.
+\item  Junge, von dem ich dir gestern erzählt habe.
 \end{enumerate}
 
 
@@ -49131,12 +49131,12 @@ Insert the correct undefined or specific article below.
 Insert the correct ending of the verbs into the spaces below.
 
 \begin{enumerate}
-\item Er ha_______ ein blaues T-Shirt an.
-\item Sie frag_______ nach dem Wetter.
-\item Du spiel_______ wirklich gut Tennis!
-\item Ha_______ du Lust auf ein Eis?
-\item Woll____  ihr mitkommen?
-\item Hab_______ ihr schon was vor?
+\item Er ha ein blaues T-Shirt an.
+\item Sie frag nach dem Wetter.
+\item Du spiel wirklich gut Tennis!
+\item Ha du Lust auf ein Eis?
+\item Woll  ihr mitkommen?
+\item Hab ihr schon was vor?
 \end{enumerate}
 
 
@@ -49145,12 +49145,12 @@ Insert the correct ending of the verbs into the spaces below.
 Fill in the spaces with the correctt preterite form.
 
 \begin{enumerate}
-\item Gestern _____(kaufen) ich für die ganze Woche ein.
-\item Er _____(fragen) seine Mutter, ob er ausgehen darf.
-\item Wir _____(sagen), dass wir zu spät kommen würden.
-\item Er _____(bitten) mich um Hilfe.
-\item Die Mütter _____ (finden) ihre Kinder auf dem Spielplatz.
-\item Deine Musik _____ (klingen) sehr gut!
+\item Gestern (kaufen) ich für die ganze Woche ein.
+\item Er (fragen) seine Mutter, ob er ausgehen darf.
+\item Wir (sagen), dass wir zu spät kommen würden.
+\item Er (bitten) mich um Hilfe.
+\item Die Mütter  (finden) ihre Kinder auf dem Spielplatz.
+\item Deine Musik  (klingen) sehr gut!
 \end{enumerate}
 
 
@@ -49159,12 +49159,12 @@ Fill in the spaces with the correctt preterite form.
 Insert the correct conjugated perfect form of the verb (sein or haben + partizip 2). Here is an example: Ich habe (haben) gelacht (lachen).
 
 \begin{enumerate}
-\item Du ___(sein) _____(schwimmen).
-\item Maria_____(sein) _____(laufen).
-\item Anna und Marcus_____(haben) _____(fragen).
-\item Sie und ich _____(haben) _____(weinen).
-\item Ihr _____(haben) auf dem Stuhl ______(sitzen).
-\item Anna und Lena _____(sein) _____(reisen).
+\item Du (sein) (schwimmen).
+\item Maria(sein) (laufen).
+\item Anna und Marcus(haben) (fragen).
+\item Sie und ich (haben) (weinen).
+\item Ihr (haben) auf dem Stuhl (sitzen).
+\item Anna und Lena (sein) (reisen).
 \end{enumerate}
 
 
@@ -49173,11 +49173,11 @@ Insert the correct conjugated perfect form of the verb (sein or haben + partizip
 Write the sentences in future 1 verb form.
 
 \begin{enumerate}
-\item Ich laufe in den Park. - Ich ____ in den Park ______.
-\item Marcus spielt ein Spiel. – Marcus____ ein Spiel_____.
-\item Anna liest ein Buch. - Anna ____ein Buch _____.
-\item Wir schreiben ein Test. - Wir ____ein Test_____.
-\item Ihr redet zu viel. - Ihr ____ zu viel ______.
+\item Ich laufe in den Park. - Ich  in den Park .
+\item Marcus spielt ein Spiel. – Marcus ein Spiel.
+\item Anna liest ein Buch. - Anna ein Buch .
+\item Wir schreiben ein Test. - Wir ein Test.
+\item Ihr redet zu viel. - Ihr  zu viel .
 \end{enumerate}
 
 
@@ -49186,14 +49186,14 @@ Write the sentences in future 1 verb form.
 Add the right form of haben and sein in the plusquamperfect.
 
 \begin{enumerate}
-\item Ich ____gewesen.
-\item Du ____gewesen.
-\item Er____ gehabt.
-\item Anna und Markus _____gelaufen.
-\item Ihr _____gesprungen.
-\item Lena _____eingekauft.g) Du _____ im Urlaub gewesen.
-\item Er ___ ein Buch gelesen.
-\item Wir _____einen Brief geschrieben.
+\item Ich gewesen.
+\item Du gewesen.
+\item Er gehabt.
+\item Anna und Markus gelaufen.
+\item Ihr gesprungen.
+\item Lena eingekauft.g) Du  im Urlaub gewesen.
+\item Er  ein Buch gelesen.
+\item Wir einen Brief geschrieben.
 \end{enumerate}
 
 
@@ -49202,13 +49202,13 @@ Add the right form of haben and sein in the plusquamperfect.
 Fill the spaces with the correct modal verbs.
 
 \begin{enumerate}
-\item Ich ____(können) heute leider nicht kommen.
-\item _____ (müssen) du heute noch deine Hausaufgaben machen?
-\item Wir ____ (sollen) das Essen heute vorbereiten.
-\item Du ____(müssen) jetzt aufräumen.
-\item Wir _____(mögen) diese Arbeit nicht.
-\item Ihr _____(dürfen) im Wohnzimmer schlafen.
-\item Wir _____(können) auch schon früher gehen.
+\item Ich (können) heute leider nicht kommen.
+\item  (müssen) du heute noch deine Hausaufgaben machen?
+\item Wir  (sollen) das Essen heute vorbereiten.
+\item Du (müssen) jetzt aufräumen.
+\item Wir (mögen) diese Arbeit nicht.
+\item Ihr (dürfen) im Wohnzimmer schlafen.
+\item Wir (können) auch schon früher gehen.
 \end{enumerate}
 
 
@@ -49217,11 +49217,11 @@ Fill the spaces with the correct modal verbs.
 Fill in the spaces with the correct form of reflexive verbs and reflexive pronouns.
 
 \begin{enumerate}
-\item Ich ____ nicht an meinen Urlaub, er ist zu lange her. (sich erinnern)
-\item Mario_____ über die hohe Telefonrechnung. (sich wundern)
-\item Anna _____in jeder Stadt, auch mit Stadtplan_______. (sich verlaufen)
-\item Du solltest _____, sonst kommst du nicht mehr rein. (sich beeilen)
-\item Sie wollen ______alle für die gleiche Stelle ______. (sich bewerben)
+\item Ich  nicht an meinen Urlaub, er ist zu lange her. (sich erinnern)
+\item Mario über die hohe Telefonrechnung. (sich wundern)
+\item Anna in jeder Stadt, auch mit Stadtplan. (sich verlaufen)
+\item Du solltest , sonst kommst du nicht mehr rein. (sich beeilen)
+\item Sie wollen alle für die gleiche Stelle . (sich bewerben)
 \end{enumerate}
 
 
@@ -49230,11 +49230,11 @@ Fill in the spaces with the correct form of reflexive verbs and reflexive pronou
 Add the correct verb forms in the passive. Pay attention to the tense.
 
 \begin{enumerate}
-\item Die Häuser _____ neu_____. (werden, bauen)
-\item Ich _____, ob ich eine Schwester habe_____. (werden, fragen)
-\item Der Computer _____schon lange nicht mehr_____. (werden, benutzen)
-\item Das Auto _____ von einem Mann______. (werden, einparken)
-\item Die Post _____ heute noch nicht ______. (werden, bringen)
+\item Die Häuser  neu. (werden, bauen)
+\item Ich , ob ich eine Schwester habe. (werden, fragen)
+\item Der Computer schon lange nicht mehr. (werden, benutzen)
+\item Das Auto  von einem Mann. (werden, einparken)
+\item Die Post  heute noch nicht . (werden, bringen)
 \end{enumerate}
 
 
@@ -49243,15 +49243,15 @@ Add the correct verb forms in the passive. Pay attention to the tense.
 In this exercise, the infinitive is in the left column and the corresponding participle 1 is in the right column. Add the correct form to each space.
 
 \begin{enumerate}
-\item stehen    _______
-\item laufen    _______
-\item lachen    _______
-\item _______   fragend
-\item _______   trinkend
-\item gehen     _______
-\item _______   singend
-\item sagen     _______
-\item schreiben _______
+\item stehen    
+\item laufen    
+\item lachen    
+\item    fragend
+\item    trinkend
+\item gehen     
+\item    singend
+\item sagen     
+\item schreiben 
 \end{enumerate}
 
 
@@ -49260,16 +49260,16 @@ In this exercise, the infinitive is in the left column and the corresponding par
 In this exercise, the infinitives of the verbs are in the left column, and the corresponding participle 2 forms are in the right column. Fill in the spaces.
 
 \begin{enumerate}
-\item weinen   _______
-\item sagen    _______
-\item _______  gearbeitet
-\item _______  gelegen
-\item trinken  _______
-\item essen    _______
-\item springen _______
-\item sein     _______
-\item haben    _______
-\item _______  geschrieben
+\item weinen   
+\item sagen    
+\item   gearbeitet
+\item   gelegen
+\item trinken  
+\item essen    
+\item springen 
+\item sein     
+\item haben    
+\item   geschrieben
 \end{enumerate}
 
 
@@ -49278,11 +49278,11 @@ In this exercise, the infinitives of the verbs are in the left column, and the c
 Fill the spaces with the right subjunctive 1 form.
 
 \begin{enumerate}
-\item - er _____ (haben) Hunger.
-\item - er _____ (sein) gestern sehr spät nach Hause gekommen.
-\item - Marcus und Franko ______ (sein) heute schon um da gewesen.
-\item - er _____(kommen) heute.
-\item - du _____ (sein) zuhause.
+\item - er  (haben) Hunger.
+\item - er  (sein) gestern sehr spät nach Hause gekommen.
+\item - Marcus und Franko  (sein) heute schon um da gewesen.
+\item - er (kommen) heute.
+\item - du  (sein) zuhause.
 \end{enumerate}
 
 
@@ -49291,13 +49291,13 @@ Fill the spaces with the right subjunctive 1 form.
 Fill the spaces with the correct imperative form. Pay attention to the use of uppercase and lowercase letters at the beginning of the sentence.
 
 \begin{enumerate}
-\item _____ (gehen) wir ersteinmal nach Hause!
-\item _____ (sein) wir nett zueinander!
-\item _____ (machen) bitte die Tür zu!
-\item _____ (abschließen) dein Fahrrad bitte noch!
-\item _____ (aufpassen) gut auf euch____!
-\item _____ (lassen) mich in Ruhe!
-\item _____ (trinken) Sie nicht so viel Alkohol, das ist sehr schlecht für die Leber!
+\item  (gehen) wir ersteinmal nach Hause!
+\item  (sein) wir nett zueinander!
+\item  (machen) bitte die Tür zu!
+\item  (abschließen) dein Fahrrad bitte noch!
+\item  (aufpassen) gut auf euch!
+\item  (lassen) mich in Ruhe!
+\item  (trinken) Sie nicht so viel Alkohol, das ist sehr schlecht für die Leber!
 \end{enumerate}
 
 
@@ -49305,7 +49305,7 @@ Fill the spaces with the correct imperative form. Pay attention to the use of up
 
 Fill in the spaces with the correct form of the adjectives in parentheses.
 
-Frankfurt ist eine sehr _____ (schön) Stadt.Meine _____(rot) Tasche ist mit heute geklaut worden. Ist dein Auto _____(schnell)? Du hast einen _____ (klein) Hund. Meine Tochter ist schon richtig _____ (groß) geworden. Der Stift gehört dem ______ (klein) Mädchen.
+Frankfurt ist eine sehr  (schön) Stadt.Meine (rot) Tasche ist mit heute geklaut worden. Ist dein Auto (schnell)? Du hast einen  (klein) Hund. Meine Tochter ist schon richtig  (groß) geworden. Der Stift gehört dem  (klein) Mädchen.
 
 
 (German) (Fill-in-the-Blanks) D G M
@@ -49313,11 +49313,11 @@ Frankfurt ist eine sehr _____ (schön) Stadt.Meine _____(rot) Tasche ist mit heu
 Choose the correct word to complete the sentence.
 
 \begin{enumerate}
-\item Ich habe mir heute frei genommen. ___________ muss ich nicht zur Arbeit gehen. (Deshalb, Ganz, Sehr, Anders)
-\item __________ möchte ich den ganzen Tag auf dem Sofa liegen und mich entspannen. (Ganz, Morgen, Rechts, Hinein)
-\item ____________ ist die Prüfungsphase vorbei. (Sehr, Äußerst, Darum, Folglich, Bald)
-\item Gefällt dir das neue Sofa? - Ja, _______. (darum, sehr, ganz, bald)
-\item Wir warten _________ auf euch. (darum, bald, drinnen, ganz)
+\item Ich habe mir heute frei genommen.  muss ich nicht zur Arbeit gehen. (Deshalb, Ganz, Sehr, Anders)
+\item  möchte ich den ganzen Tag auf dem Sofa liegen und mich entspannen. (Ganz, Morgen, Rechts, Hinein)
+\item  ist die Prüfungsphase vorbei. (Sehr, Äußerst, Darum, Folglich, Bald)
+\item Gefällt dir das neue Sofa? - Ja, . (darum, sehr, ganz, bald)
+\item Wir warten  auf euch. (darum, bald, drinnen, ganz)
 \end{enumerate}
 
 
@@ -49326,13 +49326,13 @@ Choose the correct word to complete the sentence.
 Choose the correct preposition for each space below.
 
 \begin{enumerate}
-\item Das Essen steht ______ dem Tisch. – auf, unter, hinter
-\item ______ Meer schwimmen viele Fische. - Auf, Zu, Im
-\item Die Stadt ist ____ Wochenende besonders voll. - am, unter, neben
-\item ______ der Woche muss ich immer arbeiten. - Am, Auf, Unter
-\item Du kannst so _______ mit meinem Anruf rechnen. - gegen, zu, bei
-\item Ich habe jeden Montag _____ Tanztraining. - um, bei, seit
-\item Sie sind jetzt ______ Wochen ein Paar. - für, zwischen, seit
+\item Das Essen steht  dem Tisch. – auf, unter, hinter
+\item  Meer schwimmen viele Fische. - Auf, Zu, Im
+\item Die Stadt ist  Wochenende besonders voll. - am, unter, neben
+\item  der Woche muss ich immer arbeiten. - Am, Auf, Unter
+\item Du kannst so  mit meinem Anruf rechnen. - gegen, zu, bei
+\item Ich habe jeden Montag  Tanztraining. - um, bei, seit
+\item Sie sind jetzt  Wochen ein Paar. - für, zwischen, seit
 \end{enumerate}
 
 
@@ -49342,54 +49342,54 @@ What verbs do you use most in English? More or less, these same words correspond
 
 Fill in the Spanish translation of the following simple sentences, which use the words I’ve chosen. Then make similar sentences using the words you yourself chose, in the space provided.
 
-1) Did you make coffee? ____________
-2) Mommy will teach you. __________
-3) What color is this? ______________
-4) She is in the water. ______________
-5) I am from Chicago. ______________
-6) I am going to make coffee. ________
-7) I am going to write the instructions. __
-8) I am going now. __________________
-9) Can you prepare the coffee? ________
-10) Can her toy be a book? ____________
-11) I am going to eat in my room. ________I have worked hard today. ___________
-12) I have learned a lot. ________________
-13) Can you speak to him for me? ________
-14) Please speak to me more slowly. ______
-15) Talk to me! _______________________
-16) Did you give her the message? ________
-17) What did she say to you? ___________
-18) What did you say to him? ___________
-19) I told him I can’t do it. _____________
-20) Will you have coffee? ______________
-21) Take this. ________________________
-22) Do you have to go? ________________
-23) Do you have to work today? _________
-24) Do you have class right now? ________
-25) Are you American? _______________
-26) Did you do that? __________________
-27) I’m making lunch. ________________
+1) Did you make coffee? 
+2) Mommy will teach you. 
+3) What color is this? 
+4) She is in the water. 
+5) I am from Chicago. 
+6) I am going to make coffee. 
+7) I am going to write the instructions. 
+8) I am going now. 
+9) Can you prepare the coffee? 
+10) Can her toy be a book? 
+11) I am going to eat in my room. I have worked hard today. 
+12) I have learned a lot. 
+13) Can you speak to him for me? 
+14) Please speak to me more slowly. 
+15) Talk to me! 
+16) Did you give her the message? 
+17) What did she say to you? 
+18) What did you say to him? 
+19) I told him I can’t do it. 
+20) Will you have coffee? 
+21) Take this. 
+22) Do you have to go? 
+23) Do you have to work today? 
+24) Do you have class right now? 
+25) Are you American? 
+26) Did you do that? 
+27) I’m making lunch. 
 
 
 (Spanish) (Fill-in-the-Blanks) D G M
 
 Practical exercises with articles.
 
-1. ___ carro
-2. ___ casa
-3. ___ perro
-4. ___ gato
-5. ___ patos
-6. ___ bueno
-7. ___ malo
-8. ___ mejor
-9. ___ sonido
-10. ___ animales
-11. ___ Marías
-12. ___ vecinos
-13. ___ países
-14. ___ lapíz
-15. ___ matemáticas
+1.  carro
+2.  casa
+3.  perro
+4.  gato
+5.  patos
+6.  bueno
+7.  malo
+8.  mejor
+9.  sonido
+10.  animales
+11.  Marías
+12.  vecinos
+13.  países
+14.  lapíz
+15.  matemáticas
 
 
 (Spanish) (Pronounciation Practice) D G M
@@ -49403,17 +49403,17 @@ To speak in Spanish, it is good to have our mouths in open positions, if we talk
 
 Complete the following sentences with the proper compound past tense.
 
-1. ¡Los piratas ___ tesoro! The pirates have found the treasure!
-2. Grecia ___ el mejor equipo del torneo. Greece has been the best team in the tournament.
-3. Yo ___ durante el año. I’ve been working hard during the year.
-4. Nosotros ___ en autobús. We’ve traveled by bus.
-5. Tú ___ suerte.You’ve had luck.
-6. Sevilla ___ más bonita de lo que esperaba.Seville has been more beautiful than what I expected.
-7. Vosotras ___ cerca del aeropuerto. You’ve been close to the airport.
-8. Yo ___ muchos plátanos. I’ve eaten a lot of bananas.
-9. Mis padres ___ con mi profesor. My parents have spoken with my professor.
-10. ___ mucho en Toledo. It has rained a lot in Toledo.
-11. Maria ___ una buena profesora. Maria has been a good professor.
+1. ¡Los piratas  tesoro! The pirates have found the treasure!
+2. Grecia  el mejor equipo del torneo. Greece has been the best team in the tournament.
+3. Yo  durante el año. I’ve been working hard during the year.
+4. Nosotros  en autobús. We’ve traveled by bus.
+5. Tú  suerte.You’ve had luck.
+6. Sevilla  más bonita de lo que esperaba.Seville has been more beautiful than what I expected.
+7. Vosotras  cerca del aeropuerto. You’ve been close to the airport.
+8. Yo  muchos plátanos. I’ve eaten a lot of bananas.
+9. Mis padres  con mi profesor. My parents have spoken with my professor.
+10.  mucho en Toledo. It has rained a lot in Toledo.
+11. Maria  una buena profesora. Maria has been a good professor.
 
 Answers
 1. ¡Los piratas han encontrado el tesoro!
