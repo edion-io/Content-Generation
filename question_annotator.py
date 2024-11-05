@@ -10,8 +10,11 @@ import ctypes as ct
 #           2. Automated header (+ footer?) annotation
 
 SEP = "\n\n\n"
-
-from utils import SUBJECTS
+try:
+    from utils import SUBJECTS
+except ImportError:
+    SUBJECTS = ["Computer Science", "Science", "Mathematics", "Social Studies", "History", "Geography",
+                "Spanish", "French", "German", "Dutch", "English"]
 
 
 class TextEditor:

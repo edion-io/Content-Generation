@@ -24155,23 +24155,18 @@ Guess the word in each case; some of the letters have been hidden by the undersc
 \item The second letter of the answer is \emph{i}
 The meaning of this word (in English) :
 \emph{middle}
---
 \item The second letter of the answer is \emph{e}
 The meaning of this word (in English) :
 \emph{put}
---
 \item The second letter of the answer is \emph{t}
 The meaning of this word (in English) :
 \emph{atom}
---
 \item The second letter of the answer is \emph{u}
 The meaning of this word (in English) :
 \emph{space}
---
 \item The second letter of the answer is \emph{t}
 The meaning of this word (in English) :
 \emph{atom}
---
 \end{enumerate}
 
 \section{Answers}
@@ -41510,60 +41505,56 @@ How do you say the following in German?
 \end{enumerate}
 
 
-
-
-
-
-
-
 (German) (Writing Sentences and Words) D G (With Answer, Exercise on translation, Theme is shopping)
 
 How do you say the following in German?
-1. I’m looking for a yellow dress.
-2. I’m looking for a fleece jacket.
-3. I’m looking for black shoes.
-4. I’m looking for fresh fruits.
-5. I’m looking for prawns.
-6. I’ll pay in cash.
-7. Is this on sale?
-8. Where are the changing rooms?
-9. How much is this?
-10. Do you have more?
-11. bread
-12. milk
-13. fish
-14. bathing suit
-15. white
-16. grocery store
-17. lemon
-18. vegetables
-19. onion
-20. casual
 
-Answers
-1. Ich suche ein gelbes Kleid.
-2. Ich suche eine Fleecejacke.
-3. Ich suche schwarze Schuhe.
-4. Ich suche frische Früchte.
-5. Ich suche Krabben.
-6. Ich zahle bar.
-7. Ist das im Ausverkauf?
-8. Wo sind die Umkleidekabinen?
-9. Wie viel kostet das?
-10. Haben Sie mehr?
-11. das Brot
-12. die Milch
-13. der Fisch
-14. der Badeanzug
-15. weiß
-16. das Lebensmittelgeschäft
-17. die Zitrone
-18. das Gemüse
-19. die Zwiebel
-20. lässig
+\begin{enumerate}
+\item I’m looking for a yellow dress.
+\item I’m looking for a fleece jacket.
+\item I’m looking for black shoes.
+\item I’m looking for fresh fruits.
+\item I’m looking for prawns.
+\item I’ll pay in cash.
+\item Is this on sale?
+\item Where are the changing rooms?
+\item How much is this?
+\item Do you have more?
+\item bread
+\item milk
+\item fish
+\item bathing suit
+\item white
+\item grocery store
+\item lemon
+\item vegetables
+\item onion
+\item casual
+\end{enumerate}
 
-
-
+\section{Answers}
+\begin{enumerate}
+\item Ich suche ein gelbes Kleid.
+\item Ich suche eine Fleecejacke.
+\item Ich suche schwarze Schuhe.
+\item Ich suche frische Früchte.
+\item Ich suche Krabben.
+\item Ich zahle bar.
+\item Ist das im Ausverkauf?
+\item Wo sind die Umkleidekabinen?
+\item Wie viel kostet das?
+\item Haben Sie mehr?
+\item das Brot
+\item die Milch
+\item der Fisch
+\item der Badeanzug
+\item weiß
+\item das Lebensmittelgeschäft
+\item die Zitrone
+\item das Gemüse
+\item die Zwiebel
+\item lässig
+\end{enumerate}
 
 
 (German) (Writing phrases) D G (With Answer, Theme is Doctor)
@@ -41615,9 +41606,6 @@ How do you say the following in German?
 \item der Verband
 \item der Fuß
 \end{enumerate}
-
-
-
 
 
 (German) (Reading Comprehension) D G (With Answer, With Translation)
@@ -42141,6 +42129,382 @@ Henry und Lucas waren zwei Jungs, die nebeneinander lebten. Als sie noch kleine 
 \end{enumerate}
 
 
+(German) (Underline) D G (Exercise on pronounciation of ch)
+
+Find and underline the words containing "ch," which is pronounced like the "h" in "huge".
+
+Heute Morgen bin ich um elf aufgewacht. Ich hatte Pech, denn ich habe den Wecker nicht gehört. Heute werde ich einfach zuHause bleiben. Vielleicht kann ich auch einen Film sehen. Es ist in Ordnung, wenn man sich ein bisschen von allem erholen will. Morgen ist wieder ein neuer Tag. Mein Vater holt mich ab und wir werden in einen Wald voller Fichten gehen. Vielleicht werden wir auch meine Schwester mitnehmen.
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on spelling of diphthongs)
+
+Insert the correct word from the parenthesis into the space.
+
+\begin{enumerate}
+\item ________ (Eulen/Äulen) sind sehr interessante Tiere.
+\item Hier gibt es viele _________ (Heuser/Häuser).
+\item Im  ______ (Mei/Mai)  hat ________(meine/maine) Mutter Geburtstag.
+\item Am Freitag ______ (flige/fliege) ich nach Italien.
+\item Es ist wirklich _______  (heiß/haiß) draußen.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on capitalization)
+
+Insert the correct word from the parenthesis into the space.
+
+\begin{enumerate}
+\item Der _____ (Hund/hund) muss zum Tierarzt.
+\item ___ (ich/Ich) bin sehr hungrig.
+\item Hast du heute ______ (deine/Deine)Mutter gesehen?
+\item Mein bester _________ (Freund/ freund) hat heute Geburtstag.
+\item Hast du ____(Lust/lust) mit mir spazieren zu gehen?
+\item _________(Heute/heute) ist ein sehr schöner Tag.
+\end{enumerate}
+
+
+(German) (Underline) D G M
+
+In the postcard below, underline all subjects that are in nominative.
+
+Hallo Alisa! Meine Famillie und ich haben hier in Spanien viel Spaß. Das Wetter ist einfach fantastisch. Wie geht es mit den Prüfungen? Hast du irgendwelche interessante Neuigkeiten? Unser Onkel kommt uns vielleicht sogar hier besuchen. Er hat sich die nächste Woche frei genommen. Die Umgebung ist wirklich toll. Du solltest uns auch besuchen! Liebe Grüße Marie
+
+
+(German) (Underline) D G M
+
+Underline all nouns with articles in the plural form.
+
+Hallo Anna! Ich war gestern bei meiner Freundin Lena. Sie hat viele Hunde und sogar eine Katze. Ich liebe Tiere und besonders Hunde. Ich habe auch ihre Schwestern kennengelernt. Der Tag war sehr schön. Morgen werden wir zusammen ins Kino gehen. Die Filme die im Angebot sind, sehen alle cool aus. Wir wissen immer noch nicht welchen wir schauen werden. Ich hoffe dir geht es gut. Liebe Grüße Sarah
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on definite articles)
+
+Fill in the spaces with the appropriate article. (masculine - der, feminine - die, neuter - das)
+
+\begin{enumerate}
+\item ____ Zimmer ist wirklich schön.
+\item Ich habe vergessen ____ Tür zu schließen.
+\item ____ Kaffeemaschine funktioniert ausgezeichnet.
+\item Hast du ____ Foto von unserem Urlaub gesehen?
+\item ____ Hund ist krank.
+\item ____ Opa von Lena besucht uns Heute.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on personal pronouns)
+
+Add the correct personal pronoun in each sentence below. Pay attention to the case of each pronoun.
+
+\begin{enumerate}
+\item Hallo Anna. Hast ___ Lena gesehen?  ___habe heute schon den ganzen Tag Durst.
+\item Hallo Frau Müller! Wie geht es  ____? Ich hoffe  ____ beiden geht es gut.
+\item Hallo Maria. Wie geht es  ___?
+\item Hallo Frau Schmidt, hallo Herr Schmidt, haben ____   meinen Hund gesehen?
+\item Ja Papa, ___ geht es gut. Wie geht es  ___?
+\item Hast du heute schon was von Anna gehört? - Nein, ___ hat mich heute noch nicht angerufen.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (With Example, Exercise on possessive pronouns)
+
+Insert the correct possessive pronoun as indicated in brackets. The first sentence gives you an example: \textit{Ich habe meine (ich) Tasche vergessen.}
+
+\begin{enumerate}
+\item Hast du ____ (du) Buch dabei? - Ich habe _____(ich) vergessen.
+\item Wie geht es  _____(du) Vater?
+\item Wem gehört der Wagen? - Das ist _____(er).
+\item Hat sie ____(sie) Freund noch?
+\item Ich habe mir ein neues Kleid gekauft. - Hast du ____(du) altes immer noch?
+\item Du bist _____(er) erste Freundin.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on relative pronouns)
+
+Add the correct form of the relative pronoun.
+
+\begin{enumerate}
+\item Die Stadt, ____ ich gesehen habe, war schön.
+\item Hast du den Kuchen gegessen, ____ ich gestern gebacken habe?
+\item Hast du den Mann heute gesehen, ____ dich komisch angesehen hat?
+\item Ich habe meine Hasuaufgaben schon alle gemacht, ____ ich heute aufbekommen habe.
+\item Ich habe heute die Frau getroffen, ____Katze weggelaufen ist.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on reflexive pronouns)
+
+Add the right reflexive pronouns into the gaps.
+
+\begin{enumerate}
+\item Sie wäscht ____.
+\item Wir ruhen ____aus.
+\item Sie schämen ____.
+\item )Ich habe ____ meinem Chef vorgestellt.
+\item Sie kümmert ____um sie.
+\item Ihr habt ____geirrt.
+\end{enumerate}
+
+
+(German) (Underline) D G (Exercise on demostrative pronouns)
+
+Underline all demonstrative pronouns in the text. (Both the demonstrative pronouns accompanying a noun and those that replace a noun)
+
+Diese Katze ist so süß! - Wirklich? Ich finde diese dort besser. Der Kühlschrank ist leer. - Kein Problem, ich kann einkaufen gehen. Welchen Kuchen möchtest du? - Denjenigen, den ich vor einer Woche gekauft habe. Hast du einen neuen Freund? - Nein, immer noch derselbe. Mit diesen Klamotten willst du joggen gehen? Die sind doch gar nicht bequem!
+
+
+(German) (Fill-in-the-Blanks) D G M
+
+Add the right form of "man" to the sentences below. (man, einen, einem). Tip: Always ask the W questions to find out which form is the right one.
+
+\begin{enumerate}
+\item Was kann ___denn noch sagen?
+\item Da läuft ____ ja das Wasser im Mund zusammen.
+\item Kann ____den Kaffee schon trinken oder ist er noch zu heiß?
+\item Darf ____im Krankenhaus das Handy benutzen?
+\item Das geht ____ziemlich auf die Nerven.
+\item Du machst ______ein ganz schlechtes Gewissen.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G M
+
+Add the correct interrogative pronouns into the spaces below.
+
+\begin{enumerate}
+\item ____ gehört der Ball?
+\item _______ Hund ist das? (asking about the kind of the dog)
+\item ______ habe ich mein Buch geliehen?
+\item ______ hast du angerufen?
+\item ________ (Hut) gehört dir?
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on articles)
+
+Insert the correct undefined or specific article below.
+
+\begin{enumerate}
+\item Ich möchte mir _____ neues Kleid kaufen.
+\item ____ ist mein neues Auto!
+\item Gehört ___ Hund dir?
+\item ____ ist meine Katze.
+\item ____ Wetter ist heute sehr schlecht.
+\item ____ Tag pro Woche nehme ich mir nichts vor.
+\item ____ Junge, von dem ich dir gestern erzählt habe.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on verb conjunction)
+
+Insert the correct ending of the verbs into the spaces below.
+
+\begin{enumerate}
+\item Er ha_______ ein blaues T-Shirt an.
+\item Sie frag_______ nach dem Wetter.
+\item Du spiel_______ wirklich gut Tennis!
+\item Ha_______ du Lust auf ein Eis?
+\item Woll____  ihr mitkommen?
+\item Hab_______ ihr schon was vor?
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on verb tense)
+
+Fill in the spaces with the correctt preterite form.
+
+\begin{enumerate}
+\item Gestern _____(kaufen) ich für die ganze Woche ein.
+\item Er _____(fragen) seine Mutter, ob er ausgehen darf.
+\item Wir _____(sagen), dass wir zu spät kommen würden.
+\item Er _____(bitten) mich um Hilfe.
+\item Die Mütter _____ (finden) ihre Kinder auf dem Spielplatz.
+\item Deine Musik _____ (klingen) sehr gut!
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on tense conjugation, With Example)
+
+Insert the correct conjugated perfect form of the verb (sein or haben + partizip 2). Here is an example: Ich habe (haben) gelacht (lachen).
+
+\begin{enumerate}
+\item Du ___(sein) _____(schwimmen).
+\item Maria_____(sein) _____(laufen).
+\item Anna und Marcus_____(haben) _____(fragen).
+\item Sie und ich _____(haben) _____(weinen).
+\item Ihr _____(haben) auf dem Stuhl ______(sitzen).
+\item Anna und Lena _____(sein) _____(reisen).
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on future 1 tense)
+
+Write the sentences in future 1 verb form.
+
+\begin{enumerate}
+\item Ich laufe in den Park. - Ich ____ in den Park ______.
+\item Marcus spielt ein Spiel. – Marcus____ ein Spiel_____.
+\item Anna liest ein Buch. - Anna ____ein Buch _____.
+\item Wir schreiben ein Test. - Wir ____ein Test_____.
+\item Ihr redet zu viel. - Ihr ____ zu viel ______.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercis on plusquamperfect tense)
+
+Add the right form of haben and sein in the plusquamperfect.
+
+\begin{enumerate}
+\item Ich ____gewesen.
+\item Du ____gewesen.
+\item Er____ gehabt.
+\item Anna und Markus _____gelaufen.
+\item Ihr _____gesprungen.
+\item Lena _____eingekauft.g) Du _____ im Urlaub gewesen.
+\item Er ___ ein Buch gelesen.
+\item Wir _____einen Brief geschrieben.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G M
+
+Fill the spaces with the correct modal verbs.
+
+\begin{enumerate}
+\item Ich ____(können) heute leider nicht kommen.
+\item _____ (müssen) du heute noch deine Hausaufgaben machen?
+\item Wir ____ (sollen) das Essen heute vorbereiten.
+\item Du ____(müssen) jetzt aufräumen.
+\item Wir _____(mögen) diese Arbeit nicht.
+\item Ihr _____(dürfen) im Wohnzimmer schlafen.
+\item Wir _____(können) auch schon früher gehen.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (reflexive verbs)
+
+Fill in the spaces with the correct form of reflexive verbs and reflexive pronouns.
+
+\begin{enumerate}
+\item Ich ____ nicht an meinen Urlaub, er ist zu lange her. (sich erinnern)
+\item Mario_____ über die hohe Telefonrechnung. (sich wundern)
+\item Anna _____in jeder Stadt, auch mit Stadtplan_______. (sich verlaufen)
+\item Du solltest _____, sonst kommst du nicht mehr rein. (sich beeilen)
+\item Sie wollen ______alle für die gleiche Stelle ______. (sich bewerben)
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on passive)
+
+Add the correct verb forms in the passive. Pay attention to the tense.
+
+\begin{enumerate}
+\item Die Häuser _____ neu_____. (werden, bauen)
+\item Ich _____, ob ich eine Schwester habe_____. (werden, fragen)
+\item Der Computer _____schon lange nicht mehr_____. (werden, benutzen)
+\item Das Auto _____ von einem Mann______. (werden, einparken)
+\item Die Post _____ heute noch nicht ______. (werden, bringen)
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G M
+
+In this exercise, the infinitive is in the left column and the corresponding participle 1 is in the right column. Add the correct form to each space.
+
+\begin{enumerate}
+\item stehen    _______
+\item laufen    _______
+\item lachen    _______
+\item _______   fragend
+\item _______   trinkend
+\item gehen     _______
+\item _______   singend
+\item sagen     _______
+\item schreiben _______
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G M
+
+In this exercise, the infinitives of the verbs are in the left column, and the corresponding participle 2 forms are in the right column. Fill in the spaces.
+
+\begin{enumerate}
+\item weinen   _______
+\item sagen    _______
+\item _______  gearbeitet
+\item _______  gelegen
+\item trinken  _______
+\item essen    _______
+\item springen _______
+\item sein     _______
+\item haben    _______
+\item _______  geschrieben
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G M
+
+Fill the spaces with the right subjunctive 1 form.
+
+\begin{enumerate}
+\item - er _____ (haben) Hunger.
+\item - er _____ (sein) gestern sehr spät nach Hause gekommen.
+\item - Marcus und Franko ______ (sein) heute schon um da gewesen.
+\item - er _____(kommen) heute.
+\item - du _____ (sein) zuhause.
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G M
+
+Fill the spaces with the correct imperative form. Pay attention to the use of uppercase and lowercase letters at the beginning of the sentence.
+
+\begin{enumerate}
+\item _____ (gehen) wir ersteinmal nach Hause!
+\item _____ (sein) wir nett zueinander!
+\item _____ (machen) bitte die Tür zu!
+\item _____ (abschließen) dein Fahrrad bitte noch!
+\item _____ (aufpassen) gut auf euch____!
+\item _____ (lassen) mich in Ruhe!
+\item _____ (trinken) Sie nicht so viel Alkohol, das ist sehr schlecht für die Leber!
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on adjective conjuction)
+
+Fill in the spaces with the correct form of the adjectives in parentheses.
+
+Frankfurt ist eine sehr _____ (schön) Stadt.Meine _____(rot) Tasche ist mit heute geklaut worden. Ist dein Auto _____(schnell)? Du hast einen _____ (klein) Hund. Meine Tochter ist schon richtig _____ (groß) geworden. Der Stift gehört dem ______ (klein) Mädchen.
+
+
+(German) (Fill-in-the-Blanks) D G M
+
+Choose the correct word to complete the sentence.
+
+\begin{enumerate}
+\item Ich habe mir heute frei genommen. ___________ muss ich nicht zur Arbeit gehen. (Deshalb, Ganz, Sehr, Anders)
+\item __________ möchte ich den ganzen Tag auf dem Sofa liegen und mich entspannen. (Ganz, Morgen, Rechts, Hinein)
+\item ____________ ist die Prüfungsphase vorbei. (Sehr, Äußerst, Darum, Folglich, Bald)
+\item Gefällt dir das neue Sofa? - Ja, _______. (darum, sehr, ganz, bald)
+\item Wir warten _________ auf euch. (darum, bald, drinnen, ganz)
+\end{enumerate}
+
+
+(German) (Fill-in-the-Blanks) D G (Exercise on prepositions)
+
+Choose the correct preposition for each space below.
+
+\begin{enumerate}
+\item Das Essen steht ______ dem Tisch. – auf, unter, hinter
+\item ______ Meer schwimmen viele Fische. - Auf, Zu, Im
+\item Die Stadt ist ____ Wochenende besonders voll. - am, unter, neben
+\item ______ der Woche muss ich immer arbeiten. - Am, Auf, Unter
+\item Du kannst so _______ mit meinem Anruf rechnen. - gegen, zu, bei
+\item Ich habe jeden Montag _____ Tanztraining. - um, bei, seit
+\item Sie sind jetzt ______ Wochen ein Paar. - für, zwischen, seit
+\end{enumerate}
+
+
 (Spanish) (Dialogue Completion) D G M
 
 What verbs do you use most in English? More or less, these same words correspond to their frequency of use in Spanish: to be (Ser/Estar*); to go (Ir/Irse*); to be able (can) (Poder); to work (Trabajar); to speak (Hablar); to say (Decir); to have (Tener/Tomar/Haber*)To give (Dar/Pasar*); to learn (Aprender); to do/make (Hacer). Some of these words have more than one choice in Spanish, because Spanish is more expressive. There are different shades of meaning for the English word we use, and hence more than one word. I would also like you to choose three extra verbs that you will need to use daily as part of your personal lifestyle. Personally, I would choose: to write (Escribir), the teach (Enseñar); to prepare (Preparar). After this, write down 10 nouns that are also indispensable to your daily conversation in English. I would choose: message (Mensaje); list (Lista); instructions (Instrucciones); water (Agua); color (Color); book (Libro); toy (Juguete); mommy (Mami); coffee (Café); room (Habitación).
@@ -42528,328 +42892,6 @@ Now that you have read the story, try to answer the following questions.
 4. ¿Por qué las amigas de Ariana quieren ir al centro comercial?
 5. ¿Es nuevo el centro comercial?
 
-(German) (Pronunciation Practice) D G M
-
-Find and highlight the words containing "ch," which is pronounced like the "h" in "huge".
-
-Heute Morgen bin ich um elf aufgewacht. Ich hatte Pech, denn ich habe den Wecker nicht gehört. Heute werde ich einfach zuHause bleiben. Vielleicht kann ich auch einen Film sehen. Es ist in Ordnung, wenn man sich ein bisschen von allem erholen will. Morgen ist wieder ein neuer Tag. Mein Vater holt mich ab und wir werden in einen Wald voller Fichten gehen. Vielleicht werden wir auch meine Schwester mitnehmen.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Insert the correct word from the parenthesis into the space.
-
-a) ________ (Eulen/Äulen) sind sehr interessante Tiere.
-b) Hier gibt es viele _________ (Heuser/Häuser).
-c) Im  ______ (Mei/Mai)  hat ________(meine/maine) Mutter Geburtstag.
-d) Am Freitag ______ (flige/fliege) ich nach Italien.
-e) Es ist wirklich _______  (heiß/haiß) draußen.
-3. Insert the correct word.
-a) Der _____ (Hund/hund) muss zum Tierarzt.
-b) ___ (ich/Ich) bin sehr hungrig.
-Hast du heute ______ (deine/Deine)Mutter gesehen?
-c) Mein bester _________ (Freund/ freund) hat heute Geburtstag.
-d) Hast du ____(Lust/lust) mit mir spazieren zu gehen?
-e) _________(Heute/heute) ist ein sehr schöner Tag.
-
-
-(German) (Grammar Exercise) D G M
-
-In the postcard below, select all subjects that are in nominative.
-
-Hallo Alisa! Meine Famillie und ich haben hier in Spanien viel Spaß. Das Wetter ist einfach fantastisch. Wie geht es mit den Prüfungen? Hast du irgendwelche interessante Neuigkeiten? Unser Onkel kommt uns vielleicht sogar hier besuchen. Er hat sich die nächste Woche frei genommen. Die Umgebung ist wirklich toll. Du solltest uns auch besuchen! Liebe Grüße Marie
-
-
-(German) (Grammar Exercise) D G M
-
-Mark all nouns with articles in the plural form.
-
-Hallo Anna! Ich war gestern bei meiner Freundin Lena. Sie hat viele Hunde und sogar eine Katze. Ich liebe Tiere und besonders Hunde. Ich habe auch ihre Schwestern kennengelernt. Der Tag war sehr schön. Morgen werden wir zusammen ins Kino gehen. Die Filme die im Angebot sind, sehen alle cool aus. Wir wissen immer noch nicht welchen wir schauen werden. Ich hoffe dir geht es gut. Liebe Grüße Sarah
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Fill in the spaces with the appropriate article. (masculine - der, feminine - die, neuter - das)
-
-a) ____ Zimmer ist wirklich schön.
-b) Ich habe vergessen ____ Tür zu schließen.
-c) ____ Kaffeemaschine funktioniert ausgezeichnet.
-d) Hast du ____ Foto von unserem Urlaub gesehen?
-e) ____ Hund ist krank.
-f) ____ Opa von Lena besucht uns Heute.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Add the correct personal pronoun in each sentence below. Pay attention to the case of each pronoun.
-
-a) Hallo Anna. Hast ___ Lena gesehen?  ___habe heute schon den ganzen Tag Durst.
-b) Hallo Frau Müller! Wie geht es  ____? Ich hoffe  ____ beiden geht es gut.
-c) Hallo Maria. Wie geht es  ___?
-d) Hallo Frau Schmidt, hallo Herr Schmidt, haben ____   meinen Hund gesehen?
-e) Ja Papa, ___ geht es gut. Wie geht es  ___?
-f) Hast du heute schon was von Anna gehört? - Nein, ___ hat mich heute noch nicht angerufen.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Insert the correct possessive pronoun. The first sentence gives you an example. *Ich habe meine (ich) Tasche vergessen.
-
-a) Hast du ____ (du) Buch dabei? - Ich habe _____(ich) vergessen.
-b) Wie geht es  _____(du) Vater?
-c) Wem gehört der Wagen? - Das ist _____(er).
-d) Hat sie ____(sie) Freund noch?
-e) Ich habe mir ein neues Kleid gekauft. - Hast du ____(du) altes immer noch?
-f) Du bist _____(er) erste Freundin.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Add the correct form of the relative pronoun.
-
-a) Die Stadt, ____ ich gesehen habe, war schön.
-b) Hast du den Kuchen gegessen, ____ich gestern gebacken habe?
-c) Hast du den Mann heute gesehen, ____ dich komisch angesehen hat?
-d) Ich habe meine Hasuaufgaben schon alle gemacht, ____ich heute aufbekommen habe.
-e) Ich habe heute die Frau getroffen, ____Katze weggelaufen ist.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Add the right reflexive pronouns into the gaps.
-
-a) Sie wäscht ____.
-b) Wir ruhen ____aus.
-c) Sie schämen ____.
-D )Ich habe ____ meinem Chef vorgestellt.
-e) Sie kümmert ____um sie.
-f) Ihr habt ____geirrt.
-
-
-(German) T D G M
-
-Select all demonstrative pronouns in the text. (Both the demonstrative pronouns accompanying a noun and those that replace a noun)
-
-Diese Katze ist so süß! - Wirklich? Ich finde diese dort besser. Der Kühlschrank ist leer. - Kein Problem, ich kann einkaufen gehen. Welchen Kuchen möchtest du? - Denjenigen, den ich vor einer Woche gekauft habe. Hast du einen neuen Freund? - Nein, immer noch derselbe. Mit diesen Klamotten willst du joggen gehen? Die sind doch gar nicht bequem!
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Add the right form of "man" to the sentences below. (man, einen, einem). Tip: Always ask the W questions to find out which form is the right one.
-
-a) Was kann ___denn noch sagen?
-b) Da läuft ____ ja das Wasser im Mund zusammen.
-c) Kann ____den Kaffee schon trinken oder ist er noch zu heiß?
-d) Darf ____im Krankenhaus das Handy benutzen?
-e) Das geht ____ziemlich auf die Nerven.
-f) Du machst ______ein ganz schlechtes Gewissen.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Add the correct interrogative pronouns into the spaces below.
-
-a) ____ gehört der Ball?
-b) _______ Hund ist das? (asking about the kind of the dog)
-c) ______ habe ich mein Buch geliehen?
-d) ______ hast du angerufen?
-e) ________ (Hut) gehört dir?
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Insert the correct undefined or specific article below.
-
-a) Ich möchte mir _____ neues Kleid kaufen.
-b) ____ ist mein neues Auto!
-c) Gehört ___ Hund dir?
-d) ____ ist meine Katze.
-e) ____ Wetter ist heute sehr schlecht.
-f) ____ Tag pro Woche nehme ich mir nichts vor.
-g) ____ Junge, von dem ich dir gestern erzählt habe.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Insert the correct ending of the verbs into the spaces below.
-
-a) Er ha_______ ein blaues T-Shirt an.
-b) Sie frag_______ nach dem Wetter.
-c) Du spiel_______ wirklich gut Tennis!
-d) Ha_______ du Lust auf ein Eis?
-e) Woll____  ihr mitkommen?
-f) Hab_______ ihr schon was vor?
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Fill in the spaces with the correctt preterite form.
-
-a) Gestern _____(kaufen) ich für die ganze Woche ein.
-b) Er _____(fragen) seine Mutter, ob er ausgehen darf.
-c) Wir _____(sagen), dass wir zu spät kommen würden.
-d) Er _____(bitten) mich um Hilfe.
-e) Die Mütter _____ (finden) ihre Kinder auf dem Spielplatz.
-f) Deine Musik _____ (klingen) sehr gut!
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Insert the correct conjugated perfect form of the verb (sein or haben + partizip 2). Here is an example: Ich habe (haben) gelacht (lachen).
-
-a) Du ___(sein) _____(schwimmen).
-b) Maria_____(sein) _____(laufen).
-c) Anna und Marcus_____(haben) _____(fragen).
-d) Sie und ich _____(haben) _____(weinen).
-e) Ihr _____(haben) auf dem Stuhl ______(sitzen).
-f) Anna und Lena _____(sein) _____(reisen).
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Write the sentences in future 1 verb form.
-
-a) Ich laufe in den Park. - Ich ____ in den Park ______.
-b) Marcus spielt ein Spiel. – Marcus____ ein Spiel_____.
-c) Anna liest ein Buch. - Anna ____ein Buch _____.
-d) Wir schreiben ein Test. - Wir ____ein Test_____.
-e) Ihr redet zu viel. - Ihr ____ zu viel ______.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Add the right form of haben and sein in the plusquamperfect.
-
-a) Ich ____gewesen.
-b) Du ____gewesen.
-c) Er____ gehabt.
-d) Anna und Markus _____gelaufen.
-e) Ihr _____gesprungen.
-f) Lena _____eingekauft.g) Du _____ im Urlaub gewesen.
-h) Er ___ ein Buch gelesen.
-i) Wir _____einen Brief geschrieben.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Fill the spaces with the correct modal verbs.
-
-a) Ich ____(können) heute leider nicht kommen.
-b) _____ (müssen) du heute noch deine Hausaufgaben machen?
-c) Wir ____ (sollen) das Essen heute vorbereiten.
-d) Du ____(müssen) jetzt aufräumen.
-e) Wir _____(mögen) diese Arbeit nicht.
-f) Ihr _____(dürfen) im Wohnzimmer schlafen.
-g) Wir _____(können) auch schon früher gehen.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Fill in the spaces with the correct form of reflexive verbs and reflexive pronouns.
-
-a) Ich ____nicht an meinen Urlaub, er ist zu lange her. (sich erinnern)
-b) Mario_____ über die hohe Telefonrechnung. (sich wundern)
-c) Anna _____in jeder Stadt, auch mit Stadtplan_______. (sich verlaufen)
-d) Du solltest _____, sonst kommst du nicht mehr rein. (sich beeilen)
-e) Sie wollen ______alle für die gleiche Stelle ______. (sich bewerben)
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Add the correct verb forms in the passive. Pay attention to the tense.
-
-a) Die Häuser _____ neu_____. (werden, bauen)
-b) Ich _____, ob ich eine Schwester habe_____. (werden, fragen)
-c) Der Computer _____schon lange nicht mehr_____. (werden, benutzen)
-d) Das Auto _____ von einem Mann______. (werden, einparken)
-e) Die Post _____ heute noch nicht ______. (werden, bringen)
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-In this exercise, the infinitive is in the left column and the corresponding participle 1 is in the right column. Add the correct form to each space.
-
-a) stehen    _______                          
-b) laufen    _______                            
-c) lachen    _______
-d) _______   fragend
-e) _______   trinkend
-f) gehen     _______
-g) _______   singend
-h) sagen     _______
-i) schreiben _______
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-In this exercise, the infinitives of the verbs are in the left column, and the corresponding participle 2 forms are in the right column. Fill in the spaces.
-
-a) weinen   _______
-b) sagen    _______
-c) _______  gearbeitet
-d) _______  gelegen
-e) trinken  _______
-f) essen    _______
-g) springen _______
-h) sein     _______
-i) haben    _______
-j) _______  geschrieben
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Fill the spaces with the right subjunctive 1 form.
-
-a) - er _____ (haben) Hunger.
-b) - er _____ (sein) gestern sehr spät nach Hause gekommen.
-c) - Marcus und Franko ______ (sein) heute schon um 6 da gewesen.
-d) - er _____(kommen) heute.
-e) - du _____ (sein) zuhause.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Fill the spaces with the correct imperative form. Pay attention to the use of uppercase and lowercase letters at the beginning of the sentence.
-a) _____ (gehen) wir ersteinmal nach Hause!
-b) _____ (sein) wir nett zueinander!
-c) _____ (machen) bitte die Tür zu!
-d) _____ (abschließen) dein Fahrrad bitte noch!
-e) _____ (aufpassen) gut auf euch____!
-f) _____ (lassen) mich in Ruhe!
-g) _____ (trinken) Sie nicht so viel Alkohol, das ist sehr schlecht für die Leber!
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Fill in the spaces with the correct form of the adjectives in parentheses.
-
-Frankfurt ist eine sehr _____ (schön) Stadt.Meine _____(rot) Tasche ist mit heute geklaut worden. Ist dein Auto _____(schnell)? Du hast einen _____ (klein) Hund. Meine Tochter ist schon richtig _____ (groß) geworden. Der Stift gehört dem ______ (klein) Mädchen.
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Choose the correct word to complete the sentence.
-
-a) Ich habe mir heute frei genommen. ___________ muss ich nicht zur Arbeit gehen. (Deshalb, Ganz, Sehr, Anders)
-b) __________ möchte ich den ganzen Tag auf dem Sofa liegen und mich entspannen. (Ganz, Morgen, Rechts, Hinein)
-c) ____________ ist die Prüfungsphase vorbei. (Sehr, Äußerst, Darum, Folglich, Bald)
-d) Gefällt dir das neue Sofa? - Ja, _______. (darum, sehr, ganz, bald)
-e) Wir warten _________ auf euch. (darum, bald, drinnen, ganz)
-
-
-(German) (Fill-in-the-Blanks) D G M
-
-Choose the correct preposition for each space below.
-
-a) Das Essen steht ______ dem Tisch. – auf, unter, hinter
-b) ______ Meer schwimmen viele Fische. - Auf, Zu, Im
-c) Die Stadt ist ____ Wochenende besonders voll. - am, unter, neben
-d) ______ der Woche muss ich immer arbeiten. - Am, Auf, Unter
-e) Du kannst so _______ 8 mit meinem Anruf rechnen. - gegen, zu, bei
-f) Ich habe jeden Montag _____ 5 Tanztraining. - um, bei, seit
-g) ie sind jetzt ______ 5 Wochen ein Paar. - für, zwischen, seit
-
-(Science) T D 1 M
 
 (Science) (Activity) 3 D G M
 1. Put a ball or toy car on the floor.
