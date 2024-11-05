@@ -39,7 +39,7 @@ def chat_flow(session_id, response_times):
         end_time = time.time()
         print("Response time: ", end_time - start_time)
         response_times.append(end_time - start_time)
-        time.sleep(random.random()*5)
+        # time.sleep(random.random()*5)
 
 def pressure_test(num_session, asyn=True):
     if asyn:
@@ -65,3 +65,7 @@ def pressure_test(num_session, asyn=True):
 if __name__ == "__main__":
     num_session = 5
     pressure_test(num_session=num_session, asyn=False)
+
+    # while True:
+    #     print("Hello world")
+    #     time.sleep(1)

@@ -328,7 +328,7 @@ def batch(content: str, name: str, current_tokens: int, current_batch: list, bat
     # Encode the text to get the tokens
     task_tokens = len(encoding.encode(prompt)) + (len(encoding.encode(content)) if is_text else 0)
     # Check if the current batch is full
-    if current_tokens + task_tokens > 80000:
+    if current_tokens + task_tokens > 70000:
         # If it is full, add the current batch to the list of batches
         batches.append(deepcopy(current_batch))
         current_batch.clear()

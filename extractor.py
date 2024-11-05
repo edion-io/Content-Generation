@@ -99,6 +99,7 @@ if __name__ == "__main__":
         submit_batch(BATCH_FOLDER, client, files=True)
     elif args.key == 's':
         batch_job = client.batches.retrieve(args.batch_job_id)
+        print(f"Batch job {args.batch_job_id} is {batch_job.status}")
     elif args.key == "r":  
         # Retrieve the results of the batch job
         with open("batch_job_id.txt", "r") as f:
@@ -115,7 +116,7 @@ if __name__ == "__main__":
             batch_results = [json.loads(line) for line in lines]
             # Iterate through each result and save the extracted text
             if args.t:
-                with open("qs.txt", "a") as f:
+                with open("spanish.txt", "a") as f:
                     for result in batch_results:
                         task_id = result['custom_id']
                         subject, grade = task_id.split('_')
