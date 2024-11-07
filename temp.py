@@ -10,10 +10,11 @@ if __name__ == "__main__" :
     client = OpenAI(api_key="sk-proj-ltmkMm6qZ8oQCsusN5IOT3BlbkFJmsPopivPYwLtY7jlx5Pl")
 
     # Extract all the questions from the file
-    with open("new.txt", "r") as f:
+    with open("q.txt", "r") as f:
         content = f.read()
+
     # Split the questions by header
-    questions = re.split(r'(?m)(?=^\(Mathematics\))', content)
+    questions = re.split(r'(?m)(?=^\(English\))', content)
 
     indexes = []
 

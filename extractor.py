@@ -11,7 +11,7 @@ from utils import SUBJECTS
 # Parameters
 # -------------------------
 # Specify the folder/file containing any relevant files
-PATH = 'questions.txt'
+PATH = 'english.txt'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the batch folder
@@ -23,7 +23,7 @@ CLOUDINARY_API = "667797151493891"
 CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 
 # Specify the prompt for the chat completion task
-PROMPT = "1. Extract all exercises from the pages .\n2. Output them in this format:\n*NEW*\n[Max 5 words describing the type of exercise]\n[Replace with extracted text]\n[Situational diagram description (see instruction #4 below)]\n\n 3. Some exercises continue over to another page, make sure you get that too (should not be separate). 4. If an activity or exercise needs or refers to one or more images or tables, add a description of the image(s) to the above template in the form:\n[STRDGRM] [Detailed description of the image that a blind person can use to visualize what is needed, without even seeing the image] [STPDGRM]\n\n5. Only output what is asked of you."
+PROMPT = "You are a data annotator where each data is an exercise.  You will be shown exercises composed of a header and a body. The header is always the first line of the question. In each set of parentheses, everything should be separated with commas, not the word \"and\". For example :\n(French) (Grammar Exercise, Fill in the Blank) D 6 (Multi-part, Exercise on adjectives)\n\nThe second set of parentheses of the header always encloses the exercise's type. It's okay for an exercise to have more than one type, however, the exercise types should always be very general (avoid specificity at all costs). For example, for questions about adjectives you would write Grammar Exercise.  The last set of parentheses is the modifier. A modifier is a specification of what is written in any of the other sets of parentheses. For example, here it says Multi-part because the exercise this header belongs to has multiple questions. We want to keep the trend that the exercise type is general, while the modifier adds specificity. Your job is to follow these steps:\n\n1. Closely examine the header (specifically the exercise type and the modifier) and the question.\n2. Current exercise types may have types that are too specific or don't make sense. For example, \"Transcription and Meaning\" is not good and we would prefer Spelling Exercise. When you find an exercise type that is too specific or doesn't make sense: \nI. Replace it with a more general type (unless it's already there). Exercise types should always end with \"Exercise\".\nII. Take the specific type and try to write it/them in the modifier in the format With ... or Exercise that has ... or Exercise with ... or Exercise on ...\nIII. When you add said modifier, make sure that you don't put it in pascal case\n\nFor example:\n(French) (Write Country Names,  Transcription) D 6 (With Answer)\n*exercise about writing country names phonetically in a certain language*\n\nwould become:\n(French) (Writing Exercise, Phonetics Exercise) D 6 (Exercise on writing country names, With Answer)\n\nNOTE: You can replace/edit/remove exercise types but do not change modifiers that are already there, those are always correct.\n\n3. Output the entire new header with the body of the question"
 
 # -------------------------
 # Parsers / Subparsers
@@ -87,7 +87,7 @@ if __name__ == "__main__":
             text = f.read()
 
         # Separate each question by their headers
-        questions = re.split(r'(?m)^(' + "|".join(re.escape(s) for s in SUBJECTS) + ')', text)
+        questions = re.split(r'(?m)(?=^\(' + re.escape(args.subject) + r'\))', text)
         # Remove empty strings and get the subject you want
         questions = [q.strip() for q in questions if q.strip() and args.subject in q]
 
@@ -116,7 +116,7 @@ if __name__ == "__main__":
             batch_results = [json.loads(line) for line in lines]
             # Iterate through each result and save the extracted text
             if args.t:
-                with open("spanish.txt", "a") as f:
+                with open("result.txt", "a") as f:
                     for result in batch_results:
                         task_id = result['custom_id']
                         subject, grade = task_id.split('_')

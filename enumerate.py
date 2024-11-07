@@ -13,7 +13,7 @@ if __name__ == "__main__":
     with open("new.txt", "r") as f:
         content = f.read()
     # Split the questions by header
-    questions = re.split(r'(?m)(?=^\(Spanish\))', content)
+    questions = re.split(r'(?m)(?=^\(Epanish\))', content)
 
     # pattern = r'^\d+[\./]\s?.*$'
     # final = []
