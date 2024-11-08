@@ -11,7 +11,7 @@ from utils import SUBJECTS
 # Parameters
 # -------------------------
 # Specify the folder/file containing any relevant files
-PATH = 'english.txt'
+PATH = 'questions.txt'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the batch folder
@@ -87,7 +87,7 @@ if __name__ == "__main__":
             text = f.read()
 
         # Separate each question by their headers
-        questions = re.split(r'(?m)(?=^\(' + re.escape(args.subject) + r'\))', text)
+        questions = re.split(r'\n(?=\(.*?\) \(.*?\))', text)
         # Remove empty strings and get the subject you want
         questions = [q.strip() for q in questions if q.strip() and args.subject in q]
 
