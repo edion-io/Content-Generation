@@ -1,2413 +1,2339 @@
-(Computer Science) (Practical Exercise) D 2 (Activity)
+(Geography) (Listening Exercise, Pair Activity) D 2 (Activity on sounds)
 
-Create a document file called 'My hobby' to use as a poster and add an image to it.  
-Change the size of the image in your poster.  
-Move the image to the middle of the page.  
-Save your file.  
-
-\paragraph{Extra challenge}  
-Find a second image to add to your poster. Place the two images on your poster.  
-
-\paragraph{Think again}  
-Would you prefer to add one large image or many small images to your poster? Give reasons for your choice.
-
-
-(Computer Science) (Algorithm Exercise) D 2 (Exercise on making a toy horse)
-
-Write an algorithm for making a toy horse. 
-Write the actions in boxes joined with arrows, then on a big piece of paper make a colourful picture to illustrate the process.
-
-
-(Computer Science) (Short Answer Exercise) D 2 (With Material)
-
-What does ‘algorithm' mean? Write or say the answer in your own words.
-
-\subsection*{Materials}
+Work with a friend. Listen to the sounds in different parts of your school. Write a list of the sounds that you hear in the places below.
 \begin{itemize}
-\item A big piece of paper, a pencil, colored markers or crayons.
+\item inside your classroom;
+\item in the school corridor;
+\item in the school playground.
 \end{itemize}
 
 
-(Computer Science) (Short Answer Exercise) D 5 (With Material)
+(Geography) (Discussion Exercise) D 2 (Exercise on class activities)
 
-Imagine that the x coordinate of an apple is any random value between -260 and 260.  
+Discuss which noises around the school annoy you most.
 
-\begin{enumerate}[label=\alph*.]
-\item What does x coordinate mean?  
-\item What does random mean?  
-\item What other value is used with the x coordinate to set the position of a sprite?  
-\end{enumerate}
 
-\subsection*{Materials}
-\begin{itemize}
-\item A quiet space to think and reflect on the questions.
-\item A pen and paper to jot down thoughts if needed.
-\end{itemize}
+(Geography) (Short Answer Exercise) D 2 M
 
+Write down what you could do to reduce noise in your school.
 
-(Computer Science) (Programming Exercise) D 5 (With Material, Exercise on sprite creation and control)
 
-Add a sprite (for example, an apple) to your screen. Make a program to control the new sprite. Run the program to make sure it works. Save the file.  
+(Geography) (Activity) D 2 (Exercise on noise levels) 
 
-\subsection*{Materials}
-\begin{itemize}
-\item A computer or device with programming software that allows sprite creation and manipulation, like Scratch.  
-\item Basic knowledge of how to use the software to add and control sprites.
-\end{itemize}
-
-
-(Computer Science) (Programming Exercise) D 5 (With Material, Bonus Activity)
-
-Add a sprite (for example, a parrot) and use a block that makes this sprite try to reach other sprites. Add an extra sprite to your screen (for example, a strawberry). Use a block that makes a sprite jump to a random location to make the strawberry jump to a random place on the screen. This should make it much harder for any other sprite to reach the strawberry sprite.  
-
-\subsection*{Materials}
-\begin{itemize}
-\item A computer or device with programming software that allows sprite creation and manipulation, like Scratch.  
-\item Basic knowledge of how to use the software to add and control sprites.
-\end{itemize}
-
-
-(Computer Science) (Photography Exercise) D 5 (Activity on creating a storyboard, With Material)
-
-Create a storyboard.
-Use a camera or smartphone to take photos that match your storyboard. 
-Use different compositions and different lighting. 
-Take photos with and without flash. Now compare your photos. Which one looks best? Explain why you think so. 
-Compare your best photo with your classmates' best photos. Talk about the differences between the photos.
-
-\subsection*{Materials}
-\begin{itemize}
-\item A camera or smartphone.
-\end{itemize}
-
-
-(Computer Science) (Practical Exercise) D 5 (With Material, Exercise on camera settings)
-
-Find the manual settings menu on your camera or smartphone. Change the shutter speed and ISO settings and compare the photos you take. How do the changes affect the photos?
-
-\subsection*{Materials}
-\begin{itemize}
-\item A camera or smartphone with manual settings.
-\end{itemize}
-
-
-(Computer Science) (Photography Exercise) D 5 (At Home Activity, With Material)
-
-Think of a theme such as 'celebration' or 'happiness' or your favourite colour. Use your camera to take photos of subjects around your home. Try different compositions and lighting. Save your favourite photos.
-
-\subsection*{Materials}
-\begin{itemize}
-\item A camera or smartphone.
-\end{itemize}
-
-
-(Computer Science) (Programming Exercise) D 5 (With Material, Exercise on creating a program with user interaction)
-
-Create a program that repeatedly asks if you want to stop until you say 'yes'. Make sure to include a way to change the way that the question is asked and also include a way to respond based on the answer.
-
-\paragraph{Bonus Question}
-Think of a way to remember your last answer so the program can run again. Describe how you would store the answer before starting the loop.
-
-\subsection*{Materials}
-\begin{itemize}
-\item A way to write down your progra(like paper and pen) or a computer to code on.
-\end{itemize}
-
-
-(Computer Science) (Writing Exercise) D 5 (Exercise on writing programs, With Material)
-
-Choose a program you have written, or think about a program you would like to write. Write a guide explaining how your program works and what happens when it runs. Include details about how to answer the questions.
-
-\subsection*{Materials} 
-\begin{itemize}
-\item A way to write down your guide (like paper and pen) or a computer to type on.
-\end{itemize}
-
-
-(Computer Science) (Writing Exercise) D 3 (Exercise on professions)
-
-Think about all the tasks a doctor, a shopkeeper and a teacher do.
-\begin{itemize}
-\item Write down all the benefits you can think of.  
-\item Make a final column for the table to show the benefits to the respective profession.
-\end{itemize}
-Put each task into the correct box of the table.
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-Give examples from your school work where the computer has helped you:  
-\begin{itemize}
-\item to find out facts  
-\item to do clear and neat work.  
-\end{itemize}
-
-
-(Computer Science) (Writing Exercise) D 4 M
-
-Think about a topic you are interested in. Write down four or five key words that describe what you want to learn about that topic. Then, consider how you would ask someone for information about your topic. What short, clear question would you use to get the information you need?
-
-
-(Computer Science) (Short Answer Exercise) D 4 (Exercise on computers)
-
-List the types of computer you use at home or at school. Which type of computer do you prefer to use for your school work? Why?
-
-
-(Computer Science) (Discussion Exercise) D 4 (At Home Activity, Exercise on computers)
-
-Talk to a family member who is in work. What do they use computers for at work? How do computers make it easier for them to do their job?
-
-
-(Computer Science) (Short Answer Exercise) D 4 M
-
-List three ways that you use computers to help you do school work. For each one, say how you would complete the work without a computer. How does using a computer make it easier to do your school work?
-
-
-(Computer Science) (Creative Exercise, Short Answer) D 1 (Thought Exercise)
-
-Explore the Amazon rainforest using your imagination. Describe what you think a rainforest might feel like, including the sounds you might hear, the smells you might encounter, and the textures of the plants and animals. Now think about how you could use this information with a computer to create something meaningful. Write it down.
-
-
-(Computer Science) (Short Answer Exercise, Group Activity Exercise) D 1 M
-
-Think about the importance of rainforests. Why do you think they are vital for our planet? Discuss your thoughts with someone or write them down.
-Think of how we could use computers to protect or understand rainforests better, then discuss this with your partner and write it down too.
-
-
-(Computer Science) (Short Answer Exercise, Group Activity) D 2 M
-
-Tell your teacher what kinds of animals you would like to have in a wildlife reserve. Count how many of your classmates would like different types of animals. Now, think about how computers can help us organize this information. How could we use a computer to keep track of the different animals and the number of classmates who like each one? Discuss your thoughts with someone or write them down.
-
-
-(Computer Science) (Practical Exercise) D 5 (Exercise on using spreadsheets)
-
-Open a spreadsheet and create a list titled 'My pizza snack bar'. On the worksheet, enter the number values for ingredients you want to include. Format the values as currency. Save your work.
-
-
-(Computer Science) (Short Answer Exercise) D 5 M
-
-To make a profit, a business must keep costs low and income high.  
-\begin{enumerate}[label=\alph*.]
-\item How do businesses try to keep costs low?  
-\item How do businesses try to keep income high?  
-\item Think of a successful business where you live. What do you think makes the business successful?  
+Work with a friend.
+\begin{enumerate}
+\item Set up a portable music player or radio to play music at a certain volume – not too loud!
+\item Carry the music player across the playground while your friend stays on one side of the playground.
+\item Measure how far away you are when your friend can just hear the music.
+\item Try this activity in other parts of the school and at other times. Make sure the volume is the same each time.
+\item When and where is there most noise?
+\item When and where is there least noise? 
 \end{enumerate}
 
 
-(Computer Science) (Creative Exercise) D 2 (Activity on making a poster)
-
-Make a poster about someone or something that is important to you. Add:  
-\begin{itemize}
-\item a title  
-\item a description of the person or thing  
-\item a caption that explains your choice  
-\item a text box in a unique shape (not a rectangle)  
-\end{itemize}
-If you have time, think about how you might frame your poster in words. Save your work.
-
-
-(Computer Science) (Short Answer Exercise, Activity) D 2 (Exercise on using spreadsheets)
-
-Open a spreadsheet and add a few labels filled with random numbers. Add a ‘Total' label. Use a method to add up the total. Save your work.
-
-\paragraph{Challenge Question}
-Select the cell with the word ‘Total' in it. Make this text red.
-
-\paragraph{Think With Me}
-You added up the numbers using a method. Is the result a text label or a number value? How do you know?
-
-
-(Computer Science) (Writing Exercise, Drawing Exercise) D 1 (With Material, Exercise on internet safety)
-
-Make a drawing or write about being safe on the internet.
-
-\subsection*{Materials}  
-\begin{itemize}
-\item paper and a writing tool (like a pencil or pen) or art supplies (like crayons or markers).
-\end{itemize}
-
-
-(Computer Science) (Research Exercise) D 1 (With Material, Exercise on finding internet usage statistics)
-
-Use your fact-finding skills. Find out how many people use the internet.
-
-\subsection*{Materials}  
-\begin{itemize}
-\item Access to a library or someone who can help you find information about internet usage statistics.
-\end{itemize}
-
-
-(Computer Science) (Short Answer Exercise) D 1 (Exercise on using the internet responsibly, With Material)
-
-Say or write what you would do if someone on the internet asked for personal information.
-
-\subsection*{Materials}  
-\begin{itemize}
-\item Paper and a writing tool (like a pencil or pen) to write your response.
-\end{itemize}
-
-
-(Computer Science) (Descriptive Exercise) D 1 (Exercise on describing computer peripherals)
-
-Describe what a computer screen, keyboard, and mouse feel like. Consider their shapes, textures, and any buttons or features they might have.
-
-
-(Computer Science) (Short Answer Exercise) D 1 M
-
-Try to find objects around you that are similar to a computer screen, keyboard, or mouse. Describe how they compare in terms of size, shape, and texture.
-
-
-(Computer Science) (Creative Exercise) D 6 (Exercise on tactile representation)
-
-Make a tactile representation titled 'Robots versus humans.' Use different textures or materials to represent the strengths of robots and humans. For example, use smooth materials for robots and rough ones for humans.
-
-
-(Computer Science) (Short Answer Exercise) D 6 M
-
-Describe a real-life example where robots are used to do dangerous jobs. Think of examples like fire-fighting or clearing landmines. You can share your findings verbally or write them down.
-
-
-(Computer Science) (Research Exercise) D 6 (Exercise on robots in the car industry)
-
-Research how robots are used in the car industry. Think of jobs that robots can do well and those that humans still do. Share your findings verbally or in a written format.
-
-
-(Computer Science) (Activity, Programming Exercise) D 4 (Multi-part, Exercise on creating a bookmark folder)
-
-Create a bookmark folder called Computing on your browser. Research a subject you are interested in and save useful sites you find in the folder.
-
-\paragraph{Bonus Question}
-Write an "algorithm" on how to create a bookmark folder.
-
-
-(Computer Science) (Organizing Exercise) D 4 (Exercise on using browsers)
-
-Create bookmarks for five websites, then group them into bookmark folders.
-
-
-(Computer Science) (Writing Exercise) D 4 (Activity on promoting good practice)
-
-Make an information sheet to promote good practice about saving files. Use the best practice rules you find in books or the internet to help you.
-
-
-(Computer Science) (Group Activity, Organization Exercise) D 4 (Exercise on file storage) 
-
-Work with a partner. How well does your partner use file names and folders? Suggest how your partner can make improvements to their file storage.
-
-
-(Computer Science) (Activity, Short Answer Exercise) D 4 (At Home)
-
-Spend time at home with a family member who has work stored on a computer or tablet. How do they organise their data files? Can you suggest ways to improve how they organise their files? Can you learn anything from the way they work?
-
-
-(Computer Science) (Writing Exercise) D 3 (With Material, Exercise on writing an email)
-
-Imagine you are an explorer travelling in a desert. Write an email to your teacher about what the desert is like. Use the internet to find out about hot and cold deserts if you need more information.
-
-\subsection*{Materials}  
-\begin{itemize}
-\item Access to a computer or smartphone with internet capability to send an email.
-\end{itemize}
-
-
-(Computer Science) (Research Exercise, Writing Exercise) D 3 (With Material, Exercise on sending emails)
-
-Find out the email address of someone in your class. Send them an email about a country you would like to visit one day.
-
-\subsection*{Materials}  
-\begin{itemize}
-\item Access to a computer or smartphone with internet capability to send an email.
-\end{itemize}
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-Think of a job you would like to do when you become an adult. Think of one way you might use a computer in that job. Describe how you would use a computer.
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-You may not use a computer in all parts of a job. Describe the things you would do without a computer for a job.
-
-
-(Computer Science) (Interview Exercise) D 3 M
-
-Talk to an adult who has a job, for example, someone in your family. Ask them if they use a computer. Find out how the computer helps them.
-
-
-(Computer Science) (Writing Exercise) D 2 (Exercise on creating a document)
-
-Imagine you are creating a document. Describe what you would include in it, such as text, images, or other elements.
-
-
-(Computer Science) (Creative Exercise) D 2 (Activity on creating a poster)
-
-Think of a poster you would like to create. Describe what you would add to it besides text, such as images or decorations.
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-Consider how you would find images for a document. Describe the steps you would take to look for images without using a computer.
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-List two ways you can make words stand out on a page, such as using different colors or styles.
-
-
-(Computer Science) (Programming Exercise) D 5 (Exercise on if-else statements)
-
-Create a program with an 'if... else' statement. Run the program to make sure it works. Save your file.
-
-
-(Computer Science) (Programming Exercise) D 5 (With Material, Exercise with short answer)
-
-Choose a game or game template. Add a food or item sprite to the game. Then add a character or animal sprite to the game. Use code blocks such that if the character touches the food or item, the character says "I like this dinner!".
-
-\paragraph{Bonus Question}
-Play the game several times. Keep a tally of how often the character reaches the item. What is the percentage?  
-
-\subsection*{Materials}
-\begin{itemize}
-\item An application that allows one to use code blocks to create small programs, like Scratch
-\end{itemize}
-
-
-(Computer Science) (Practical Exercise) D 5 (With Materials, Exercise on creating a photo album)
-
-Choose a recipe and make it or ask someone to make it for you. Take pictures throughout the process. Transfer your photos to your computer—use a USB cable or cloud storage. In the Photos application or the folder containing your photos, choose the photos you want for your recipe. Create an album for your recipe. Put all your chosen photos into your new album or folder.
-
-\subsection*{Materials} 
-\begin{itemize}
-\item USB cable or access to cloud storage
-\item A computer
-\end{itemize}
-
-
-(Computer Science) (Short Answer, Writing Exercise) D 5 (Exercise on sharing photos between devices)
-
-Can you think of all the ways of sharing photos between devices? Write down your suggestions. Write down the advantages and disadvantages of each of your suggestions.
-
-
-(Computer Science) (Short Answer Exercise) D 5 (Exercise on responsible computer use)
-
-Why do you need to ask permission before you connect a device to a computer?
-
-
-(Computer Science) (Activity, Short Answer, Programming Exercise) D 2 (Exercise on algorithm writing, Challenge Question)
-
-A programmer wanted to make a program. The sprite is a penguin. Here is a list of things that the penguin will do.  
-\begin{itemize}
-\item Say goodbye  
-\item Go off the screen  
-\item Say hello and your name  
-\item Ask your name  
-\item Come onto the screen  
-\end{itemize}
-
-Put these actions in the right order.
-
-\paragraph{Algorithm Writing}
-Write an algorithm showing the actions of the program in boxes joined by arrows.
-
-\paragraph{Challenge Question}
-Think of one extra action the penguin could do. Make a plan for the program that includes the extra action.
-
-
-(Computer Science) (Programming Exercise, Drawing Exercise) D 2 (With Illustration, Exercise on planning a computer program)
-
-Plan a new computer program:  
-\begin{itemize}
-\item Draw the sprite.  
-\item Say what actions the sprite will do.  
-\end{itemize}
-
-[STRDGM] The image shows a cartoon penguin on an icy landscape, with a speech bubble asking "What's your name?" and a text box saying "Hello Anna." [STPDGM]
-
-
-(Computer Science) (Practical Exercise) D 2 (With Material, Exercise on using code blocks)
-
-Use the skills you learned in class to:  
-\begin{itemize}
-\item pick a sprite  
-\item save your file.
-\end{itemize}
-
-\subsection*{Materials}
-\begin{itemize}
-\item An application that allows one to use code blocks to create small programs, like Scratch
-\end{itemize}
-
-
-(Computer Science) (Programming Exercise) D 2 (Bonus Question, With Material)
-
-Choose a program. Add a backdrop to your program.
-
-\subsection*{Materials}
-\begin{itemize}
-\item An application that allows one to use code blocks to create small programs, like Scratch
-\end{itemize}
-
-
-(Computer Science) (Short Answer Exercise, Activity Exercise) D 2 (Exercise to introduce users to programming, With Material)
-
-Think of a sprite. Draw the sprite you chose. Imagine a computer game with your sprite in it. Write down your idea. 
-Draw the sprite you chose. Imagine a computer game with your sprite in it. Write down your idea.  
-
-\subsection*{Materials}
-\begin{itemize}
-\item An application that allows one to use code blocks to create small programs, like Scratch
-\end{itemize}
-
-
-(Computer Science) (Activity Exercise) D 5 M
-
-Choose a recipe. Choose which steps of the recipe to photograph. Choose no more than six steps. Draw a storyboard that shows all the photos you need to take.
-
-
-(Computer Science) (Writing Exercise) D 5 (Exercise on creating a storyboard)
-
-Imagine you are a picture editor. It is your job to tell the photographer which photos they need to take. You need to give instructions about: location, people, design, and colours. Write your instructions to the photographer on a storyboard you would like to make.
-
-
-(Computer Science) (Activity Exercise) D 5 (Exercise on planning a photo shoot)
-
-Think about the props or materials you need for a photo shoot you would like to make. For example, a bowl or a picture of ingredients. Find the props you need and bring them to the next lesson.
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
+(Geography) (Class Activity, Drawing Exercise) D 3 (With Illustration, Exercise on map symbols)
 
 \begin{enumerate}
-\item What type of computer do you use most at school?
-\item Describe the computer and label the parts you can feel or imagine.
+\item As a class, collect different-scaled maps of your local area. Compare them.
+\item Below, is a bird's-eye view of a village. Draw a map of it. Will you include the car, truck and camel in your map? Say why.
+\item Make a class display of the symbols used on various maps. Underneath each symbol write what it means.
+\end{enumerate}
+
+[STRDGM] A diagram showing a bird's-eye view of a village, including various buildings and vehicles like a car and a truck. [STPDGM]
+
+
+(Geography) (Group Exercise) D 3 M
+
+Work with a group of friends.
+\begin{enumerate}
+\item Collect some old postcards. Read the dates and places on the postmarks. What kind of messages did people send? Can you find a way to display your results?
+\item Collect four to six stamps from each of several countries. Stick the stamps from each country on a blank postcard or sheet of paper.
+\item Find out where each country is on a world map.
+\item Look carefully at each of the stamp collections. What do they tell you about each of the countries?
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 3 M
+(Geography) (Group Exercise, Writing Exercise) D 3 (Exercise on local area changes)
 
-Which do you like best – a desktop or a laptop? Describe the one you prefer and explain why.
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-What device is at the center of a computer system? (Hint: It is not an input or output device.) Describe its function.
-
-
-(Computer Science) (Short Answer Exercise) D 4 (Activity on using the internet responsibly)
-
-Read your school's or a trusted source's advice on using the internet.
-
-\begin{enumerate}[label=\alph*.]
-\item Make sure you know what your responsibilities are. Write those down.
-\item Make sure you know how to report a problem. Write a set of instructions for doing so.
+Work in a group.  
+\begin{enumerate}
+\item Talk about how your local area has changed in the past. Look at old maps and photographs. You could interview some people who have lived in the area for a long time.  
+\item How is the area changing now? Write and draw about what you have learned.  
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 4 M
-
-Make a list of three things your school policy says you should not do when using computers.
-
-
-(Computer Science) (Short Answer Exercise) D 4 M
-
-Make a list of three things you should do when using computers in school.
-
-
-(Computer Science) (Short Answer Exercise) D 4 (Exercise on using the internet responsibly)
-
-How would you act if something you saw or read on the internet upset or frightened you? Think about who your trusted adults are. Who would you talk to at school and at home if you needed to?
-
-
-(Computer Science) (Activity Exercise) D 4 M
-
-Do you need to ask for help to manage your privacy settings? Make an action list.
-
-
-(Computer Science) (Design Exercise, Short Answer Exercise) D 6 (Exercise on web design, With Material)
+(Geography) (Activity) D 3 (Multi-part)
 
 \begin{enumerate}
-\item Design your own web page. It can be about robots or any other topic you choose. Choose a title for your page. Describe how you would organize headings, text, and images on your web page.
-\item Use a web page editor to create your web page. Describe what your page title and heading will be.
-\item Add a text box to your web page with the heading 'Did you know?' Research an interesting fact about your subject and describe it in the text box.
+\item Find a large-scale map of your street or the area around your school. Carefully colour in the different buildings according to what they are used for. Use one colour for each type of building you choose. These could include houses and apartments, schools, shops, factories, places of worship, places of leisure, and coffee shops and restaurants. Write a key to your map.  
+\item Look around your local area. Find a piece of land where the use has changed recently. Write down the old and new uses of the land. Is the new use better or worse than the old one? Say why.  
 \end{enumerate}
 
 
-\subsection*{Materials}  
+(Geography) (Map Exercise, Activity) D 5 (With Materials)
+
+Find Benidorm on a map or in an atlas. How far away is it from your home? In which direction does it lie from your home?  
+
+\subsection*{Materials}
 \begin{itemize}
-\item Paper and a writing tool (like a pen or pencil) for drawing a plan.
-\item Access to a computer or device with a web page editor.
-\item Access to information sources (like books or the internet) for research.
+\item A map or atlas with Benidorm.
 \end{itemize}
 
 
-(Computer Science) (Research Exercise, Short Answer) D 6 (Exercise on webpage headings)
+(Geography) (Writing Exercise) D 5 (Exercise on nearest seaside resort)
 
-Find a webpage on the internet. How many types of headings are used in the web page? Why are some headings larger than others?
-
-
-(Computer Science) (Short Answer Exercise) D 1 (Exercise with Bonus Question)
-
-Look at a web page about rainforest animals. Describe something you can see on the page.
-
-\paragraph{Bonus Question}
-Choose a web page. Think of any words you can imagine would be on the web page. Describe what you think you might find on this web page.
+What is the nearest seaside resort to your home? How far away is it and in which direction?
 
 
-(Computer Science) (Writing Exercise) D 1 (Short Answer)
-
-If you could create a web page on any topic, what would you choose? Describe or explain your idea.
-
-
-(Computer Science) (Discussion Exercise) D 1 M
-
-In a group, discuss how you would handle these situations: 
-\begin{enumerate}[label=\alph*.] 
-\item If someone sends you a text message that makes you unhappy, what would you do?  
-\item If someone you know answers their phone while you are talking to them, how would you respond?  
-\item If two people are arguing over one computer, what would you suggest?  
-\item If someone sends you a message with an angry emoji, how would you react?
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 1 M
-
-Think about a time when you faced a problem while using a computer.  
-\begin{enumerate}[label=\alph*.] 
-\item What was the issue?  
-\item How did you manage to solve it?
-\end{enumerate}
-
-
-(Computer Science) (Activity Exercise) D 2 (With Material)
+(Geography) (Research Exercise, Drawing Exercise) D 5 (Exercise on temperature and sunshine in Benidorm)
 
 \begin{enumerate}
-\item Open a file and call it ‘My hobby'. Add a shape to the page. Add an important message inside the shape. For example, have you made friends doing your hobby? Make the box look the way you want. Save your file.
-\item Can you work out how to change the colour or size of the text inside your text box?
+\item Use the Internet to find out how the temperature in Benidorm varies throughout the year.  
+\item Draw a line graph of your results.
+\item Which is the warmest month?
+\item Draw a line graph showing the number of hours of sunshine in Benidorm each month.
+\item Which is the sunniest month?
+\end{enumerate}
+
+
+(Geography) (Writing Exercise, Short Answer Exercise) D 5 (Exercise on describing a holiday at the coast)
+
+Describe a holiday you have taken at the coast. What was the coast like? What was there to do? If you have never been to the coast, choose a seaside resort and imagine what a visit would be like.
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+Write four reasons why Singapore is in a good location for a port.
+
+
+(Geography) (Research Exercise, Mapping Exercise, Activity) D 5 (With Materials)
+
+\begin{enumerate}
+\item Use travel guides, the Internet or an atlas to find as many ferry ports around the world as you can.
+\item Find out where each ferry travels to.
+\item Label these routes on an outline map of the world.
+\item What is the longest ferry crossing you can find?
 \end{enumerate}
 
 \subsection*{Materials}
 \begin{itemize}
-\item A text editing app like Word or Pages, or an image editing app like Gimp or Photoshop.
+\item An outline map of the world.
 \end{itemize}
 
 
-(Computer Science) (Short Answer Exercise) D 2 M
-
-Imagine you have a text document. Why could it be useful to have text in a different shape?
-
-
-(Computer Science) (Spreadsheet Exercise) D 2 (Exercise on using formulas with spreadsheets, With Material)
-
-Open a blank spreadsheet. Create a column with different animal names as rows. We will use this to track the number of animals in a nature reserve. Add numbers in a separate column, on the same rows as each animal. Give that column a label and then create another column called "Transferred" filled with numbers that are equal to or less than the previous column. Finally, in a new column enter a label and a formula to show how many animals are left in the nature reserve. 
-
-\paragraph{Think With Me}
-In this lesson you made a new formula. Write out the formula you made.
-
-\paragraph{Bonus Question}
-Change the number of a certain animal in the reserve by typing a new number. What happens to the total?
-
-\subsection*{Materials}  
-\begin{itemize}
-\item A computer or device with spreadsheet software.
-\end{itemize}
-
-
-(Computer Science) (Creative Exercise, Writing Exercise, Drawing Exercise) D 2 (With Material, Exercise on creating an advert for a nature reserve)
-
-Make an advert for a nature reserve. Draw the animals. Say how many there are. For example, “We have got 3 giraffes!” 
-
-\subsection*{Materials}  
-\begin{itemize}
-\item Paper and drawing materials (pencils, markers, etc.).
-\end{itemize}
-
-
-(Computer Science) (Editing Exercise) D 2 (With Material, Exercise on improving a poster)
+(Geography) (Short Answer Exercise) D 1 (Exercise on describing school features)
 
 \begin{enumerate}
-\item	Open a file called ‘My hobby'. Can you make any improvements to the poster? You can: 
-	\begin{itemize}
-		\item add new text and images  
-		\item change the size of text boxes  
-		\item change the size of images  
-		\item move text and images around.  
-	\end{itemize}
-\item How can you improve the title of the poster? Think about the text, the color, the size...
+\item What is your school like?
+\item Is it large or is it small?
+\item Is it old or is it new?
+\item What materials is it made of?
+\item How many children go to your school?
 \end{enumerate}
 
 
-\subsection*{Materials} 
-\begin{itemize}
-\item A file or document where you can create or edit a poster about your hobbies.
-\end{itemize}
+(Geography) (Descriptive Exercise) T D 1 (With Illustration, Exercise on identifying building materials)
+
+This is a picture of a school. It is quite a new building. What is it made of? 
+
+[STRDGM] The image shows a small school building with children playing outside on a playground. Some children are running, and there is a basketball hoop on the wall of the school. The background features green hills and trees. [STPDGM]
 
 
-(Computer Science) (Creative Exercise) D 2 (Exercise on making a poster)
+(Geography) (Discussion Exercise, Group Activity) D 1 M
 
-Make a poster about your favourite school subject.  
-\begin{itemize}
-\item Use text boxes.  
-\item Use images.  
-\item Save your file.
-\end{itemize}
+Talk with a group of friends about your school. How many classrooms are there? How many teachers are there? What are the walls made of? How many different entrances are there? Is the building all on the same floor, or does it have stairs?
 
 
-(Computer Science) (Discussion Exercise) D 2 (With Material)
-
-Look at these posters about hobbies. Talk to a friend about which poster you like best. Why do you like that poster best?  
-
-\subsection*{Materials} 
-\begin{itemize}
-\item A selection of posters about hobbies for discussion, or a description of various hobbies to facilitate conversation.
-\end{itemize}
-
-
-(Computer Science) (Creative Exercise) D 1 (Activity)
-
-Make a poster to tell other children what to do if they are worried about something they see on a web page.
-
-
-(Computer Science) (Creative Exercise) D 1 (Activity)
-
-Make a poster about a rainforest animal.
-
-
-(Computer Science) (Writing Exercise) D 1 (Exercise on creating lists)
-
-Make a list of people you could tell if something worries you on a web page.
-
-
-(Computer Science) (Short Answer Exercise) D 1 (Exercise on digital literacy, Exercise on responsible use of the internet)
-
-What could you do if your classmate tells you they have seen something online that has scared or worried them?
-
-
-(Computer Science) (Short Answer Exercise) D 6 (Multi-part)
+(Geography) (Drawing Exercise, Activity) D 1 (With Illustration)
 
 \begin{enumerate}
-	\item Describe the differences between two car assembly lines: one from the 1930s and one modern assembly line with robots. Focus on aspects like the number of people working, the types of tasks being done, and the overall environment.
-	\item Which of the two assembly lines would you prefer to work in? Explain why.
+\item Look carefully at each side of your school. Choose one side to draw. Make sure your drawing includes all the windows, all the doors, any drains and drainpipes.
+\item What materials were used to build the side of your school? Label these materials on your picture.  
+\end{enumerate}
+
+[STRDGM] A diagram showing a school layout with labeled areas such as "School," "Playground," and "Car park." [STPDGM]
+
+
+(Geography) (Activity, Drawing Exercise, Writing Exercise) D 3 (Exercise on slopes on roads and railways)
+
+Find out how slopes are marked on roads and railways. Make drawings of the signs used and write a sentence or two about each one.
+
+
+(Geography) (Map Reading Exercise, Short Answer Exercise) D 3 (Exercise on local area analysis)
+
+\begin{enumerate}
+\item Study a large-scale map of your local area.
+\item Approximately how high is your school above sea level?
+\item What is the highest point on the map and where is it?
+\item Which parts of your local area are almost flat?
+\item Are there any steep hills or valleys on the map? Where are they?
 \end{enumerate}
 
 
-(Computer Science) (Research Exercise) D 6 (Exercise with short answer)
+(Geography) (Research Exercise) D 3 (Exercise on sand dune systems)
 
-Do research on robots working in agriculture or retail. What kind of robot vehicles and machines are used in these industries?
+Use an atlas to find the location of the large sand dune systems listed below. Then, use reference books or the Internet to research one of these sand dune systems, and present your findings to the class.
 
-
-(Computer Science) (Drawing Exercise) D 1 (Activity)
-
-Draw a picture of a computer. In your picture, show:  
 \begin{itemize}
-\item the screen  
-\item the mouse  
-\item the keyboard.
+\item Arcachon in France
+\item Las Marismas in Spain
+\item Maspalomas, Gran Canaria, Spain
+\item Raabjerg Mile Dunes in Denmark
+\item Bodie Island on the Atlantic coast of the United States
+\item Fraser Island, off Queensland, Australia
+\item Oregon Dunes in the United States
+\item Empty Quarter on the Arabian Peninsula.
 \end{itemize}
 
 
-(Computer Science) (Activity Exercise) D 1 (At home exercise)
+(Geography) (Discussion Exercise, Pair Activity) D 3 M
 
-Talk to someone at home about technologies they use. Draw pictures. Bring your pictures to school.
+Work with a friend. Discuss how it might be possible to reduce the damage people do to sand dunes by trampling over them.
 
 
-(Computer Science) (Group Exercise, Short Answer Exercise) D 2 (Exercise on describing a computer)
+(Geography) (Writing Exercise) D 3 (Exercise on short story writing)
 
-Look at a computer in your classroom.
-\begin{enumerate}[label=\alph*.]
-\item Describe the computer using your senses. What do you feel when you touch it? What sounds does it make? Can you smell anything nearby? 
-\item Talk to a partner about the parts you can identify and describe them.
+Write a short story describing how a grain of sand washed up on a beach became part of a sand dune system that was eventually used as a golf course.
+
+
+(Geography) (Identification Exercise) T D 5 (With Illustration)
+
+Find Singapore on the map.
+
+[STRDGM] A map showing Singapore's location off the coast of Malaysia, with labels for nearby islands and countries. [STPDGM]
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+What are fossil fuels?
+
+
+(Geography) (Short Answer Exercise) D 3 (With Illustration)
+
+The land around the South Pole is very cold all the year round. Which animals live around the South Pole? 
+
+[STRDGM] The image shows a diagram of the Earth with annotations indicating the positions of the Equator, North Pole, and South Pole, along with arrows showing the angle of the Sun's rays at these locations. [STPDGM]
+
+
+(Geography) (Observation Exercise, Short Answer) D 3 (With Illustration)
+
+These pictures show the view from the windows of two schools. What can you see in each view? What do you think the environment is like around each school?
+
+[STRDGM] The image shows two different views from school windows: one from a village school with children playing outside and colorful decorations, and another from a city school with a playground and buildings in the background. [STPDGM]
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 3 (Exercise on water usage at home)
+
+You could use the Internet, or contact environment agencies and water companies, to help you with this exercise.
+
+\begin{enumerate}
+\item Name three places in your home where water is made dirty.
+\item Where does the dirty water go when it leaves your home?
 \end{enumerate}
 
 
-(Computer Science) (Group Activity, Short Answer Exercise) D 2 (Exercise on renewable energy sources)
+(Geography) (Design Exercise) D 3 (Exercise on poster design)
 
-\begin{enumerate}[label=\alph*.]
-\item Think about how computers use electricity. Can you list different ways electricity can be generated? 
-\item Discuss with a partner how renewable energy sources like sunshine or wind power work.
+Design a poster telling people about the problems that face our rivers and what they can do to help.
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Write your own explanation of the meanings of the following words: erosion, longshore drift, spit, bar, lagoon, deposition, beach, cliff.
+
+
+(Geography) (Drawing Exercise, Writing Exercise) D 3 (Exercise on coastlines)
+
+\begin{enumerate}
+\item Study a large-scale map showing the coast. Choose part of the coast and sketch what you think the coastline would look like.
+\item For the area of coastline you studied, design an illustrated leaflet describing what a walker or holidaymaker would see and how these features were formed.
 \end{enumerate}
 
 
-(Computer Science) (Writing Exercise) D 3 (Exercise on digital devices)
+(Geography) (Class Activity, Mapping Exercise) D 1 M
 
-Write a list of all the digital devices you can imagine using in a park or playground setting.
+Make a class display. Collect postcards from different places. Stick them in the correct place on a large map of the world.
 
 
-(Computer Science) (Writing Exercise) D 3 (Exercise on scenarios involving digital devices)
+(Geography) (Drawing Exercise) D 1 M
 
-Choose a scenario involving people in a park. Write a paragraph about:
+Make plans of your hands and feet by drawing around them on a sheet of paper. What would you look like if someone saw you from above? Draw what you think you would look like.
+
+
+(Geography) (Drawing Exercise) D 1 M
+
+Look at your school playground. Draw a plan of what you think it looks like from above.
+
+
+(Geography) (Map Exercise, Short Answer Exercise, Activity) D 5 M
+
+\begin{enumerate}
+\item Find Aqaba on a map in an atlas or on the Internet.
+\item What is the distance from your home to Aqaba?
+\item In which direction does Aqaba lie?
+\item How would you get to Aqaba from your home or school?
+\end{enumerate}
+
+
+(Geography) (Class Activity, Short Answer Exercise, Data Collection Exercise) D 5 M
+
+\begin{enumerate}
+\item What are some of the buildings found only in seaside resorts? Think about buildings that protect the coast, buildings used by people who help keep you safe at the coast, and buildings used to entertain people using the coast or beaches.
+\item Where are these special seaside buildings likely to be?
+\item Ask your friends which holiday resorts they have visited.
+\item Draw a bar chart of your results.
+\item Which resorts have been visited most often?
+\item Are these the resorts that are nearest to your home area?
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Activity) D 5 M
+
+Use an atlas and reference books or the Internet to find the following information about the Netherlands.
+
 \begin{itemize}
-\item what type of digital device they might be using
-\item what they might be doing with it
+\item the names of two countries that border the Netherlands  
+\item the names of three large cities in the Netherlands  
+\item the names of two rivers that reach the sea in the Netherlands  
+\item the name of the sea they flow into  
+\item what the flag of the Netherlands is like, then draw it  
+\item the language spoken in the Netherlands  
+\item the population of the Netherlands.  
 \end{itemize}
-You can write about anything else you like.
 
 
-(Computer Science) (Short Answer Exercise) D 3 M
+(Geography) (Activity) D 5 (With Illustration)
 
-What are the general differences between a smartphone and a tablet?
+Collect pictures and items connected with the Netherlands. Here are some suggestions: coins, postage stamps, photographs, labels from cheese packets, garden plant packets, travel tickets.  
+
+[STRDGM] Image of a container ship loading barges at Europoort, showcasing the busy port activities and large cargo containers. [STPDGM]
 
 
-(Computer Science) (Programming Exercise) D 5 (Activity on sprite movement)
+(Geography) (Writing Exercise) D 3 (Exercise on activities in different seasons)
 
-Write a program to make a sprite move. Run the program to make sure it works. Save the file.
+Imagine you live in Northern Europe or New Zealand. Write down four activities you might do in each of the seasons listed below.
+
+\begin{itemize}
+\item summer
+\item winter
+\end{itemize}
+
+
+(Geography) (Research Exercise, Activity) D 3 M
+
+Use reference books or the Internet to find out about the North and South Poles.
+
+\begin{itemize}
+\item How are they the same?
+\item How are they different?
+\end{itemize}
+
+
+(Geography) (Observation Exercise, Short Answer Exercise) D 3 (Activity on sensory observation)
+
+Look out of your classroom window. Think about what you can see, hear and smell.  
+
+\begin{itemize}
+\item Write a short description of the view.  
+\item How might the view be different at night? Describe it.  
+\item What plants and animals can you see from your classroom window? What could you do to encourage more plants and animals to live there?
+\end{itemize}
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+One of the things that spoils the appearance of buildings and streets is litter. Why do you think people leave litter? Draw or write some ideas about how you could improve the appearance of an area that has a lot of litter.
+
+
+(Geography) (Activity, Short Answer) D 3 M
+
+\begin{enumerate}
+Look at a globe or a map of the world. Run your finger along the Equator.
+Write a list of the countries the Equator passes through.
+What large cities does the Equator pass very near to or through?
+What do you think the climate of these places will be like? Use reference books or the Internet to find out if you were right.  
+\end{enumerate}
+
+
+(Geography) (Research Exercise) D 3 M
+
+Use an atlas to find which continents:  
+\begin{itemize}
+\item have large areas of very cold lands.  
+\item have large areas of desert.  
+\item have large areas of tropical rainforest (these are near the Equator).  
+\end{itemize}
+
+
+(Geography) (Class Activity, Data Collection Exercise) D 2 M
+
+\begin{enumerate}
+\item Think of six questions about India or country life in India.
+\item Try out the quiz on your friends.
+\item How many of the questions can they answer correctly?
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Compare village life in India to village life in your country. Write at least five differences.
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+In 1900 only about one Indian person in ten (10 per cent) lived in towns or cities. Today about one in three people lives in a town or city. Write down all the reasons you can think of for this change.
+
+
+(Geography) (Group Activity, Writing Exercise) D 2 (Exercise on energy-saving ideas)
+
+\begin{enumerate}
+\item Discuss with a friend how you could save energy in your school.  
+\item Write a list of your ideas.  
+\item Which of the ideas do you think would save the most energy? Explain your answer.
+\end{enumerate}
+
+
+(Geography) (Design Exercise) D 2 (Exercise on poster design)
+
+Design a poster to encourage people to walk or cycle on short journeys instead of travelling by car.
+
+
+(Geography) (Short Answer Exercise, Activity) D 2 M
+
+Write lists of the open spaces near your home or school. Use the headings: Parks and recreation grounds, Countryside, Other.
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Which leisure facilities could be built on waste ground?
+
+
+(Geography) (Collaborative Exercise) D 2 (Exercise on leisure activities and pollution)
+
+\begin{enumerate}
+\item Work with a friend. Discuss which leisure activities pollute the air, water or soil, or create lots of noise.
+\item Think of the best way to display your results and share them with the class.
+\end{enumerate}
+
+
+(Geography) (Activity, Data Collection Exercise) D 2 (Exercise with short answers)
+
+\begin{enumerate}
+\item Wearing gloves, collect all the classroom rubbish at the end of the day. Do this for a week.
+\item Sort the rubbish into types. Weigh each type.
+\item Draw a bar chart of your results.
+\item Which types of rubbish could be recycled?
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise, Activity) D 2 M
+
+How could you reuse clean plastic yoghurt pots, plastic drink bottles, and plastic jars? Try out some of your ideas to see if they work.
+
+
+(Geography) (Drawing Exercise, Short Answer Exercise) D 2 (Exercise on map drawing)
+
+\begin{enumerate}
+\item Draw a map of your local area and mark each type of recycling centre on your map using different symbols.
+\item Are there recycling centres for every type of rubbish that can be recycled?
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise, Research Exercise, Activity) D 3 M
+
+\begin{enumerate}
+\item Use an atlas and find Switzerland and Lake Lucerne.  
+\item What are the names of the countries that surround Switzerland?  
+\item Which of these countries are also landlocked?  
+\item Use reference books or the Internet to find out what these countries are like. Write a sentence or two about each one.  
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Which large river has its source in Switzerland and flows north through France, Germany and the Netherlands?
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Which of these countries have a coastline and which are landlocked?  
+
+Australia, Austria, Bhutan, Bolivia, Botswana, Chad, China, Italy, Japan, Mali, Paraguay, Zambia.
+
+
+(Geography) (Collaborative Exercise, Short Answer Exercise) D 3 (Exercise on communication methods)
+
+Work with a friend.
+\begin{enumerate}
+\item Talk about how you would send an urgent message to a friend.
+\item Would you send a fax, a letter, a text message or an e-mail? Say why.
+\item Write a simple description for a friend telling him or her how to send an e-mail message or a text message.
+\end{enumerate}
+
+
+(Geography) (Writing Exercise) D 3 (Exercise on creative writing)
+
+Write a message that you could send by e-mail to someone of your own age in one of the countries that borders the country you are from.
+
+
+(Geography) (Short Answer Exercise, Activity) D 5 M
+
+The prevailing winds over much of Europe come mainly from the west, especially in winter.
+
+Look at a map of Europe in an atlas or on the Internet. Why do you think the prevailing winds often bring wet weather?
+
+
+(Geography) (Activity) D 5 (Exercise on designing a device) 
+
+Using a short stick, some tissue paper and some sticky tape, design and make a device that will show you the wind strength and direction.
+
+
+(Geography) (Research Exercise) D 5 M
+
+\begin{enumerate}
+\item Use an atlas or the Internet to find the estuaries of the world's major rivers, such as the Amazon, Nile, Ganges, Volga, Yangtze, Niger and Congo.
+\item Name the large towns or cities on each of these estuaries.  
+\item Which rivers flow into these estuaries?  
+\item Can you find any large bridges or tunnels crossing these estuaries?  
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Data Collection Exercise) D 5 (Exercise on holiday resorts)
+
+Some newspapers record the number of hours of sunshine each day for holiday resorts. Choose five resorts and write down the number of hours of sunshine for each resort for a month. Draw a bar chart of your results. Which is the sunniest seaside resort in your sample?
+
+
+(Geography) (Writing Exercise) D 1 (Exercise on school jobs)
+
+Write a list of the jobs people do in your school. Find out what work they do when you are not in school.
+
+
+(Geography) (Group Exercise) D 1 M
+
+Work in a group. On a sheet of paper draw three large circles. Label one circle: 'I make things'. Label the second circle: 'I sell things'. Label the third circle: 'I help people'. Collect pictures showing the different jobs people do. Stick each picture in the correct circle.
+
+
+(Geography) (Research Exercise, Activity) D 1 M
+
+Collect some pictures and tourist maps of your own area. What things are shown on the maps?
+
+
+(Geography) (Drawing Exercise, Short Answer Exercise) D 1 (Exercise on creating a tourist map) 
+
+Draw a tourist map of your school for a wall display. What things could you show on your map?
+
+
+(Geography) (Drawing Exercise, Short Answer Exercise) D 1 (Exercise on school journeys)
+
+Draw a large plan of your school. On it record the journeys you make around the school each day. Use a different colour for each journey. Label each journey to say where it goes from and to. Which parts of the school are the busiest?
+
+
+(Geography) (Writing Exercise) D 3 (Exercise on advantages and disadvantages)
+
+Imagine you live in a small farm high up in the Andes. Write a list of the advantages and disadvantages of living in the mountains.
+
+
+(Geography) (Research Exercise) D 3 (Exercise on mountain ranges)
+
+There are many mountain ranges in the world. Choose one of them and make a fact file about it. Include such headings as Length, Highest mountain, Type of mountains, Vegetation (plant life), People, Farming, Mining and Tourism.
+
+
+(Geography) (Discussion Exercise, Pair Activity) D 3 M
+
+Work with a friend. Discuss why you think there are few large cities in the Andes.
+
+
+(Geography) (Drawing Exercise, Labelling Exercise) D 3 (Exercise on mountain ranges and solitary mountains)
+
+On an outline map of the world, draw and label as many mountain ranges and solitary mountains as you can.
 
 \subsection*{Materials}
 \begin{itemize}
-\item A computer and software or an application that lets someone use code blocks to animate or program, like Scratch.
+\item An outline map of the world.
 \end{itemize}
 
 
-(Computer Science) (Activity, Writing Exercise) D 5 (With Material, Exercise on program blocks)
+(Geography) (Research Exercise, Writing Exercise, Short Answer Exercise) D 3 (Exercise on mountain ranges)
 
-Program blocks in a program have numbers in them. They might represent the number of steps, the number of repeats in a loop, or the number of seconds to wait between wing flaps for a bird. Open an example program and change values like these and see how your changes affect the program. Describe these effects in writing.
+Research a mountain range. How was it formed? What is the scenery like? Who lives there? Write a short description of what you discover.
 
-\subsection*{Materials}
+
+(Geography) (Activity, Short Answer Exercise) D 3 (Exercise on collecting postage stamps) 
+
+Collect postage stamps that show mountains or volcanoes. Display your stamps in an album or on a wall chart. Write a sentence or two about each of the stamps, the mountains or volcanoes they show, and the countries the stamps came from.
+
+
+(Geography) (Research Exercise) D 3 (Exercise on Australian rivers)
+
+\begin{enumerate}
+\item Find the names of five Australian rivers other than the Murray River.
+\item Create a spreadsheet to show which oceans or seas they flow into and which large towns or cities are built along them.
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
+
+What is the name of Australia's largest lake? Where is it? Do any rivers flow into it?
+
+
+(Geography) (Creative Exercise, Activity) D 3 M
+
+Use building blocks or other modelling equipment to design and build a model dam system.
+
+
+(Geography) (Research Exercise) D 5 M
+
+Use an atlas or the Internet to find how many of the world's largest cities are on the coast.
+
+
+(Geography) (Research Exercise) D 5 (Exercise on large ports, industrial towns, villages, and holiday resorts on the coast)
+
+Find out about large ports, industrial towns, villages, and holiday resorts on the coast.
+
+
+(Geography) (Research Exercise) D 5 (Exercise on why settlements develop on the coast) 
+
+Research why settlements develop on the coast, focusing on natural harbours, estuaries, and river crossings.
+
+
+(Geography) (Research Exercise) D 5 M
+
+Identify important resources or industries that led to the growth of coastal towns and cities.
+
+
+(Geography) (Short Answer Exercise) D 5 (With Answer)
+
+What is a beach?
+
+\subsection{Answers}
+Beaches are the gently sloping areas of sand, pebbles or mud at the edge of an ocean, sea or lake.
+
+
+(Geography) (Short Answer Exercise) D 5 (With Answer)
+
+Where does beach sand come from?
+
+\subsection{Answers}
+Most sand is made up of tiny particles, or grains, of rock. When the waves erode cliffs, lumps of rock break off and crash down to the beach below.
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+How are winds formed?
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Answer the following questions about the water cycle:
+\begin{enumerate}
+\item Where is most water stored in the water cycle?
+\item How does water move from the oceans and seas to the air?
+\item How does water move from the air to the land?
+\item How does water move from the land to the oceans and seas?
+\end{enumerate}
+
+
+(Geography) (Activity, Short Answer Exercise) D 3 M
+
+During a heavy rainstorm, 1 centimetre of rain fell on a village. This means that the rainwater filled a straight-sided tin or jar to a depth of 1 centimetre.
+\begin{enumerate}
+\item Work out how many litres of water would fall on 1 square metre of land during the storm. Experiment using small containers and marking out a square metre on the ground, or by simple calculation.
+\item How much does this water weigh?
+\item Approximately how much water would fall on your whole playground if 1 centimetre of rain fell over it?
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Data Analysis Exercise) D 3 (Exercise on rainfall patterns)
+
+Find out how much rain falls each year where you live.
+\begin{enumerate}
+\item Where are the wettest parts of your country?
+\item Where are the driest parts?
+\item Which months are wettest?
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Write a list of all the ways in which tourists in a mountain area might spend their money.
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Write a list of all the jobs that tourists to a mountain area might help to create.
+
+
+(Geography) (Design Exercise) D 3 (Exercise on poster design) 
+
+Design a poster to warn people of the ways in which they can damage mountains.
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
+
+\begin{enumerate}
+\item Which mountain areas do people most often visit for holidays? Look at travel agents' advertisements and brochures and the Internet to find out.
+\item What attractions do these places offer for holidaymakers?
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+\begin{enumerate}
+\item Approximately how much would the temperature fall if you climbed from sea level to the top of Mount Everest, which is 8863 metres high?
+\item If the temperature where you are today dropped by the amount you calculated, what would the temperature be like?
+\end{enumerate}
+
+
+(Geography) (Research Exercise) D 3 M
+
+Find out all you can about the kinds of clothes people should wear when they walk in the mountains.
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+How does weathering affect buildings, monuments and other structures?
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Is the weathering of buildings in towns and cities worse than in the country? Why is this?
+
+
+(Geography) (Drawing Exercise, Mapping Exercise) D 1 (Exercise with pairs)
+
+\begin{enumerate}
+\item Draw a picture or map of your school playground.
+\item Now draw another picture or map of your playground as you would really like it to be. What would you add? What would you take away?
+\item Go for a walk around your school or school grounds. Draw a map of the route you took.
+\item Show your map to a friend. Ask your friend to work out where you went.
+\end{enumerate}
+
+
+(Geography) (Drawing Exercise, Labelling Exercise) D 5 (Exercise on school mapping)
+
+\begin{enumerate}
+\item Draw a plan of your school and its grounds.
+\item Walk around the school and label your map with all the places where water moves, such as taps, drains, gutters and downpipes.
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise, Activity) D 5 M
+
+\begin{enumerate}
+\item Look at a globe or the map of the world. Can you see that nearly three quarters of the Earth is covered by water?
+\item Can you name the five great oceans in the world?
+\item Identify the largest ocean, which is the Pacific Ocean. 
+\end{enumerate}
+
+
+(Geography) (Experiment Exercise, Activity) D 5 M
+
+Boulders break down into pebbles and then into grains of sand. You can show this with the following experiment: Step 1: Place a few small pieces of blackboard chalk in a plastic jar half full of water. Step 2: Screw the lid on the jar and shake it vigorously. Step 3: What happens to the pieces of chalk? Step 4: What is left in the bottom of the jar?
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 5 M
+
+Beach sand is made of tiny pieces of rock, shells or coral.
+\begin{enumerate}
+\item Write down as many uses of beach sand as you think of.
+\item Use reference books and the Internet to find out the uses of sand.
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Writing Exercise) D 5 (Exercise on sandy beaches)
+
+\begin{enumerate}
+\item Use holiday brochures, the Internet and holiday guides to find out where the best sandy beaches are in the world.
+\item Write lists of the sandy beaches arranged by continent or country.
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
+
+Look at an atlas and answer these questions:
+\begin{enumerate}
+\item What is the name of the sea that separates Egypt from Europe?
+\item Roughly how far from the sea is Cairo?
+\item What is the name of the sea that separates Egypt from Saudi Arabia?
+\item What countries lie to the west and south of Egypt?
+\item What is the nearest country across the sea north of Egypt?
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise, Drawing Exercise) D 3 M
+
+\begin{enumerate}
+\item Write a list of all the journeys you and your family make in a day, and in a week.
+\item Draw a spider diagram to show how many different ways the people in your family make their journeys.
+\end{enumerate#}
+
+
+(Geography) (Group Exercise) D 3 M
+
+Work with a group of friends and talk about the jobs done by the adults you know. Find out where and how far the adults travel to work. Who has to make the longest journey?
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Write a list of the animals that can be killed when there is oil pollution at sea.
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Write a list of the jobs that can be affected when there is oil pollution at sea.
+
+
+(Geography) (Research Exercise, Data Collection Exercise) D 2 (Exercise on fuel consumption of cars)
+
+\begin{enumerate}
+\item Use manufacturers' catalogues, advertisements and websites to compare the fuel consumption of different makes of car.
+\item Show your results in a spreadsheet.
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Why is it important for a car to have a low fuel consumption?
+
+
+(Geography) (Labelling Exercise, Activity) D 3 M
+
+\begin{enumerate}
+\item Write a list of the food and drink you have had today.
+\item Which countries did each of the foods come from?
+\item Display this information on an outline map of the world.
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
+
+\begin{enumerate}
+\item Choose one of the main food crops, such as wheat, rice or potatoes.
+\item Use reference books or the Internet to find out where, when and how the crop is grown and harvested.
+\item How does your chosen crop get to the shops and supermarkets?
+\item What kinds of meals is it used for?
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
+
+Find out what kinds of fish and shellfish are sold at your local shops. Where are these fish caught or packed?
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+What are fish fingers and fish steaks made from?
+
+
+(Geography) (Research Exercise, Activity) D 3 (Activity on reducing the effects of overfishing)
+
+Use the Internet to find out what is being done to try to reduce the effects of overfishing.
+
+
+(Geography) (Discussion Exercise, Short Answer Exercise) D 3 (With Illustration, Exercise on obesity and its risks)
+
+Discuss obesity and its risks.
+
+[STRDGM] A group of people sitting together, possibly discussing health issues related to obesity. [STPDGM]
+
+
+(Geography) (Observation Exercise, Short Answer Exercise, Activity) D 1 M
+
+\begin{enumerate}
+\item Look around your classroom. How many things are round?  
+\item How many things are square or rectangular?  
+\end{enumerate}
+
+
+(Geography) (Group Exercise) D 1 M
+
+Work with some friends. Use a large open box to make a model of your classroom. Use smaller boxes for the desks or tables, bookcases and cupboards.
+
+
+(Geography) (Research Exercise, Class Activity) D 1 (Exercise on continents)
+
+\begin{enumerate}
+\item Choose one of the continents. Find out about its countries, main mountains and rivers.
+\item Tell the rest of the class what you have discovered.  
+\end{enumerate}
+
+
+(Geography) (Drawing Exercise) D 1 M
+
+Draw a picture or diagram on a large sheet of paper showing what happens to a bottle or jar that you have used at home and then taken to the recycling centre.
+
+
+(Geography) (Design Exercise) D 1 (Exercise on poster design)
+
+Design a poster to encourage people to recycle their old bottles, cans, paper, plastic, clothes and other waste materials.
+
+
+(Geography) (Research Exercise, Data Extraction Exercise) D 5 M
+
+Look at a large-scale map or road map of your area. Write a list of all the villages, towns and cities that have been bypassed.
+
+
+(Geography) (Group Exercise, Discussion Exercise) D 5 (Exercise with debate activity)
+
+Imagine there is a proposal to build a bypass around the area where you live.  
+\begin{enumerate}
+\item Work with a group of friends and discuss whether, and where, the bypass should be built.  
+\item Play the parts of the following local people in your discussion: a farmer, an elderly person, a traffic planner, a school head teacher, a truck driver, a birdwatcher and the owner of a house on the route of the proposed bypass.  
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise, Writing Exercise, Activity) D 5 M
+
+Imagine you are a local planning officer. You receive a proposal to build a large new shopping centre and a cinema complex next to the local bypass. Write a list of arguments for and against allowing the shopping centre and cinema complex to be built.
+
+
+(Geography) (Drawing Exercise, Mapping Exercise) D 5 (Exercise on mapping activity)
+
+Look at a map of your local area. Draw a map of the area where you live. Include all the different types of road. Label the roads with their correct names. Draw a key for your map.
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Write a list of the kinds of things that might delay road traffic and railway trains. Which kind of traffic is most easily delayed?
+
+
+(Geography) (Discussion Exercise, Writing Exercise) D 3 (Exercise with pair activity, Short Answer)
+
+Some people say that if we had bigger and better roads, then road traffic delays would not occur so often. Talk about this with a friend. Do you agree or disagree? Write down the arguments for and against bigger and better roads.
+
+
+(Geography) (Mapping Exercise) D 5 (Exercise on labeling areas of drought and famine)
+
+On a large map of the world, label areas where drought and famine are in the news. Draw a key to your map.
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+Imagine there is a drought where you live. Write down as many ways as you can think of to save water.
+
+
+(Geography) (Research Exercise, Data Collection Exercise, Short Answer) D 5 (Exercise on rainfall data)
+
+Some newspapers, television channels and Internet sites show the daily rainfall in large towns and cities across the world.
+\begin{enumerate}
+\item Choose five different cities and write down the daily rainfall in each place, for one week.
+\item Write the cities, in order, from wettest to driest.
+\item Use an atlas to help you label these places on a map. Where are the wettest cities? Where are the driest ones? Is there a pattern?
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise, Activity) D 5 M
+
+Imagine that you are a shopkeeper in a street from which motor vehicles have been banned to reduce traffic problems.
+\begin{enumerate}
+\item Give one reason why you might be pleased about this.
+\item Give one reason why you might not be pleased.
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+One way to reduce the number of cars in large towns and cities is to make drivers pay a toll fee every time they enter the town or city. Another is to start a park-and-ride bus scheme. Which plan do you think would be best and why?
+
+
+(Geography) (Short Answer Exercise, Group Activity) D 5 M
+
+In the rush hour in many towns and cities, each car often contains only one person. Work with a friend and discuss what could be done to change this in order to reduce traffic problems. Write down your conclusions.
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+Write one advantage of motor vehicles over trains for passenger travel.
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+Write two disadvantages of rail travel.
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+Is train travel best for short, medium, or long journeys?
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+Write two advantages of trains over trucks for transporting goods.
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 5 M
+
+\begin{enumerate}
+\item Which is the nearest airport to your home or school?
+\item Use maps and local information or the Internet to find out where the main roads are that people use to get to and from the airport.
+\item Do the roads pass through towns and villages, or do they go around them?
+\end{enumerate}
+
+
+(Geography) (Discussion Exercise, Group Activity) D 1 M
+
+Work with a group of friends. Discuss what you like best about your environment. What don't you like about it? What do you think could be made better?
+
+
+(Geography) (Activity) D 1 M
+
+Use a box, such as an old cereal packet, to make a small litter bin for your table or the library corner.
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 1 (Activity on using an atlas)
+
+\begin{enumerate}
+\item Use an atlas to find Malta, Florida and Jamaica.  
+\item If you were to travel to each of these places from your home, how would you get there?  
+\item Which countries, oceans and seas would you cross to reach each of these places?  
+\end{enumerate}
+
+
+(Geography) (Group Exercise, Research Exercise) D 1 M
+
+Work with some friends. Collect some holiday brochures. Find six seaside resorts in different parts of the world. Discuss which resort you like most. Write a few sentences to say why you would like to spend a holiday there.
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 3 (Exercise on news reports of famines)
+
+Look for news reports of famines and mark where they occur on a world map. What caused each one?
+
+
+(Geography) (Discussion Exercise, Pair Activity) D 3 M
+
+Most food we buy in packets and other containers has a date printed on it. If the food is not sold by this date, the food is thrown away. Work with a friend.
+\begin{enumerate}
+\item Discuss whether you think these dates are a good thing or a bad thing.
+\item What do you think should be done with the food that is past its date? Why?
+\end{enumerate}
+
+
+(Geography) (Discussion Exercise, Group Activity) D 3 M
+
+Work with a group of friends. Imagine that the government or local council wants to allow the sea to flood a length of low-lying coast in order to protect a town a little way inland. Discuss how you would feel if you were:
 \begin{itemize}
-\item A computer and software or an application that lets someone use code blocks to animate or program, like Scratch.
-\item A saved program made with the above application, that the student can use to follow the instructions of the activity/exercise.
+\item a farmer who owns some of the land that will be flooded
+\item a local wildlife expert
+\item a local fisherman
+\item the mayor of the nearby town
+\item a civil engineer who builds sea walls.
 \end{itemize}
 
 
-(Computer Science) (Programming Exercise, Short Answer) D 5 (Exercise on loops)
+(Geography) (Short Answer Exercise) D 3 M
 
-This program uses a loop. 
+Explain the difference between a sea wall, a breakwater and a groyne.
+
+
+(Geography) (Design Exercise, Research Exercise, Data Collection Exercise) D 3 (Exercise on poster design)
+
+Look for pictures of artificial and natural sea defences in magazines, travel brochures or on the Internet. Use them to make a poster or class display. Write a sentence or two describing each picture.
+
+
+(Geography) (Research Exercise) D 5 M
+
+Find places on the coast in an atlas or on the Internet.
+
+
+(Geography) (Exploration Exercise) D 5 (With Illustration)
+
 \begin{enumerate}
-\item What kind of loop is it? 
-\item What is the exit condition?
+\item Visit the seashore, which includes exploring beaches, cliffs, and sand dunes.
+\item Observe how wind and waves shape coastlines into cliffs, caves, bays, and stacks.
+\item Learn about estuaries where rivers flow into the sea and observe the formation of mudflats. 
+\item Explore the changing coastlines due to the action of waves and wind. 
 \end{enumerate}
 
-\subsection*{Materials} 
-\begin{itemize}
-\item A computer and software or an application that lets someone use code blocks to animate or program, like Scratch.
-\item A saved program made with the above application, that the student can use to follow the instructions of the activity/exercise.
-\end{itemize}
+[STRDGM] The image shows a coastline in Australia shaped by wind and waves, featuring cliffs, bays, and rocky towers called stacks. [STPDGM]
+[STRDGM] The image depicts an estuary in Wales, where a river flows into the sea. [STPDGM]
 
 
-(Computer Science) (Short Answer Exercise) D 2 M
+(Geography) (Short Answer Exercise) D 1 M
 
-Here are some actions that an old lady did during a day where she made a hat:  
-\begin{itemize}
-\item Peel the potatoes  
-\item Sew flowers on the hat  
-\item Find a straw hat  
-\item Pick flowers  
-\item Drink a glass of water  
-\item Tidy the room  
-\item Put the hat on the donkey's ears
-\item Make holes in the hat 
-\end{itemize} 
-Which actions are necessary to make a hat?//
-
-Necessary means actions that must happen. For example, 'Tidy the room' is not necessary to make a hat. What do you think might be necessary when using the internet?
+What is a country?
 
 
-(Computer Science) (Short Answer Exercise) D 1 M
+(Geography) (Short Answer Exercise) D 1 (With Illustration)
 
-Look at the image.
+How many countries can you see on this map of Africa? 
+
+[STRDGM] A colorful map of Africa showing various countries, each marked in different colors. [STPDGM]
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Write a list of the problems that affect cities.
+
+
+(Geography) (Short Answer Exercise, Activity) D 3 M
+
+What would you like/not like about living in a city?
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Are most of the cities in the Northern Hemisphere or the Southern Hemisphere?
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Do some continents have more large cities than others? Which ones?
+
+
+(Geography) (Research Exercise) D 3 M
+
+Use reference books or the Internet to find out about Japan and Tokyo. Make a fact file to help with the following activities.
+
+
+(Geography) (Writing Exercise, Short Answer, Activity) D 3 M
+
+Pretend that you have been transported to Tokyo for the day.
+
+\begin{enumerate}
+\item Write a description of what you see, feel, hear, smell and eat.
+\item Are you sad or happy to leave the city at the end of the day?
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Write a list of three Japanese companies and some of the goods they make.
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+What do you have at home that was made in Japan?
+
+
+(Geography) (Map Exercise) D 3 (Exercise on map skills)
+
+Look at the map of the world. Where is Japan?
+
+
+(Geography) (Map Skills Exercise) D 1 M
+
+A border is the line that marks the edge of a country. Some borders are wiggly; some borders are straight. Look at a map or atlas and list five countries with straight borders.
+
+
+(Geography) (Map Skills Exercise) D 1 (Exercise on countries with a coastline)
+
+Some countries have the sea as a border. They are countries with a coastline. Using your map, write the names of six countries that do not have a coastline.
+
+
+(Geography) (Map Exercise, Short Answer Exercise) D 1 (Exercise on map skills)
+
+Look at an atlas or a globe and make a list of as many countries as you can through which the Equator passes.
+
+
+(Geography) (Map Skills Exercise, Short Answer Exercise) D 1 (Activity on map skills)
+
+Can you find two large islands on the Equator? What are they?
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 5 M
+
+A terrible disease called cholera struck parts of London, England, in 1854. Hundreds of people died. A local doctor, John Snow, was able to prove it was because of the dirty water people drank. Find out more about cholera from reference books or the Internet. Find the names of two countries where people still suffer from cholera.
+
+
+(Geography) (Class Activity, Design Exercise, Writing Exercise, Short Answer Exercise) D 5 (Exercise with short form writing)
+
+\begin{enumerate}
+\item Collect pictures of different kinds of coastline.
+\item Make a class display or a scrapbook with your pictures.
+\item Write a sentence or two to describe each picture.
+\end{enumerate}
+
+
+(Geography) (Design Exercise) D 5 (Exercise on creating an illustrated dictionary)
+
+\begin{enumerate}
+\item Make an illustrated dictionary of the following words to do with coasts: beach, cliff, wave, sand dune, pebble, estuary, mudflat, port.
+\item Add new words to your dictionary as you learn them.
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Writing Exercise) D 5 (Exercise with short answer)
+
+Use a map in an atlas or on the Internet to choose a part of the coast you would like to visit. Write down the reasons for your choice.
+
+
+(Geography) (Writing Exercise, Research Exercise, Drawing Exercise) D 3 (Exercise with creative writing, Exercise on mapping)
+
+Find out about a change that is taking place in your area, such as the building of a new road or apartment block, or the closing down of a factory. Imagine you are a newspaper reporter. Write a news story for your newspaper about this change. Draw a map with pictures to show where the change is taking place.
+
+
+(Geography) (Research Exercise, Data Collection Exercise, Class Activity) D 3 (Exercise on collecting pictures and historical data)
+
+Collect pictures of your village, town or city. What are the oldest pictures you can find? How has your village, town or city changed? Can you find any early plans or maps? As a class, display your pictures, plans and maps.
+
+
+(Geography) (Short Answer Exercise, Drawing Exercise) D 3 (Exercise on planning a village, town or city)
+
+Imagine you have to plan a new village, town or city centre. What sort of buildings will it need? Draw a picture to show what your new village, town or city will look like.
+
+
+(Geography) (Data Collection Exercise, Short Answer) D 3 (Exercise on recording weather, M)
+
+Record the weather every morning and afternoon for a week. Use symbols to show what the weather is like. Does the weather change much where you live?
+
+
+(Geography) (Data Collection Exercise, Short Answer Exercise, Activity) D 3 M
+
+Look at newspapers or use the Internet to find out what the temperatures are in Abu Dhabi, Berlin, Cairo, London, Singapore, and New York. Do this each day for a month and record your results.
 \begin{enumerate}[label=\alph*.]
-\item What can you see on the code block?
-\item What do you think it means? How might the block function?
-\end{enumerate}
-  
-[STRDGM] An image of a code block: The block is yellow, with the shape of an irregular polygon and has the text "when clicked" on it as well as the symbol of a mouse click, indicating an action that triggers when the block is activated. [STPDGM]
-
-
-(Computer Science) (Programming Exercise) D 6 (With Material, Multi-part)
-
-\begin{enumerate}
-\item Open an example game. Add a snake to the game. Write a script for the snake so that it moves left to right. Use a conditional loop so that the game stops if the snake 'catches' the frog.
-\item Change the commands inside the loop so that the snake waits for two seconds, then jumps to a random position on the screen. Does this make the game easier or harder?
+\item Which city has the warmest temperatures?
+\item Which city has the coolest temperatures?
+\item Repeat this activity at a different time of the year. How do the results compare?
 \end{enumerate}
 
-\subsection*{Materials} 
-\begin{itemize}
-\item A computer and software or an application that lets someone use code blocks to animate or program, like Scratch.
-\item A saved program made with the above application, that the student can use to follow the instructions of the activity/exercise. It should consist of a game that involves a moveable frog that can be controlled using four keys.
-\end{itemize}
+
+(Geography) (Design Exercise) D 5 (Exercise on poster design)
+
+Design a poster to help to raise money for a water project in a country where there is a shortage of clean, safe water.
 
 
-(Computer Science) (Writing Exercise) D 6 (Exercise on creating a poster or leaflet)
+(Geography) (Research Exercise) D 5 M
 
-Make a poster or leaflet explaining what modules are and why they are used in programming. Use ideas that were taught in class. You can make the poster using word-processing software. If you have some, you include screenshots of your code as illustrations.
-
-
-(Computer Science) (Creative Exercise, Short Answer) D 6 (Exercise on inventing a robot)
-
-Invent your own robot which would help with cleaning. Think of a name for your robot. List the main functions of your robot and the advantages of using it to do the cleaning.
-
-\paragraph{Think With Me}
-Is your robot cleaner humanoid or not? Why did you make that choice?
-
-\paragraph{Bonus Activity}
-Design a poster to advertise the new robot cleaner.
+Look at a water bill for your home. How is the amount you have to pay worked out? What kinds of things does the water company charge for?
 
 
-(Computer Science) (Short Answer Exercise) D 4 (With Prerequisites)
+(Geography) (Data Collection Exercise, Activity) D 5 (Experiment)
 
-In your own words, explain what the 'join' operator does.
-
-\subsection*{Prerequisites} 
-\begin{itemize}
-\item Knowledge of an application that lets someone use code blocks to animate or program, like Scratch.
-\end{itemize}
+You can work out how much water a dripping tap wastes. Turn on the cold tap until it is just dripping. Put a bucket under the tap and measure how much water drips into the bucket in an hour. How much water would drip away in a day, a week and a year?
 
 
-(Computer Science) (Programming Exercise) D 4 (Extra challenge, With Prerequisites)
+(Geography) (Class Activity, Design Exercise) D 1 (Exercise on making a class wall display) 
 
-The light blue 'Sensing' blocks include a block called 'answer'. This is a variable that stores the user's answer to the question. Add an extra block that says the user's answer.
-
-\subsection*{Prerequisites} 
-\begin{itemize}
-\item Knowledge of an application that lets someone use code blocks to animate or program, like Scratch.
-\end{itemize}
+Make a class wall display about oceans. Use old newspapers and magazines for pictures and information.
 
 
-(Computer Science) (Programming Exercise) D 3 (Exercise on algorithms)
+(Geography) (Geography Exercise, Map Exercise) D 1 (Exercise on using an atlas)
 
-Write a plan for a program that inputs a number, then outputs the number times two. Make a program to match your plan.
-
-
-(Computer Science) (Creative Exercise) D 3 (Exercise on digital stories and slideshows)
-
+Use an atlas and find:
 \begin{enumerate}[label=\alph*.]
-\item Think of a digital story you would like to write, then start a new slide show.  
-\item Make a title slide for your digital story.  
-\item Make the first slide of your digital story. 
-Save your slide show.
+\item the name of the ocean that lies between Europe and North America.  
+\item the name of the ocean between the North Pole and Greenland.  
+\item the name of the ocean between Africa and Australia.
 \end{enumerate}
 
 
-(Computer Science) (Creative Writing Exercise) D 3 (At Home Exercise)
+(Geography) (Map Exercise) D 3 (Exercise on searching locations)
 
-Come up with a story. Tell an adult at home the story you have made up. If you wish, you can ask for ideas to change the story. If you agree with their ideas, note them down.
-
-
-(Computer Science) (Drawing Exercise) D 1 (Activity)
-
-Paint a funny face using lots of colours and shapes. Now try to make the face using computer software. Make a display in class of both types of image.
-
-
-(Computer Science) (Activity Exercise) D 1 (With Prerequisite, With Material)
-
-Do as many of these activities as you can. 
-\begin{enumerate}
-\item Start the program and move the mouse to see what happens.
-\item Change the start block of this program.
-\item Add the extra purple block to the program.
-\item Change the program so the sprite says “Hello.”  
-\end{enumerate}
-Write or tell the teacher what you did.
-
-\subsection*{Prerequisites}
-\begin{itemize}
-\item A basic understanding of how to navigate the Scratch interface.
-\end{itemize}
-
-\subsection*{Materials}  
-\begin{itemize}
-\item A computer or device with Scratch installed or accessible online.
-\item A way to write down or communicate your findings (notebook, voice recorder, etc.).
-\end{itemize}
-
-
-(Computer Science) (Programming Exercise) D 1 (With Prerequisite, Exercise on creating instructions for Scratch)
-
-Create a simple set of instructions for Scratch to follow when you click. What would you want Scratch to do?
-
-\subsection*{Prerequisites}
-\begin{itemize}
-\item A basic understanding of Scratch
-\end{itemize}
-
-
-(Computer Science) (Short Answer Exercise) D 5 (Exercise on connecting computing to real life)
-
-Describe your dream job when you grow up. How will you use a computer in your job?
-
-
-(Computer Science) (Survey Exercise) D 5 (At Home Exercise)
-
-Find out what the adults in your family and other grown-up friends think about teleworking. Ask these questions.  
-\begin{enumerate}
-\item Do you ever do part of your job from home using an internet link?  
-\item Could you do more of your job from home using an internet link?  
-\item Would you like to do more work from home?  
-\end{enumerate}
-Ask any other questions you can think of. Write down the people's answers so you can share them with the class.
-
-
-(Computer Science) (Writing Exercise) D 5 (Exercise on creating an advert for a dream job)
-
-Make an advert for your dream job. Include the computer skills that are needed for the job.
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-What can you do if you are not sure if a link is safe?
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-Visit the web page of a restaurant. 
-\begin{enumerate}
-\item Find one example of a fact on this page. 
-\item Find one example of an opinion.
-\end{enumerate}
-
-
-(Computer Science) (Writing Exercise) D 2 (Exercise on creating a short play)
-
-Make up a short play about how to talk kindly and politely to friends online.
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-Sometimes you may spend too much time on the internet. Can you think of any ways you can help yourself remember to do other kinds of activities?
-
-
-(Computer Science) (Discussion Exercise) D 2 (At Home Exercise)
-
-Talk to an adult about how to keep safe and happy when using computers at home.
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-Think of another task that humans enjoy doing. Could computers do this task instead?
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-How can a computer help nurses? What tasks are better for nurses to do themselves?
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-Give one reason why we might decide not to use a computer to help with a task.
-
-
-(Computer Science) (Research Exercise, Short Answer) D 2 (Exercise on restaurant research)
-
-Open a search engine. Search for the type of restaurant you like best.  
-\begin{enumerate}
-\item What kind of food is served at this type of restaurant?  
-\item	\begin{itemize}
-		\item Does it serve delicious salads?  
-		\item Can you buy sweets and cakes?  
-		\item Can you buy warming soup?  
-	\end{itemize}
-\item What kind of imaginary secret restaurant will you have?
-\item There may be more links on the restaurant web page. Can you find them?
-\end{enumerate}
-
-\paragraph{Group Work}
-\begin{enumerate}
-\item Tell your classmate one thing you like about the website you have found.  
-\item Tell your classmate one thing that could be improved on the website. 
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 2 (Exercise on using the internet responsibly)
-
-What should you do if you are not sure if you can trust a website?
-
-
-(Computer Science) (Research Exercise) D 2 (Exercise on using the internet responsibly, Exercise on thinking critically)
-
-Search for a website about healthy food for children. Ask yourself the three questions about the website: 
-\begin{enumerate} 
-\item Can I understand it?  
-\item Is it useful?
-\item Can I trust it?
-\end{enumerate}
-
-
-(Computer Science) (Research Exercise) D 2 (Class Activity)
-
-As a class, make a list of easy to understand, useful, and trustworthy food websites.
-
-
-(Computer Science) (Short Answer Exercise) D 5 M
-
-List the main internet services. Say which ones you have used. Give an example.
-
-
-(Computer Science) (Short Answer Exercise) D 5 M
-
-Give examples to the answers of the following questions:
+Look at the map of the world.
 \begin{enumerate}[label=\alph*.]
-\item Which devices do you use to connect to the internet?
-\item Which services do you prefer to access using a smartphone?
-\item Which services do you prefer to access using a computer?
+\item Where is Brazil?
+\item Which are Brazil's main cities?
+\end{enumerate}
+
+\begin{enumerate}
+\item A map of the world.
 \end{enumerate}
 
 
-(Computer Science) (Research Exercise, Short Answer) D 5 (Exercise on smart home systems)
+(Geography) (Research Exercise, Short Answer Exercise) D 3 (Activity on oil spill cleanup methods)
+
+Use reference books or the Internet to find out what can be done to get rid of oil floating in the sea and washed up on beaches.
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+What can be done to help seabirds whose feathers have oil on them?
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Discuss the main causes of water pollution.
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Can you think of a way that water pollution could be reduced?
+
+
+(Geography) (Research Exercise) D 3 M
+
+Find out six facts about Brazil from books, atlases, travel brochures, the Internet or other sources.
+
+
+(Geography) (Writing Exercise, Design Exercise) D 3 (Exercise on creative writing, Exercise on designing a postcard)
+
+Imagine you are on holiday in Rio de Janeiro. Design a postcard with a picture on the front. Write a description of what you have been doing on your postcard.
+
+
+(Geography) (True or False Exercise) D 3 M
+
+Copy these sentences and write True or False against each:
+\begin{enumerate}[label=\alph*.]
+\item Brazil is a very large country.
+\item Favelas are places where rich people live.
+\item The cities in Brazil are growing quickly.
+\item The people who live in favelas make their own homes.
+\item There are farms in the centre of Rio de Janeiro.
+\item Many people move from the countryside to Rio de Janeiro to look for jobs.
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Write a list of all the things that people use rocks for.
+
+
+(Geography) (Research Exercise, Data Collection Exercise) D 2 (Exercise with bar chart)
+
+Look around your school or home. The objects you see are all made of materials that come from natural resources.
+\begin{enumerate}[label=\alph*.]
+\item Draw a bar chart to show the materials that each of the objects is made of. You could use the following headings on your chart: Wood, Plastic, Metal, Fabric, Other.
+\item Which is the most common material used in your school or home?
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Class Activity, Mapping Exercise) D 2 (Exercise on atlas search)
 
 \begin{enumerate}[label=\alph*.]
-\item Research smart home heating or air conditioning systems on the web. 
-\item List some of the features. 
-\item How do smart home air conditioning and heating systems help the environment? 
+\item Working as a class, collect newspaper, magazine or Internet articles about volcanoes and earthquakes.
+\item Use an atlas to see where each volcanic eruption or earthquake occurred.
+\item Draw a map showing where and when each eruption or earthquake occurred, and what damage and how many deaths or injuries were caused.
 \end{enumerate}
 
 
-(Computer Science) (Research Exercise, Short Answer Exercise) D 5 (Must involve Tungurahua)
+(Geography) (Modeling Exercise) D 2 (Activity on creating a cross-section of the Earth)
 
-\begin{enumerate}[label=\alph*.]
-\item Carry out a web search about Tungurahua. How many results does the search return? 
-\item Add some more key words to your search. What happens to the number of results?
-\item How many adverts are shown when you search for Tungurahua? 
-\item What are the adverts for? Do they give you any useful information?
-\end{enumerate}
+Use different coloured pieces of modelling clay to make a model of a cross-section through the Earth. Your model should show: the inner core, the outer core, the mantle and the Earth's crust.
 
 
-(Computer Science) (Short Answer Exercise, Research Exercise) D 5 (Must involve search engines and advertising, Activity on search engines and advertising)
+(Geography) (Writing Exercise) D 2 (Exercise on creative writing)
 
-\begin{enumerate}[label=\alph*.]
-\item Carry out a web search for more information about how search engines work.
-\item How many adverts are at the top of the list of results?
-\item How many of the adverts give you useful and relevant information?
-\end{enumerate}
+Write a story called ‘A journey to the centre of the Earth'. In your story you should describe what it would be like if you could travel from the Earth's crust down to the Earth's inner core.
 
 
-(Computer Science) (Programming Exercise) D 1 (With Prerequisite, Exercise on changing stage size)
+(Geography) (Short Answer Exercise) D 5 M
 
-Imagine you want to change the size of the stage on a computer program. 
-\begin{enumerate}
-\item Describe how you would change the size of a stage if you were using a computer program. 
-\item What actions would you take?
-\end{enumerate}
-
-\subsection*{Prerequisites}
-\begin{itemize}
-\item Knowledge or basic understanding of the Scratch programming app or a Scratch-like app.
-\end{itemize}
+You are going to travel across the Sahara Desert or Arabian Desert. List the things you will take with you, in order of importance. What problems would you have in the desert? How would you cope with them?
 
 
-(Computer Science) (Short Answer Exercise) D 1 (Multi-part)
+(Geography) (Class Activity, Research Exercise, Creative Exercise) D 5 (Exercise on plant and animal life in deserts)
 
-Imagine you want to change the background of a scene. 
-\begin{enumerate}
-\item Describe how you would do this without using a computer. 
-\item What steps would you take to visualize a new backdrop?
-\end{enumerate}
+Write and illustrate a book or make a class display on plant and animal life in deserts. Use reference books or the Internet to help you.
 
 
-(Computer Science) (Short Answer Exercise) D 1 M
+(Geography) (Drawing Exercise, Short Answer Exercise) D 1 M
 
 \begin{enumerate}[label=\alph*.]
-\item Make a list of types of toys that children played with long ago. Think of toys like balls, dolls, games, and animals. You can say or write down any other toys you remember or think of.
-\item Name one more type of toy you could add to this list. Think about toys you have seen or heard about.
-\item Can you think of a game or toy that you play with on a computer or tablet that helps you solve puzzles or learn something new? What do you learn or solve when you play it?
+\item Lay some tracing paper on a globe. Carefully draw round one of the continents.
+\item Now lay your tracing next to the same continent on a map of the world. How are they the same? How are they different? Why are they different?
 \end{enumerate}
 
 
-(Computer Science) (Practical Exercise) D 3 (Exercise to introduce someone to importing images)
+(Geography) (Research Exercise, Search Exercise, Short Answer Exercise) D 1 (Exercise on atlas search)
 
-\begin{enumerate}[label=\alph*.]
-\item Open a file on your computer.  
-\item Import an image.  
-\item Save your file.
-\end{enumerate}
+Look at the labels in your clothes. Use an atlas to find the countries where your clothes were made. Write a sentence saying what each item is and where it came from.
 
 
-(Computer Science) (Discussion Exercise) D 3 (Exercise on group activity)
+(Geography) (Drawing Exercise, Creative Exercise) D 1 (Exercise on depicting geographical features)
 
-Talk with a classmate about what happens when a slide has too many words or pictures.
-
-
-(Computer Science) (Short Answer Exercise) D 4 (Multi-part)
-
-\begin{enumerate}
-\item What shape of box is used to show a logical test? Draw the shape.
-\item What shape of box is used to show output? Draw the shape.
-\end{enumerate}
+Draw or paint a picture of Bahrain, showing the sea. Add a crane, a container ship, some cliffs and beaches, or some of the other things you might see on the island.
 
 
-(Computer Science) (Activity Exercise) D 4 (Exercise on using spreadsheets)
+(Geography) (Discussion Exercise, Pair Activity) D 1 M
 
-\begin{enumerate}
-\item Use the Sum function to calculate the total value for a spreadsheet of your choice. 
-\item Print the spreadsheet. 
-\end{enumerate}
-Remember to save your work.
+There are good hospitals and doctors on Bahrain. This is not so on many small islands that are a long way from the mainland. Discuss with a friend what you would do if you were very ill or badly injured on a small island a long way from the mainland.
 
 
-(Computer Science) (Short Answer Exercise) D 4 M
+(Geography) (Short Answer Exercise, Discussion Exercise) D 3 M
 
-The 'AutoSum' button lets you add other functions to your spreadsheet. These include average and maximum values. Try the different functions. What results do you get?
-
-
-(Computer Science) (Planning Exercise) D 6 M
-
-Plan a survey:
-\begin{enumerate}[label=\alph*.] 
-\item Write down your survey goal. Make sure you include information about location and times.  
-\item Write down the data you will need to collect for your survey. Find quantitative and qualitative data types.  
-\item Investigate the technology you can use to collect data. Are there any apps that can help you?
-\item How will you carry out your survey? Write down some ideas on how you could prepare for the survey and record your data. 
-\end{enumerate}
+Discuss the human causes of famine, including wars, civil disturbances, and desertification.
 
 
-(Computer Science) (Short Answer Exercise) D 6 M
+(Geography) (Short Answer Exercise) D 3 M
 
-Surveys create a lot of data. How can you record this data so that you can use it to meet a survey goal?
-
-
-(Computer Science) (Programming Exercise) D 6 M
-
-Change a program so that whenever an event of your choice happens, the program emits a sound.
+Explain how war causes famine by disrupting farming and food transport.
 
 
-(Computer Science) (Programming Exercise) D 1 M
+(Geography) (Short Answer, Illustration Exercise) D 3 (With Illustration)
 
-You learned how to add a backdrop to a program. Give a program a backdrop.
+Describe the impact of desertification on farmland and food production. 
 
-
-(Computer Science) (Activity) D 1 M
-
-Imagine a program that is very noisy when it is used. 
-How noisy would it be in your classroom when lots of children use this program?
-
-Sound output can be noisy. Listening on headphones means you don't disturb anyone else.
+[STRDGM] Image of a refugee camp in Dadaab, Kenya, showing tents and people, illustrating the plight of Somali refugees. [STPDGM]
 
 
-(Computer Science) (Matching Exercise) D 4 (Exercise on percentages and fractions)
+(Geography) (Creative Exercise, Class Activity) D 1 M
 
-You have learned that a percentage is a different way of writing a fraction. 
-Take these percentages: 50%, 33.3%, 60%, 12.5%, 75%.\\
-
-Match them to these fractions: one-half, one-third, three-fifths, one-eighth, one-quarter.
+Make a class display of a cold forest or a hot and wet one. Include pictures of some of the animals that might live in your forest.
 
 
-(Computer Science) (Short Answer Exercise) D 4 (Exercise on spreadsheets, With Material)
+(Geography) (Research Exercise, Short Answer Exercise) D 1 (Exercise on exploring different terrains)
 
-Change some of the numbers stored in the spreadsheet. You will see that all the percentages change automatically. 
-\begin{enumerate}[label=\alph*.]
-\item Explore the effect of changes you make. Explain why you think these automatic changes can help people who work with spreadsheets. 
-\item What are the possible disadvantages?
-\end{enumerate}
-
-\subsection*{Materials}
-\begin{itemize}
-\item A spreadsheet with numbers tied to percentages by formulas.
-\end{itemize}
+Look carefully at the pictures of deserts, forests and mountains on the Internet. Imagine you are an explorer lost in each place. What would you need to stay alive?
 
 
-(Computer Science) (Data Visualization Exercise) D 3 (Exercise on creating charts)
+(Geography) (Research Exercise) D 3 (Exercise on creating a fact file)
 
-Open a spreadsheet with two columns of data.
-\begin{enumerate}
-\item Make a line chart to visualize the data.
-\item Make a bar chart to compare the growth of each column.  
-\end{enumerate}
+Use reference books, travel brochures or the Internet to make a fact file about Kenya and Nairobi.
 
 
-(Computer Science) (Short Answer Exercise) D 3 M
+(Geography) (Design Exercise) D 3 (Exercise on poster design)
 
-A pie chart shows how a whole is divided into parts. Think of a good use for a pie chart.
+Design a travel poster to encourage people to visit Nairobi. What features would you advertise? Why?
 
 
-(Computer Science) (Drawing Exercise) D 3 (Activity)
+(Geography) (Short Answer Exercise) D 3 (Exercise on advantages and disadvantages)
+
+Imagine you are trying to persuade a factory owner to build a new factory on the outskirts of a village in Kenya. Write the disadvantages and advantages of building such a factory.
+
+
+(Geography) (Research Exercise, Mapping Exercise) D 3 M
 
 \begin{enumerate}[label=\alph*.]
-\item Draw a picture on a piece of paper. Think of a character. It could be a boy, a girl, an animal, a machine, a plant, or anything else you like. 
-\item Draw your character. Think of a setting. Where does your story happen? Is it now, long ago, or the future? Is it in a city, mountains, or desert? 
-\item Draw the setting. 
-\item Think of a problem for your character. Maybe a child has lost something important. Maybe an older person was lonely. 
-\item Draw the problem. Think of a solution to the problem. Maybe the child's brother helped them find the lost thing. Maybe the older person found a friend.
-\item Draw the solution.
+\item Use information from the Internet to draw a map of the world showing where the developed and less-developed parts of the world are.
+\item Some people say that the countries of the world can be divided into the richer, developed countries in the north and poorer, less-developed in the south. From your map, for which countries is this untrue?
 \end{enumerate}
 
 
-(Computer Science) (Creative Writing Exercise) D 3 (Exercise on storyboarding)
+(Geography) (Research Exercise, Collaborative Exercise, Short Answer Exercise) D 3 M
 
-Come up with a story.
-\begin{enumerate}
-\item Make a storyboard of your story. Draw boxes on plain paper. In each box draw the next thing that happens in your story.
-\item Come up with the title and the first sentence of your story
-\end{enumerate}
-
-
-(Computer Science) (Activity, Exploration Exercise) D 6 M
-
-Open a spreadsheet. Experiment with different table colours and styles. Which do you like best? Why?
-
-
-(Computer Science) (Short Answer Exercise) D 6 M
-
-In a data table for parcels (shipping), every parcel has a unique code number. Why does the business use code numbers to identify parcels?
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-Give an example of personal information that you would not share on the internet.
-
-
-(Computer Science) (Exercise) D 2 (Activity)
-
-Imagine different items or information.  
+Collect food labels, packets and wrappings.
 \begin{enumerate}[label=\alph*.]
-\item Which things would you give to your family?  
-\item Which things would you give to your friends?  
-\item Which things would you give to anyone in real life?  
-\item Which things would you give to anyone on the internet?  
+\item Where were the foods grown or manufactured?
+\item Which of the foods came from poorer, less-developed countries?
+\item Discuss with a friend whether you think this is a good thing or a bad thing.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise, Activity) D 2 M
+(Geography) (Short Answer) D 1 (With Illustration)
 
-Plan or describe a web page for a secret restaurant you might own.
+Which continents can you see?
 
-
-(Computer Science) (Short Answer Exercise) D 3 (Exercise on wearable devices)
-
-Another type of digital device is called a wearable device. Have you heard of that before? Describe what a wearable device is and its uses.
+[STRDGM] Image of Earth from space and a globe showing different continents and countries. [STPDGM]
 
 
-(Computer Science) (Short Answer Exercise) D 3 (Exercise on identifying non-digital devices)
+(Geography) (Research Exercise, Activity) D 2 M
 
-Say something that is not a digital device. Explain your answer.
-
-
-(Computer Science) (Activity Exercise) D 1 M
-
-Imagine you are an archaeologist finding old toys. You want to make a list of the toys you have found. Open a spreadsheet. You can enter labels by typing them in a cell.\\
-
-Click on a designated area to start.\\  
-Type the label: ‘Toys'.\\
-Press ‘Enter'.\\
+Carry out a litter survey in or near your school grounds.
+\begin{enumerate}[label=\alph*.]
+\item Write a list of all the items of litter you find.
+\item Which is the most common item of litter in your school grounds?
+\item Which of the items of litter will eventually rot away and which will not?
+\end{enumerate}
 
 
-(Computer Science) (Practical Exercise) D 3 (Exercise to introduce someone to importing images)
+(Geography) (Short Answer Exercise) D 1 (Exercise on lenses)
 
 \begin{enumerate}[label=\alph*.]
-\item Open a file on your computer.  
-\item Import an image.  
-\item Save your file.
+\item Make a collection of different things with lenses in them.  
+\item Which lenses make things look bigger?  
+\item Which lenses make things look smaller?  
+\item Which lens is best for looking at something far away?  
 \end{enumerate}
 
 
-(Computer Science) (Discussion Exercise) D 3 (Exercise on group activity)
+(Geography) (Short Answer Exercise, Research Exercise) D 1 M
 
-Talk with a classmate about what happens when a slide has too many words or pictures.
-
-
-(Computer Science) (Short Answer Exercise) D 4 (Exercise on shapes used in logical tests and outputs)
-
-\begin{enumerate}
-\item What shape of box is used to show a logical test? Draw the shape.
-\item What shape of box is used to show output? Draw the shape.
-\end{enumerate}
+Watch the weather forecasts on television. Can you see any photographs taken from satellites?
 
 
-(Computer Science) (Practical Exercise) D 4 (Exercise on using spreadsheets)
-
-\begin{enumerate}
-\item Use the Sum function to calculate the total value for a spreadsheet of your choice. 
-\item Print the spreadsheet. 
-\end{enumerate}
-Remember to save your work.
-
-
-(Computer Science) (Short Answer Exercise) D 4 M
-
-The 'AutoSum' button lets you add other functions to your spreadsheet. These include average and maximum values. Try the different functions. What results do you get?
-
-
-(Computer Science) (Planning Exercise) D 6 (Exercise on surveys)
-
-Plan a survey:
-\begin{enumerate}[label=\alph*.] 
-\item Write down your survey goal. Make sure you include information about location and times.  
-\item Write down the data you will need to collect for your survey. Find quantitative and qualitative data types.  
-\item Investigate the technology you can use to collect data. Are there any apps that can help you?
-\item How will you carry out your survey? Write down some ideas on how you could prepare for the survey and record your data. 
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 6 M
-
-Surveys create a lot of data. How can you record this data so that you can use it to meet a survey goal?
-
-
-(Computer Science) (Programming Exercise) D 6 M
-
-Change a program so that whenever an event of your choice happens, the program emits a sound.
-
-
-(Computer Science) (Programming Exercise) D 1 M
-
-You learned how to add a backdrop to a program. Give a program a backdrop.
-
-
-(Computer Science) (Activity) D 1 M
-
-Imagine a program that is very noisy when it is used. 
-How noisy would it be in your classroom when lots of children use this program?
-
-Sound output can be noisy. Listening on headphones means you don't disturb anyone else.
-
-
-(Computer Science) (Matching Exercise) D 4 M
-
-You have learned that a percentage is a different way of writing a fraction. 
-Take these percentages: 50%, 33.3%, 60%, 12.5%, 75%.\\
-
-Match them to these fractions: one-half, one-third, three-fifths, one-eighth, one-quarter.
-
-
-(Computer Science) (Short Answer Exercise) D 4 (With Material)
-
-Change some of the numbers stored in the spreadsheet. You will see that all the percentages change automatically. 
-\begin{enumerate}[label=\alph*.]
-\item Explore the effect of changes you make. Explain why you think these automatic changes can help people who work with spreadsheets. 
-\item What are the possible disadvantages?
-\end{enumerate}
-
-\subsection*{Materials}
-\begin{itemize}
-\item A spreadsheet with numbers tied to percentages by formulas.
-\end{itemize}
-
-
-(Computer Science) (Data Visualization Exercise) D 3 (Exercise on creating charts)
-
-Open a spreadsheet with two columns of data.
-\begin{enumerate}
-\item Make a line chart to visualize the data.
-\item Make a bar chart to compare the growth of each column.  
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-A pie chart shows how a whole is divided into parts. Think of a good use for a pie chart.
-
-
-(Computer Science) (Drawing Exercise, Creative Exercise) D 3 (Activity on storytelling through drawing)
+(Geography) (Discussion Exercise, Pair Activity) D 1 M
 
 \begin{enumerate}[label=\alph*.]
-\item Draw a picture on a piece of paper. Think of a character. It could be a boy, a girl, an animal, a machine, a plant, or anything else you like. 
-\item Draw your character. Think of a setting. Where does your story happen? Is it now, long ago, or the future? Is it in a city, mountains, or desert? 
-\item Draw the setting. 
-\item Think of a problem for your character. Maybe a child has lost something important. Maybe an older person was lonely. 
-\item Draw the problem. Think of a solution to the problem. Maybe the child's brother helped them find the lost thing. Maybe the older person found a friend.
-\item Draw the solution.
+\item Do you think Bahrain would be a nice place to live and work? Tell a friend what you think.
+\item What job would you like to do there? Say why.
 \end{enumerate}
 
 
-(Computer Science) (Creative Writing Exercise) D 3 (Exercise on storyboarding)
+(Geography) (Design Exercise) D 1 (Exercise on creating a poster) 
 
-Come up with a story.
-\begin{enumerate}
-\item Make a storyboard of your story. Draw boxes on plain paper. In each box draw the next thing that happens in your story.
-\item Come up with the title and the first sentence of your story
-\end{enumerate}
+Make a poster advertising Bahrain as a good place to visit for a holiday.
 
 
-(Computer Science) (Activity, Exploration Exercise) D 6 M
+(Geography) (Short Answer Exercise) D 5 M
 
-Open a spreadsheet. Experiment with different table colours and styles. Which do you like best? Why?
-
-
-(Computer Science) (Short Answer Exercise) D 6 M
-
-In a data table for parcels (shipping), every parcel has a unique code number. Why does the business use code numbers to identify parcels?
+If a bucket holds 10 litres of water, how many buckets of water does the average family of four use in one week? And in one year?
 
 
-(Computer Science) (Short Answer Exercise) D 2 M
+(Geography) (Short Answer Exercise) D 5 M
 
-Give an example of personal information that you would not share on the internet.
-
-
-(Computer Science) (Activity Exercise) D 2 M
-
-Imagine different items or information.  
-\begin{enumerate}[label=\alph*.]
-\item Which things would you give to your family?  
-\item Which things would you give to your friends?  
-\item Which things would you give to anyone in real life?  
-\item Which things would you give to anyone on the internet?  
-\end{enumerate}
+Imagine you had to collect all the water for your family from a well at the other end of your street. How would this change life in your home?
 
 
-(Computer Science) (Short Answer Exercise, Activity) D 2 M
+(Geography) (Short Answer Exercise, Research Exercise) D 5 (Exercise on sewage in the sea)
 
-Plan or describe a web page for a secret restaurant you might own.
-
-
-(Computer Science) (Short Answer Exercise) D 3 (Exercise on wearable devices)
-
-Another type of digital device is called a wearable device. Have you heard of that before? Describe what a wearable device is and its uses.
+How is sewage in the sea harmful? Use reference books or the Internet to help you find out.
 
 
-(Computer Science) (Short Answer Exercise) D 3 M
+(Geography) (Research Exercise, Writing Exercise) D 5 (Exercise on geographic formations)
 
-Say something that is not a digital device. Explain your answer.
-
-
-(Computer Science) (Activity Exercise) D 1 M
-
-Imagine you are an archaeologist finding old toys. You want to make a list of the toys you have found. Open a spreadsheet. You can enter labels by typing them in a cell.\\
-
-Click on a designated area to start.\\  
-Type the label: ‘Toys'.\\
-Press ‘Enter'.\\
-
-Your list should now include the label 'Toys'.
+Collect pictures showing bays, headlands, arches, stacks, caves and blowholes formed by waves and make a class display or scrapbook. Include a sentence or two to describe each picture.
 
 
-(Computer Science) (Short Answer Exercise) D 3 M
+(Geography) (Class Activity, Experiment Exercise) D 5 M
 
-Open a Scratch program. Write down all the blocks you have used that have numbers you can change. Say what each block does.
-
-
-(Computer Science) (Group Exercise) D 4 (Exercise on creating a computer game)
-
-Work with a partner to think of an idea for a computer game. Describe it to your partner. Working together, draw or paint some of the characters you would use in this game.
+Some rocks are harder than others. Think of a method to compare the hardness of different types of rock. Try out your method to see if it works. Share your results with the class.
 
 
-(Computer Science) (Short Answer Exercise) D 4 M
+(Geography) (Class Activity, Discussion Exercise) D 2 M
 
-\begin{enumerate}
-\item What are your favorite computer games? 
-\item How could they be improved? 
-\item If you could invent a new computer game, what features would you like it to have?
-\end{enumerate}
+Discuss the impact of rubbish and litter on the environment.
 
 
-(Computer Science) (Data Analysis Exercise) D 4 (Exercise on creating pie charts)
+(Geography) (Short Answer Exercise) D 2 M
 
-Open a spreadsheet of data. If you don't have any, gather some or fill a spreadsheet with random numbers. Create a pie chart using your data.
-
-\paragraph{Think With Me}
-Consider what information a pie chart could represent about you or your family. Sketch an example and remember to include a title and labels.
-
-\paragraph{Bonus Question}
-Explore how to change the design of your pie chart to make it clearer.
+Explain what landfill sites are and their effects.
 
 
-(Computer Science) (Programming Exercise) D 6 (Exercise on input counting, Exercise with user interaction)
+(Geography) (Short Answer Exercise) D 2 M
 
-Make a program that counts the number of inputs it gets. Use any available method to keep track of the count, such as using a piece of paper to tally each input.
-
-\paragraph{Questions}
-Imagine that the programmer did not want to include the final input that stops the count. 
-\begin{enumerate}[label=\alph*.] 
-\item How could you change the method to make this happen? Consider how you would keep track of the inputs without counting the last one.
-\end{enumerate}
-
-\paragraph{CBonus Questions}
-Adapt the program to add useful messages to the user. 
-\begin{enumerate}[label=\alph*.] 
-\item Tell the user that the program counts the number of inputs.  
-\item Tell the user that they can stop the program by indicating they want to stop.  
-\item Alter the final message so that it states the total number of inputs counted.
-\end{enumerate}
+Come up with a list of tips on how to make less rubbish while shopping.
 
 
-(Computer Science) (Short Answer Exercise) D 1 (Multi-part)
+(Geography) (Short Answer Exercise) D 2 M
 
-\begin{enumerate}
-\item Think of a game you like. What are the inputs and outputs of this game? Describe them in detail.
-\item Talk about other computer games you know. What were the inputs and outputs? Describe them in detail.
-\end{enumerate}
+Describe the dangers of litter to wildlife and pets.
 
 
-(Computer Science) (Short Answer Exercise) D 1 (Exercise with tactile representation)
-
-Describe two ways to control a computer using your own words or by creating a tactile representation, like using different textures or shapes to represent each method.
-
-
-(Computer Science) (Short Answer Exercise) D 1 M
-
-What makes a good file name?
-
-
-(Computer Science) (Short Answer Exercise) D 2 (Exercise on input devices)
-
-What devices are used for input? Describe two different devices. Write their names.
-
-
-(Computer Science) (Short Answer Exercise) D 2 (Multi-part)
+(Geography) (Research Exercise, Map Exercise, Data Exercise) D 2 (Exercise on data collection)
 
 \begin{enumerate}[label=\alph*.]
-\item Describe a device that has a touchscreen. 
-\item Explain how you would show yourself using the touchscreen. 
-\item What is the name of the device?
+\item Find and look at the map showing where most earthquakes occur.
+\item Now compare the map with an atlas that shows the populations of cities.
+\item Write a list of ten cities with a population of more than one million people that are in areas where earthquakes are most likely to occur.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 2 M
+(Geography) (Writing Exercise, Group Activity) D 2 (Exercise on planning for natural disasters)
 
-What device can you use to input a song to a computer?
-
-
-(Computer Science) (Research Exercise, Short Answer) D 5 (Activity)
-
-Carry out a search to find information about wildlife in China. Choose a method to gather information that works for you, such as asking someone knowledgeable or using a library resource. Then answer the questions below.
-
-\begin{enumerate}
-\item List the key words or phrases you used in your search.
-\item Write down two pieces of information about wildlife in China that you found.
-\item List three sources of information you thought were useful (these could be people, books, or other resources).
-\item Which source did you choose as the best? 
-\item Give reasons why you chose that source. Provide as much detail as you can about the source you selected.
+Work in a group. Imagine that earthquakes are quite common where you live. Write a plan for dealing with a severe earthquake. Decide how you would:
+\begin{enumerate}[label=\alph*.]
+\item deal with the injured (is the local hospital damaged?)
+\item find shelter for the homeless
+\item deal with dangerous buildings
+\item put out fires
+\item provide food and water for the survivors.
 \end{enumerate}
 
 
-(Computer Science) (Activity, Short Answer Exercise) D 6 (Exercise on validation, With Material)
+(Geography) (Short Answer Exercise) D 5 M
 
-Open a saved spreadsheet. Add validation to the data as shown in this lesson. Find the invalid data. Replace the circled numbers with new data that does not break the validation criteria. The circles will disappear as the data is valid.
-
-\paragraph{Bonus Question}
-The app will stop you from typing invalid data. It shows an error message. Explore what happens when you enter invalid data.
-
-\subsection*{Materials}  
-\begin{itemize}
-\item A spreadsheet application (like Microsoft Excel or Google Sheets) and a saved spreadsheet with filled-in data.
-\end{itemize}
+Nomads do not build permanent homes. Write down why you think this is.
 
 
-(Computer Science) (Activity Exercise) D 1 M
+(Geography) (Research Exercise) D 5 M
 
-To make an input in a computer you can use:  
-\begin{itemize}
-\item a keyboard
-\item a mouse 
-\end{itemize}
-
-Describe how you would represent these two types of input using tactile materials. For example, you could use different textures to represent the keyboard and mouse, or create a model using clay or other materials.  
-
-[STRDGM]A child is sitting at a desk with a keyboard in front of them and a mouse beside it. The child is smiling and appears to be engaged with the computer.[STPDGM]
-
-
-(Computer Science) (Short Answer Exercise, Thought Exercise) D 3 M
-
-\begin{enumerate}
-\item Discuss how you can create art using different tools. Think about how computers can help people make art. 
-\item Is using a computer to create art a valid way to express creativity? What are your thoughts on this?
+Use reference books to find out about the kinds of homes people have in hot desert areas.
+\begin{enumerate}[label=\alph*.]
+\item What are the homes made of?
+\item Why are so many houses in desert areas painted white?
+\item Why do they often have thick walls and small windows?
 \end{enumerate}
 
 
-(Computer Science) (Programming Exercise) D 3 (Exercise on creating a one-block Scratch program)
+(Geography) (Class Activity, Research Exercise) D 5 (Exercise on desert houses) 
 
-Create a one-block Scratch program to produce visual output. Run and save the program.
-
-
-(Computer Science) (Programming Exercise) D 3 (Exercise on creating a program)
-
-To make a four-sided shape, you divide 360 by 4. Make a program that divides 360 by a number input by the user. Run the program and see what the output is.
+Collect pictures of different kinds of desert house and make a class display of them.
 
 
-(Computer Science) (Programming Exercise, Short Answer) D 6 (Exercise on algorithms with deliberate errors)
-
-\begin{enumerate}
-\item Create a version of an algorithm that counts from one number to another, with a deliberate error.  
-\item Run the program. Enter numbers from 1 to 10. What answer do you get? Is it the right answer?  
-\end{enumerate}
-
-
-(Computer Science) (Drawing Exercise) D 1 (Exercise on types of output)
-
-There are two outputs:  
-\begin{itemize}
-\item visual output  
-\item sound output
-\end{itemize}
-Draw a picture to show the two types of output.
-
-
-(Computer Science) (Short Answer Exercise) D 1 M
-
-Different types of computer have different inputs and outputs. Find out as many different kinds as you can and make a list.
-
-
-(Computer Science) (Creative Exercise, Writing Exercise) D 1 (Involves writing)
-
-Some people have never used a computer. Think of a person like that. Write a letter to them. Tell them how you use a computer at school. Draw a picture to show them.
-
-
-(Computer Science) (Short Answer Exercise, Activity) D 5 (Exercise on describing devices using senses)
-
-Think of a device you have used that connects to the internet.\\
-Describe this device using your senses:
-\begin{itemize}
-\item What does it feel like? 
-\item What sounds does it make? 
-\item What do you think it looks like?
-\end{itemize}
-
-
-(Computer Science) (Short Answer Exercise) D 5 M
-
-Imagine you are explaining the internet to someone who has never used it. How would you describe it in simple terms?
-
-
-(Computer Science) (Short Answer Exercise) D 5 M
-
-Consider how you connect to the internet. Describe the process using your own words. What steps do you take to get online?
-
-
-(Computer Science) (Short Answer Exercise) D 1 M
-
-A classmate wants to make a copy of a sprite. Tell her how to do it.
-
-
-(Computer Science) (Presentation Exercise) D 6 (Activity)
-
-Make a presentation to share some data you found or collected with your classmates. Add these slides:  
-\begin{enumerate}
-\item A title slide showing the name and subject of your presentation 
-\item A slide explaining what the data is about and 
-\item A slide showing a plot of the data
-\item A slide with one observation of yours
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 6 M
-
-In your own words, explain the advantages to programmers of reusing and repurposing programs.
-
-
-(Computer Science) (Programming Exercise) D 6 (Multi-part)
-
-\begin{enumerate}
-\item Make a program that takes 10 input numbers from the user and repeats them back to them. 
-\item Adapt the program so the program asks the user how many numbers they want to input.
-\end{enumerate}
-
-
-(Computer Science) (Activity Exercise) D 4 (Exercise on creating and modifying charts)
-
-\begin{enumerate}
-\item Make a pie chart.
-\item Change your pie chart to a bar chart.  
-\item Try different chart designs and colour schemes. Choose the type of bar chart you like best – explain why.  
-\end{enumerate}
-Save and print your work.
-
-\paragraph{Bonus Questions}
-\begin{enumerate}
-\item Copy your bar chart.  
-\item Open your word processor.  
-\item Create a new document and write a short sentence explaining what data your bar chart shows.  
-\item Paste your bar chart into the new document.  
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 4 (Multi-part)
+(Geography) (Short Answer Exercise, Drawing Exercise) D 5 (Exercise on clothes in hot deserts)
 
 \begin{enumerate}[label=\alph*.]
-\item What kinds of document have data in them? 
-\item When is it better to use charts than numbers to show your data? Explain why.
+\item What kind of clothes do people wear in hot deserts?
+\item What colours are the clothes?
+\item What materials are the clothes made from?
+\item Draw pictures of the kind of clothes people wear in hot deserts.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 4 M
-
-Explain how uploading files lets you change the sounds or images of a game.
-
-
-(Computer Science) (Programming Exercise) D 4 (Exercise on creating a Scratch game)
-
-Make a new Scratch game with a different background and sprites. For example, a new game might include a butterfly that dodges dinosaurs. What other ideas can you think of?
-
-
-(Computer Science) (Short Answer Exercise) D 3 (Multi-part)
-
-\begin{enumerate}[label=alph*.]
-\item How can you create a simple drawing program using basic commands? 
-\item Describe the steps you would take to make a program that draws shapes.
-\end{enumerate}
-
-
-(Computer Science) (Activity, Short Answer Exercise) D 3 M
-
-Imagine you are creating a drawing program. Describe what you would want your program to do and how you would organize the commands to achieve that.
-
-
-(Computer Science) (Writing Exercise) D 5 (Exercise that has long answers)
-
-Use a word processor to write a report about the internet. Use the headings shown. You can add images to the text if you want.
-\begin{enumerate}
-\item Internet services: Describe at least two services offered by the internet.  
-\item Working world: Describe how people might use the internet at work.  
-\item Good or bad?: Discuss at least one good and one less good feature of the internet.  
-\end{enumerate}
-
-
-(Computer Science) (Group Activity, Writing Exercise) D 5 (Exercise on creating fact sheets)
-
-Working in a team, divide up the work you have to do. Create several fact sheets about a chosen topic.
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-What devices are used for output? Describe two different output devices.
-
-
-(Computer Science) (Bonus Question, Exploration Exercise) D 2 M
-
-A 3D printer makes solid objects. For example, a 3D printer can stick blobs of plastic together. See if you can find out more.
-
-
-(Computer Science) (Short Answer Exercise) D 2 M
-
-A monitor makes visual output. Say one other type of output.
-
-
-(Computer Science) (Writing Exercise) D 5 (Exercise on giving advice)
-
-Imagine that your friend has received threatening text messages from an anonymous person. Write a set of bullet points advising your friend how to deal with the problem.
-
-
-(Computer Science) (Creative Exercise) D 5 (Activity on internet awareness)
-
-Create a poster with the title 'Good internet / Bad internet'. Use one half of the poster to promote the positive side of the internet. Use the other half to warn about the negative side of the internet.
-
-
-(Computer Science) (Research Exercise) D 5 (At Home Exercise)
-
-Find out how old your parents or grandparents were when the web was invented. Do they remember the first time they used the web?
-
-
-(Computer Science) (Research Exercise, Writing Exercise) D 5 (Exercise on impacts of climate change, With Short Answer)
-
-Search the web for information about the impacts of climate change. Find a page that you like. Is the page mainly facts or opinions? Give one example of each.
-
-
-(Computer Science) (Research Exercise, Short Answer) D 5 (Activity)
-
-Use a search engine to answer these questions.  
-\begin{enumerate}
-\item What is Tungurahua, and where is it?  
-\item What happened at Tungurahua in March 2016?  
-\item Find a picture of Tungurahua.  
-\item Find one interesting fact about Tungurahua.  
-\item How do you pronounce Tungurahua?  
-\end{enumerate}
-
-
-(Computer Science) (Group Exercise) D 5 M
+(Geography) (Research Exercise, Writing Exercise) D 5 (Exercise on traffic problems in cities)
 
 \begin{enumerate}[label=\alph*.]
-\item Work in a small group. Discuss websites that you have found useful in your studies. 
-\item Make a list of the best websites you have found. 
-\item Why do you like them? 
-\item What subjects do these websites help with? 
-\item Present your list to the class.
+\item Many large cities around the world have serious problems caused by road traffic. Choose one of the following cities and use reference books or the Internet to find out what traffic problems the city has: Cairo, Dubai, Athens, Bangkok, Tokyo, Mexico City, Los Angeles and Jakarta. Write a paragraph on what you found out.
+\item Find out what is being done to solve the traffic problems. Write a paragraph on what you found out.
 \end{enumerate}
 
 
-(Computer Science) (Research Exercise) D 5 (With Hint, Exercise on searching the web)
+(Geography) (Research Exercise, Short Answer Exercise) D 5 M
 
-Search the web to find the name of this bird.  
-
-\subsection*{Hints}
-To get a list of key words, type the things you see in the picture, such as ‘black head'. What else do you see? Do an image search and find a picture that matches this one.
-
-[STRDGM]A photograph of a red robbin.[STPDGM]
+Traffic accidents are a major problem caused by motor vehicles. Find out how many serious traffic accidents resulting in death or injury occurred last year in your local area.
 
 
-(Computer Science) (Short Answer Exercise) D 6 M
+(Geography) (Short Answer Exercise, Map Exercise, Class Activity) D 1 M
 
-Some columns in a data table cannot use dropdown lists. Give an example.
-
-
-(Computer Science) (Data Entry Exercise) D 1 (Exercise with spreadsheet activity)
-
-Open up a spreadsheet and add the following values and labels.
-\begin{enumerate}
-\item Add one ball.  
-\item Add three dolls.  
-\item Add two games.  
-\item Add one marble.  
-\item Add one animal.  
-\end{enumerate}
-Save your file as: ‘Found toys edited'.
-
-\paragraph{Bonus Question}
-How many toys are there altogether? Find a way to compute this using the spreadsheet.
+Look at a world map or a globe. Choose an island. Write a sentence or two saying where it is and what it is like. Use reference books or the Internet to find out more about your chosen island. Share your work with your class.
 
 
-(Computer Science) (Programming Exercise) D 3 M
+(Geography) (Map Exercise) D 1 (Exercise on searching) 
 
-Make a program that asks for a number and then tells you that number plus five.
+Use a map or an atlas to find the seaside place nearest to your home.
 
 
-(Computer Science) (Programming Exercise) D 3 (Multi-part)
+(Geography) (Research Exercise, Short Answer Exercise, Map Exercise) D 1 (Exercise on map search)
+
+Find out what kinds of fish and shellfish are sold in your local supermarket. Try to find out where the fish or shellfish were caught. This may be written on the packet or you could ask the fishmonger. Can you find these places on a map or atlas?
+
+
+(Geography) (Class Activity, Collecting Exercise) D 1 (Exercise on different methods of fishing)
+
+Collect postcards and photographs from magazines that show the different methods of fishing. Make a class display of your pictures.
+
+
+(Geography) (Data Collection Exercise, Class Activity) D 1 M
 
 \begin{enumerate}[label=\alph*.]
-\item  Make a program that multiplies a number by seven.  
-\item Make a program that uses another maths operator.
+\item How many children in your class write with their left hand?
+\item How many write with their right hand?
+\item Can any children write equally well with both hands?
+\item Write your answers in a table.
 \end{enumerate}
 
 
-(Computer Science) (Programming Exercise) D 3 (Exercise with sprites, Exercise on maths operations)
+(Geography) (Short Answer Exercise) D 1 M
 
-Make a program with many different sprites. Make each sprite do a different maths operation.
-
-
-(Computer Science) (Programming Exercise) D 5 (Exercise with Bonus Challenge)
-
-Web Valley Primary School has 60 network connections. The average cable used for each connection is 50 metres long. How many metres of network cable are there in the school? Make a program that finds the answer and converts it to kilometres.
-
-\paragraph{Bonus Challenge}
-Web Valley Secondary School has 140 network connections. The average cable is 65 metres long. How many kilometres of network cable are there in Web Valley Secondary School? Use your program to solve this as well.
+We all like to go on holiday. People go on holiday for different reasons. Why do you go on holiday?
 
 
-(Computer Science) (Short Answer Exercise, Thought Exercise) D 5 M
+(Geography) (Identification Exercise) D 1 M
+
+Do you know which is your right hand? Which is your left hand?
+
+
+(Geography) (Short Answer Exercise) D 1 M
+
+What is the seaside?
+
+
+(Geography) (Data Collection Exercise) D 1 (With Illustration)
+
+Look at the map below. How many islands can you find? 
+
+[STRDGM] A diagram showing a map with various islands marked on it. [STPDGM]
+
+
+(Geography) (Short Answer Exercise) D 1 M
+
+How do we learn about the world around us? Our senses tell us what is happening. What are the five main senses?
+
+
+(Geography) (Research Exercise, Drawing Exercise) D 3 (Exercise on timeline drawing)
+
+Use reference books and the Internet to help you draw a timeline showing major famines across the world. Show where each famine occurred and how many people are believed to have died.
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
+
+Many aid organisations, such as the Red Cross and Red Crescent, Oxfam, Save the Children Fund, ActionAid, and UNICEF, work hard to try to help people affected by famines. Choose one of these organisations. Find out where in the world it is helping famine victims and what it is doing to help them.
+
+
+(Geography) (Writing Exercise) D 3 (Exercise on creative writing)
+
+Imagine you are working in Africa on the edge of the Sahara Desert, helping people affected by a famine. Write a letter to a friend saying why life is so hard for these people. Give at least four reasons.
+
+
+(Geography) (Group Exercise) D 1 M
+
+Work with a group of friends. Act out all the stages of going on holiday to another country.
+\begin{enumerate}[label=\alph*.]
+\item First, book your holiday and then pack your suitcase.
+\item Next, put your suitcase in your car, or check it in at the airport or station.
+\item Then travel by car, airplane or train.
+\item Lastly, enjoy your holiday!
+\end{enumerate}
+
+
+(Geography) (Mapping Exercise) D 1 M
+
+On a blank outline map of the world, mark and label some cities and resorts that are on the East Coast of North America.
+
+
+(Geography) (Survey Exercise, Drawing Exercise) D 1 (Exercise on chart drawing)
+
+Carry out a survey. Ask your friends and relatives:
+\begin{enumerate}[label=\alph*.]
+\item Where is their favourite holiday resort?
+\item Is it a city, a town or a village?
+\item Why do they like it best?
+\end{enumerate}
+
+Draw a bar chart of your findings and show them to the class.
+
+
+(Geography) (Drawing Exercise) D 1 M
+
+Draw and label something that you can: see; hear; feel; smell; taste.
+
+
+(Geography) (Short Answer Exercise) D 1 M
+
+How can your eyes help you to keep safe? Write down five different ways.
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+Manaus is a city in the Amazon rainforest in Brazil. How is the climate of Manaus different from the climate where you live?
+
+
+(Geography) (Discussion Exercise, Pair Activity) D 5 M
+
+Discuss, with a friend, why so few people live in the tropical rainforests.
+
+
+(Geography) (Short Answer, Comparison Exercise) D 5 (With Illustration)
+
+How does your local area compare with a tropical rainforest area? Think about the weather, plants, animals, landscape and people. 
+
+[STRDGM] Graph showing the temperature and rainfall in the city of Manaus. [STPDGM]
+
+
+(Geography) (Research Exercise) D 2 M
+
+Find out if there is an active volcano in your country.
+
+
+(Geography) (Research Exercise, Data Collection Exercise, Drawing Exercise) D 2 (Exercise on volcanoes)
+
+Here are the names of some volcanoes on islands: Mount Pelee, Krakatoa, Mauna Loa, Fujiyama, Mount Etna, Mayon, Mount Erebus, Ruapehu.
+\begin{enumerate}[label=\alph*.]
+\item Find out the name of the island or island group where each volcano belongs.
+\item Use reference books or the Internet to find out the heights of some volcanoes.
+\item Draw a block graph to show their heights.
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Describe the location of Balad Sayt village based on a map.
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Explain the layout and structure of houses in Balad Sayt.
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Discuss the historical significance of the ruined fort above the Balad Sayt.
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Describe the water sources and their uses in Balad Sayt.
+
+
+(Geography) (Short Answer, Writing Exercise) D 2 (Exercise on agricultural practices)
+
+Explain the agricultural practices, including crop irrigation and types of crops grown in Balad Sayt.
+
+
+(Geography) (Creative Writing Exercise, Drawing Exercise) D 3 (Exercise on the journey of a water particle, With pollution and flooding effects)
+
+Write a short story or draw a cartoon describing the journey of a particle of water along the River Amazon, from its source to its mouth. Make sure that you state how pollution or flooding affect the water at each stage.
+
+
+(Geography) (Pair Activity, Writing Exercise) D 3 (Exercise on quiz writing)
 
 \begin{enumerate}[label=\alph*.]
-\item Do you save your school work to the school network? 
-\item What is your personal area of the school network called? 
-\item Is there an area on the network that your teacher uses to share files with the class? 
-\item Where is the network equipment in your school stored?
+\item Write a quiz consisting of ten questions about the River Amazon.
+\item Try out your quiz with a friend.
 \end{enumerate}
 
 
-(Computer Science) (Data Analysis Exercise) D 3 (Exercise with chart creation)
+(Geography) (Collaborative Exercise, Creative Exercise) D 3 M
 
+Work with a friend. Make a model of a river and the surrounding landscape in a cardboard box by following these steps:
 \begin{enumerate}
-\item Record data on anything you like. Then, make a line chart of the collected data.
-\item Now make changes to the numbers in the spreadsheet. What happens to the chart?
-\item Suggest one label you can add to the chart.
+\item Begin by cutting away the lid and front of the box to make a frame for your model.
+\item Build up the landscape using egg cartons, pieces of screwed-up paper or other recycled materials.
+\item Cover the whole surface of your model with papier mâché.
+\item Paint your model and label the various features.
 \end{enumerate}
 
 
-(Computer Science) (Presentation Exercise) D 3 (Exercises on presenting)
+(Geography) (Drawing Exercise) D 1 M
 
-\begin{enumerate}
-\item What is your favourite food? Make a short slide show about it.
-\item Add another slide with more facts about the food. For example, you could say the ingredients.
-\item Look through your slide show. Find and fix any spelling mistakes.
-\item Add an image to the slide show.
-\item This slide show is for small children. Make sure the letters are big and easy to read.  
-\item Choose a suitable presentation theme for your slide show.    
+Think of an interesting building, near your home or school, which you use. Draw it and label interesting things about it.
+
+
+(Geography) (Research Exercise, Data Collection Exercise, Short Answer Exercise) D 1 (Exercise on shops near your school)
+
+Look at the different shops near your school. What kinds of things do they sell?
+
+
+(Geography) (Class Activity, Art Exercise) D 1 (Exercise on creating a wall display) 
+
+Draw pictures or take photographs of the shops near your school. Make a wall display with them.
+
+
+(Geography) (Data Collection Exercise) D 1 (Exercise with short answers)
+
+Write a list of all the kinds of street furniture you see on your way to school.
+
+
+(Geography) (Mapping Exercise, Drawing Exercise) D 1 (Exercise on drawing a route from home to school)
+
+Draw a map showing how you get from your home to your school. Add drawings of some of the buildings and street furniture you pass on the way.
+
+
+(Geography) (Creative Exercise, Mapping Exercise) D 1 (Exercise on creating a food map) 
+
+Make a food map of the world for a class display.
+
+
+(Geography) (Class Activity, Sorting Exercise) D 1 (Exercise on categorizing foods)
+
+ Make a class collection of pictures of different foods. Make sets of your pictures. You could have:
+\begin{enumerate}[label=\alph*.]
+\item a set of foods which come from plants and a set of foods which come from animals
+\item a set of foods grown or made in your country and a set which come from other countries
+\item a set of fresh foods and a set of frozen or dried food.
 \end{enumerate}
 
 
-(Computer Science) (Design Exercise, Writing Exercise) D 6 (Exercise on creating a robot assistant)
-
-Design your perfect robot assistant. Describe what your robot would look like, what special tools and powers it would have, and what jobs it could do to make your life easier.
-
-
-(Computer Science) (Long Answer Exercise) D 6 M
-
-Think of a task you do every day. How could a robot help you with that task? Describe the robot's features and abilities that would assist you.
-
-
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 4 (With Material)
+(Geography) (Research Exercise) D 5 M
 
 \begin{enumerate}[label=\alph*.]
-\item Conduct a survey in your class where you ask each student what jobs they would like to do later in life. 
-\item Create a spreadsheet with the list of jobs from your survey. These are your labels. 
-\item In the next column, enter the number of students who chose each job. These are your values. 
-\item Use the text formatting tools to make the spreadsheet look better.
-\end{enumerate}
-
-\paragraph{Bonus Challenge}
-Try using the borders and fill color menus to make your spreadsheet more interesting. Select a range of cells and use the controls in the Font area of the menu ribbon. What colors and border work best? Explain why.
-
-\subsection*{Materials} 
-\begin{itemize}
-\item A computer with spreadsheet software (like Excel or Google Sheets) and a keyboard.
-\end{itemize}
-
-
-(Computer Science) (Short Answer Exercise) D 4 M
-
-Look at the top of a spreadsheet screen and then at the top of a word processor screen. Which things are the same? Why are they the same? How does that help you use the software?
-
-
-(Computer Science) (Activity, Short Answer Exercise) D 1 (Outdoor exercise)
-
-Talk to people about computer games. Do they like to play computer games? Find out why.
-
-
-(Computer Science) (Drawing Exercise, Writing Exercise) D 1 (Exercise on using image editors, Exercise with short answers)
-
-\begin{enumerate}
-\item Draw a face using your imagination. Describe it in detail, focusing on the shapes and colors you would use.
-\item Describe the steps you would take to replicate that drawing using a computer, focusing on the tools you would choose and how you would use them. 
-\item Use a drawing tool on the image editor to try to draw the face.
-\item Think about which action would change the size of your drawing tool. Experiment with different sizes to see how it feels to draw with a thicker or thinner tool.
+\item Collect newspaper cuttings or Internet news articles describing the damaging effects of the wind in various parts of the world.
+\item Use the Internet to find out more details of these events.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 1 M
+(Geography) (Short Answer Exercise) D 5 M
 
-What is a sprite? Say in your own words.
-
-[STRDGM] The image shows a cartoon cat sprite on a colorful space backdrop, illustrating the concept of a sprite moving in a programming environment.] [STPDGM]
+Write a list of the things you would need if a hurricane was approaching your area. Write them in order of importance.
 
 
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 1 (Multi-part) \
-\begin{enumerate} 
-\item Imagine you are creating a simple game using blocks. First, think about what happens when you want to start the game. What would you need to do to make it start? 
-\item Now, think about how you would explain to someone else how to start the game. What steps would you tell them to follow? 
+(Geography) (Writing Exercise) D 5 (Activity on creative writing, Activity on hurricanes)
+
+Imagine that you are living in an area that has been hit by a hurricane.
+\begin{enumerate}[label=\alph*.]
+\item Write an account of what has happened to you, your family and your home.
+\item Describe what you were thinking when the hurricane was at its worst.
+\item Describe the scene that met you when you went out after the hurricane had passed by.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 4 M
-
-Describe in your own words what a conditional structure is and how it might be used in a program.
-
-
-(Computer Science) (Programming Exercise) D 3 (Multi-part)
+(Geography) (Short Answer, Comparison Exercise) D 3 (Multi-part)
 
 \begin{enumerate}[label=\alph*.]
-\item Make a program that asks your name and then says your name. 
-\item Change the program so it asks your name and then says “Hello” and your name. 
-\end{enumerate}
-Save the file.
-
-
-(Computer Science) (Programming Exercise) D 3 (Exercise on creating a program with a new sprite and backdrop)
-
-Make a new program, with a new sprite and backdrop that you have chosen. This program asks for your favourite computer game and then says “I like to play” and the name of the game.
-
-\subsection*{Questions}
-\begin{enumerate}
-\item In this program you used the ‘answer' block. Say what the ‘answer' block does.
+\item Write two lists to compare where you live with Dana: one list of the things that are the same and the other of the things that are different.
+\item Would you like to live in Dana? Give reasons for your answer.
 \end{enumerate}
 
 
-(Computer Science) (Programming Exercise) D 3 M
+(Geography) (Writing Exercise, Short Answer Exercise) D 3 (Exercise on village changes)
 
-Plan a program with a ‘forever' loop. It inputs numbers and then outputs that number times two.
-
-
-(Computer Science) (Programming Exercise) D 3 M
-
-Make a plan for a new program with a ‘forever' loop. The user enters a series of numbers. Each time the program outputs the number times 10 and then the number times 11.
+In many parts of the world, villages are changing. Some villages are growing. Others are getting smaller. Write a list of all the reasons you can think of why a village might change. Think about the people, jobs, shops, roads and transport, communications, farm machinery and money.
 
 
-(Computer Science) (Short Answer Exercise) D 3 M
-
-\begin{enumerate}
-\item What are operators?  
-\item Pick an operator that works with numbers. Describe what it does. 
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 3 (Exercise on operators, Activity)
+(Geography) (Drawing Exercise) D 2 (Exercise on daily activities)
 
 \begin{enumerate}[label=\alph*.]
-\item Pick an operator that works with words and letters. Describe what it does.
-\item Make a directory of operators explaining all the ones you know. 
+\item Draw a 24-hour clock.
+\item Draw lines from the centre of the clock to show how many hours you spend resting or asleep on a school day.
+\item Draw lines to show how many hours you spend doing different things every day, such as going to school, having meals and leisure time.
 \end{enumerate}
 
 
-(Computer Science) (Group Activity, Writing Exercise) D 6 (Exercise on writing algorithms)
+(Geography) (Short Answer Exercise) D 2 M
 
-\begin{enumerate}
-\item Work in pairs. Imagine that one of you is a robot. Write an algorithm with instructions that will guide the robot to walk from one location to another. Use your common sense to pick a suitable route and destination.
-\item Review what happened. Did it work or do you need to improve the algorithm?
-\item Swap roles. Write or report back to the rest of the class about your experiences.
-\end{enumerate}
+Approximately how much leisure time do you have each school day?
 
 
-(Computer Science) (Short Answer Exercise) D 1 M
+(Geography) (Short Answer Exercise) D 2 M
 
-Describe how you would change the start block for a character in a game.
-
-
-(Computer Science) (Short Answer Exercise) D 1 M
-
-List different methods you can think of to initiate a game.
+How much leisure time do you have at weekends?
 
 
-(Computer Science) (Research Exercise, Writing Exercise) D 5 (Exercise on doing online research, Exercise on copyright)
+(Geography) (Drawing Exercise, Group Activity) D 2 (Exercise on chart drawing)
 
-\begin{enumerate}
-\item Find an online piece of text about the impacts of climate change. Describe the text you found in your own words and explain why it is important.
-\item Find a creative commons photo that illustrates your description of the text you found. Describe the photo and explain how it relates to your text.
-\item Why is it important to credit another person's work? Reflect on how it feels when someone uses your ideas without giving you credit. 
-\end{enumerate}
+Ask your friends what type of leisure activities they like to do. Draw a bar chart to show your results.
 
 
-(Computer Science) (Short Answer Exercise) D 2 M
-
-Which jobs could a computer do? Which activities could a computer do? Write down your answers like this: A computer can work out how much to charge for food.
-
-
-(Computer Science) (Discussion Exercise) D 2 (At home exercise)
-
-Is using a computer always the best way to carry out a task? Talk with an adult about tasks that humans do better than computers.
-
-[STRDGM] The image depicts a busy street scene with various people engaged in different activities. There are vehicles, a florist shop, a food vendor, and people interacting in a café setting. [STPDGM]
-
-
-(Computer Science) (Activity Exercise) D 5 M
-
-\begin{enumerate}
-\item Choose a recipe you like online and save the text.
-\item Open a document in a text editor. Add your recipe text.  
-\item Insert descriptions of the images you want to use to illustrate your recipe.  
-\item Move and resize the descriptions to create a one-page document for your recipe.
-\item Create a cover page for your recipe. Use descriptions of some of your recipe images to create a collage. Add the recipe name at the top of the page.  
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 5 M
-
-What do you need to think about when you put words and images together on a page? How do words and images work best together?
-
-
-(Computer Science) (Programming Exercise) D 2 (Exercise on creating a simple program, Short Answer)
-
-Describe how you would create a simple program where a character (sprite) jumps to a random location, says "Hello!", and then moves towards a point you choose. Think about the steps you would take to make this happen without needing any specific tools.
-
-
-(Computer Science) (Thought Exercise) D 1 (Exercise on reflection)
-
-What do you like to do on a computer?
-
-
-(Computer Science) (Design Exercise) D 6 (Exercise on design)
-
-\begin{enumerate}
-\item Your school wants to add a new page to its website. The page will tell parents about a new gymnasium that is being built. The page should include the school logo, a picture showing what the new gym will look like and text describing the gym. Design the page using a wireframe.
-\item You need to make some changes to your web page design. The design should now include the school logo, two images – showing the inside and outside of the gym, text describing the gym and a heading for the page. 
-\end{enumerate}
-
-
-(Computer Science) (Web Development Exercise) D 6 (Exercise on identifying components of a web page, With Prerequisites)
-
-Open a web page that you use regularly at home or for school work. Identify examples of the six components of a web page.
-
-\subsection*{Prerequisites}
-\begin{itemize}
-\item Knowledge of the six components of a web page.
-\end{itemize}
-
-
-(Computer Science) (Group Exercise) D 4 (Exercise on interviewing) 
-
-Working in a group, interview your teacher to find out how using technology improves their job. Work together to write a list of three questions before you start the interview.
-
-
-(Computer Science) (Discussion Exercise, Group Activity) D 4 M
-
-Jobs that used to be done by humans are being replaced by automation and robots. Talk about this with classmates and your family. What are the good and bad things about automation?
-
-
-(Computer Science) (Short Answer Exercise, Reflection Exercise) D 4 (Exercise on the digital future, Multi-part)
-
-\begin{enumerate}
-\item Do you think your teacher could be replaced by a robot? Give reasons for your answer. 
-\item How would you feel about travelling to school in a bus driven by a robot?
-\end{enumerate}
-
-
-(Computer Science) (Programming Exercise) D 2 (Exercise with short answer)
+(Geography) (Drawing Exercise, Short Answer Exercise) D 2 (Exercise on mapping activities)
 
 \begin{enumerate}[label=\alph*.]
-\item Start a new program. 
-\item Choose a sprite that looks like a fish. 
-\item Choose a background that looks like underwater. 
-\item Make a program that will make the fish swim about underwater by following your mouse
-\item Think of one change you could make to the program you made. What would happen if you made this change?  
-\item Now add a jellyfish sprite to the underwater scene. Make a program for this sprite. Use the same blocks as before. 
-\item Take out the block that says ‘follow the mouse pointer'. Add a block that says ‘if on edge bounce' and make the number of steps 2 instead of 10.
+\item Draw a map of your local area to show all the different kinds of leisure activities that are available. Use symbols to represent each kind of activity.
+\item What other leisure activities would you like to be able to do in your local area?
 \end{enumerate}
 
 
-(Computer Science) (Crafting Exercise) D 3 (Exercise on email safety rules)
+(Geography) (Writing Exercise) D 2 (Exercise on listing features)
 
-Make a tactile poster for your classroom with the three email safety rules. Use different textures to represent each rule, such as smooth for "Keep it closed," rough for "Protect," and bumpy for "Do not reply."
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-Describe to someone what pharming and phishing are in your own words, focusing on how they can affect email safety.
+Write a list of the features that make Balad Sayt a village rather than a town or city.
 
 
-(Computer Science) (Discussion Exercise) D 2 (Group Activity)
+(Geography) (Short Answer Exercise) D 2 M
 
-Tell a partner about the last time you used a computer. What did you use it for?
-
-
-(Computer Science) (Drawing Exercise) D 2 (Exercise on drawing a computer)
-
-Draw a computer. Show the wire that brings electricity to the computer. Draw a circle where you think the processor is.
+Would you like to live in a small village like Balad Sayt? Why?
 
 
-(Computer Science) (Short Answer Exercise) D 2 (Exercise on safety while using electronics)
-
-What must you do to stay safe when you use electronic devices?
-
-
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 4 (At home exercise, Multi-part, Exercise on microprocessors)
-
-\begin{enumerate}
-\item Explore your home and make a list of the items you can find that use microprocessor technology. If a device has a display, it probably has an embedded microprocessor.
-\item Pick a device from the list you made in the activity. Talk to a parent or grandparent about that device. Is it better than similar devices they used in the past? How has technology changed since your parent or grandparent was your age?
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 4 M
-
-Think about smart refrigerators. Make a list of the things a smart refrigerator can do.
-
-
-(Computer Science) (Short Answer Exercise) D 1 (Exercise on using computers safely, Exercise on using computers responsibly, Multi-part)
-
-\begin{enumerate}
-\item How can you stay safe and happy when you use computers at school? Think of one important rule for using computers at school. Describe this rule in detail, explaining why it's important and how it can help you and others.
-\item Imagine you are teaching someone else about your rule. Create a short speech or presentation explaining your rule and why it's important for everyone to follow it.
-\end{enumerate}
-
-
-(Computer Science) (Long Answer Exercise, Writing Exercise) D 1 (Exercise on reflection)
-
-Consider how technology has changed over time. Think about what you use today compared to what people might have used 2500 years ago. Write down your thoughts on how technology has improved our lives.
-
-
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 6 (Exercise on keeping a tidy workspace when using computers, Multi-part)
-
-Look at the situation of a messy workspace. 
-\begin{enumerate}[label=\alph*.]
-\item How do you think a computer room should be organized when you arrive for class? 
-\item What issues can a messy workspace create? 
-\item Write down examples of times you've struggled to work due to broken or missing computer tools.
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise, Activity Exercise, Reflection Exercise) D 6 M
+(Geography) (Discussion Exercise, Writing Exercise,Pair Activity, Short Answer Exercise) D 2 M
 
 \begin{enumerate}[label=\alph*.]
-\item Work with a partner. Sit at the computer and ask your partner to assist you with a problem. For instance, you might ask them to explain how to create a new folder. 
-\item Let your partner guide you through the task and provide assistance.
-\item Then, talk about how helpful your partner was. Did you feel confused at any moment? Did your partner clarify anything better?
-\item Now switch roles so you can offer help.
+\item Discuss with a friend how Balad Sayt is similar to a village you both know.  
+\item How is it different?
+\item Write down what you have decided.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 6 (Exercise on responsible usage of electronics)
+(Geography) (Short Answer Exercise, Writing Exercise) D 2 (Exercise on list writing)
 
-You notice a classmate is upset about something they saw on the screen. How can you assist them?
+Write a list of the things that would make people in Indian villages want to stay in the country?
 
 
-(Computer Science) (Research Exercise) D 1 (Exercise on using search engines)
+(Geography) (Short Answer Exercise, Writing Exercise) D 2 (Exercise on list writing)
+
+Write a list of the things that would make people in Indian villages want to move to a city, such as Kolkata.
+
+
+(Geography) (Descriptive Exercise) D 2 (Exercise on sensory experiences)
+
+Write a short description of what you think you would see, hear and smell on a busy street in Kolkata.
+
+
+(Geography) (Short Answer Exercise, Writing Exercise) D 2 (Exercise on listing)
+
+Write a list of all the different ways in which people travel from place to place in India.
+
+
+(Geography) (Short Answer Exercise) D 2 M
+
+Most people in India use public transport, particularly in the towns and cities. How do most people in your country travel?
+
+
+(Geography) (Map Exercise, Writing Exercise) D 2 (Exercise on map search, Short Answer)
 
 \begin{enumerate}[label=\alph*.]
-\item Use a search engine.  
-\item In the search box type: rainforest.  
-\item Find one fact about rainforests.  
-\item Use website features to find out more facts.  
+\item Look at a large-scale map of a country area. Choose four or five villages shown on the map.
+\item For each village try to decide why it was built where it was.
+\item Write down what you have discovered.
 \end{enumerate}
 
 
-(Computer Science) (Activity, Short Answer Exercise) D 1 (Exercise with outdoor activity)
+(Geography) (Map Exercise) D 2 (Exercise on map search)
+
+Choose a village on a large-scale map. Identify all the symbols on or near that village. Write a list of what each of the symbols shows. Now choose a second village and compare the two.
+
+
+(Geography) (Writing Exercise, Data Collection Exercise, Research Exercise) D 3 (Exercise on atlas search)
+
+Some newspapers and websites show how much rain falls each day in the larger towns and cities of the world. Choose a country, collect these figures for a week and record them.
+\begin{enumerate}[label=\alph*.]
+\item Write a list of the places from your country with the wettest town or city at the top and the driest at the bottom.
+\item Use an atlas to find out where these towns and cities are.
+\end{enumerate}
+
+
+(Geography) (Writing Exercise) D 3 (Exercise on creative writing)
+
+Find a picture of a weather event such as flooding or heavy snow somewhere in the world. Pretend you are a newspaper reporter. Write a news report about what happened before, during and after the flooding or heavy snow.
+
+
+(Geography) (Group Activity, Writing Exercise, Short Answer, Search Exercise) D 3 (Exercise with atlas and map search)
+
+Work in groups and use an atlas or maps to find the names of ten villages in your area, or from any area that you know.
+\begin{enumerate}[label=\alph*.]
+\item How is each village set out? Is it a single street or grouped around a square?
+\item What features does each village have? Write a list for each village.
+\end{enumerate}
+
+
+(Geography) (Research Exercise) D 3 M
+
+Do you know any villages in other countries? Use reference books or the Internet to find out what some of them are like.
+
+
+(Geography) (Map Exercise, Research Exercise) D 1 (Activity on maps)
+
+Look at a map of the world. If you were to fly from your home to Beijing, which countries, seas and mountains might you fly over? Find something out about each of the countries you might fly over.
+
+
+(Geography) (Class Activity, Collection Exercise) D 1 (Exercise on life in China)
 
 \begin{enumerate}[label=\alph*.]
-\item Walk around your environment with a friend or family member.  
-\item Ask the people you meet how they use computers.  
-\item Describe the different ways people use computers in your surroundings.
+\item Make a class collection of pictures and small things that show what life is like in China.
+\item Label each picture and thing.
+\item Say what it shows about China.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 1 (Exercise that relates subject to the world)
+(Geography) (Short Answer Exercise) D 1 M
 
-How do you think computers make it easier for adults to do their jobs in your community?
-
-
-(Computer Science) (Writing Exercise) D 1 (Exercise on relating subject to the world)
-
-Write one sentence about the ways adults use computers in your community.
+Where do you live? Do you live in the countryside or in a town or city?
 
 
-(Computer Science) (Short Answer Exercise, Reflection Exercise) D 1 (Exercise that relates subject to the world)
+(Geography) (Creative Exercise, Group Activity) D 1 M
 
-Do you think you will use a computer in your job when you are an adult?
-
-
-(Computer Science) (Activity, Planning Exercise, Data Analysis Exercise) D 2 (Exercise on creating a nature reserve plan)
-
-\begin{enumerate}
-\item Talk to family and friends about what animals they like to see in a nature reserve.
-\item Make a plan for a nature reserve. 
-\item Choose the type of animals carefully so that people will enjoy their visit. 
-\item Choose the number of animals carefully so the reserve is not too crowded. 
-\item Make a spreadsheet to show your plan.
-\end{enumerate}
+Collect pictures of as many different kinds of homes as you can. Cut up the pictures to make jigsaw puzzles. Can your friends put your jigsaws together again?
 
 
-(Computer Science) (Practical Exercise) D 5 (Exercise on photo editing)
+(Geography) (Creative Exercise) D 1 (Exercise on building a model) 
+
+Use scrap materials to build a model of a house on stilts. What could you use to make the water around the house?
+
+
+(Geography) (Drawing Exercise, Writing Exercise) D 5 M
+
+Imagine you are going to a faraway planet. There is no water on the planet, so you will have to take supplies with you. Draw or write about what you will need water for.
+
+
+(Geography) (Short Answer Exercise) D 5 M
+
+Do people in your area use water for leisure activities?
+
+
+(Geography) (Short Answer Exercise, Writing Exercise, Drawing Exercise) D 5 (Exercise on listing places where water is used for leisure activities, Exercise with drawing pictures)
 
 \begin{enumerate}[label=\alph*.]
-\item Look at photos online and choose one.
-\item Find any areas that need retouching. 
-\item Decide what editing tool to use to retouch your image. 
-\item Use your chosen tool to retouch the images. Save your image.
-\item Compare your retouched image to the original. Write down the ways in which it changed. Have the changes made the photo better or worse? Explain why.
+\item Write a list of the places where water is used for leisure activities.
+\item Draw pictures to show the different places and activities.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 5 M
+(Geography) (Creative Exercise, Short Answer) D 1 (Exercise on class display)
 
-Find a photo in a magazine or an advert. How might this image have been changed?
-
-
-(Computer Science) (Short Answer Exercise) D 1 (Exercise on using computers responsibly)
-
-What might be unsafe or inappropriate about how children can interact with their computers?
+Make a class display using old photographs or postcards of your area. Compare them. Try to find recent pictures of the same places. What changes can you see?
 
 
-(Computer Science) (Short Answer Exercise) D 1 (Exercise on using and sharing computers safely)
+(Geography) (Research Exercise) D 1 M
 
-While sharing is good, what are some general practices children can follow to ensure they are using technology safely?
-
-
-(Computer Science) (Short Answer Exercise) D 6 (Exercise on robots, Exercise that relates the subject to the world)
-
-Describe something you have learned about robots, focusing on how they are used in everyday life or their potential future applications.
+Do you have grown-up friends or relatives who have lived in your area for a long time? Ask them how the area has changed since they were young. Tell the class what you have found out.
 
 
-(Computer Science) (Short Answer Exercise) D 6 (Exercise on robots, Relates to the world)
+(Geography) (Short Answer Exercise, Creative Exercise) D 1 M
 
- Think about a task you do regularly. Describe how a robot could be designed to help with that task, considering its features and functions.
-
-
-(Computer Science) (Short Answer Exercise) D 6 M
-
-\begin{enumerate}
-\item Reflect on the differences between robots and humans. 
-\item What are some advantages and disadvantages of using robots for certain tasks compared to humans?
-\end{enumerate}
-
-[STRDGM] Two children are interacting with a humanoid robot. One child is holding a tablet, while the other is observing the robot. The robot is standing on a table, and there are various objects around it. [STPDGM]
-
-
-(Computer Science) (Research Exercise, Short Answer) D 4 (Activity)
-
-Open a search engine. Enter the search string 'pizza recipe vegetarian' and look at the first page of results. Now enter 'pizza recipe vegetarian -margherita'. Are there any changes in the search results?
-
-
-(Computer Science) (Writing Exercise) D 4 (Creative Exercise, Exercise on searching the web)
-
-Use your web search skills to create an advert for your favourite pizza. Write a short paragraph that tells people how good your pizza is!
-
-
-(Computer Science) (Research Exercise) D 4 (Exercise on learning how to use search engines, Multi-part)
-
-\begin{enumerate}
-\item Search for a review of your favourite book. Use quote marks around the book title. 
-\item Use an asterisk to search for a book where you are unsure of the full title.
+Choose one room in your house.
+\begin{enumerate}[label=\alph*.]
+\item What do you and your family use that room for?
+\item What things are there in the room?
+\item Build a model of the room using modelling clay, cardboard boxes, fabric and other scrap materials.
 \end{enumerate}
 
 
-(Computer Science) (Activity Exercise) D 4 (At Home Activity)
+(Geography) (Descriptive Exercise) D 3 (Exercise with short answer)
 
-Do other members of your family use the internet? Share some useful search skills with your family to help them when they use the internet. Report on their opinions on these skills. Do they help them?
-
-
-(Computer Science) (Short Answer, Writing Exercise) D 4 (Exercise on writing steps)
-
-How could you use a flash drive to move homework from a computer at home to a computer at school? Write your answer as a list of steps.
+Imagine you have been transported to the Himalayas for the day. Write a short paragraph describing what you see, feel and hear.
 
 
-(Computer Science) (Short Answer Exercise) D 4 M
-
-What problems will you have if you don't save your work properly?
-
-
-(Computer Science) (Writing Exercise, Creative Exercise) D 3 (Activity on explorers)
-
-Think of a fact about an explorer. Write it down in a sentence. Then, imagine sending an email to a classmate with that fact. Write this email out.
-
-
-(Computer Science) (Writing Exercise) D 3 (Exercise on email responses)
-
-Imagine a classmate has sent you an email. Think and write about how you would reply to them, sharing what you found interesting about the fact.
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-Consider why it might be helpful to keep a record of the emails you send. What benefits could this have?
-
-
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 3 M
-
-Come up with as many ways of communicating as you can. Make sure to also come up with ways that rely on the usage of electronics.
-\begin{enumerate}
-\item Which way or ways are reliable?  
-\item Which way or ways are private?  
-\item Which way or ways are quick?  
-\item Which way or ways are easy to use?  
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-Email is very popular. Why do you think email is so popular?
-
-
-(Computer Science) (Design Exercise, Short Answer Exercise) D 6 M
-
-You have been asked to design a robot that throws tennis balls to a student for practice. 
-\begin{enumerate}
-\item Imagine and describe what your robot would look like. Think about how it senses its environment and how it moves. 
-\item Think about what the robot needs to know to throw the ball accurately. What kind of information would help it decide where and how to throw?
-\item Consider how the robot can tell if the student has caught the ball. What kind of sensor would help with this?
-\item If the robot could throw the ball to different places, how would you change its throwing method? 
-\item Think about how the robot could learn from the student's catching skills. What steps would you take to help it improve its throwing accuracy? 
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 1 M
-
-Describe how you would use a computer mouse without needing to see it. Think about the shape, how it feels in your hand, and how you would move it on a surface.
-
-
-(Computer Science) (Short Answer Exercise) D 1 M
-
-Imagine you are teaching someone else how to use a computer mouse. What steps would you explain to them?
-
-
-(Computer Science) (Group Exercise, Writing Exercise) D 3 (Multi-part, Exercise on creative writing)
-
-Imagine you are a mountain explorer. 
-\begin{enumerate} 
-\item Describe a mountain you have seen or imagined in one sentence.  
-\item Send this description to a classmate as an email.
-\item Open the email you received from a classmate. Describe the content of the email in one sentence.
-\end{enumerate}
-
-
-(Computer Science) (Short Answer Exercise) D 3 M
-
-Say one thing you can attach to an email as well as a picture.
-
-
-(Computer Science) (Short Answer Exercise) D 4 (Relates to the world, Multi-part)
+(Geography) (Research Exercise, Writing Exercise) D 3 (Exercise on designing guidebooks)
 
 \begin{enumerate}[label=\alph*.]
-\item How do you organise your data files at home and at school? 
-\item What can you do to improve the way you use folders and file names?
+\item Use reference books and the Internet to find out all you can about Nepal, including its climate.
+\item Design and write your own guidebook to Nepal.
 \end{enumerate}
 
 
-(Computer Science) (Practical Exercise) D 4 (Exercise on learning to make a backup)
+(Geography) (Short Answer Exercise) D 3 M
 
-On a computer, open your work area in File Explorer, either on a school computer or at home. Create a folder called 'Back-ups'. Copy a file to your 'Back-ups' folder.
-
-
-(Computer Science) (Drawing Exercise, Creative Exercise) D 1 (Exercise that relates to the world)
-
-Draw a picture of one thing you can do with a computer outside school. For example, make a picture of a car. Give your picture to your teacher.
+What are the difficulties of living in a mountainous area like the Himalayas? Write a short paragraph describing your ideas.
 
 
-(Computer Science) (Short Answer Exercise) D 1 (Exercise that relates subject to the world)
+(Geography) (Research Exercise, Map Exercise) D 3 (Exercise on searching)
 
-What could you do with a computer outside school?
+The River Nile and its tributaries and lakes connect eleven countries. Can you find their names?
 
 
-(Computer Science) (Writing Exercise) D 1 (Exercise on reflection, Short Answer)
+(Geography) (Collaborative Exercise, Discussion Exercise) D 3 M
 
-How will you use computers when you are grown up?
+Work with a friend.
+\begin{enumerate}[label=\alph*.]
+\item Discuss what would happen if Ethiopia took all the water from the Blue Nile, so that it no longer flowed through Egypt.
+\item Explain to your friend why the flooding of the River Nile in the past was useful.
+\end{enumerate}
+
+
+(Geography) (Map Reading Exercise, Data Collection Exercise) D 3 (Exercise with atlas activity)
+
+Use a compass and an atlas.
+\begin{enumerate}[label=\alph*.]
+\item What is the general direction in which the River Nile flows?
+\item Look for rivers that flow in the other main compass directions.
+\item Write down your results.
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise, Map Exercise) D 3 (Exercise with map search activity)
+
+\begin{enumerate}[label=\alph*.]
+\item Where is your nearest river? 
+\item Look at a map of your area and find the source of the river. 
+\item Which larger river, ocean or sea does it flow into? 
+\item How long is your river? 
+\item Which towns and cities does it flow past? 
+\end{enumerate}
+
+
+(Geography) (Writing Exercise, Short Answer Exercise,Pair Activity) D 3 (Exercise on using an atlas)
+
+\begin{enumerate}[label=\alph*.]
+\item Work with a friend to write a list of all the rivers you can think of. 
+\item Use an atlas to see if you can find all the rivers you listed. 
+\item Write which ocean or sea each river flows into. 
+\item Write down all the ways you can think of that rivers can help people, be a nuisance to people, and be a danger to people.
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+The groups of buildings where people live are called settlements. Villages, towns and cities are all kinds of settlements. What kind of settlement do you live in?
+
+
+(Geography) (Map Exercise) D 2 (Exercise on searching) 
+
+Find a map of India. Can you find Kolkata?
+
+
+(Geography) (Writing Exercise) D 3 (Activity on creative writing)
+
+Imagine that you were living at Dunwich during the fourteenth century. Write a newspaper report, using ICT, about the disaster.
+
+
+(Geography) (Collaborative Exercise, Discussion Exercise) D 3 (Exercise on advantages and disadvantages) 
+
+Work with a friend. Discuss the advantages and disadvantages of building a new hotel on the cliffs in Yorkshire to replace the one that fell into the sea in 1993.
+
+
+(Geography) (Writing Exercise) D 3 (Exercise on listing advantages and disadvantages)
+
+What are the advantages and disadvantages of reclaiming land from the sea, as has been done in the Netherlands and the United Arab Emirates? Write a list of advantages and disadvantages.
+
+
+(Geography) (Research Exercise) D 3 (Activity on making a fact file) 
+
+Use the Internet or reference books to help you make a fact file about rivers.
+
+
+(Geography) (Research Exercise, Writing Exercise) D 3 (Exercise on listing rivers) 
+
+Choose at least two rivers from each continent, apart from Antarctica. Record the name of the river, the mountains where it rises, the length of the river, the ocean or sea it flows into, and the names of the towns and cities along its banks.
+
+
+(Geography) (Drawing Exercise, Research Exercise, Data Collection Exercise) D 3 (Exercise on chart drawing)
+
+Use the Internet or reference books to find out more about the largest waterfalls in the world. Draw a bar chart showing your results.
+
+
+(Geography) (Survey Exercise, Data Collection Exercise, Short Answer Exercise) D 1 (Activity on surveying, Activity on traveling)
+
+Carry out a survey of the people in your class.
+\begin{enumerate}[label=\alph*.]
+\item Ask each person what is his or her favourite way of travelling.
+\item Draw a block graph of your results.
+\item Which way of travelling do most people like best?
+\end{enumerate}
+
+
+(Geography) (Drawing Exercise) D 1 (Exercise on drawing your home and its inhabitants)
+
+\begin{enumerate}[label=\alph*.]
+\item Draw a picture of your home.
+\item Who lives in your home with you?
+\item Draw them in your picture.
+\end{enumerate}
+
+
+(Geography) (Collaborative Exercise, Short Answer Exercise) D 3 M
+
+Work with a friend. Write a plan to improve your school grounds for wildlife. Use your own ideas and look in reference books too.  
+\begin{enumerate}[label=\alph*.]
+\item What special equipment would you need?  
+\item Who would look after the plants and animals during the school holidays?  
+\end{enumerate}
+
+
+(Geography) (Data Collection Exercise, Research Exercise) D 3 M
+
+Create a spreadsheet of endangered wildlife. Use the following headings: Animal or plant, Habitat or home, Numbers (if known), Threat. Use reference books and the Internet to help you to complete the spreadsheet.
+
+
+(Geography) (Collaborative Exercise, Discussion Exercise, Pair Activity) D 3 M
+
+Work with a friend. Talk about what you would like and dislike about working on a farm.
+
+
+(Geography) (Writing Exercise, Drawing Exercise, Research Exercise) D 3 (Exercise on listing foods, Exercise on drawing food items) 
+
+Write a list of the foods you eat for breakfast or dinner. Draw pictures of the items and then find out where the main ingredients are grown.
+
+
+(Geography) (Fill-in-the-Blanks Exercise) D 3 (Exercise using an atlas, Activity on using compass directions)
+
+Copy and complete these sentences, using the four main compass directions. Use an atlas to help you.  
+\begin{enumerate}[label=\alph*.]
+\item Sudan is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of Egypt.
+\item Bangladesh is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of India.
+\item Canada is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of the United States of America.
+\item Bulgaria is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of Romania.
+\item Portugal is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of Spain.
+\item Chile is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of Argentina.
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Map Exercise) D 2 (Exercise on route planning)
+
+\begin{enumerate}[label=\alph*.]
+\item Use an atlas or a map on the Internet to work out how you could get from where you live to Abu Dhabi. 
+\item Draw a simple plan of your route, and write the distances. 
+\item Abu Dhabi developed because it produced fish and pearls. Where are the industries that produce the goods you use daily? 
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Activity) D 2 M
+
+Use the telephone directory and the Internet to help you to write a list of the main industries in your local area.
+
+
+(Geography) (Research Exercise, Interview Exercise, Short Answer Exercise) T D 2 (Exercise on changes to local industries)
+
+\begin{enumerate}[label=\alph*.]
+\item Interview older people and use the Internet to find out if there have been any changes to the industries in your area in the last ten years.
+\item Have many factories or businesses closed?
+\item Have any new factories or businesses started?
+\end{enumerate}
+
+
+(Geography) (Writing Exercise, Design Exercise) D 2 (Exercise on list writing, Exercise with creative writing)
+
+Imagine that you are going to visit Lata in Parsoiya.
+\begin{enumerate}[label=\alph*.]
+\item Make a list of the things you want to find out about the village.
+\item Design a postcard with a picture of the village on the front.
+\item Write a description on the back of the postcard about what you would have done in the village if you stayed with Lata for a day.
+\end{enumerate}
+
+
+(Geography) (Discussion Exercise, Writing Exercise, Pair Activity) D 2 (Activity on the importance of weather, Exercise on list writing)
+
+Discuss with a friend why a farmer with small fields in Parsoiya depends on the weather for a good harvest. Write a list of all the reasons you can think of.
+
+
+(Geography) (Group Activity, Discussion Exercise, Drawing Exercise) D 2 M
+
+Work in groups.
+\begin{enumerate}[label=\alph*.]
+\item Choose an open space in your local area or in your school grounds that has not been cared for.
+\item Discuss how the area could be improved.
+\item Draw plans to show how the area could be improved.
+\end{enumerate}
+
+
+(Geography) (Writing Exercise) D 2 (Exercise on writing a letter) 
+
+Find out who is responsible for improving the local environment. Write a letter to them describing your plans.
+
+
+(Geography) (Research Exercise, Short Answer Exercise) D 2 (Activity using an atlas)
+
+Use an atlas, a map of India on the Internet or a globe to help you answer these questions about India:
+\begin{enumerate}[label=\alph*.]
+\item Which country to the north-west of India?
+\item Which island country found off the southern tip of India?
+\item Approximately how far is it from the southern tip of India to its most northerly point?
+\item Name three large Indian cities.
+\end{enumerate}
+
+
+(Geography) (Class Activity, Writing Exercise) D 2 (Exercise with short answers)
+
+Make a class collection of pictures, stamps, coins, food packets and other objects from India.
+\begin{enumerate}[label=\alph*.]
+\item Write a sentence or two, on a piece of cardboard or paper, describing each object.
+\item Display the objects and their descriptions in your classroom.
+\end{enumerate}
+
+
+(Geography) (Writing Exercise, Data Collection Exercise, Chart Drawing Exercise, Short Answer Exercise) D 2 (Exercise on cereals)
+
+Rice is a cereal.
+\begin{enumerate}[label=\alph*.]
+\item Write a list of all the cereals that you can think of.
+\item Ask your friends which cereal they like best.
+\item Draw a bar chart to show the results.
+\item How is rice cooked?
+\item Name some dishes made with rice that you eat.
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Group Exercise, Short Answer Exercise) D 3 (Exercise on holiday planning)
+
+The Jensen family want a winter holiday in December. Mr and Mrs Jensen are keen to try out their new skis. Their 12-year-old son, Johann, wants to ski too, but he also hopes to be able to go bird-watching in forests and by lakes. Johann's 9-year-old sister, Alexa, wants to take lots of pictures with her new digital camera. They all want to try the food in the local coffee shops and restaurants. Help the family below choose where to go on holiday. Work in a group of three. Collect some holiday brochures or use a travel agent's website and choose three places where the family could go on holiday. Use guidebooks or the Internet to find out more about these places, including what the weather is like.
+\begin{enumerate}[label=\alph*.]
+\item Record what you have found out about each place.
+\item How much would two weeks' holiday cost for the family at each of the three places?
+\item Which place do you think the family will choose? Why?
+\end{enumerate}
+
+
+(Geography) (Data Collection Exercise, Writing Exercise) D 5 (Exercise on comparing hurricanes and tornadoes)
+
+Create a spreadsheet to compare hurricanes and tornadoes. Include the following headings in your spreadsheet:  
+\begin{enumerate}[label=\alph*.]
+\item how they form  
+\item where they form  
+\item their size  
+\item their destructiveness  
+\item any other similarities and differences you can find.  
+\end{enumerate}
+
+
+(Geography) (Research Exercise, Plotting Exercise, Mapping Exercise) D 5 (Exercise on collecting pictures, newspaper cuttings, and Internet articles showing the path of destruction caused by a tornado)
+
+Collect pictures, newspaper cuttings and Internet articles showing the path of destruction caused by a tornado. If you can, plot the route of the tornado on a map.
+
+
+(Geography) (Research Exercise, Drawing Exercise) D 5 (Exercise on waterspouts)
+
+Look on the Internet or in reference books to find out about waterspouts.  
+
+Draw a diagram to show how a waterspout is formed.
+
+
+(Geography) (Map Exercise, Short Answer Exercise) D 5 (Exercise on map search)
+
+Look at a map showing Dubai and Jebel Ali Port.
+\begin{enumerate}[label=\alph*.]
+\item Why is Jebel Ali in a good position for a port?
+\item What other ports share the same coastline along the Arabian Gulf as Jebel Ali Port?
+\end{enumerate}
+
+
+(Geography) (Map Exercise, Short Answer Exercise) D 5 (Exercise on map search)
+
+Look at a map or atlas and find Dubai. How far away is it from your home and in which direction?
+
+
+(Geography) (Research Exercise) D 5 M
+
+Find out what work is carried out at a port by:
+\begin{enumerate}[label=\alph*.]
+\item coastguards
+\item immigration officers
+\item customs officers
+\end{enumerate}
+
+
+(Geography) (Short Answer Exercise) D 1 M
+
+Would you like to live in Shanghai? Say why.
+
+
+(Geography) (Drawing Exercise, Writing Exercise, Short Answer Exercise) D 1 (Exercise on map drawing, Exercise with list writing)
+
+Draw a map of the way you go to school.
+\begin{enumerate}[label=\alph*.]
+\item Which roads do you travel along?  
+\item Make a list of some of the buildings you pass.  
+\item Are the buildings old or new? How do you know?  
+\end{enumerate}
+
+
+(Geography) (Drawing Exercise, Short Answer Exercise) D 1 (Exercise on drawing a room) 
+
+Draw a picture of your favourite room. Draw some of the different things that are in the room. Say why you like that room best.
+
+
+(Geography) (Short Answer Exercise) D 3 M
+
+Write four important uses of the world's larger rivers.
+
+
+(Geography) (Writing Exercise) D 3 (Exercise on river words)
+
+Write a sentence about each of these river words: stream, dam, valley, gorge, waterfall, oxbow lake, estuary, delta.
 
 

@@ -67,7 +67,7 @@ Add a sprite (for example, a parrot) and use a block that makes this sprite try 
 \end{itemize}
 
 
-(Computer Science) (Photography Exercise) D 5 (Activity on creating a storyboard, With Material)
+(Computer Science) (Photography Exercise, Activity) D 5 (Activity on creating a storyboard, With Material)
 
 Create a storyboard.
 Use a camera or smartphone to take photos that match your storyboard. 
@@ -168,13 +168,13 @@ List three ways that you use computers to help you do school work. For each one,
 Explore the Amazon rainforest using your imagination. Describe what you think a rainforest might feel like, including the sounds you might hear, the smells you might encounter, and the textures of the plants and animals. Now think about how you could use this information with a computer to create something meaningful. Write it down.
 
 
-(Computer Science) (Short Answer Exercise, Group Activity Exercise) D 1 M
+(Computer Science) (Short Answer Exercise, Group Activity) D 1 M
 
 Think about the importance of rainforests. Why do you think they are vital for our planet? Discuss your thoughts with someone or write them down.
 Think of how we could use computers to protect or understand rainforests better, then discuss this with your partner and write it down too.
 
 
-(Computer Science) (Short Answer Exercise, Group Activity) D 2 M
+(Computer Science) (Short Answer Exercise, Group Exercise) D 2 M
 
 Tell your teacher what kinds of animals you would like to have in a wildlife reserve. Count how many of your classmates would like different types of animals. Now, think about how computers can help us organize this information. How could we use a computer to keep track of the different animals and the number of classmates who like each one? Discuss your thoughts with someone or write them down.
 
@@ -449,7 +449,7 @@ Choose a program. Add a backdrop to your program.
 \end{itemize}
 
 
-(Computer Science) (Short Answer Exercise, Activity Exercise) D 2 (Exercise to introduce users to programming, With Material)
+(Computer Science) (Short Answer Exercise, Activity) D 2 (Exercise to introduce users to programming, With Material)
 
 Think of a sprite. Draw the sprite you chose. Imagine a computer game with your sprite in it. Write down your idea. 
 Draw the sprite you chose. Imagine a computer game with your sprite in it. Write down your idea.  
@@ -460,7 +460,7 @@ Draw the sprite you chose. Imagine a computer game with your sprite in it. Write
 \end{itemize}
 
 
-(Computer Science) (Activity Exercise) D 5 M
+(Computer Science) (Activity) D 5 M
 
 Choose a recipe. Choose which steps of the recipe to photograph. Choose no more than six steps. Draw a storyboard that shows all the photos you need to take.
 
@@ -470,7 +470,7 @@ Choose a recipe. Choose which steps of the recipe to photograph. Choose no more 
 Imagine you are a picture editor. It is your job to tell the photographer which photos they need to take. You need to give instructions about: location, people, design, and colours. Write your instructions to the photographer on a storyboard you would like to make.
 
 
-(Computer Science) (Activity Exercise) D 5 (Exercise on planning a photo shoot)
+(Computer Science) (Activity) D 5 (Exercise on planning a photo shoot)
 
 Think about the props or materials you need for a photo shoot you would like to make. For example, a bowl or a picture of ingredients. Find the props you need and bring them to the next lesson.
 
@@ -518,7 +518,7 @@ Make a list of three things you should do when using computers in school.
 How would you act if something you saw or read on the internet upset or frightened you? Think about who your trusted adults are. Who would you talk to at school and at home if you needed to?
 
 
-(Computer Science) (Activity Exercise) D 4 M
+(Computer Science) (Activity) D 4 M
 
 Do you need to ask for help to manage your privacy settings? Make an action list.
 
@@ -578,7 +578,7 @@ Think about a time when you faced a problem while using a computer.
 \end{enumerate}
 
 
-(Computer Science) (Activity Exercise) D 2 (With Material)
+(Computer Science) (Activity) D 2 (With Material)
 
 \begin{enumerate}
 \item Open a file and call it ‘My hobby'. Add a shape to the page. Add an important message inside the shape. For example, have you made friends doing your hobby? Make the box look the way you want. Save your file.
@@ -662,12 +662,12 @@ Look at these posters about hobbies. Talk to a friend about which poster you lik
 \end{itemize}
 
 
-(Computer Science) (Creative Exercise) D 1 (Activity)
+(Computer Science) (Creative Exercise, Activity) D 1 M
 
 Make a poster to tell other children what to do if they are worried about something they see on a web page.
 
 
-(Computer Science) (Creative Exercise) D 1 (Activity)
+(Computer Science) (Creative Exercise, Activity) D 1 M
 
 Make a poster about a rainforest animal.
 
@@ -695,7 +695,7 @@ What could you do if your classmate tells you they have seen something online th
 Do research on robots working in agriculture or retail. What kind of robot vehicles and machines are used in these industries?
 
 
-(Computer Science) (Drawing Exercise) D 1 (Activity)
+(Computer Science) (Drawing Exercise, Activity) D 1 M
 
 Draw a picture of a computer. In your picture, show:  
 \begin{itemize}
@@ -705,7 +705,7 @@ Draw a picture of a computer. In your picture, show:
 \end{itemize}
 
 
-(Computer Science) (Activity Exercise) D 1 (At home exercise)
+(Computer Science) (Activity) D 1 (At home exercise)
 
 Talk to someone at home about technologies they use. Draw pictures. Bring your pictures to school.
 
@@ -882,12 +882,12 @@ Save your slide show.
 Come up with a story. Tell an adult at home the story you have made up. If you wish, you can ask for ideas to change the story. If you agree with their ideas, note them down.
 
 
-(Computer Science) (Drawing Exercise) D 1 (Activity)
+(Computer Science) (Drawing Exercise, Activity) D 1 M
 
 Paint a funny face using lots of colours and shapes. Now try to make the face using computer software. Make a display in class of both types of image.
 
 
-(Computer Science) (Activity Exercise) D 1 (With Prerequisite, With Material)
+(Computer Science) (Activity) D 1 (With Prerequisite, With Material)
 
 Do as many of these activities as you can. 
 \begin{enumerate}
@@ -1021,7 +1021,7 @@ Search for a website about healthy food for children. Ask yourself the three que
 \end{enumerate}
 
 
-(Computer Science) (Research Exercise) D 2 (Class Activity)
+(Computer Science) (Research Exercise, Class Activity) D 2 M
 
 As a class, make a list of easy to understand, useful, and trustworthy food websites.
 
@@ -1110,7 +1110,7 @@ Imagine you want to change the background of a scene.
 \end{enumerate}
 
 
-(Computer Science) (Discussion Exercise) D 3 (Exercise on group activity)
+(Computer Science) (Discussion Exercise, Group Activity) D 3 M
 
 Talk with a classmate about what happens when a slide has too many words or pictures.
 
@@ -1123,7 +1123,7 @@ Talk with a classmate about what happens when a slide has too many words or pict
 \end{enumerate}
 
 
-(Computer Science) (Activity Exercise) D 4 (Exercise on using spreadsheets)
+(Computer Science) (Activity) D 4 (Exercise on using spreadsheets)
 
 \begin{enumerate}
 \item Use the Sum function to calculate the total value for a spreadsheet of your choice. 
@@ -1207,7 +1207,7 @@ Open a spreadsheet with two columns of data.
 A pie chart shows how a whole is divided into parts. Think of a good use for a pie chart.
 
 
-(Computer Science) (Drawing Exercise) D 3 (Activity)
+(Computer Science) (Drawing Exercise, Activity) D 3 M
 
 \begin{enumerate}[label=\alph*.]
 \item Draw a picture on a piece of paper. Think of a character. It could be a boy, a girl, an animal, a machine, a plant, or anything else you like. 
@@ -1243,7 +1243,7 @@ In a data table for parcels (shipping), every parcel has a unique code number. W
 Give an example of personal information that you would not share on the internet.
 
 
-(Computer Science) (Exercise) D 2 (Activity)
+(Computer Science) (Short Answer Exercise, Activity) D 2 (Activity on sharing information on the internet)
 
 Imagine different items or information.  
 \begin{enumerate}[label=\alph*.]
@@ -1269,7 +1269,7 @@ Another type of digital device is called a wearable device. Have you heard of th
 Say something that is not a digital device. Explain your answer.
 
 
-(Computer Science) (Activity Exercise) D 1 M
+(Computer Science) (Activity) D 1 M
 
 Imagine you are an archaeologist finding old toys. You want to make a list of the toys you have found. Open a spreadsheet. You can enter labels by typing them in a cell.\\
 
@@ -1287,7 +1287,7 @@ Press ‘Enter'.\\
 \end{enumerate}
 
 
-(Computer Science) (Discussion Exercise) D 3 (Exercise on group activity)
+(Computer Science) (Discussion Exercise, Group Activity) D 3 M
 
 Talk with a classmate about what happens when a slide has too many words or pictures.
 
@@ -1420,7 +1420,7 @@ In a data table for parcels (shipping), every parcel has a unique code number. W
 Give an example of personal information that you would not share on the internet.
 
 
-(Computer Science) (Activity Exercise) D 2 M
+(Computer Science) (Activity) D 2 M
 
 Imagine different items or information.  
 \begin{enumerate}[label=\alph*.]
@@ -1446,7 +1446,7 @@ Another type of digital device is called a wearable device. Have you heard of th
 Say something that is not a digital device. Explain your answer.
 
 
-(Computer Science) (Activity Exercise) D 1 M
+(Computer Science) (Activity) D 1 M
 
 Imagine you are an archaeologist finding old toys. You want to make a list of the toys you have found. Open a spreadsheet. You can enter labels by typing them in a cell.\\
 
@@ -1543,7 +1543,7 @@ What devices are used for input? Describe two different devices. Write their nam
 What device can you use to input a song to a computer?
 
 
-(Computer Science) (Research Exercise, Short Answer) D 5 (Activity)
+(Computer Science) (Research Exercise, Short Answer, Activity) D 5 M
 
 Carry out a search to find information about wildlife in China. Choose a method to gather information that works for you, such as asking someone knowledgeable or using a library resource. Then answer the questions below.
 
@@ -1569,7 +1569,7 @@ The app will stop you from typing invalid data. It shows an error message. Explo
 \end{itemize}
 
 
-(Computer Science) (Activity Exercise) D 1 M
+(Computer Science) (Activity) D 1 M
 
 To make an input in a computer you can use:  
 \begin{itemize}
@@ -1654,7 +1654,7 @@ Consider how you connect to the internet. Describe the process using your own wo
 A classmate wants to make a copy of a sprite. Tell her how to do it.
 
 
-(Computer Science) (Presentation Exercise) D 6 (Activity)
+(Computer Science) (Presentation Exercise, Activity) D 6 M
 
 Make a presentation to share some data you found or collected with your classmates. Add these slides:  
 \begin{enumerate}
@@ -1678,7 +1678,7 @@ In your own words, explain the advantages to programmers of reusing and repurpos
 \end{enumerate}
 
 
-(Computer Science) (Activity Exercise) D 4 (Exercise on creating and modifying charts)
+(Computer Science) (Activity) D 4 (Exercise on creating and modifying charts)
 
 \begin{enumerate}
 \item Make a pie chart.
@@ -1777,7 +1777,7 @@ Find out how old your parents or grandparents were when the web was invented. Do
 Search the web for information about the impacts of climate change. Find a page that you like. Is the page mainly facts or opinions? Give one example of each.
 
 
-(Computer Science) (Research Exercise, Short Answer) D 5 (Activity)
+(Computer Science) (Research Exercise, Short Answer, Activity) D 5 M
 
 Use a search engine to answer these questions.  
 \begin{enumerate}
@@ -1898,7 +1898,7 @@ Design your perfect robot assistant. Describe what your robot would look like, w
 Think of a task you do every day. How could a robot help you with that task? Describe the robot's features and abilities that would assist you.
 
 
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 4 (With Material)
+(Computer Science) (Activity, Short Answer Exercise) D 4 (With Material)
 
 \begin{enumerate}[label=\alph*.]
 \item Conduct a survey in your class where you ask each student what jobs they would like to do later in life. 
@@ -1943,7 +1943,7 @@ What is a sprite? Say in your own words.
 [STRDGM] The image shows a cartoon cat sprite on a colorful space backdrop, illustrating the concept of a sprite moving in a programming environment.] [STPDGM]
 
 
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 1 (Multi-part) \
+(Computer Science) (Activity, Short Answer Exercise) D 1 (Multi-part) \
 \begin{enumerate} 
 \item Imagine you are creating a simple game using blocks. First, think about what happens when you want to start the game. What would you need to do to make it start? 
 \item Now, think about how you would explain to someone else how to start the game. What steps would you tell them to follow? 
@@ -1992,7 +1992,7 @@ Make a plan for a new program with a ‘forever' loop. The user enters a series 
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise) D 3 (Exercise on operators, Activity)
+(Computer Science) (Short Answer Exercise, Activity) D 3 (Exercise on operators)
 
 \begin{enumerate}[label=\alph*.]
 \item Pick an operator that works with words and letters. Describe what it does.
@@ -2040,7 +2040,7 @@ Is using a computer always the best way to carry out a task? Talk with an adult 
 [STRDGM] The image depicts a busy street scene with various people engaged in different activities. There are vehicles, a florist shop, a food vendor, and people interacting in a café setting. [STPDGM]
 
 
-(Computer Science) (Activity Exercise) D 5 M
+(Computer Science) (Activity) D 5 M
 
 \begin{enumerate}
 \item Choose a recipe you like online and save the text.
@@ -2125,7 +2125,7 @@ Make a tactile poster for your classroom with the three email safety rules. Use 
 Describe to someone what pharming and phishing are in your own words, focusing on how they can affect email safety.
 
 
-(Computer Science) (Discussion Exercise) D 2 (Group Activity)
+(Computer Science) (Discussion Exercise, Group Activity) D 2 M
 
 Tell a partner about the last time you used a computer. What did you use it for?
 
@@ -2140,7 +2140,7 @@ Draw a computer. Show the wire that brings electricity to the computer. Draw a c
 What must you do to stay safe when you use electronic devices?
 
 
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 4 (At home exercise, Multi-part, Exercise on microprocessors)
+(Computer Science) (Activity, Short Answer Exercise) D 4 (At home exercise, Multi-part, Exercise on microprocessors)
 
 \begin{enumerate}
 \item Explore your home and make a list of the items you can find that use microprocessor technology. If a device has a display, it probably has an embedded microprocessor.
@@ -2166,7 +2166,7 @@ Think about smart refrigerators. Make a list of the things a smart refrigerator 
 Consider how technology has changed over time. Think about what you use today compared to what people might have used 2500 years ago. Write down your thoughts on how technology has improved our lives.
 
 
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 6 (Exercise on keeping a tidy workspace when using computers, Multi-part)
+(Computer Science) (Activity, Short Answer Exercise) D 6 (Exercise on keeping a tidy workspace when using computers, Multi-part)
 
 Look at the situation of a messy workspace. 
 \begin{enumerate}[label=\alph*.]
@@ -2176,7 +2176,7 @@ Look at the situation of a messy workspace.
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise, Activity Exercise, Reflection Exercise) D 6 M
+(Computer Science) (Short Answer Exercise, Activity, Reflection Exercise) D 6 M
 
 \begin{enumerate}[label=\alph*.]
 \item Work with a partner. Sit at the computer and ask your partner to assist you with a problem. For instance, you might ask them to explain how to create a new folder. 
@@ -2282,7 +2282,7 @@ Describe something you have learned about robots, focusing on how they are used 
 [STRDGM] Two children are interacting with a humanoid robot. One child is holding a tablet, while the other is observing the robot. The robot is standing on a table, and there are various objects around it. [STPDGM]
 
 
-(Computer Science) (Research Exercise, Short Answer) D 4 (Activity)
+(Computer Science) (Research Exercise, Short Answer, Activity) D 4 M
 
 Open a search engine. Enter the search string 'pizza recipe vegetarian' and look at the first page of results. Now enter 'pizza recipe vegetarian -margherita'. Are there any changes in the search results?
 
@@ -2300,7 +2300,7 @@ Use your web search skills to create an advert for your favourite pizza. Write a
 \end{enumerate}
 
 
-(Computer Science) (Activity Exercise) D 4 (At Home Activity)
+(Computer Science) (Activity) D 4 (At Home Activity)
 
 Do other members of your family use the internet? Share some useful search skills with your family to help them when they use the internet. Report on their opinions on these skills. Do they help them?
 
@@ -2330,7 +2330,7 @@ Imagine a classmate has sent you an email. Think and write about how you would r
 Consider why it might be helpful to keep a record of the emails you send. What benefits could this have?
 
 
-(Computer Science) (Activity Exercise, Short Answer Exercise) D 3 M
+(Computer Science) (Activity, Short Answer Exercise) D 3 M
 
 Come up with as many ways of communicating as you can. Make sure to also come up with ways that rely on the usage of electronics.
 \begin{enumerate}
@@ -10240,15 +10240,9 @@ Finish each sentence with a full stop or a question mark.
 \item We shook hands \_\_\_
 \end{enumerate}
 
+(Geography) (Listening Exercise, Pair Activity) D 2 (Activity on sounds)
 
-(Geography) (Pair Activity) D 2 M
-
-Work with a friend. Listen to the sounds in different parts of your school.
-
-
-(Geography) (Short Answer) D 2 M
-
-Write a list of the sounds that you hear in the places below.
+Work with a friend. Listen to the sounds in different parts of your school. Write a list of the sounds that you hear in the places below.
 \begin{itemize}
 \item inside your classroom;
 \item in the school corridor;
@@ -10256,17 +10250,17 @@ Write a list of the sounds that you hear in the places below.
 \end{itemize}
 
 
-(Geography) (Class Activity) D 2 M
+(Geography) (Discussion Exercise) D 2 (Exercise on class activities)
 
 Discuss which noises around the school annoy you most.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Write down what you could do to reduce noise in your school.
 
 
-(Geography) (Pair Activity) D 2 M
+(Geography) (Activity) D 2 (Exercise on noise levels) 
 
 Work with a friend.
 \begin{enumerate}
@@ -10279,7 +10273,7 @@ Work with a friend.
 \end{enumerate}
 
 
-(Geography) (Class Activity) D 3 (With Illustration)
+(Geography) (Class Activity, Drawing Exercise) D 3 (With Illustration, Exercise on map symbols)
 
 \begin{enumerate}
 \item As a class, collect different-scaled maps of your local area. Compare them.
@@ -10290,7 +10284,7 @@ Work with a friend.
 [STRDGM] A diagram showing a bird's-eye view of a village, including various buildings and vehicles like a car and a truck. [STPDGM]
 
 
-(Geography) (Group Activity) D 3 M
+(Geography) (Group Exercise) D 3 M
 
 Work with a group of friends.
 \begin{enumerate}
@@ -10301,7 +10295,7 @@ Work with a group of friends.
 \end{enumerate}
 
 
-(Geography) (Group Activity) D 3 M
+(Geography) (Group Exercise, Writing Exercise) D 3 (Exercise on local area changes)
 
 Work in a group.  
 \begin{enumerate}
@@ -10310,7 +10304,7 @@ Work in a group.
 \end{enumerate}
 
 
-(Geography) (Activity) D 3 M
+(Geography) (Activity) D 3 (Multi-part)
 
 \begin{enumerate}
 \item Find a large-scale map of your street or the area around your school. Carefully colour in the different buildings according to what they are used for. Use one colour for each type of building you choose. These could include houses and apartments, schools, shops, factories, places of worship, places of leisure, and coffee shops and restaurants. Write a key to your map.  
@@ -10318,7 +10312,7 @@ Work in a group.
 \end{enumerate}
 
 
-(Geography) (Activity) D 5 (With Materials)
+(Geography) (Map Exercise, Activity) D 5 (With Materials)
 
 Find Benidorm on a map or in an atlas. How far away is it from your home? In which direction does it lie from your home?  
 
@@ -10328,12 +10322,12 @@ Find Benidorm on a map or in an atlas. How far away is it from your home? In whi
 \end{itemize}
 
 
-(Geography) (Activity) D 5 M
+(Geography) (Writing Exercise) D 5 (Exercise on nearest seaside resort)
 
-What is the nearest seaside resort to your home? How far away is it and in which direction?  
+What is the nearest seaside resort to your home? How far away is it and in which direction?
 
 
-(Geography) (Activity) D 5 M
+(Geography) (Research Exercise, Drawing Exercise) D 5 (Exercise on temperature and sunshine in Benidorm)
 
 \begin{enumerate}
 \item Use the Internet to find out how the temperature in Benidorm varies throughout the year.  
@@ -10344,17 +10338,17 @@ What is the nearest seaside resort to your home? How far away is it and in which
 \end{enumerate}
 
 
-(Geography) (Activity, Short Answer) D 5 M
+(Geography) (Writing Exercise, Short Answer Exercise) D 5 (Exercise on describing a holiday at the coast)
 
-Describe a holiday you have taken at the coast. What was the coast like? What was there to do? If you have never been to the coast, choose a seaside resort and imagine what a visit would be like.  
+Describe a holiday you have taken at the coast. What was the coast like? What was there to do? If you have never been to the coast, choose a seaside resort and imagine what a visit would be like.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Write four reasons why Singapore is in a good location for a port.
 
 
-(Geography) (Activity) D 5 (With Materials)
+(Geography) (Research Exercise, Mapping Exercise, Activity) D 5 (With Materials)
 
 \begin{enumerate}
 \item Use travel guides, the Internet or an atlas to find as many ferry ports around the world as you can.
@@ -10369,7 +10363,7 @@ Write four reasons why Singapore is in a good location for a port.
 \end{itemize}
 
 
-(Geography) (Activity, Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 (Exercise on describing school features)
 
 \begin{enumerate}
 \item What is your school like?
@@ -10380,19 +10374,19 @@ Write four reasons why Singapore is in a good location for a port.
 \end{enumerate}
 
 
-(Geography) T D 1 (With Illustration)
+(Geography) (Descriptive Exercise) T D 1 (With Illustration, Exercise on identifying building materials)
 
 This is a picture of a school. It is quite a new building. What is it made of? 
 
 [STRDGM] The image shows a small school building with children playing outside on a playground. Some children are running, and there is a basketball hoop on the wall of the school. The background features green hills and trees. [STPDGM]
 
 
-(Geography) (Group Activity) D 1 M
+(Geography) (Discussion Exercise, Group Activity) D 1 M
 
-Talk with a group of friends about your school. How many classrooms are there? How many teachers are there? What are the walls made of? How many different entrances are there? Is the building all on the same floor, or does it have stairs?  
+Talk with a group of friends about your school. How many classrooms are there? How many teachers are there? What are the walls made of? How many different entrances are there? Is the building all on the same floor, or does it have stairs?
 
 
-(Geography) (Activity, Drawing Exercise) D 1 (With Illustration)
+(Geography) (Drawing Exercise, Activity) D 1 (With Illustration)
 
 \begin{enumerate}
 \item Look carefully at each side of your school. Choose one side to draw. Make sure your drawing includes all the windows, all the doors, any drains and drainpipes.
@@ -10402,12 +10396,12 @@ Talk with a group of friends about your school. How many classrooms are there? H
 [STRDGM] A diagram showing a school layout with labeled areas such as "School," "Playground," and "Car park." [STPDGM]
 
 
-(Geography) (Activity, Drawing Exercise) D 3 M
+(Geography) (Activity, Drawing Exercise, Writing Exercise) D 3 (Exercise on slopes on roads and railways)
 
 Find out how slopes are marked on roads and railways. Make drawings of the signs used and write a sentence or two about each one.
 
 
-(Geography) (Activity, Short Answer) D 3 M
+(Geography) (Map Reading Exercise, Short Answer Exercise) D 3 (Exercise on local area analysis)
 
 \begin{enumerate}
 \item Study a large-scale map of your local area.
@@ -10418,7 +10412,7 @@ Find out how slopes are marked on roads and railways. Make drawings of the signs
 \end{enumerate}
 
 
-(Geography) (Activity) D 3
+(Geography) (Research Exercise) D 3 (Exercise on sand dune systems)
 
 Use an atlas to find the location of the large sand dune systems listed below. Then, use reference books or the Internet to research one of these sand dune systems, and present your findings to the class.
 
@@ -10434,43 +10428,43 @@ Use an atlas to find the location of the large sand dune systems listed below. T
 \end{itemize}
 
 
-(Geography) (Pair Activity) D 3 M
+(Geography) (Discussion Exercise, Pair Activity) D 3 M
 
 Work with a friend. Discuss how it might be possible to reduce the damage people do to sand dunes by trampling over them.
 
 
-(Geography) (Short Story Writing) D 3 M
+(Geography) (Writing Exercise) D 3 (Exercise on short story writing)
 
 Write a short story describing how a grain of sand washed up on a beach became part of a sand dune system that was eventually used as a golf course.
 
 
-(Geography) T D 5 (With Illustration)
+(Geography) (Identification Exercise) T D 5 (With Illustration)
 
 Find Singapore on the map.
 
 [STRDGM] A map showing Singapore's location off the coast of Malaysia, with labels for nearby islands and countries. [STPDGM]
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 What are fossil fuels?
 
 
-(Geography) (Short Answer) D 3 (With Illustration)
+(Geography) (Short Answer Exercise) D 3 (With Illustration)
 
 The land around the South Pole is very cold all the year round. Which animals live around the South Pole? 
 
 [STRDGM] The image shows a diagram of the Earth with annotations indicating the positions of the Equator, North Pole, and South Pole, along with arrows showing the angle of the Sun's rays at these locations. [STPDGM]
 
 
-(Geography) (Activity, Short Answer) D 3 (With Illustration)
+(Geography) (Observation Exercise, Short Answer) D 3 (With Illustration)
 
 These pictures show the view from the windows of two schools. What can you see in each view? What do you think the environment is like around each school?
 
 [STRDGM] The image shows two different views from school windows: one from a village school with children playing outside and colorful decorations, and another from a city school with a playground and buildings in the background. [STPDGM]
 
 
-(Geography) (Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 (Exercise on water usage at home)
 
 You could use the Internet, or contact environment agencies and water companies, to help you with this exercise.
 
@@ -10480,17 +10474,17 @@ You could use the Internet, or contact environment agencies and water companies,
 \end{enumerate}
 
 
-(Geography) (Poster Design Activity) D 3 M
+(Geography) (Design Exercise) D 3 (Exercise on poster design)
 
 Design a poster telling people about the problems that face our rivers and what they can do to help.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Write your own explanation of the meanings of the following words: erosion, longshore drift, spit, bar, lagoon, deposition, beach, cliff.
 
 
-(Geography) (Drawing Exercise) D 3 M
+(Geography) (Drawing Exercise, Writing Exercise) D 3 (Exercise on coastlines)
 
 \begin{enumerate}
 \item Study a large-scale map showing the coast. Choose part of the coast and sketch what you think the coastline would look like.
@@ -10498,22 +10492,22 @@ Write your own explanation of the meanings of the following words: erosion, long
 \end{enumerate}
 
 
-(Geography) (Class Activity) D 1 M
+(Geography) (Class Activity, Mapping Exercise) D 1 M
 
 Make a class display. Collect postcards from different places. Stick them in the correct place on a large map of the world.
 
 
-(Geography) (Drawing Activity) D 1 M
+(Geography) (Drawing Exercise) D 1 M
 
-Make plans of your hands and feet by drawing around them on a sheet of paper. What would you look like if someone saw you from above? Draw what you think you would look like.  
-
-
-(Geography) (Drawing Activity) D 1 M
-
-Look at your school playground. Draw a plan of what you think it looks like from above.  
+Make plans of your hands and feet by drawing around them on a sheet of paper. What would you look like if someone saw you from above? Draw what you think you would look like.
 
 
-(Geography) (Activity, Short Answer) D 5 M
+(Geography) (Drawing Exercise) D 1 M
+
+Look at your school playground. Draw a plan of what you think it looks like from above.
+
+
+(Geography) (Map Exercise, Short Answer Exercise, Activity) D 5 M
 
 \begin{enumerate}
 \item Find Aqaba on a map in an atlas or on the Internet.
@@ -10523,7 +10517,7 @@ Look at your school playground. Draw a plan of what you think it looks like from
 \end{enumerate}
 
 
-(Geography) (Class Activity, Short Answer, Data Collection Exercise) D 5 M
+(Geography) (Class Activity, Short Answer Exercise, Data Collection Exercise) D 5 M
 
 \begin{enumerate}
 \item What are some of the buildings found only in seaside resorts? Think about buildings that protect the coast, buildings used by people who help keep you safe at the coast, and buildings used to entertain people using the coast or beaches.
@@ -10535,7 +10529,7 @@ Look at your school playground. Draw a plan of what you think it looks like from
 \end{enumerate}
 
 
-(Geography) (Activity) D 5 M
+(Geography) (Research Exercise, Activity) D 5 M
 
 Use an atlas and reference books or the Internet to find the following information about the Netherlands.
 
@@ -10557,7 +10551,7 @@ Collect pictures and items connected with the Netherlands. Here are some suggest
 [STRDGM] Image of a container ship loading barges at Europoort, showcasing the busy port activities and large cargo containers. [STPDGM]
 
 
-(Geography) (Activity) D 3 M
+(Geography) (Writing Exercise) D 3 (Exercise on activities in different seasons)
 
 Imagine you live in Northern Europe or New Zealand. Write down four activities you might do in each of the seasons listed below.
 
@@ -10567,7 +10561,7 @@ Imagine you live in Northern Europe or New Zealand. Write down four activities y
 \end{itemize}
 
 
-(Geography) (Activity) D 3 M
+(Geography) (Research Exercise, Activity) D 3 M
 
 Use reference books or the Internet to find out about the North and South Poles.
 
@@ -10577,7 +10571,7 @@ Use reference books or the Internet to find out about the North and South Poles.
 \end{itemize}
 
 
-(Geography) (Activity, Short Answer) D 3 M
+(Geography) (Observation Exercise, Short Answer Exercise) D 3 (Activity on sensory observation)
 
 Look out of your classroom window. Think about what you can see, hear and smell.  
 
@@ -10588,22 +10582,22 @@ Look out of your classroom window. Think about what you can see, hear and smell.
 \end{itemize}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
-One of the things that spoils the appearance of buildings and streets is litter. Why do you think people leave litter? Draw or write some ideas about how you could improve the appearance of an area that has a lot of litter.  
+One of the things that spoils the appearance of buildings and streets is litter. Why do you think people leave litter? Draw or write some ideas about how you could improve the appearance of an area that has a lot of litter.
 
 
 (Geography) (Activity, Short Answer) D 3 M
 
 \begin{enumerate}
-Look at a globe or a map of the world. Run your finger along the Equator.
-Write a list of the countries the Equator passes through.
-What large cities does the Equator pass very near to or through?
-What do you think the climate of these places will be like? Use reference books or the Internet to find out if you were right.  
+\item Look at a globe or a map of the world. Run your finger along the Equator.
+\item Write a list of the countries the Equator passes through.
+\item What large cities does the Equator pass very near to or through?
+\item What do you think the climate of these places will be like? Use reference books or the Internet to find out if you were right.  
 \end{enumerate}
 
 
-(Geography) T D 3 M
+(Geography) (Research Exercise) D 3 M
 
 Use an atlas to find which continents:  
 \begin{itemize}
@@ -10622,17 +10616,17 @@ Use an atlas to find which continents:
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Compare village life in India to village life in your country. Write at least five differences.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 In 1900 only about one Indian person in ten (10 per cent) lived in towns or cities. Today about one in three people lives in a town or city. Write down all the reasons you can think of for this change.
 
 
-(Geography) (Group Acitivty, Short Answer) D 2 M
+(Geography) (Group Activity, Writing Exercise) D 2 (Exercise on energy-saving ideas)
 
 \begin{enumerate}
 \item Discuss with a friend how you could save energy in your school.  
@@ -10641,22 +10635,22 @@ In 1900 only about one Indian person in ten (10 per cent) lived in towns or citi
 \end{enumerate}
 
 
-(Geography) (Poster Design Exercise) D 2 M
+(Geography) (Design Exercise) D 2 (Exercise on poster design)
 
-Design a poster to encourage people to walk or cycle on short journeys instead of travelling by car.  
+Design a poster to encourage people to walk or cycle on short journeys instead of travelling by car.
 
 
-(Geography) (Short Answer, Activity) D 2 M
+(Geography) (Short Answer Exercise, Activity) D 2 M
 
 Write lists of the open spaces near your home or school. Use the headings: Parks and recreation grounds, Countryside, Other.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Which leisure facilities could be built on waste ground?
 
 
-(Geography) (Pair Activity) D 2 M
+(Geography) (Collaborative Exercise) D 2 (Exercise on leisure activities and pollution)
 
 \begin{enumerate}
 \item Work with a friend. Discuss which leisure activities pollute the air, water or soil, or create lots of noise.
@@ -10664,7 +10658,7 @@ Which leisure facilities could be built on waste ground?
 \end{enumerate}
 
 
-(Geography) (Activity, Data Collection Exercise, Short Answer) D 2 M
+(Geography) (Activity, Data Collection Exercise) D 2 (Exercise with short answers)
 
 \begin{enumerate}
 \item Wearing gloves, collect all the classroom rubbish at the end of the day. Do this for a week.
@@ -10674,12 +10668,12 @@ Which leisure facilities could be built on waste ground?
 \end{enumerate}
 
 
-(Geography) (Short Answer, Activity) D 2 M
+(Geography) (Short Answer Exercise, Activity) D 2 M
 
 How could you reuse clean plastic yoghurt pots, plastic drink bottles, and plastic jars? Try out some of your ideas to see if they work.
 
 
-(Geography) (Map Drawing Activity, Short Answer) D 2 M
+(Geography) (Drawing Exercise, Short Answer Exercise) D 2 (Exercise on map drawing)
 
 \begin{enumerate}
 \item Draw a map of your local area and mark each type of recycling centre on your map using different symbols.
@@ -10687,7 +10681,7 @@ How could you reuse clean plastic yoghurt pots, plastic drink bottles, and plast
 \end{enumerate}
 
 
-(Geography) (Short Answer, Activity) D 3 M
+(Geography) (Short Answer Exercise, Research Exercise, Activity) D 3 M
 
 \begin{enumerate}
 \item Use an atlas and find Switzerland and Lake Lucerne.  
@@ -10697,19 +10691,19 @@ How could you reuse clean plastic yoghurt pots, plastic drink bottles, and plast
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
-Which large river has its source in Switzerland and flows north through France, Germany and the Netherlands?  
+Which large river has its source in Switzerland and flows north through France, Germany and the Netherlands?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Which of these countries have a coastline and which are landlocked?  
 
-Australia, Austria, Bhutan, Bolivia, Botswana, Chad, China, Italy, Japan, Mali, Paraguay, Zambia.  
+Australia, Austria, Bhutan, Bolivia, Botswana, Chad, China, Italy, Japan, Mali, Paraguay, Zambia.
 
 
-(Geography) (Pair Activity, Short Answer) D 3 M
+(Geography) (Collaborative Exercise, Short Answer Exercise) D 3 (Exercise on communication methods)
 
 Work with a friend.
 \begin{enumerate}
@@ -10719,24 +10713,24 @@ Work with a friend.
 \end{enumerate}
 
 
-(Geography) (Creative Writing Exercise) D 3 M
+(Geography) (Writing Exercise) D 3 (Exercise on creative writing)
 
 Write a message that you could send by e-mail to someone of your own age in one of the countries that borders the country you are from.
 
 
-(Geography) (Short Answer, Activity) D 5 M
+(Geography) (Short Answer Exercise, Activity) D 5 M
 
 The prevailing winds over much of Europe come mainly from the west, especially in winter.
 
 Look at a map of Europe in an atlas or on the Internet. Why do you think the prevailing winds often bring wet weather?
 
 
-(Geography) (Activity) D 5 M
+(Geography) (Activity) D 5 (Exercise on designing a device) 
 
 Using a short stick, some tissue paper and some sticky tape, design and make a device that will show you the wind strength and direction.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 M
 
 \begin{enumerate}
 \item Use an atlas or the Internet to find the estuaries of the world's major rivers, such as the Amazon, Nile, Ganges, Volga, Yangtze, Niger and Congo.
@@ -10746,52 +10740,52 @@ Using a short stick, some tissue paper and some sticky tape, design and make a d
 \end{enumerate}
 
 
-(Geography) (Research Activity, Data Collection Exercise) D 5 M
+(Geography) (Research Exercise, Data Collection Exercise) D 5 (Exercise on holiday resorts)
 
-Some newspapers record the number of hours of sunshine each day for holiday resorts. Choose five resorts and write down the number of hours of sunshine for each resort for a month. Draw a bar chart of your results. Which is the sunniest seaside resort in your sample?  
+Some newspapers record the number of hours of sunshine each day for holiday resorts. Choose five resorts and write down the number of hours of sunshine for each resort for a month. Draw a bar chart of your results. Which is the sunniest seaside resort in your sample?
 
 
-(Geography) (Activity) D 1 M
+(Geography) (Writing Exercise) D 1 (Exercise on school jobs)
 
 Write a list of the jobs people do in your school. Find out what work they do when you are not in school.
 
 
-(Geography) (Group Activity) D 1 M
+(Geography) (Group Exercise) D 1 M
 
 Work in a group. On a sheet of paper draw three large circles. Label one circle: 'I make things'. Label the second circle: 'I sell things'. Label the third circle: 'I help people'. Collect pictures showing the different jobs people do. Stick each picture in the correct circle.
 
 
-(Geography) (Activity) D 1 M
+(Geography) (Research Exercise, Activity) D 1 M
 
 Collect some pictures and tourist maps of your own area. What things are shown on the maps?
 
 
-(Geography) (Drawing Activity, Short Answer) D 1 M
+(Geography) (Drawing Exercise, Short Answer Exercise) D 1 (Exercise on creating a tourist map) 
 
 Draw a tourist map of your school for a wall display. What things could you show on your map?
 
 
-(Geography) (Drawing Activity, Short Answer) D 1 M
+(Geography) (Drawing Exercise, Short Answer Exercise) D 1 (Exercise on school journeys)
 
 Draw a large plan of your school. On it record the journeys you make around the school each day. Use a different colour for each journey. Label each journey to say where it goes from and to. Which parts of the school are the busiest?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Writing Exercise) D 3 (Exercise on advantages and disadvantages)
 
 Imagine you live in a small farm high up in the Andes. Write a list of the advantages and disadvantages of living in the mountains.
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise) D 3 (Exercise on mountain ranges)
 
 There are many mountain ranges in the world. Choose one of them and make a fact file about it. Include such headings as Length, Highest mountain, Type of mountains, Vegetation (plant life), People, Farming, Mining and Tourism.
 
 
-(Geography) (Pair Activity) D 3 M
+(Geography) (Discussion Exercise, Pair Activity) D 3 M
 
 Work with a friend. Discuss why you think there are few large cities in the Andes.
 
 
-(Geography) (Drawing Activity, Labelling Exercise) D 3 M
+(Geography) (Drawing Exercise, Labelling Exercise) D 3 (Exercise on mountain ranges and solitary mountains)
 
 On an outline map of the world, draw and label as many mountain ranges and solitary mountains as you can.
 
@@ -10801,17 +10795,17 @@ On an outline map of the world, draw and label as many mountain ranges and solit
 \end{itemize}
 
 
-(Geography) (Research Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Writing Exercise, Short Answer Exercise) D 3 (Exercise on mountain ranges)
 
 Research a mountain range. How was it formed? What is the scenery like? Who lives there? Write a short description of what you discover.
 
 
-(Geography) (Activity, Short Answer) D 3 M
+(Geography) (Activity, Short Answer Exercise) D 3 (Exercise on collecting postage stamps) 
 
 Collect postage stamps that show mountains or volcanoes. Display your stamps in an album or on a wall chart. Write a sentence or two about each of the stamps, the mountains or volcanoes they show, and the countries the stamps came from.
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise) D 3 (Exercise on Australian rivers)
 
 \begin{enumerate}
 \item Find the names of five Australian rivers other than the Murray River.
@@ -10819,58 +10813,58 @@ Collect postage stamps that show mountains or volcanoes. Display your stamps in 
 \end{enumerate}
 
 
-(Geography) (Research Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
 
 What is the name of Australia's largest lake? Where is it? Do any rivers flow into it?
 
 
-(Geography) (Activity) D 3 M
+(Geography) (Creative Exercise, Activity) D 3 M
 
 Use building blocks or other modelling equipment to design and build a model dam system.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 M
 
 Use an atlas or the Internet to find how many of the world's largest cities are on the coast.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 (Exercise on large ports, industrial towns, villages, and holiday resorts on the coast)
 
 Find out about large ports, industrial towns, villages, and holiday resorts on the coast.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 (Exercise on why settlements develop on the coast) 
 
 Research why settlements develop on the coast, focusing on natural harbours, estuaries, and river crossings.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 M
 
 Identify important resources or industries that led to the growth of coastal towns and cities.
 
 
-(Geography) (Short Answer) D 5 (With Answer)
+(Geography) (Short Answer Exercise) D 5 (With Answer)
 
 What is a beach?
 
-Answers
+\subsection*{Answers}
 Beaches are the gently sloping areas of sand, pebbles or mud at the edge of an ocean, sea or lake.
 
 
-(Geography) (Short Answer) D 5 (With Answer)
+(Geography) (Short Answer Exercise) D 5 (With Answer)
 
 Where does beach sand come from?
 
-Answers
+\subsection*{Answers}
 Most sand is made up of tiny particles, or grains, of rock. When the waves erode cliffs, lumps of rock break off and crash down to the beach below.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 How are winds formed?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Answer the following questions about the water cycle:
 \begin{enumerate}
@@ -10881,7 +10875,7 @@ Answer the following questions about the water cycle:
 \end{enumerate}
 
 
-(Geography) (Activity, Short Answer) D 3 M
+(Geography) (Activity, Short Answer Exercise) D 3 M
 
 During a heavy rainstorm, 1 centimetre of rain fell on a village. This means that the rainwater filled a straight-sided tin or jar to a depth of 1 centimetre.
 \begin{enumerate}
@@ -10891,7 +10885,7 @@ During a heavy rainstorm, 1 centimetre of rain fell on a village. This means tha
 \end{enumerate}
 
 
-(Geography) (Research Activity, Data Analysis Exercise) D 3 M
+(Geography) (Research Exercise, Data Analysis Exercise) D 3 (Exercise on rainfall patterns)
 
 Find out how much rain falls each year where you live.
 \begin{enumerate}
@@ -10901,22 +10895,22 @@ Find out how much rain falls each year where you live.
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Write a list of all the ways in which tourists in a mountain area might spend their money.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Write a list of all the jobs that tourists to a mountain area might help to create.
 
 
-(Geography) (Poster Design Activity) D 3 M
+(Geography) (Design Exercise) D 3 (Exercise on poster design) 
 
 Design a poster to warn people of the ways in which they can damage mountains.
 
 
-(Geography) (Research Acitvity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
 
 \begin{enumerate}
 \item Which mountain areas do people most often visit for holidays? Look at travel agents' advertisements and brochures and the Internet to find out.
@@ -10924,7 +10918,7 @@ Design a poster to warn people of the ways in which they can damage mountains.
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 \begin{enumerate}
 \item Approximately how much would the temperature fall if you climbed from sea level to the top of Mount Everest, which is 8863 metres high?
@@ -10932,22 +10926,22 @@ Design a poster to warn people of the ways in which they can damage mountains.
 \end{enumerate}
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise) D 3 M
 
 Find out all you can about the kinds of clothes people should wear when they walk in the mountains.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 How does weathering affect buildings, monuments and other structures?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Is the weathering of buildings in towns and cities worse than in the country? Why is this?
 
 
-(Geography) (Drawing Activity, Mapping Exercise, Pair Activity) D 1 M
+(Geography) (Drawing Exercise, Mapping Exercise) D 1 (Exercise with pairs)
 
 \begin{enumerate}
 \item Draw a picture or map of your school playground.
@@ -10957,7 +10951,7 @@ Is the weathering of buildings in towns and cities worse than in the country? Wh
 \end{enumerate}
 
 
-(Geography) (Drawing Activity, Labelling Exercise) D 5 M
+(Geography) (Drawing Exercise, Labelling Exercise) D 5 (Exercise on school mapping)
 
 \begin{enumerate}
 \item Draw a plan of your school and its grounds.
@@ -10965,7 +10959,7 @@ Is the weathering of buildings in towns and cities worse than in the country? Wh
 \end{enumerate}
 
 
-(Geography) (Short Answer, Activity) D 5 M
+(Geography) (Short Answer Exercise, Activity) D 5 M
 
 \begin{enumerate}
 \item Look at a globe or the map of the world. Can you see that nearly three quarters of the Earth is covered by water?
@@ -10974,12 +10968,12 @@ Is the weathering of buildings in towns and cities worse than in the country? Wh
 \end{enumerate}
 
 
-(Geography) (Experiment, Activity) D 5 M
+(Geography) (Experiment Exercise, Activity) D 5 M
 
 Boulders break down into pebbles and then into grains of sand. You can show this with the following experiment: Step 1: Place a few small pieces of blackboard chalk in a plastic jar half full of water. Step 2: Screw the lid on the jar and shake it vigorously. Step 3: What happens to the pieces of chalk? Step 4: What is left in the bottom of the jar?
 
 
-(Geography) (Research Acitivty, Short Answer) D 5 M
+(Geography) (Research Exercise, Short Answer Exercise) D 5 M
 
 Beach sand is made of tiny pieces of rock, shells or coral.
 \begin{enumerate}
@@ -10988,7 +10982,7 @@ Beach sand is made of tiny pieces of rock, shells or coral.
 \end{enumerate}
 
 
-(Geography) (Research Activity, Short Answer) D 5 M
+(Geography) (Research Exercise, Writing Exercise) D 5 (Exercise on sandy beaches)
 
 \begin{enumerate}
 \item Use holiday brochures, the Internet and holiday guides to find out where the best sandy beaches are in the world.
@@ -10996,7 +10990,7 @@ Beach sand is made of tiny pieces of rock, shells or coral.
 \end{enumerate}
 
 
-(Geography) (Research Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
 
 Look at an atlas and answer these questions:
 \begin{enumerate}
@@ -11008,30 +11002,30 @@ Look at an atlas and answer these questions:
 \end{enumerate}
 
 
-(Geography) (Short Answer, Drawing Activity) D 3 M
+(Geography) (Short Answer Exercise, Drawing Exercise) D 3 M
 
 \begin{enumerate}
 \item Write a list of all the journeys you and your family make in a day, and in a week.
 \item Draw a spider diagram to show how many different ways the people in your family make their journeys.
-\end{enumerate#}
+\end{enumerate}
 
 
-(Geography) (Group Activity) D 3 M
+(Geography) (Group Exercise) D 3 M
 
 Work with a group of friends and talk about the jobs done by the adults you know. Find out where and how far the adults travel to work. Who has to make the longest journey?
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Write a list of the animals that can be killed when there is oil pollution at sea.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Write a list of the jobs that can be affected when there is oil pollution at sea.
 
 
-(Geography) (Research Activity, Data Collection Exercise) D 2 M
+(Geography) (Research Exercise, Data Collection Exercise) D 2 (Exercise on fuel consumption of cars)
 
 \begin{enumerate}
 \item Use manufacturers' catalogues, advertisements and websites to compare the fuel consumption of different makes of car.
@@ -11039,7 +11033,7 @@ Write a list of the jobs that can be affected when there is oil pollution at sea
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Why is it important for a car to have a low fuel consumption?
 
@@ -11053,7 +11047,7 @@ Why is it important for a car to have a low fuel consumption?
 \end{enumerate}
 
 
-(Geography) (Research Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
 
 \begin{enumerate}
 \item Choose one of the main food crops, such as wheat, rice or potatoes.
@@ -11063,29 +11057,29 @@ Why is it important for a car to have a low fuel consumption?
 \end{enumerate}
 
 
-(Geography) (Research Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
 
 Find out what kinds of fish and shellfish are sold at your local shops. Where are these fish caught or packed?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 What are fish fingers and fish steaks made from?
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise, Activity) D 3 (Activity on reducing the effects of overfishing)
 
 Use the Internet to find out what is being done to try to reduce the effects of overfishing.
 
 
-(Geography) (Activity, Short Answer) D 3 (With Illustration)
+(Geography) (Discussion Exercise, Short Answer Exercise) D 3 (With Illustration, Exercise on obesity and its risks)
 
 Discuss obesity and its risks.
 
 [STRDGM] A group of people sitting together, possibly discussing health issues related to obesity. [STPDGM]
 
 
-(Geography) (Activity, Short Answer) D 1 M
+(Geography) (Observation Exercise, Short Answer Exercise, Activity) D 1 M
 
 \begin{enumerate}
 \item Look around your classroom. How many things are round?  
@@ -11093,12 +11087,12 @@ Discuss obesity and its risks.
 \end{enumerate}
 
 
-(Geography) (Group Activity) D 1 M
+(Geography) (Group Exercise) D 1 M
 
-Work with some friends. Use a large open box to make a model of your classroom. Use smaller boxes for the desks or tables, bookcases and cupboards.  
+Work with some friends. Use a large open box to make a model of your classroom. Use smaller boxes for the desks or tables, bookcases and cupboards.
 
 
-(Geography) (Research Exercise, Class Activity) D 1 M
+(Geography) (Research Exercise, Class Activity) D 1 (Exercise on continents)
 
 \begin{enumerate}
 \item Choose one of the continents. Find out about its countries, main mountains and rivers.
@@ -11106,22 +11100,22 @@ Work with some friends. Use a large open box to make a model of your classroom. 
 \end{enumerate}
 
 
-(Geography) (Drawing Activity) D 1 M
+(Geography) (Drawing Exercise) D 1 M
 
-Draw a picture or diagram on a large sheet of paper showing what happens to a bottle or jar that you have used at home and then taken to the recycling centre.  
-
-
-(Geography) (Poster Design Activity) D 1 M
-
-Design a poster to encourage people to recycle their old bottles, cans, paper, plastic, clothes and other waste materials.  
+Draw a picture or diagram on a large sheet of paper showing what happens to a bottle or jar that you have used at home and then taken to the recycling centre.
 
 
-(Geography) (Research Activity, Data Extraction Activity) D 5 M
+(Geography) (Design Exercise) D 1 (Exercise on poster design)
 
-Look at a large-scale map or road map of your area. Write a list of all the villages, towns and cities that have been bypassed.  
+Design a poster to encourage people to recycle their old bottles, cans, paper, plastic, clothes and other waste materials.
 
 
-(Geography) (Group Exercise, Debate Activity) D 5 M
+(Geography) (Research Exercise, Data Extraction Exercise) D 5 M
+
+Look at a large-scale map or road map of your area. Write a list of all the villages, towns and cities that have been bypassed.
+
+
+(Geography) (Group Exercise, Discussion Exercise) D 5 (Exercise with debate activity)
 
 Imagine there is a proposal to build a bypass around the area where you live.  
 \begin{enumerate}
@@ -11130,37 +11124,37 @@ Imagine there is a proposal to build a bypass around the area where you live.
 \end{enumerate}
 
 
-(Geography) (Short Answer, Activity) D 5 M
+(Geography) (Short Answer Exercise, Writing Exercise, Activity) D 5 M
 
 Imagine you are a local planning officer. You receive a proposal to build a large new shopping centre and a cinema complex next to the local bypass. Write a list of arguments for and against allowing the shopping centre and cinema complex to be built.
 
 
-(Geography) (Drawing Exercise, Mapping Activity) D 5 M
+(Geography) (Drawing Exercise, Mapping Exercise) D 5 (Exercise on mapping activity)
 
 Look at a map of your local area. Draw a map of the area where you live. Include all the different types of road. Label the roads with their correct names. Draw a key for your map.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Write a list of the kinds of things that might delay road traffic and railway trains. Which kind of traffic is most easily delayed?
 
 
-(Geography) (Pair Activity, Short Answer) D 3 M
+(Geography) (Discussion Exercise, Writing Exercise) D 3 (Exercise with pair activity, Short Answer)
 
 Some people say that if we had bigger and better roads, then road traffic delays would not occur so often. Talk about this with a friend. Do you agree or disagree? Write down the arguments for and against bigger and better roads.
 
 
-(Geography) (Mapping Activity) D 5 M
+(Geography) (Mapping Exercise) D 5 (Exercise on labeling areas of drought and famine)
 
 On a large map of the world, label areas where drought and famine are in the news. Draw a key to your map.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Imagine there is a drought where you live. Write down as many ways as you can think of to save water.
 
 
-(Geography) (Research Activity, Data Collection Exercise, Short Answer) D 5 M
+(Geography) (Research Exercise, Data Collection Exercise, Short Answer) D 5 (Exercise on rainfall data)
 
 Some newspapers, television channels and Internet sites show the daily rainfall in large towns and cities across the world.
 \begin{enumerate}
@@ -11170,7 +11164,7 @@ Some newspapers, television channels and Internet sites show the daily rainfall 
 \end{enumerate}
 
 
-(Geography) (Activity, Short Answer) D 5 M
+(Geography) (Short Answer Exercise, Activity) D 5 M
 
 Imagine that you are a shopkeeper in a street from which motor vehicles have been banned to reduce traffic problems.
 \begin{enumerate}
@@ -11179,37 +11173,37 @@ Imagine that you are a shopkeeper in a street from which motor vehicles have bee
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 One way to reduce the number of cars in large towns and cities is to make drivers pay a toll fee every time they enter the town or city. Another is to start a park-and-ride bus scheme. Which plan do you think would be best and why?
 
 
-(Geography) (Short Answer, Pair Activity) D 5 M
+(Geography) (Short Answer Exercise, Group Activity) D 5 M
 
 In the rush hour in many towns and cities, each car often contains only one person. Work with a friend and discuss what could be done to change this in order to reduce traffic problems. Write down your conclusions.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Write one advantage of motor vehicles over trains for passenger travel.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Write two disadvantages of rail travel.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Is train travel best for short, medium, or long journeys?
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Write two advantages of trains over trucks for transporting goods.
 
 
-(Geography) (Research Activity, Short Answer) D 5 M
+(Geography) (Research Exercise, Short Answer Exercise) D 5 M
 
 \begin{enumerate}
 \item Which is the nearest airport to your home or school?
@@ -11218,7 +11212,7 @@ Write two advantages of trains over trucks for transporting goods.
 \end{enumerate}
 
 
-(Geography) (Group Activity) D 1 M
+(Geography) (Discussion Exercise, Group Activity) D 1 M
 
 Work with a group of friends. Discuss what you like best about your environment. What don't you like about it? What do you think could be made better?
 
@@ -11228,7 +11222,7 @@ Work with a group of friends. Discuss what you like best about your environment.
 Use a box, such as an old cereal packet, to make a small litter bin for your table or the library corner.
 
 
-(Geography) (Activity, Short Answer) D 1 M
+(Geography) (Research Exercise, Short Answer Exercise) D 1 (Activity on using an atlas)
 
 \begin{enumerate}
 \item Use an atlas to find Malta, Florida and Jamaica.  
@@ -11237,17 +11231,17 @@ Use a box, such as an old cereal packet, to make a small litter bin for your tab
 \end{enumerate}
 
 
-(Geography) (Group Activity, Research Activity) D 1 M
+(Geography) (Group Exercise, Research Exercise) D 1 M
 
-Work with some friends. Collect some holiday brochures. Find six seaside resorts in different parts of the world. Discuss which resort you like most. Write a few sentences to say why you would like to spend a holiday there.  
+Work with some friends. Collect some holiday brochures. Find six seaside resorts in different parts of the world. Discuss which resort you like most. Write a few sentences to say why you would like to spend a holiday there.
 
 
-(Geography) (Research Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 (Exercise on news reports of famines)
 
 Look for news reports of famines and mark where they occur on a world map. What caused each one?
 
 
-(Geography) (Pair Activity) D 3 M
+(Geography) (Discussion Exercise, Pair Activity) D 3 M
 
 Most food we buy in packets and other containers has a date printed on it. If the food is not sold by this date, the food is thrown away. Work with a friend.
 \begin{enumerate}
@@ -11256,7 +11250,7 @@ Most food we buy in packets and other containers has a date printed on it. If th
 \end{enumerate}
 
 
-(Geography) (Group Activity) D 3 M
+(Geography) (Discussion Exercise, Group Activity) D 3 M
 
 Work with a group of friends. Imagine that the government or local council wants to allow the sea to flood a length of low-lying coast in order to protect a town a little way inland. Discuss how you would feel if you were:
 \begin{itemize}
@@ -11268,22 +11262,22 @@ Work with a group of friends. Imagine that the government or local council wants
 \end{itemize}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Explain the difference between a sea wall, a breakwater and a groyne.
 
 
-(Geography) (Poster Design Activity, Research Activity, Data Collection Exercise) D 3 M
+(Geography) (Design Exercise, Research Exercise, Data Collection Exercise) D 3 (Exercise on poster design)
 
 Look for pictures of artificial and natural sea defences in magazines, travel brochures or on the Internet. Use them to make a poster or class display. Write a sentence or two describing each picture.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 M
 
 Find places on the coast in an atlas or on the Internet.
 
 
-(Geography) (Activity) D 5 (With Illustration)
+(Geography) (Exploration Exercise) D 5 (With Illustration)
 
 \begin{enumerate}
 \item Visit the seashore, which includes exploring beaches, cliffs, and sand dunes.
@@ -11296,44 +11290,44 @@ Find places on the coast in an atlas or on the Internet.
 [STRDGM] The image depicts an estuary in Wales, where a river flows into the sea. [STPDGM]
 
 
-(Geography) (Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 M
 
 What is a country?
 
 
-(Geography) (Short Answer) D 1 (With Illustration)
+(Geography) (Short Answer Exercise) D 1 (With Illustration)
 
 How many countries can you see on this map of Africa? 
 
 [STRDGM] A colorful map of Africa showing various countries, each marked in different colors. [STPDGM]
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Write a list of the problems that affect cities.
 
 
-(Geography) (Short Answer, Activity) D 3 M
+(Geography) (Short Answer Exercise, Activity) D 3 M
 
 What would you like/not like about living in a city?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Are most of the cities in the Northern Hemisphere or the Southern Hemisphere?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Do some continents have more large cities than others? Which ones?
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise) D 3 M
 
 Use reference books or the Internet to find out about Japan and Tokyo. Make a fact file to help with the following activities.
 
 
-(Geography) (Activity, Short Answer) D 3 M
+(Geography) (Writing Exercise, Short Answer, Activity) D 3 M
 
 Pretend that you have been transported to Tokyo for the day.
 
@@ -11343,47 +11337,47 @@ Pretend that you have been transported to Tokyo for the day.
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Write a list of three Japanese companies and some of the goods they make.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 What do you have at home that was made in Japan?
 
 
-(Geography) (Map Skills Activity) D 3 M
+(Geography) (Map Exercise) D 3 (Exercise on map skills)
 
-Look at the map of the world. Where is Japan?  
+Look at the map of the world. Where is Japan?
 
 
-(Geography) (Map Skills Activity) D 1 M
+(Geography) (Map Skills Exercise) D 1 M
 
 A border is the line that marks the edge of a country. Some borders are wiggly; some borders are straight. Look at a map or atlas and list five countries with straight borders.
 
 
-(Geography) (Map Skills Activity) D 1 M
+(Geography) (Map Skills Exercise) D 1 (Exercise on countries with a coastline)
 
 Some countries have the sea as a border. They are countries with a coastline. Using your map, write the names of six countries that do not have a coastline.
 
 
-(Geography) (Map Skills Activity, Short Answer) D 1 M
+(Geography) (Map Exercise, Short Answer Exercise) D 1 (Exercise on map skills)
 
 Look at an atlas or a globe and make a list of as many countries as you can through which the Equator passes.
 
 
-(Geography) (Map Skills Activity, Short Answer) D 1 M
+(Geography) (Map Skills Exercise, Short Answer Exercise) D 1 (Activity on map skills)
 
 Can you find two large islands on the Equator? What are they?
 
 
-(Geography) (Research Activity, Short Answer) D 5 M
+(Geography) (Research Exercise, Short Answer Exercise) D 5 M
 
 A terrible disease called cholera struck parts of London, England, in 1854. Hundreds of people died. A local doctor, John Snow, was able to prove it was because of the dirty water people drank. Find out more about cholera from reference books or the Internet. Find the names of two countries where people still suffer from cholera.
 
 
-(Geography) (Class Activity, Design Activity, Short Answer) D 5 M
+(Geography) (Class Activity, Design Exercise, Writing Exercise, Short Answer Exercise) D 5 (Exercise with short form writing)
 
 \begin{enumerate}
 \item Collect pictures of different kinds of coastline.
@@ -11392,7 +11386,7 @@ A terrible disease called cholera struck parts of London, England, in 1854. Hund
 \end{enumerate}
 
 
-(Geography) (Design Activity) D 5 M
+(Geography) (Design Exercise) D 5 (Exercise on creating an illustrated dictionary)
 
 \begin{enumerate}
 \item Make an illustrated dictionary of the following words to do with coasts: beach, cliff, wave, sand dune, pebble, estuary, mudflat, port.
@@ -11400,32 +11394,32 @@ A terrible disease called cholera struck parts of London, England, in 1854. Hund
 \end{enumerate}
 
 
-(Geography) (Research Activity, Short Answer) D 5 M
+(Geography) (Research Exercise, Writing Exercise) D 5 (Exercise with short answer)
 
 Use a map in an atlas or on the Internet to choose a part of the coast you would like to visit. Write down the reasons for your choice.
 
 
-(Geography) (Creative Writing Exercise, Research Activity, Mapping Activity) D 3 M
+(Geography) (Writing Exercise, Research Exercise, Drawing Exercise) D 3 (Exercise with creative writing, Exercise on mapping)
 
 Find out about a change that is taking place in your area, such as the building of a new road or apartment block, or the closing down of a factory. Imagine you are a newspaper reporter. Write a news story for your newspaper about this change. Draw a map with pictures to show where the change is taking place.
 
 
-(Geography) (Data Collection Exercise, Research Activity, Class Activity) D 3 M
+(Geography) (Research Exercise, Data Collection Exercise, Class Activity) D 3 (Exercise on collecting pictures and historical data)
 
 Collect pictures of your village, town or city. What are the oldest pictures you can find? How has your village, town or city changed? Can you find any early plans or maps? As a class, display your pictures, plans and maps.
 
 
-(Geography) (Short Answer, Drawing Activity) D 3 M
+(Geography) (Short Answer Exercise, Drawing Exercise) D 3 (Exercise on planning a village, town or city)
 
 Imagine you have to plan a new village, town or city centre. What sort of buildings will it need? Draw a picture to show what your new village, town or city will look like.
 
 
-(Geography) (Data Collection Exercise, Short Answer) D 3 M
+(Geography) (Data Collection Exercise, Short Answer) D 3 (Exercise on recording weather, M)
 
 Record the weather every morning and afternoon for a week. Use symbols to show what the weather is like. Does the weather change much where you live?
 
 
-(Geography) (Data Collection Exercise, Activity, Short Answer) D 3 M
+(Geography) (Data Collection Exercise, Short Answer Exercise, Activity) D 3 M
 
 Look at newspapers or use the Internet to find out what the temperatures are in Abu Dhabi, Berlin, Cairo, London, Singapore, and New York. Do this each day for a month and record your results.
 \begin{enumerate}[label=\alph*.]
@@ -11435,27 +11429,27 @@ Look at newspapers or use the Internet to find out what the temperatures are in 
 \end{enumerate}
 
 
-(Geography) (Poster Design Activity) D 5 M
+(Geography) (Design Exercise) D 5 (Exercise on poster design)
 
 Design a poster to help to raise money for a water project in a country where there is a shortage of clean, safe water.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 M
 
 Look at a water bill for your home. How is the amount you have to pay worked out? What kinds of things does the water company charge for?
 
 
-(Geography) (Data Collection Exercise, Activity, Experiment) D 5 M
+(Geography) (Data Collection Exercise, Activity) D 5 (Experiment)
 
 You can work out how much water a dripping tap wastes. Turn on the cold tap until it is just dripping. Put a bucket under the tap and measure how much water drips into the bucket in an hour. How much water would drip away in a day, a week and a year?
 
 
-(Geography) (Class Activity, Design Activity) D 1 M
+(Geography) (Class Activity, Design Exercise) D 1 (Exercise on making a class wall display) 
 
 Make a class wall display about oceans. Use old newspapers and magazines for pictures and information.
 
 
-(Geography) (Atlas Activity, Map Search Exercise) D 1 M
+(Geography) (Geography Exercise, Map Exercise) D 1 (Exercise on using an atlas)
 
 Use an atlas and find:
 \begin{enumerate}[label=\alph*.]
@@ -11465,7 +11459,7 @@ Use an atlas and find:
 \end{enumerate}
 
 
-(Geography) (Map Search Activity) D 3 M
+(Geography) (Map Exercise) D 3 (Exercise on searching locations)
 
 Look at the map of the world.
 \begin{enumerate}[label=\alph*.]
@@ -11473,42 +11467,38 @@ Look at the map of the world.
 \item Which are Brazil's main cities?
 \end{enumerate}
 
-\begin{enumerate}
-\item A map of the world.
-\end{enumerate}
 
-
-(Geography) (Research Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 (Activity on oil spill cleanup methods)
 
 Use reference books or the Internet to find out what can be done to get rid of oil floating in the sea and washed up on beaches.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 What can be done to help seabirds whose feathers have oil on them?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Discuss the main causes of water pollution.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Can you think of a way that water pollution could be reduced?
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise) D 3 M
 
 Find out six facts about Brazil from books, atlases, travel brochures, the Internet or other sources.
 
 
-(Geography) (Creative Writing Exercise, Design Activity) D 3 M
+(Geography) (Writing Exercise, Design Exercise) D 3 (Exercise on creative writing, Exercise on designing a postcard)
 
 Imagine you are on holiday in Rio de Janeiro. Design a postcard with a picture on the front. Write a description of what you have been doing on your postcard.
 
 
-(Geography) (True or False Questions) D 3 M
+(Geography) (True or False Exercise) D 3 M
 
 Copy these sentences and write True or False against each:
 \begin{enumerate}[label=\alph*.]
@@ -11521,12 +11511,12 @@ Copy these sentences and write True or False against each:
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Write a list of all the things that people use rocks for.
 
 
-(Geography) (Research Activity, Data Collection Exercise) D 2 M
+(Geography) (Research Exercise, Data Collection Exercise) D 2 (Exercise with bar chart)
 
 Look around your school or home. The objects you see are all made of materials that come from natural resources.
 \begin{enumerate}[label=\alph*.]
@@ -11535,7 +11525,7 @@ Look around your school or home. The objects you see are all made of materials t
 \end{enumerate}
 
 
-(Geography) (Atlas Search Activity, Research Exercise, Class Activity) D 2 M
+(Geography) (Research Exercise, Class Activity, Mapping Exercise) D 2 (Exercise on atlas search)
 
 \begin{enumerate}[label=\alph*.]
 \item Working as a class, collect newspaper, magazine or Internet articles about volcanoes and earthquakes.
@@ -11544,27 +11534,27 @@ Look around your school or home. The objects you see are all made of materials t
 \end{enumerate}
 
 
-(Geography) (Modelling Activity) D 2 M
+(Geography) (Modeling Exercise) D 2 (Activity on creating a cross-section of the Earth)
 
 Use different coloured pieces of modelling clay to make a model of a cross-section through the Earth. Your model should show: the inner core, the outer core, the mantle and the Earth's crust.
 
 
-(Geography) (Creative Writing Activity) D 2 M
+(Geography) (Writing Exercise) D 2 (Exercise on creative writing)
 
 Write a story called ‘A journey to the centre of the Earth'. In your story you should describe what it would be like if you could travel from the Earth's crust down to the Earth's inner core.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 You are going to travel across the Sahara Desert or Arabian Desert. List the things you will take with you, in order of importance. What problems would you have in the desert? How would you cope with them?
 
 
-(Geography) (Class Activity, Research Exercise, Creative Exercise) D 5 M
+(Geography) (Class Activity, Research Exercise, Creative Exercise) D 5 (Exercise on plant and animal life in deserts)
 
 Write and illustrate a book or make a class display on plant and animal life in deserts. Use reference books or the Internet to help you.
 
 
-(Geography) (Drawing Activity, Short Answer) D 1 M
+(Geography) (Drawing Exercise, Short Answer Exercise) D 1 M
 
 \begin{enumerate}[label=\alph*.]
 \item Lay some tracing paper on a globe. Carefully draw round one of the continents.
@@ -11572,64 +11562,64 @@ Write and illustrate a book or make a class display on plant and animal life in 
 \end{enumerate}
 
 
-(Geography) (Research Activity, Atlas Search Exercise, Short Answer) D 1 M
+(Geography) (Research Exercise, Search Exercise, Short Answer Exercise) D 1 (Exercise on atlas search)
 
 Look at the labels in your clothes. Use an atlas to find the countries where your clothes were made. Write a sentence saying what each item is and where it came from.
 
 
-(Geography) (Drawing Activity, Creative Exercise) D 1 M
+(Geography) (Drawing Exercise, Creative Exercise) D 1 (Exercise on depicting geographical features)
 
-Draw or paint a picture of Bahrain, showing the sea. Add a crane, a container ship, some cliffs and beaches, or some of the other things you might see on the island.  
+Draw or paint a picture of Bahrain, showing the sea. Add a crane, a container ship, some cliffs and beaches, or some of the other things you might see on the island.
 
 
-(Geography) (Pair Activity, Discussion Exercise) D 1 M
+(Geography) (Discussion Exercise, Pair Activity) D 1 M
 
 There are good hospitals and doctors on Bahrain. This is not so on many small islands that are a long way from the mainland. Discuss with a friend what you would do if you were very ill or badly injured on a small island a long way from the mainland.
 
 
-(Geography) (Short Answer, Discussion Activity) D 3 M
+(Geography) (Short Answer Exercise, Discussion Exercise) D 3 M
 
 Discuss the human causes of famine, including wars, civil disturbances, and desertification.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Explain how war causes famine by disrupting farming and food transport.
 
 
-(Geography) (Short Answer) D 3 (With Illustration)
+(Geography) (Short Answer, Illustration Exercise) D 3 (With Illustration)
 
 Describe the impact of desertification on farmland and food production. 
 
 [STRDGM] Image of a refugee camp in Dadaab, Kenya, showing tents and people, illustrating the plight of Somali refugees. [STPDGM]
 
 
-(Geography) (Class Activity) D 1 M
+(Geography) (Creative Exercise, Class Activity) D 1 M
 
-Make a class display of a cold forest or a hot and wet one. Include pictures of some of the animals that might live in your forest.  
+Make a class display of a cold forest or a hot and wet one. Include pictures of some of the animals that might live in your forest.
 
 
-(Geography) (Research Activity, Short Answer) D 1 M
+(Geography) (Research Exercise, Short Answer Exercise) D 1 (Exercise on exploring different terrains)
 
 Look carefully at the pictures of deserts, forests and mountains on the Internet. Imagine you are an explorer lost in each place. What would you need to stay alive?
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise) D 3 (Exercise on creating a fact file)
 
 Use reference books, travel brochures or the Internet to make a fact file about Kenya and Nairobi.
 
 
-(Geography) (Poster Design Activity) D 3 M
+(Geography) (Design Exercise) D 3 (Exercise on poster design)
 
 Design a travel poster to encourage people to visit Nairobi. What features would you advertise? Why?
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 (Exercise on advantages and disadvantages)
 
 Imagine you are trying to persuade a factory owner to build a new factory on the outskirts of a village in Kenya. Write the disadvantages and advantages of building such a factory.
 
 
-(Geography) (Research Activity, Mapping Activity) D 3 M
+(Geography) (Research Exercise, Mapping Exercise) D 3 M
 
 \begin{enumerate}[label=\alph*.]
 \item Use information from the Internet to draw a map of the world showing where the developed and less-developed parts of the world are.
@@ -11637,7 +11627,7 @@ Imagine you are trying to persuade a factory owner to build a new factory on the
 \end{enumerate}
 
 
-(Geography) (Research Activity, Pair Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Collaborative Exercise, Short Answer Exercise) D 3 M
 
 Collect food labels, packets and wrappings.
 \begin{enumerate}[label=\alph*.]
@@ -11664,7 +11654,7 @@ Carry out a litter survey in or near your school grounds.
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 (Exercise on lenses)
 
 \begin{enumerate}[label=\alph*.]
 \item Make a collection of different things with lenses in them.  
@@ -11674,12 +11664,12 @@ Carry out a litter survey in or near your school grounds.
 \end{enumerate}
 
 
-(Geography) (Short Answer, Research Activity) D 1 M
+(Geography) (Short Answer Exercise, Research Exercise) D 1 M
 
-Watch the weather forecasts on television. Can you see any photographs taken from satellites?  
+Watch the weather forecasts on television. Can you see any photographs taken from satellites?
 
 
-(Geography) (Pair Activity) D 1 M
+(Geography) (Discussion Exercise, Pair Activity) D 1 M
 
 \begin{enumerate}[label=\alph*.]
 \item Do you think Bahrain would be a nice place to live and work? Tell a friend what you think.
@@ -11687,32 +11677,32 @@ Watch the weather forecasts on television. Can you see any photographs taken fro
 \end{enumerate}
 
 
-(Geography) (Poster Design Activity) D 1 M
+(Geography) (Design Exercise) D 1 (Exercise on creating a poster) 
 
 Make a poster advertising Bahrain as a good place to visit for a holiday.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 If a bucket holds 10 litres of water, how many buckets of water does the average family of four use in one week? And in one year?
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Imagine you had to collect all the water for your family from a well at the other end of your street. How would this change life in your home?
 
 
-(Geography) (Short Answer, Research Activity) D 5 M
+(Geography) (Short Answer Exercise, Research Exercise) D 5 (Exercise on sewage in the sea)
 
 How is sewage in the sea harmful? Use reference books or the Internet to help you find out.
 
 
-(Geography) (Research Activity, Short Answer) D 5 M
+(Geography) (Research Exercise, Writing Exercise) D 5 (Exercise on geographic formations)
 
 Collect pictures showing bays, headlands, arches, stacks, caves and blowholes formed by waves and make a class display or scrapbook. Include a sentence or two to describe each picture.
 
 
-(Geography) (Class Activity, Experiment) D 5 M
+(Geography) (Class Activity, Experiment Exercise) D 5 M
 
 Some rocks are harder than others. Think of a method to compare the hardness of different types of rock. Try out your method to see if it works. Share your results with the class.
 
@@ -11722,22 +11712,22 @@ Some rocks are harder than others. Think of a method to compare the hardness of 
 Discuss the impact of rubbish and litter on the environment.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Explain what landfill sites are and their effects.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Come up with a list of tips on how to make less rubbish while shopping.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Describe the dangers of litter to wildlife and pets.
 
 
-(Geography) (Research Activity, Map Search Exercise, Data Collection Exercise) D 2 M
+(Geography) (Research Exercise, Map Exercise, Data Exercise) D 2 (Exercise on data collection)
 
 \begin{enumerate}[label=\alph*.]
 \item Find and look at the map showing where most earthquakes occur.
@@ -11746,7 +11736,7 @@ Describe the dangers of litter to wildlife and pets.
 \end{enumerate}
 
 
-(Geography) (Group Activity) D 2 M
+(Geography) (Writing Exercise, Group Activity) D 2 (Exercise on planning for natural disasters)
 
 Work in a group. Imagine that earthquakes are quite common where you live. Write a plan for dealing with a severe earthquake. Decide how you would:
 \begin{enumerate}[label=\alph*.]
@@ -11758,27 +11748,27 @@ Work in a group. Imagine that earthquakes are quite common where you live. Write
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Nomads do not build permanent homes. Write down why you think this is.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 M
 
 Use reference books to find out about the kinds of homes people have in hot desert areas.
 \begin{enumerate}[label=\alph*.]
 \item What are the homes made of?
 \item Why are so many houses in desert areas painted white?
 \item Why do they often have thick walls and small windows?
-\end{enumerate} 
+\end{enumerate}
 
 
-(Geography) (Class Activity, Research Exercise) D 5 M
+(Geography) (Class Activity, Research Exercise) D 5 (Exercise on desert houses) 
 
 Collect pictures of different kinds of desert house and make a class display of them.
 
 
-(Geography) (Short Answer, Drawing Exercise) D 5 M
+(Geography) (Short Answer Exercise, Drawing Exercise) D 5 (Exercise on clothes in hot deserts)
 
 \begin{enumerate}[label=\alph*.]
 \item What kind of clothes do people wear in hot deserts?
@@ -11788,7 +11778,7 @@ Collect pictures of different kinds of desert house and make a class display of 
 \end{enumerate}
 
 
-(Geography) (Research Activity, Short Answer) D 5 M
+(Geography) (Research Exercise, Writing Exercise) D 5 (Exercise on traffic problems in cities)
 
 \begin{enumerate}[label=\alph*.]
 \item Many large cities around the world have serious problems caused by road traffic. Choose one of the following cities and use reference books or the Internet to find out what traffic problems the city has: Cairo, Dubai, Athens, Bangkok, Tokyo, Mexico City, Los Angeles and Jakarta. Write a paragraph on what you found out.
@@ -11796,30 +11786,29 @@ Collect pictures of different kinds of desert house and make a class display of 
 \end{enumerate}
 
 
-(Geography) (Research, Short Answer) D 5 M
+(Geography) (Research Exercise, Short Answer Exercise) D 5 M
 
 Traffic accidents are a major problem caused by motor vehicles. Find out how many serious traffic accidents resulting in death or injury occurred last year in your local area.
 
 
-(Geography) (Short Answer, Map Exercise, Class Activity) D 1 M
+(Geography) (Short Answer Exercise, Map Exercise, Class Activity) D 1 M
 
-Look at a world map or a globe. Choose an island. Write a sentence or two saying where it is and what it is like.
-Use reference books or the Internet to find out more about your chosen island. Share your work with your class.
+Look at a world map or a globe. Choose an island. Write a sentence or two saying where it is and what it is like. Use reference books or the Internet to find out more about your chosen island. Share your work with your class.
 
 
-(Geography) (Map Search Exercise) D 1 M
+(Geography) (Map Exercise) D 1 (Exercise on searching) 
 
 Use a map or an atlas to find the seaside place nearest to your home.
- 
-
-(Geography) (Research Activity, Short Answer, Map Search Exercise) D 1 M
-
-Find out what kinds of fish and shellfish are sold in your local supermarket. Try to find out where the fish or shellfish were caught. This may be written on the packet or you could ask the fishmonger. Can you find these places on a map or atlas? 
 
 
-(Geography) (Class Activity) D 1 M
-  
-Collect postcards and photographs from magazines that show the different methods of fishing. Make a class display of your pictures.  
+(Geography) (Research Exercise, Short Answer Exercise, Map Exercise) D 1 (Exercise on map search)
+
+Find out what kinds of fish and shellfish are sold in your local supermarket. Try to find out where the fish or shellfish were caught. This may be written on the packet or you could ask the fishmonger. Can you find these places on a map or atlas?
+
+
+(Geography) (Class Activity, Collecting Exercise) D 1 (Exercise on different methods of fishing)
+
+Collect postcards and photographs from magazines that show the different methods of fishing. Make a class display of your pictures.
 
 
 (Geography) (Data Collection Exercise, Class Activity) D 1 M
@@ -11832,49 +11821,49 @@ Collect postcards and photographs from magazines that show the different methods
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 M
 
 We all like to go on holiday. People go on holiday for different reasons. Why do you go on holiday?
 
 
-(Geography) (Activity) D 1 M
+(Geography) (Identification Exercise) D 1 M
 
 Do you know which is your right hand? Which is your left hand?
 
 
-(Geography) (Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 M
 
 What is the seaside?
 
 
-(Geography) (Data Collection Activity) D 1 (With Illustration)
+(Geography) (Data Collection Exercise) D 1 (With Illustration)
 
 Look at the map below. How many islands can you find? 
 
 [STRDGM] A diagram showing a map with various islands marked on it. [STPDGM]
 
 
-(Geography) (Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 M
 
 How do we learn about the world around us? Our senses tell us what is happening. What are the five main senses?
 
 
-(Geography) (Research Activity, Timeline Drawing Exercise) D 3 M
+(Geography) (Research Exercise, Drawing Exercise) D 3 (Exercise on timeline drawing)
 
 Use reference books and the Internet to help you draw a timeline showing major famines across the world. Show where each famine occurred and how many people are believed to have died.
 
 
-(Geography) (Research Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Short Answer Exercise) D 3 M
 
 Many aid organisations, such as the Red Cross and Red Crescent, Oxfam, Save the Children Fund, ActionAid, and UNICEF, work hard to try to help people affected by famines. Choose one of these organisations. Find out where in the world it is helping famine victims and what it is doing to help them.
 
 
-(Geography) (Creative Writing Exercise) D 3 M
+(Geography) (Writing Exercise) D 3 (Exercise on creative writing)
 
 Imagine you are working in Africa on the edge of the Sahara Desert, helping people affected by a famine. Write a letter to a friend saying why life is so hard for these people. Give at least four reasons.
 
 
-(Geography) (Group Activity) D 1 M
+(Geography) (Group Exercise) D 1 M
 
 Work with a group of friends. Act out all the stages of going on holiday to another country.
 \begin{enumerate}[label=\alph*.]
@@ -11890,7 +11879,7 @@ Work with a group of friends. Act out all the stages of going on holiday to anot
 On a blank outline map of the world, mark and label some cities and resorts that are on the East Coast of North America.
 
 
-(Geography) (Survey Activity, Chart Drawing Exercise) D 1 M
+(Geography) (Survey Exercise, Drawing Exercise) D 1 (Exercise on chart drawing)
 
 Carry out a survey. Ask your friends and relatives:
 \begin{enumerate}[label=\alph*.]
@@ -11902,39 +11891,39 @@ Carry out a survey. Ask your friends and relatives:
 Draw a bar chart of your findings and show them to the class.
 
 
-(Geography) (Drawing Activity) D 1 M
+(Geography) (Drawing Exercise) D 1 M
 
 Draw and label something that you can: see; hear; feel; smell; taste.
 
 
-(Geography) (Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 M
 
 How can your eyes help you to keep safe? Write down five different ways.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Manaus is a city in the Amazon rainforest in Brazil. How is the climate of Manaus different from the climate where you live?
- 
 
-(Geography) (Pair Activity) D 5 M
+
+(Geography) (Discussion Exercise, Pair Activity) D 5 M
 
 Discuss, with a friend, why so few people live in the tropical rainforests.
 
 
-(Geography) (Short Answer) D 5 (With Illustration)
+(Geography) (Short Answer, Comparison Exercise) D 5 (With Illustration)
 
 How does your local area compare with a tropical rainforest area? Think about the weather, plants, animals, landscape and people. 
 
 [STRDGM] Graph showing the temperature and rainfall in the city of Manaus. [STPDGM]
 
 
-(Geography) (Research Activity) D 2 M
+(Geography) (Research Exercise) D 2 M
 
 Find out if there is an active volcano in your country.
 
 
-(Geography) (Research Activity, Data Collection Exercise, Chart Drawing Exercise) D 2 M
+(Geography) (Research Exercise, Data Collection Exercise, Drawing Exercise) D 2 (Exercise on volcanoes)
 
 Here are the names of some volcanoes on islands: Mount Pelee, Krakatoa, Mauna Loa, Fujiyama, Mount Etna, Mayon, Mount Erebus, Ruapehu.
 \begin{enumerate}[label=\alph*.]
@@ -11944,37 +11933,37 @@ Here are the names of some volcanoes on islands: Mount Pelee, Krakatoa, Mauna Lo
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Describe the location of Balad Sayt village based on a map.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Explain the layout and structure of houses in Balad Sayt.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Discuss the historical significance of the ruined fort above the Balad Sayt.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Describe the water sources and their uses in Balad Sayt.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer, Writing Exercise) D 2 (Exercise on agricultural practices)
 
 Explain the agricultural practices, including crop irrigation and types of crops grown in Balad Sayt.
 
 
-(Geography) (Creative Writing Exercise, Drawing Activity) D 3 M
+(Geography) (Creative Writing Exercise, Drawing Exercise) D 3 (Exercise on the journey of a water particle, With pollution and flooding effects)
 
 Write a short story or draw a cartoon describing the journey of a particle of water along the River Amazon, from its source to its mouth. Make sure that you state how pollution or flooding affect the water at each stage.
 
 
-(Geography) (Pair Activity, Quiz Wriitng Exercise) D 3 M
+(Geography) (Pair Activity, Writing Exercise) D 3 (Exercise on quiz writing)
 
 \begin{enumerate}[label=\alph*.]
 \item Write a quiz consisting of ten questions about the River Amazon.
@@ -11982,7 +11971,7 @@ Write a short story or draw a cartoon describing the journey of a particle of wa
 \end{enumerate}
 
 
-(Geography) (Pair Activity, Creative Activity) D 3 M
+(Geography) (Collaborative Exercise, Creative Exercise) D 3 M
 
 Work with a friend. Make a model of a river and the surrounding landscape in a cardboard box by following these steps:
 \begin{enumerate}
@@ -11993,37 +11982,37 @@ Work with a friend. Make a model of a river and the surrounding landscape in a c
 \end{enumerate}
 
 
-(Geography) (Drawing Activity) D 1 M
+(Geography) (Drawing Exercise) D 1 M
 
-Think of an interesting building, near your home or school, which you use. Draw it and label interesting things about it. 
-
-
-(Geography) (Research Activity, Data Collection Exercise, Short Answer) D 1 M
-
-Look at the different shops near your school. What kinds of things do they sell? 
+Think of an interesting building, near your home or school, which you use. Draw it and label interesting things about it.
 
 
-(Geography) (Class Activity) D 1 M
+(Geography) (Research Exercise, Data Collection Exercise, Short Answer Exercise) D 1 (Exercise on shops near your school)
 
-Draw pictures or take photographs of the shops near your school. Make a wall display with them. 
+Look at the different shops near your school. What kinds of things do they sell?
 
 
-(Geography) (Data Collection Exercise, Short Answer) D 1 M
+(Geography) (Class Activity, Art Exercise) D 1 (Exercise on creating a wall display) 
+
+Draw pictures or take photographs of the shops near your school. Make a wall display with them.
+
+
+(Geography) (Data Collection Exercise) D 1 (Exercise with short answers)
 
 Write a list of all the kinds of street furniture you see on your way to school.
 
 
-(Geography) (Mapping Exercise, Drawing Activity) D 1 M
+(Geography) (Mapping Exercise, Drawing Exercise) D 1 (Exercise on drawing a route from home to school)
 
 Draw a map showing how you get from your home to your school. Add drawings of some of the buildings and street furniture you pass on the way.
 
 
-(Geography) (Creative Activity, Mapping Exercise) D 1 M
+(Geography) (Creative Exercise, Mapping Exercise) D 1 (Exercise on creating a food map) 
 
 Make a food map of the world for a class display.
 
 
-(Geography) (Class Activity) D 1 M
+(Geography) (Class Activity, Sorting Exercise) D 1 (Exercise on categorizing foods)
 
  Make a class collection of pictures of different foods. Make sets of your pictures. You could have:
 \begin{enumerate}[label=\alph*.]
@@ -12033,7 +12022,7 @@ Make a food map of the world for a class display.
 \end{enumerate}
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 M
 
 \begin{enumerate}[label=\alph*.]
 \item Collect newspaper cuttings or Internet news articles describing the damaging effects of the wind in various parts of the world.
@@ -12041,12 +12030,12 @@ Make a food map of the world for a class display.
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Write a list of the things you would need if a hurricane was approaching your area. Write them in order of importance.
 
 
-(Geography) (Creative Writing Activity) D 5 M
+(Geography) (Writing Exercise) D 5 (Activity on creative writing, Activity on hurricanes)
 
 Imagine that you are living in an area that has been hit by a hurricane.
 \begin{enumerate}[label=\alph*.]
@@ -12056,7 +12045,7 @@ Imagine that you are living in an area that has been hit by a hurricane.
 \end{enumerate}
 
 
-(Geography) (Short Answer, Comparison Exercise) D 3 M
+(Geography) (Short Answer, Comparison Exercise) D 3 (Multi-part)
 
 \begin{enumerate}[label=\alph*.]
 \item Write two lists to compare where you live with Dana: one list of the things that are the same and the other of the things that are different.
@@ -12064,12 +12053,12 @@ Imagine that you are living in an area that has been hit by a hurricane.
 \end{enumerate}
 
 
-(Geography) (Activity, Short Answer) D 3 M
+(Geography) (Writing Exercise, Short Answer Exercise) D 3 (Exercise on village changes)
 
 In many parts of the world, villages are changing. Some villages are growing. Others are getting smaller. Write a list of all the reasons you can think of why a village might change. Think about the people, jobs, shops, roads and transport, communications, farm machinery and money.
 
 
-(Geography) T D 2 M
+(Geography) (Drawing Exercise) D 2 (Exercise on daily activities)
 
 \begin{enumerate}[label=\alph*.]
 \item Draw a 24-hour clock.
@@ -12078,22 +12067,22 @@ In many parts of the world, villages are changing. Some villages are growing. Ot
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Approximately how much leisure time do you have each school day?
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 How much leisure time do you have at weekends?
 
 
-(Geography) (Chart Drawing Activity, Group Activity) D 2 M
+(Geography) (Drawing Exercise, Group Activity) D 2 (Exercise on chart drawing)
 
 Ask your friends what type of leisure activities they like to do. Draw a bar chart to show your results.
 
 
-(Geography) (Mapping Activity, Short Answer) D 2 M
+(Geography) (Drawing Exercise, Short Answer Exercise) D 2 (Exercise on mapping activities)
 
 \begin{enumerate}[label=\alph*.]
 \item Draw a map of your local area to show all the different kinds of leisure activities that are available. Use symbols to represent each kind of activity.
@@ -12101,17 +12090,17 @@ Ask your friends what type of leisure activities they like to do. Draw a bar cha
 \end{enumerate}
 
 
-(Geography) (List Writing Activity) D 2 M
+(Geography) (Writing Exercise) D 2 (Exercise on listing features)
 
 Write a list of the features that make Balad Sayt a village rather than a town or city.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Would you like to live in a small village like Balad Sayt? Why?
 
 
-(Geography) (Pair Activity, Short Answer) D 2 M
+(Geography) (Discussion Exercise, Writing Exercise,Pair Activity, Short Answer Exercise) D 2 M
 
 \begin{enumerate}[label=\alph*.]
 \item Discuss with a friend how Balad Sayt is similar to a village you both know.  
@@ -12120,32 +12109,32 @@ Would you like to live in a small village like Balad Sayt? Why?
 \end{enumerate}
 
 
-(Geography) (Short Answer), List Writing Activity D 2 M
+(Geography) (Short Answer Exercise, Writing Exercise) D 2 (Exercise on list writing)
 
 Write a list of the things that would make people in Indian villages want to stay in the country?
 
 
-(Geography) (Short Answer, List Writing Activity) D 2 M
+(Geography) (Short Answer Exercise, Writing Exercise) D 2 (Exercise on list writing)
 
 Write a list of the things that would make people in Indian villages want to move to a city, such as Kolkata.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Descriptive Exercise) D 2 (Exercise on sensory experiences)
 
 Write a short description of what you think you would see, hear and smell on a busy street in Kolkata.
 
 
-(Geography) (Short Answer, List Writing Exercise) D 2 M
+(Geography) (Short Answer Exercise, Writing Exercise) D 2 (Exercise on listing)
 
 Write a list of all the different ways in which people travel from place to place in India.
 
 
-(Geography) (Short Answer) D 2 M
+(Geography) (Short Answer Exercise) D 2 M
 
 Most people in India use public transport, particularly in the towns and cities. How do most people in your country travel?
 
 
-(Geography) (Map Search Activity, Short Answer) D 2 M
+(Geography) (Map Exercise, Writing Exercise) D 2 (Exercise on map search, Short Answer)
 
 \begin{enumerate}[label=\alph*.]
 \item Look at a large-scale map of a country area. Choose four or five villages shown on the map.
@@ -12154,12 +12143,12 @@ Most people in India use public transport, particularly in the towns and cities.
 \end{enumerate}
 
 
-(Geography) (Map Search Activity) D 2 M
+(Geography) (Map Exercise) D 2 (Exercise on map search)
 
 Choose a village on a large-scale map. Identify all the symbols on or near that village. Write a list of what each of the symbols shows. Now choose a second village and compare the two.
 
 
-(Geography) (List Writing Activity, Data Collection Exercise, Atlas Search Exercise) D 3 M
+(Geography) (Writing Exercise, Data Collection Exercise, Research Exercise) D 3 (Exercise on atlas search)
 
 Some newspapers and websites show how much rain falls each day in the larger towns and cities of the world. Choose a country, collect these figures for a week and record them.
 \begin{enumerate}[label=\alph*.]
@@ -12168,12 +12157,12 @@ Some newspapers and websites show how much rain falls each day in the larger tow
 \end{enumerate}
 
 
-(Geography) (Creative Writing Activity) D 3 M
+(Geography) (Writing Exercise) D 3 (Exercise on creative writing)
 
 Find a picture of a weather event such as flooding or heavy snow somewhere in the world. Pretend you are a newspaper reporter. Write a news report about what happened before, during and after the flooding or heavy snow.
 
 
-(Geography) (Group Activity, List Writing Exercise, Short Answer, Atlas Search Activity, Map Search Activity) D 3 M
+(Geography) (Group Activity, Writing Exercise, Short Answer, Search Exercise) D 3 (Exercise with atlas and map search)
 
 Work in groups and use an atlas or maps to find the names of ten villages in your area, or from any area that you know.
 \begin{enumerate}[label=\alph*.]
@@ -12182,17 +12171,17 @@ Work in groups and use an atlas or maps to find the names of ten villages in you
 \end{enumerate}
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise) D 3 M
 
 Do you know any villages in other countries? Use reference books or the Internet to find out what some of them are like.
 
 
-(Geography) (Map Activity, Research Exercise) D 1 M
+(Geography) (Map Exercise, Research Exercise) D 1 (Activity on maps)
 
 Look at a map of the world. If you were to fly from your home to Beijing, which countries, seas and mountains might you fly over? Find something out about each of the countries you might fly over.
 
 
-(Geography) (Class Activity) D 1 M
+(Geography) (Class Activity, Collection Exercise) D 1 (Exercise on life in China)
 
 \begin{enumerate}[label=\alph*.]
 \item Make a class collection of pictures and small things that show what life is like in China.
@@ -12201,32 +12190,32 @@ Look at a map of the world. If you were to fly from your home to Beijing, which 
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 M
 
-Where do you live? Do you live in the countryside or in a town or city? 
-
-
-(Geography) (Creative Group Activity) D 1 M
-
-Collect pictures of as many different kinds of homes as you can. Cut up the pictures to make jigsaw puzzles. Can your friends put your jigsaws together again? 
+Where do you live? Do you live in the countryside or in a town or city?
 
 
-(Geography) (Creative Activity) D 1 M
+(Geography) (Creative Exercise, Group Activity) D 1 M
 
-Use scrap materials to build a model of a house on stilts. What could you use to make the water around the house? 
+Collect pictures of as many different kinds of homes as you can. Cut up the pictures to make jigsaw puzzles. Can your friends put your jigsaws together again?
 
 
-(Geography) (Drawing Activity, Writing Activity) D 5 M
+(Geography) (Creative Exercise) D 1 (Exercise on building a model) 
+
+Use scrap materials to build a model of a house on stilts. What could you use to make the water around the house?
+
+
+(Geography) (Drawing Exercise, Writing Exercise) D 5 M
 
 Imagine you are going to a faraway planet. There is no water on the planet, so you will have to take supplies with you. Draw or write about what you will need water for.
 
 
-(Geography) (Short Answer) D 5 M
+(Geography) (Short Answer Exercise) D 5 M
 
 Do people in your area use water for leisure activities?
 
 
-(Geography) (Short Answer, List Writing Activity, Drawing Activity) D 5 M
+(Geography) (Short Answer Exercise, Writing Exercise, Drawing Exercise) D 5 (Exercise on listing places where water is used for leisure activities, Exercise with drawing pictures)
 
 \begin{enumerate}[label=\alph*.]
 \item Write a list of the places where water is used for leisure activities.
@@ -12234,17 +12223,17 @@ Do people in your area use water for leisure activities?
 \end{enumerate}
 
 
-(Geography) (Class Diplay, Short Answer) D 1 M
+(Geography) (Creative Exercise, Short Answer) D 1 (Exercise on class display)
 
 Make a class display using old photographs or postcards of your area. Compare them. Try to find recent pictures of the same places. What changes can you see?
 
 
-(Geography) (Research Activity) D 1 M
+(Geography) (Research Exercise) D 1 M
 
 Do you have grown-up friends or relatives who have lived in your area for a long time? Ask them how the area has changed since they were young. Tell the class what you have found out.
 
 
-(Geography) (Short Answer, Creative Activity) D 1 M
+(Geography) (Short Answer Exercise, Creative Exercise) D 1 M
 
 Choose one room in your house.
 \begin{enumerate}[label=\alph*.]
@@ -12254,12 +12243,12 @@ Choose one room in your house.
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Descriptive Exercise) D 3 (Exercise with short answer)
 
 Imagine you have been transported to the Himalayas for the day. Write a short paragraph describing what you see, feel and hear.
 
 
-(Geography) (Research Activity, Design Activity, Guidebook Writing Exercise) D 3 M
+(Geography) (Research Exercise, Writing Exercise) D 3 (Exercise on designing guidebooks)
 
 \begin{enumerate}[label=\alph*.]
 \item Use reference books and the Internet to find out all you can about Nepal, including its climate.
@@ -12267,17 +12256,17 @@ Imagine you have been transported to the Himalayas for the day. Write a short pa
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 What are the difficulties of living in a mountainous area like the Himalayas? Write a short paragraph describing your ideas.
 
 
-(Geography) (Research Activity, Map Search Exercise) D 3 M
+(Geography) (Research Exercise, Map Exercise) D 3 (Exercise on searching)
 
 The River Nile and its tributaries and lakes connect eleven countries. Can you find their names?
- 
 
-(Geography) (Pair Activity, Discussion) D 3 M
+
+(Geography) (Collaborative Exercise, Discussion Exercise) D 3 M
 
 Work with a friend.
 \begin{enumerate}[label=\alph*.]
@@ -12286,7 +12275,7 @@ Work with a friend.
 \end{enumerate}
 
 
-(Geography) (Atlas Activity, Data Collection Exercise) D 3 M
+(Geography) (Map Reading Exercise, Data Collection Exercise) D 3 (Exercise with atlas activity)
 
 Use a compass and an atlas.
 \begin{enumerate}[label=\alph*.]
@@ -12296,7 +12285,7 @@ Use a compass and an atlas.
 \end{enumerate}
 
 
-(Geography) (Short Answer, Map Search Activity) D 3 M
+(Geography) (Short Answer Exercise, Map Exercise) D 3 (Exercise with map search activity)
 
 \begin{enumerate}[label=\alph*.]
 \item Where is your nearest river? 
@@ -12307,7 +12296,7 @@ Use a compass and an atlas.
 \end{enumerate}
 
 
-(Geography) (Pair Activity, List Writing Exercise, Short Answer, Atlas Exercise) D 3 M
+(Geography) (Writing Exercise, Short Answer Exercise,Pair Activity) D 3 (Exercise on using an atlas)
 
 \begin{enumerate}[label=\alph*.]
 \item Work with a friend to write a list of all the rivers you can think of. 
@@ -12317,47 +12306,47 @@ Use a compass and an atlas.
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
-The groups of buildings where people live are called settlements. Villages, towns and cities are all kinds of settlements. What kind of settlement do you live in? 
-
-
-(Geography) (Map Search Activity) D 2 M
-
-Find a map of India. Can you find Kolkata?  
+The groups of buildings where people live are called settlements. Villages, towns and cities are all kinds of settlements. What kind of settlement do you live in?
 
 
-(Geography) (Creative Writing Activity) D 3 M
+(Geography) (Map Exercise) D 2 (Exercise on searching) 
+
+Find a map of India. Can you find Kolkata?
+
+
+(Geography) (Writing Exercise) D 3 (Activity on creative writing)
 
 Imagine that you were living at Dunwich during the fourteenth century. Write a newspaper report, using ICT, about the disaster.
 
 
-(Geography) (Pair Activity, Discussion) D 3 M
+(Geography) (Collaborative Exercise, Discussion Exercise) D 3 (Exercise on advantages and disadvantages) 
 
 Work with a friend. Discuss the advantages and disadvantages of building a new hotel on the cliffs in Yorkshire to replace the one that fell into the sea in 1993.
 
 
-(Geography) (List Writing Exercise) D 3 M
+(Geography) (Writing Exercise) D 3 (Exercise on listing advantages and disadvantages)
 
 What are the advantages and disadvantages of reclaiming land from the sea, as has been done in the Netherlands and the United Arab Emirates? Write a list of advantages and disadvantages.
 
 
-(Geography) (Research Activity) D 3 M
+(Geography) (Research Exercise) D 3 (Activity on making a fact file) 
 
 Use the Internet or reference books to help you make a fact file about rivers.
 
 
-(Geography) (Research Activity, List Writing Exercise) D 3 M
+(Geography) (Research Exercise, Writing Exercise) D 3 (Exercise on listing rivers) 
 
 Choose at least two rivers from each continent, apart from Antarctica. Record the name of the river, the mountains where it rises, the length of the river, the ocean or sea it flows into, and the names of the towns and cities along its banks.
 
 
-(Geography) (Chart Drawing Exercise, Research Activity, Data Collection Exercise) D 3 M
+(Geography) (Drawing Exercise, Research Exercise, Data Collection Exercise) D 3 (Exercise on chart drawing)
 
 Use the Internet or reference books to find out more about the largest waterfalls in the world. Draw a bar chart showing your results.
 
 
-(Geography) (Class Survey Activity, Data Collection Exercise, Short Answer) D 1 M
+(Geography) (Survey Exercise, Data Collection Exercise, Short Answer Exercise) D 1 (Activity on surveying, Activity on traveling)
 
 Carry out a survey of the people in your class.
 \begin{enumerate}[label=\alph*.]
@@ -12367,7 +12356,7 @@ Carry out a survey of the people in your class.
 \end{enumerate}
 
 
-(Geography) (Drawing Activity) D 1 M
+(Geography) (Drawing Exercise) D 1 (Exercise on drawing your home and its inhabitants)
 
 \begin{enumerate}[label=\alph*.]
 \item Draw a picture of your home.
@@ -12376,7 +12365,7 @@ Carry out a survey of the people in your class.
 \end{enumerate}
 
 
-(Geography) (Pair Activity, Short Answer) D 3 M
+(Geography) (Collaborative Exercise, Short Answer Exercise) D 3 M
 
 Work with a friend. Write a plan to improve your school grounds for wildlife. Use your own ideas and look in reference books too.  
 \begin{enumerate}[label=\alph*.]
@@ -12385,22 +12374,22 @@ Work with a friend. Write a plan to improve your school grounds for wildlife. Us
 \end{enumerate}
 
 
-(Geography) (Data Collection Exercise, Research Activity) D 3 M
+(Geography) (Data Collection Exercise, Research Exercise) D 3 M
 
 Create a spreadsheet of endangered wildlife. Use the following headings: Animal or plant, Habitat or home, Numbers (if known), Threat. Use reference books and the Internet to help you to complete the spreadsheet.
 
 
-(Geography) (Pair Activity, Discussion) D 3 M
+(Geography) (Collaborative Exercise, Discussion Exercise, Pair Activity) D 3 M
 
 Work with a friend. Talk about what you would like and dislike about working on a farm.
 
 
-(Geography) (List Writing Exercise, Drawing Activity, Research Exercise) D 3 M
+(Geography) (Writing Exercise, Drawing Exercise, Research Exercise) D 3 (Exercise on listing foods, Exercise on drawing food items) 
 
 Write a list of the foods you eat for breakfast or dinner. Draw pictures of the items and then find out where the main ingredients are grown.
 
 
-(Geography) (Fill-in-the-Blanks, Atlas Activity) D 3 M
+(Geography) (Fill-in-the-Blanks Exercise) D 3 (Exercise using an atlas, Activity on using compass directions)
 
 Copy and complete these sentences, using the four main compass directions. Use an atlas to help you.  
 \begin{enumerate}[label=\alph*.]
@@ -12413,7 +12402,7 @@ Copy and complete these sentences, using the four main compass directions. Use a
 \end{enumerate}
 
 
-(Geography) (Research Activity, Atlas Activity, Route Planning) D 2 M
+(Geography) (Research Exercise, Map Exercise) D 2 (Exercise on route planning)
 
 \begin{enumerate}[label=\alph*.]
 \item Use an atlas or a map on the Internet to work out how you could get from where you live to Abu Dhabi. 
@@ -12422,12 +12411,12 @@ Copy and complete these sentences, using the four main compass directions. Use a
 \end{enumerate}
 
 
-(Geography) (Research Activity) D 2 M
+(Geography) (Research Exercise, Activity) D 2 M
 
-Use the telephone directory and the Internet to help you to write a list of the main industries in your local area. 
+Use the telephone directory and the Internet to help you to write a list of the main industries in your local area.
 
 
-(Geography) (Interview Activity, Research Activity, Short Answer) T D 2 M
+(Geography) (Research Exercise, Interview Exercise, Short Answer Exercise) T D 2 (Exercise on changes to local industries)
 
 \begin{enumerate}[label=\alph*.]
 \item Interview older people and use the Internet to find out if there have been any changes to the industries in your area in the last ten years.
@@ -12436,7 +12425,7 @@ Use the telephone directory and the Internet to help you to write a list of the 
 \end{enumerate}
 
 
-(Geography) (List Writing Exercise, Design Activity, Creative Writing) D 2 M
+(Geography) (Writing Exercise, Design Exercise) D 2 (Exercise on list writing, Exercise with creative writing)
 
 Imagine that you are going to visit Lata in Parsoiya.
 \begin{enumerate}[label=\alph*.]
@@ -12446,12 +12435,12 @@ Imagine that you are going to visit Lata in Parsoiya.
 \end{enumerate}
 
 
-(Geography) (Pair Activity, Discussion, List Writing Exercise) D 2 M
+(Geography) (Discussion Exercise, Writing Exercise, Pair Activity) D 2 (Activity on the importance of weather, Exercise on list writing)
 
 Discuss with a friend why a farmer with small fields in Parsoiya depends on the weather for a good harvest. Write a list of all the reasons you can think of.
 
 
-(Geography) (Group Activity, Discussion, Drawing Activity) D 2 M
+(Geography) (Group Activity, Discussion Exercise, Drawing Exercise) D 2 M
 
 Work in groups.
 \begin{enumerate}[label=\alph*.]
@@ -12461,12 +12450,12 @@ Work in groups.
 \end{enumerate}
 
 
-(Geography) (Writing Activity) D 2 M
+(Geography) (Writing Exercise) D 2 (Exercise on writing a letter) 
 
 Find out who is responsible for improving the local environment. Write a letter to them describing your plans.
 
 
-(Geography) (Atlas Activity, Short Answer, Research Activity) D 2 M
+(Geography) (Research Exercise, Short Answer Exercise) D 2 (Activity using an atlas)
 
 Use an atlas, a map of India on the Internet or a globe to help you answer these questions about India:
 \begin{enumerate}[label=\alph*.]
@@ -12477,7 +12466,7 @@ Use an atlas, a map of India on the Internet or a globe to help you answer these
 \end{enumerate}
 
 
-(Geography) (Class Activity, Short Answer) D 2 M
+(Geography) (Class Activity, Writing Exercise) D 2 (Exercise with short answers)
 
 Make a class collection of pictures, stamps, coins, food packets and other objects from India.
 \begin{enumerate}[label=\alph*.]
@@ -12486,7 +12475,7 @@ Make a class collection of pictures, stamps, coins, food packets and other objec
 \end{enumerate}
 
 
-(Geography) (List Writing Activity, Data Collection Exercise, Chart Drawing Activity, Short Answer) D 2 M
+(Geography) (Writing Exercise, Data Collection Exercise, Chart Drawing Exercise, Short Answer Exercise) D 2 (Exercise on cereals)
 
 Rice is a cereal.
 \begin{enumerate}[label=\alph*.]
@@ -12498,7 +12487,7 @@ Rice is a cereal.
 \end{enumerate}
 
 
-(Geography) (Research Activity, Group Activity, Short Answer) D 3 M
+(Geography) (Research Exercise, Group Exercise, Short Answer Exercise) D 3 (Exercise on holiday planning)
 
 The Jensen family want a winter holiday in December. Mr and Mrs Jensen are keen to try out their new skis. Their 12-year-old son, Johann, wants to ski too, but he also hopes to be able to go bird-watching in forests and by lakes. Johann's 9-year-old sister, Alexa, wants to take lots of pictures with her new digital camera. They all want to try the food in the local coffee shops and restaurants. Help the family below choose where to go on holiday. Work in a group of three. Collect some holiday brochures or use a travel agent's website and choose three places where the family could go on holiday. Use guidebooks or the Internet to find out more about these places, including what the weather is like.
 \begin{enumerate}[label=\alph*.]
@@ -12508,7 +12497,7 @@ The Jensen family want a winter holiday in December. Mr and Mrs Jensen are keen 
 \end{enumerate}
 
 
-(Geography) (Data Collection Exercise) D 5 M
+(Geography) (Data Collection Exercise, Writing Exercise) D 5 (Exercise on comparing hurricanes and tornadoes)
 
 Create a spreadsheet to compare hurricanes and tornadoes. Include the following headings in your spreadsheet:  
 \begin{enumerate}[label=\alph*.]
@@ -12520,19 +12509,19 @@ Create a spreadsheet to compare hurricanes and tornadoes. Include the following 
 \end{enumerate}
 
 
-(Geography) (Research Activity, Plotting Exercise, Mapping Exercise) D 5 M
+(Geography) (Research Exercise, Plotting Exercise, Mapping Exercise) D 5 (Exercise on collecting pictures, newspaper cuttings, and Internet articles showing the path of destruction caused by a tornado)
 
 Collect pictures, newspaper cuttings and Internet articles showing the path of destruction caused by a tornado. If you can, plot the route of the tornado on a map.
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise, Drawing Exercise) D 5 (Exercise on waterspouts)
 
 Look on the Internet or in reference books to find out about waterspouts.  
 
-Draw a diagram to show how a waterspout is formed.  
+Draw a diagram to show how a waterspout is formed.
 
 
-(Geography) (Map Search Activity, Short Answer) D 5 M
+(Geography) (Map Exercise, Short Answer Exercise) D 5 (Exercise on map search)
 
 Look at a map showing Dubai and Jebel Ali Port.
 \begin{enumerate}[label=\alph*.]
@@ -12541,12 +12530,12 @@ Look at a map showing Dubai and Jebel Ali Port.
 \end{enumerate}
 
 
-(Geography) (Map Search Activity, Short Answer) D 5 M
+(Geography) (Map Exercise, Short Answer Exercise) D 5 (Exercise on map search)
 
 Look at a map or atlas and find Dubai. How far away is it from your home and in which direction?
 
 
-(Geography) (Research Activity) D 5 M
+(Geography) (Research Exercise) D 5 M
 
 Find out what work is carried out at a port by:
 \begin{enumerate}[label=\alph*.]
@@ -12556,12 +12545,12 @@ Find out what work is carried out at a port by:
 \end{enumerate}
 
 
-(Geography) (Short Answer) D 1 M
+(Geography) (Short Answer Exercise) D 1 M
 
 Would you like to live in Shanghai? Say why.
 
 
-(Geography) (Map Drawing Activity, List Writing Activity, Short Answer) D 1 M
+(Geography) (Drawing Exercise, Writing Exercise, Short Answer Exercise) D 1 (Exercise on map drawing, Exercise with list writing)
 
 Draw a map of the way you go to school.
 \begin{enumerate}[label=\alph*.]
@@ -12571,17 +12560,17 @@ Draw a map of the way you go to school.
 \end{enumerate}
 
 
-(Geography) (Drawing Activity, Short Answer) D 1 M
+(Geography) (Drawing Exercise, Short Answer Exercise) D 1 (Exercise on drawing a room) 
 
 Draw a picture of your favourite room. Draw some of the different things that are in the room. Say why you like that room best.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Short Answer Exercise) D 3 M
 
 Write four important uses of the world's larger rivers.
 
 
-(Geography) (Short Answer) D 3 M
+(Geography) (Writing Exercise) D 3 (Exercise on river words)
 
 Write a sentence about each of these river words: stream, dam, valley, gorge, waterfall, oxbow lake, estuary, delta.
 
@@ -55864,7 +55853,7 @@ Find all the possible modifications you can make to the calculation below to mak
 
 Mariposa buys a shirt in the sale. Its price was \$30 originally, but then reduced by \[ \frac{1}{5} \]. How much does Mariposa pay for the shirt?
 
-[STRDGM] An image of a shirt with a price tag showing \$30. [STPDGM]
+[STRDGM] An image of a shirt with a price tag showing $30. [STPDGM]
 
 
 (Mathematics) (Fraction Exercise) D 3 (With Illustration, Themed with juice)
@@ -74806,7 +74795,7 @@ Join the clocks which show the same time. Circle the clock that does not have a 
 
 Which coins could you use to pay for each toy?
 
-[STRDGM] A grid with images of a toy horse labeled \$1.00, a beach ball labeled 50 cents, a robot labeled \$2.00, a teddy bear labeled 75 cents, a toy car labeled 25 cents, and a yo-yo labeled 10 cents. [STPDGM]
+[STRDGM] A grid with images of a toy horse labeled $1.00, a beach ball labeled 50 cents, a robot labeled $2.00, a teddy bear labeled 75 cents, a toy car labeled 25 cents, and a yo-yo labeled 10 cents. [STPDGM]
 
 
 (Mathematics) (Matching Exercise) D 2 (With Illustration)
@@ -76862,7 +76851,7 @@ Match the liters to milliliters.
 
 Draw a line to join each pair of amounts which make \$10.
 
-[STRDGM] A circular arrangement of dollar amounts: \$7.80, \$8.75, \$6.55, \$5.65, \$6.15, \$0.70, \$5.05, \$2.20, \$1.25, \$4.35, \$3.45, \$4.95, \$3.85, \$9.30. [STPDGM]
+[STRDGM] A circular arrangement of dollar amounts: $7.80, $8.75, $6.55, $5.65, $6.15, $0.70, $5.05, $2.20, $1.25, $4.35, $3.45, $4.95, $3.85, $9.30. [STPDGM]
 
 
 (Mathematics) (Matching Exercise) D 3 M
@@ -77833,7 +77822,7 @@ Mr. Wu had two bunches of lychees. One bunch weighed \( 2  \text{kg}  750  \text
 
 Gopal bought the watch, the badminton racket, and the football. How much did he spend altogether?
 
-[STRDGM] A diagram showing the prices of three items: Watch  \$36.90, Badminton racket  \$40.80, Football  \$28.40. [STPDGM]
+[STRDGM] A diagram showing the prices of three items: Watch  $36.90, Badminton racket  $40.80, Football  $28.40. [STPDGM]
 
 
 (Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Exercise with subtraction)
@@ -78241,7 +78230,7 @@ What is the cost of the toy aeroplane?
 
 How much more does the toy aeroplane cost than the toy car?
 
-[STRDGM] A diagram showing a toy car labeled with a cost of \$5 and a toy aeroplane labeled with a cost of \$20. [STPDGM]
+[STRDGM] A diagram showing a toy car labeled with a cost of $5 and a toy aeroplane labeled with a cost of $20. [STPDGM]
 
 
 (Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Exercise with multiplication, Multi-part)
@@ -83832,10 +83821,10 @@ Prices: 75¢, 95¢, 80¢, and 45¢.
 
 Match the items with their prices: \$52, \$45, \$8, \$32.
 
-[STRDGM] A teapot labeled \$8 [STPDGM]
-[STRDGM] A fan labeled \$52 [STPDGM]
-[STRDGM] A calculator labeled \$32 [STPDGM]
-[STRDGM] A watch labeled \$45 [STPDGM]
+[STRDGM] A teapot labeled $8 [STPDGM]
+[STRDGM] A fan labeled $52 [STPDGM]
+[STRDGM] A calculator labeled $32 [STPDGM]
+[STRDGM] A watch labeled $45 [STPDGM]
 
 
 (Mathematics) (Number Exercise, Matching Exercise) D 1 (Exercise on writing numbers)
@@ -83960,7 +83949,7 @@ Who bought more mangoes? How many more?
 
 Which is cheaper, the tea set or the Scrabble set? How much cheaper? The \_\_\_\_\_\_ set is \$ \_\_\_\_\_\_ cheaper than the \_\_\_\_\_\_ set.
 
-[STRDGM] A tea set priced at \$9 and a Scrabble set priced at \$13. [STPDGM]
+[STRDGM] A tea set priced at $9 and a Scrabble set priced at $13. [STPDGM]
 
 
 (Mathematics) (Comparison Exercise, Word Problem) D 1 M
@@ -83977,8 +83966,8 @@ Check the set that has more money.
 
 Cross the set that has less money.
 
-[STRDGM] A group of bills displaying two \$20 bills, two \$10 bills, and three \$1 bills. [STPDGM]
-[STRDGM] A group of bills displaying two \$20 bills, one \$10 bill, one \$5 bill, and two \$1 bills. [STPDGM]
+[STRDGM] A group of bills displaying two $20 bills, two \$10 bills, and three $1 bills. [STPDGM]
+[STRDGM] A group of bills displaying two $20 bills, one \$10 bill, one $5 bill, and two $1 bills. [STPDGM]
 
 
 (Mathematics) (Comparison Exercise, Arithmetic Exercise) D 1 (Exercise with money)
@@ -83996,9 +83985,9 @@ Check the set that has the most money. Cross the set that has the least money.
 
 Check the set that has the most money.
 
-[STRDGM] A group containing five \$10 bills outlined with a dotted line [STPDGM]
-[STRDGM] A group containing two \$20 bills and three \$10 bills outlined with a dotted line [STPDGM]
-[STRDGM] A group containing four \$20 bills outlined with a dotted line [STPDGM]
+[STRDGM] A group containing five $10 bills outlined with a dotted line [STPDGM]
+[STRDGM] A group containing two $20 bills and three \$10 bills outlined with a dotted line [STPDGM]
+[STRDGM] A group containing four $20 bills outlined with a dotted line [STPDGM]
 
 
 (Mathematics) (Comparison Exercise) D 1 (With Illustration)
@@ -84345,11 +84334,11 @@ She needs \_\_\_ more buttons to complete the dress.
 \item Meihua spent \$13. She bought the \_\_\_ and the \_\_\_.
 \end{enumerate}
 
-[STRDGM] A shirt priced at \$5 [STPDGM]
-[STRDGM] A guitar priced at \$8 [STPDGM]
-[STRDGM] An umbrella priced at \$6 [STPDGM]
-[STRDGM] A toy car priced at \$18 [STPDGM]
-[STRDGM] A school bag priced at \$10 [STPDGM]
+[STRDGM] A shirt priced at $5 [STPDGM]
+[STRDGM] A guitar priced at $8 [STPDGM]
+[STRDGM] An umbrella priced at $6 [STPDGM]
+[STRDGM] A toy car priced at $18 [STPDGM]
+[STRDGM] A school bag priced at $10 [STPDGM]
 
 
 (Mathematics) (Arithmetic Exercise, Word Problem) D 1 (Multi-part)
@@ -85252,7 +85241,7 @@ Fill in the missing numbers for the following equations:
 \item Cameron had \$5. He bought the hamburger. How much money did he have left?  He had \$ \_\_\_\_\_ left.
 \end{enumerate}
 
-[STRDGM] A doll labeled \$12, a hamburger labeled \$2, sunglasses labeled \$32, shoes labeled \$29, a book labeled \$4. [STPDGM]
+[STRDGM] A doll labeled $12, a hamburger labeled $2, sunglasses labeled $32, shoes labeled $29, a book labeled $4. [STPDGM]
 
 
 (Mathematics) (Arithmetic Exercise, Fill in the Blank) D 1 (Multi-part)
