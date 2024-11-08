@@ -188,7 +188,7 @@ Open a spreadsheet and create a list titled 'My pizza snack bar'. On the workshe
 (Computer Science) (Short Answer) D 5 M
 
 To make a profit, a business must keep costs low and income high.  
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item How do businesses try to keep costs low?  
 \item How do businesses try to keep income high?  
 \item Think of a successful business where you live. What do you think makes the business successful?  
@@ -501,7 +501,7 @@ What device is at the center of a computer system? (Hint: It is not an input or 
 
 Read your school's or a trusted source's advice on using the internet.
 
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item Make sure you know what your responsibilities are. Write those down.
 \item Make sure you know how to report a problem. Write a set of instructions for doing so.
 \end{enumerate}
@@ -565,7 +565,7 @@ If you could create a web page on any topic, what would you choose? Describe or 
 (Computer Science) (Activity) D 1 M
 
 In a group, discuss how you would handle these situations: 
-\begin{enumerate}[label=\alpha*.] 
+\begin{enumerate}[label=\alph*.] 
 \item If someone sends you a text message that makes you unhappy, what would you do?  
 \item If someone you know answers their phone while you are talking to them, how would you respond?  
 \item If two people are arguing over one computer, what would you suggest?  
@@ -576,7 +576,7 @@ In a group, discuss how you would handle these situations:
 (Computer Science) (Short Answer) D 1 M
 
 Think about a time when you faced a problem while using a computer.  
-\begin{enumerate}[label=\alpha*.] 
+\begin{enumerate}[label=\alph*.] 
 \item What was the issue?  
 \item How did you manage to solve it?
 \end{enumerate}
@@ -637,6 +637,7 @@ Make an advert for a nature reserve. Draw the animals. Say how many there are. F
 		\item move text and images around.  
 	\end{itemize}
 \item How can you improve the title of the poster? Think about the text, the color, the size...
+\end{enumerate}
 
 
 \subsection*{Materials} 
@@ -716,7 +717,7 @@ Talk to someone at home about technologies they use. Draw pictures. Bring your p
 (Computer Science) (Group Activity, Short Answer) D 2 M
 
 Look at a computer in your classroom.
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item Describe the computer using your senses. What do you feel when you touch it? What sounds does it make? Can you smell anything nearby? 
 \item Talk to a partner about the parts you can identify and describe them.
 \end{enumerate}
@@ -724,7 +725,7 @@ Look at a computer in your classroom.
 
 (Computer Science) (Group Activity, Short Answer) D 2 M
 
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item Think about how computers use electricity. Can you list different ways electricity can be generated? 
 \item Discuss with a partner how renewable energy sources like sunshine or wind power work.
 \end{enumerate}
@@ -807,7 +808,7 @@ Necessary means actions that must happen. For example, 'Tidy the room' is not ne
 (Computer Science) (Short Answer) D 1 M
 
 Look at the image.
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item What can you see on the code block?
 \item What do you think it means? How might the block function?
 \end{enumerate}
@@ -877,6 +878,7 @@ Write a plan for a program that inputs a number, then outputs the number times t
 \item Make a title slide for your digital story.  
 \item Make the first slide of your digital story. 
 Save your slide show.
+\end{enumerate}
 
 
 (Computer Science) (Activity) D 3 (At Home Exercise)
@@ -1036,7 +1038,7 @@ List the main internet services. Say which ones you have used. Give an example.
 (Computer Science) (Short Answer) D 5 M
 
 Give examples to the answers of the following questions:
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item Which devices do you use to connect to the internet?
 \item Which services do you prefer to access using a smartphone?
 \item Which services do you prefer to access using a computer?
@@ -1045,7 +1047,7 @@ Give examples to the answers of the following questions:
 
 (Computer Science) (Short Answer, Activity) D 5 M
 
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item Research smart home heating or air conditioning systems on the web. 
 \item List some of the features. 
 \item How do smart home air conditioning and heating systems help the environment? 
@@ -1054,7 +1056,7 @@ Give examples to the answers of the following questions:
 
 (Computer Science) (Activity, Short Answer) D 5 (Must involve Tungurahua)
 
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item Carry out a web search about Tungurahua. How many results does the search return? 
 \item Add some more key words to your search. What happens to the number of results?
 \item How many adverts are shown when you search for Tungurahua? 
@@ -1064,7 +1066,7 @@ Give examples to the answers of the following questions:
 
 (Computer Science) (Short Answer, Activity) D 5 (Must involve search engines and advertising)
 
-\begin{enumerate}[label=\alpha*.]
+\begin{enumerate}[label=\alph*.]
 \item Carry out a web search for more information about how search engines work.
 \item How many adverts are at the top of the list of results?
 \item How many of the adverts give you useful and relevant information?
@@ -1096,7 +1098,7 @@ Imagine you want to change the background of a scene.
 
 (Computer Science) (Short Answer) D 1 M
 
-\begin{enumerate}[label=\alph*.}
+\begin{enumerate}[label=\alph*.]
 \item Make a list of types of toys that children played with long ago. Think of toys like balls, dolls, games, and animals. You can say or write down any other toys you remember or think of.
 \item Name one more type of toy you could add to this list. Think about toys you have seen or heard about.
 \item Can you think of a game or toy that you play with on a computer or tablet that helps you solve puzzles or learn something new? What do you learn or solve when you play it?
@@ -1143,7 +1145,7 @@ The 'AutoSum' button lets you add other functions to your spreadsheet. These inc
 (Computer Science) (Activity) D 6 M
 
 Plan a survey:
-\begin{enumerate}[label=\alpha*.] 
+\begin{enumerate}[label=\alph*.] 
 \item Write down your survey goal. Make sure you include information about location and times.  
 \item Write down the data you will need to collect for your survey. Find quantitative and qualitative data types.  
 \item Investigate the technology you can use to collect data. Are there any apps that can help you?
@@ -1318,7 +1320,7 @@ The 'AutoSum' button lets you add other functions to your spreadsheet. These inc
 (Computer Science) (Activity) D 6 M
 
 Plan a survey:
-\begin{enumerate}[label=\alpha*.] 
+\begin{enumerate}[label=\alph*.] 
 \item Write down your survey goal. Make sure you include information about location and times.  
 \item Write down the data you will need to collect for your survey. Find quantitative and qualitative data types.  
 \item Investigate the technology you can use to collect data. Are there any apps that can help you?
@@ -2070,7 +2072,7 @@ What do you like to do on a computer?
 (Computer Science) (Activity) D 6 (Exercise on design)
 
 \begin{enumerate}
-\itemYour school wants to add a new page to its website. The page will tell parents about a new gymnasium that is being built. The page should include the school logo, a picture showing what the new gym will look like and text describing the gym. Design the page using a wireframe.
+\item Your school wants to add a new page to its website. The page will tell parents about a new gymnasium that is being built. The page should include the school logo, a picture showing what the new gym will look like and text describing the gym. Design the page using a wireframe.
 \item You need to make some changes to your web page design. The design should now include the school logo, two images – showing the inside and outside of the gym, text describing the gym and a heading for the page. 
 \end{enumerate}
 
