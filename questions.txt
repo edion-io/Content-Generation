@@ -12,7 +12,7 @@ Find a second image to add to your poster. Place the two images on your poster.
 Would you prefer to add one large image or many small images to your poster? Give reasons for your choice.
 
 
-(Computer Science) (Algorithm Exercise) D 2 (Exercise on making a toy horse)
+(Computer Science) (Algorithm Writing Exercise) D 2 (Exercise on making a toy horse)
 
 Write an algorithm for making a toy horse. 
 Write the actions in boxes joined with arrows, then on a big piece of paper make a colourful picture to illustrate the process.
@@ -91648,3 +91648,4 @@ Fill in the blanks for the following equations:
 \item \( 892 = \_\_\_\_\_\_ + 90 + 2 \)
 \item \( 3073 = 3000 + \_\_\_\_\_\_ + 3 \)
 \end{enumerate}
+

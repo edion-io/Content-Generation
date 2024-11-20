@@ -10,10 +10,11 @@ if __name__ == "__main__":
     client = OpenAI(api_key="sk-proj-ltmkMm6qZ8oQCsusN5IOT3BlbkFJmsPopivPYwLtY7jlx5Pl")
 
     # Extract all the questions from the file
-    with open("new.txt", "r") as f:
+    with open("questions.txt", "r") as f:
         content = f.read()
     # Split the questions by header
-    questions = re.split(r'(?m)(?=^\(Epanish\))', content)
+    questions = re.split(r'\n(?=\(.*?\) \(.*?\))', content)
+    questions = [q for q in questions if "(German)" in q or "(Dutch)" in q]
 
     # pattern = r'^\d+[\./]\s?.*$'
     # final = []
@@ -30,19 +31,20 @@ if __name__ == "__main__":
     # with open("new.txt", "w") as f:
     #     for q in final:
     #         f.write(q)
-                    
-    for q in questions:
-        q.rstrip()
-
-    # Batch the questions
-    batches, current_batch, current_tokens = [], [], 0
-    for i, q in enumerate(questions):
-        current_tokens = batch(q, f"Spanish_{i}", current_tokens, current_batch, batches, prompt, True)
     
-    if current_batch:
-        batches.append(current_batch)
+    with open("new.txt", "w") as f:
+        for q in questions:
+            f.write(q.rstrip() + "\n\n\n")
 
-    # Save the smaller batches as separate files
-    for i, items in enumerate(batches):
-        with open(f'tasks/batch_{i+1}.jsonl', 'w') as f:
-            [f.write(json.dumps(item) + '\n') for item in items]
+    # # Batch the questions
+    # batches, current_batch, current_tokens = [], [], 0
+    # for i, q in enumerate(questions):
+    #     current_tokens = batch(q, f"Spanish_{i}", current_tokens, current_batch, batches, prompt, True)
+    
+    # if current_batch:
+    #     batches.append(current_batch)
+
+    # # Save the smaller batches as separate files
+    # for i, items in enumerate(batches):
+    #     with open(f'tasks/batch_{i+1}.jsonl', 'w') as f:
+    #         [f.write(json.dumps(item) + '\n') for item in items]
