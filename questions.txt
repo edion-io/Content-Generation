@@ -49634,8 +49634,18 @@ Illustrate the differences between living and non-living things in terms of thei
 \item Draw a table like this one to record your group's ideas.
 \end{enumerate}
 
-| Advantages of exercising | Disadvantages of not exercising |
-|--------------------------|---------------------------------|
+\begin{table}[h!]
+\centering
+\begin{tabular}{|m{6cm}|m{6cm}|}
+\hline
+\textbf{Advantages of Exercising} & \textbf{Disadvantages of Not Exercising} \\ \hline
+& \\ \hline
+& \\ \hline
+& \\ \hline
+& \\ \hline
+& \\ \hline
+\end{tabular}
+\end{table}
 
 
 (Science) (Activity, Investigation, Group Task, Discussion) D 6 (Exercise on filtering substances)
@@ -52272,7 +52282,7 @@ What is the female part of the flower is called?
 
 Complete the paragraph.
 
-The life of a flowering plant begins with ____________________ dispersal. It then ____________________ and grows into an adult plant. Later, it is then pollinated by ____________________. After a new seed is produced.
+The life of a flowering plant begins with \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ dispersal. It then \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and grows into an adult plant. Later, it is then pollinated by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. After a new seed is produced.
 
 
 (Science) (Question) D 4 (Exercise on muscles and skeletons)
@@ -52282,7 +52292,7 @@ What do you think muscles do?
 
 (Science) (Question) D 4 (Exercise on muscles and skeletons)
 
-Why do you think the cheetah needs strong muscles in its legs?  
+Why do you think the cheetah needs strong muscles in its legs?
 
 
 (Science) (Question) D 4 (Exercise on muscles and skeletons)
@@ -52339,7 +52349,7 @@ What is the function of the kidneys?
 
 Fill in the gap in the sentence below.
 
-The heart is part of the __________ system.
+The heart is part of the \_\_\_\_\_\_\_\_\_\_ system.
 
 
 (Science) (Question, Short Answer) D 6 (Exercise on human organs and systems)
@@ -52386,7 +52396,7 @@ Look at the diagram of the body. Label the major organs.
 
 (Science) (Question, Short Answer) D 6 (Exercise on human organs and systems)
 
-Which major organ do we find in the head?  
+Which major organ do we find in the head?
 
 
 (Science) (Question, Short Answer) D 6 (Exercise on human organs and systems)
@@ -52440,7 +52450,7 @@ What is pollination?
 
 (Science) (Short Answer) D 4 (Exercise on flowers)
 
-Name one way pollen is moved from one plant to another.  
+Name one way pollen is moved from one plant to another.
 
 
 (Science) (Short Answer) D 4 (Exercise on flowers)
@@ -52479,7 +52489,7 @@ What is the name given to how the Earth revolves or turns?
 
 (Science) (Question, Short Answer) D 5 (Exercise on Earth's movements)
 
-How long does it take for the Earth to orbit the Sun?  
+How long does it take for the Earth to orbit the Sun?
 
 
 (Science) (Question) D 5 (Exercise on Earth's movements)
@@ -52734,7 +52744,7 @@ Fill in the answer boxes.
 
 (Science) (Question) D 4 (Exercise on the skeleton and muscles)
 
-Did you know that babies have more than 300 bones, but adults have only 206? What do you think happens to the extra 94 bones in a baby's skeleton? Where do they go when the baby grows up? 
+Did you know that babies have more than 300 bones, but adults have only 206? What do you think happens to the extra 94 bones in a baby's skeleton? Where do they go when the baby grows up?
 
 
 (Science) (Question) D 4 (Exercise on the skeleton and muscles)
@@ -52818,12 +52828,12 @@ Investigation: Heating ice
 
 Fill in the missing words.
 
-Materials can be changed by heating and _____________. Baking a ____________ is an example of heating materials. Water can cool down and make ____________. This can be heated to make water again. If we carry on heating the water it will turn into ____________. This can be cooled and it will turn back to ____________.
+Materials can be changed by heating and \_\_\_\_\_\_\_\_\_\_\_\_\_. Baking a \_\_\_\_\_\_\_\_\_\_\_\_ is an example of heating materials. Water can cool down and make \_\_\_\_\_\_\_\_\_\_\_\_. This can be heated to make water again. If we carry on heating the water it will turn into \_\_\_\_\_\_\_\_\_\_\_\_. This can be cooled and it will turn back to \_\_\_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Question) D 5 (Exercise on sources of light)
 
-Why is it better to use a lamp than a candle?  
+Why is it better to use a lamp than a candle?
 
 
 (Science) (Question) D 5 (With Illustration, Exercise on sunshine)
@@ -52842,7 +52852,7 @@ Do you think the Sun is moving and the Earth is standing still?
 
 (Science) (Question) D 5 (Exercise on Earth's movements)
 
-Why can we see the Moon?  
+Why can we see the Moon?
 
 
 (Science) (Questions) D 5 (Exercise on Earth's movements)
@@ -52861,7 +52871,7 @@ Why is a Mercury year shorter than an Earth year?
 
 (Science) (Question) D 5 (Exercise on Earth's movements)
 
-Why is a Jupiter year longer than an Earth year?  
+Why is a Jupiter year longer than an Earth year?
 
 
 (Science) (Question, Short Answer) D 2 (Exercise on light and dark, With Answer)
@@ -52876,7 +52886,7 @@ There are two kinds of sources of light. One is natural like the Sun. What is th
 
 (Science) (Fill-in-the-Blank) D 2 (Exercise on light and dark)
 
-When light bounces off a shiny surface like a mirror it is called …  
+When light bounces off a shiny surface like a mirror it is called …
 
 
 (Science) (Question) D 2 (Exercise on light and dark)
@@ -52896,7 +52906,7 @@ Deep underground it is completely dark. Why is that?
 
 (Science) (Fill-in-the-Blank, Short Answer) D 2 (Exercise on light and dark)
 
-When we see things it is because ________________________ from the things has reached our eyes.
+When we see things it is because \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ from the things has reached our eyes.
 
 
 (Science) (Question, Short Answer) D 2 (Exercise on light and dark, With Answer)
@@ -52951,7 +52961,7 @@ What can you see when it is dark?
 
 (Science) (Question) D 2 (Exercise on shadows)
 
-During the day, what is the natural source of light?  
+During the day, what is the natural source of light?
 
 
 (Science) (Activity) D 2 (Exercise on shadows)
@@ -53187,7 +53197,7 @@ Look at the picture.
   \item What is different about these people?
   \item Write down one thing that is the same about these people.
   \begin{enumerate}
-    \item These people all have __________________________.
+    \item These people all have \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
   \end{enumerate}
 \end{enumerate}
 
@@ -53206,10 +53216,10 @@ Look at the picture.
   \end{enumerate}
   \item Write the missing words.
   \begin{enumerate}
-    \item When we eat lettuce we are eating the __________.
-    \item When we eat carrots we are eating the __________.
-    \item When we eat celery we are eating the __________.
-    \item When we eat saffron we are eating part of the __________.
+    \item When we eat lettuce we are eating the \_\_\_\_\_\_\_\_\_\_.
+    \item When we eat carrots we are eating the \_\_\_\_\_\_\_\_\_\_.
+    \item When we eat celery we are eating the \_\_\_\_\_\_\_\_\_\_.
+    \item When we eat saffron we are eating part of the \_\_\_\_\_\_\_\_\_\_.
   \end{enumerate}
 \end{enumerate}
 
@@ -53281,7 +53291,7 @@ How can you separate sand from water?
 
 (Science) (Investigation, Question) D 6 (Exercise on separating solids from solutions)
 
-Try pouring water and sand through the filter paper. What do you observe?  
+Try pouring water and sand through the filter paper. What do you observe?
 
 
 (Science) (Investigation, Questions) D 6 (Exercise on separating solids from solutions, Exercise involving chromatography)
@@ -53584,11 +53594,11 @@ Which life processes do the photographs show?
 
 Write the missing letters to complete the words. They are the life processes.
 \begin{enumerate}
-\item m___n___g
-\item d___n___i___g
-\item e___t___n
-\item g___o___w___n
-\item r___p___d___c___i___g
+\item m\_\_\_n\_\_\_g
+\item d\_\_\_n\_\_\_i\_\_\_g
+\item e\_\_\_t\_\_\_n
+\item g\_\_\_o\_\_\_w\_\_\_n
+\item r\_\_\_p\_\_\_d\_\_\_c\_\_\_i\_\_\_g
 \end{enumerate}
 
 
@@ -53690,7 +53700,7 @@ Write down a soluble solid that you have used recently.
 
 (Science) (Short Answer) D 6 (Exercise on adding solids to water)
 
-Write down a solid that does not dissolve in water.  
+Write down a solid that does not dissolve in water.
 
 
 (Science) (Question) D 6 (Exercise on adding solids to water)
@@ -53712,7 +53722,7 @@ Is making concrete an exothermic reaction? Explain your answer.
 
 Fill in the missing words.
 
-When water evaporates to give water vapour it is a __________ change. When magnesium burns in air to give magnesium oxide it is an __________ change. Another example of this type of reaction is when we burn __________ in cars and cookers.
+When water evaporates to give water vapour it is a \_\_\_\_\_\_\_\_\_\_ change. When magnesium burns in air to give magnesium oxide it is an \_\_\_\_\_\_\_\_\_\_ change. Another example of this type of reaction is when we burn \_\_\_\_\_\_\_\_\_\_ in cars and cookers.
 
 
 (Science) (Short Answer) D 1 (Exercise on talking and listening)
@@ -53722,7 +53732,7 @@ Name some of the sources of sound.
 
 (Science) (Question) D 1 (Exercise on talking and listening)
 
-What sounds can you make?  
+What sounds can you make?
 
 
 (Science) (Question, Activity) D 1 (Exercise on talking and listening)
@@ -53754,12 +53764,12 @@ Investigation: Measure the sounds in school.
 
 (Science) (Short Answer) D 1 (Exercise on talking and listening)
 
-What sounds can you make with your body? Write four sounds.  
+What sounds can you make with your body? Write four sounds.
 
 
 (Science) (Question) D 6 (Exercise on mass and weight)
 
-What does the force of gravity do to all things on the Earth?  
+What does the force of gravity do to all things on the Earth?
 
 
 (Science) (Question, Short Answer) D 6 (Exercise on mass and weight)
@@ -53819,7 +53829,7 @@ What is created when objects move against each other?
 
 (Science) (Fill-in-the-Blank) D 6 (Exercise on mass and weight)
 
-The larger the surface area, the greater the __________.
+The larger the surface area, the greater the \_\_\_\_\_\_\_\_\_\_.
 
 \subsection{Materials}
 \begin{itemize}
@@ -53865,7 +53875,7 @@ Circle the reasons why you grow plants:
 
 Complete the sentences using the word bank:
 \begin{itemize}
-\item Plants need __________ to grow.
+\item Plants need \_\_\_\_\_\_\_\_\_\_ to grow.
 \end{itemize}
 
 
@@ -53974,7 +53984,7 @@ What temperature does water freeze at?
 
 (Science) (Question, Short Answer) D 6 (Exercise on solids and solutions)
 
-What temperature does water boil at?  
+What temperature does water boil at?
 
 
 (Science) (Question, Short Answer) D 6 (Exercise on solids and solutions)
@@ -53989,7 +53999,7 @@ List two everyday uses of dissolving.
 
 (Science) (Question) D 6 (Exercise on solids and solutions)
 
-How can you make a solid dissolve quicker?  
+How can you make a solid dissolve quicker?
 
 
 (Science) (Question) D 3 (Exercise on plants)
@@ -54039,7 +54049,7 @@ Crump a piece of paper into the smallest ball that you can. What force have you 
 
 (Science) (Question) D 3 (Exercise on making shapes with forces, With Illustration)
 
-What are the people using to change the shape of the materials?  
+What are the people using to change the shape of the materials?
 
 [STRDGM] The images show various people using different techniques to shape materials: a blacksmith hammering metal, a potter shaping clay on a wheel, a chef rolling dough, and a factory setting where a car body is being formed in a mould. [STPDGM]
 
@@ -54123,7 +54133,7 @@ How do the North and South poles of a magnet react to each other?
 
 (Science) (Question, Short Answer) D 4 (Exercise on magnetism)
 
-There are only three magnetic metals. What are they?  
+There are only three magnetic metals. What are they?
 
 
 (Science) (Question) D 4 (Exercise on magnetism)
@@ -54200,7 +54210,7 @@ Name three foods that are not good for you.
 
 (Science) (Question, Short Answer) D 3 (Exercise on staying healthy)
 
-To keep healthy we need to eat some of all the food groups. What is this diet called?  
+To keep healthy we need to eat some of all the food groups. What is this diet called?
 
 
 (Science) (Short Answer) D 3 (Exercise on staying healthy, With Illustration)
@@ -54219,7 +54229,7 @@ What do our lungs do?
 
 How can you find out how fit and healthy you are?
 
-You can measure your __________ rate.
+You can measure your \_\_\_\_\_\_\_\_\_\_ rate.
 
 
 (Science) (Question) D 3 (Exercise on staying healthy)
@@ -54250,7 +54260,7 @@ Investigation: Using forces to make a toy change speed or stop
   \item Measure how far the car travels before it stops.
   \item Record the distance in the space below.
   \begin{enumerate}
-    \item My car travelled __________ cm.
+    \item My car travelled \_\_\_\_\_\_\_\_\_\_ cm.
   \end{enumerate}
   \item Did the car go quickly or slowly?
 \end{enumerate}
@@ -54306,7 +54316,7 @@ Investigation: How do things move on different surfaces?
 
 (Science) (Long Answer) D 5 (Exercise on light)
 
-Explain why it is not true that our eyes emit light that shines on an object and how we see things.  
+Explain why it is not true that our eyes emit light that shines on an object and how we see things.
 
 
 (Science) (Short Answer) D 5 (Exercise on light, Exercise involving a list)
@@ -54341,7 +54351,7 @@ Why does a beam of light change direction when it is reflected?
 
 (Science) (Fill-in-the-Blank) D 5 (Exercise on light, With Answer)
 
-The angle of incidence equals the angle of __________.
+The angle of incidence equals the angle of \_\_\_\_\_\_\_\_\_\_.
 
 \subsection{Answer}
 \begin{itemize}
@@ -54361,7 +54371,7 @@ Draw a ray diagram.
 
 (Science) (Question, Short Answer) D 5 (Exercise on light)
 
-What is the name for the angle of the light as it reaches the mirror?  
+What is the name for the angle of the light as it reaches the mirror?
 
 
 (Science) (Question) D 5 (Exercise on light, In British English)
@@ -54386,7 +54396,7 @@ Explain why we see certain colours.
 
 (Science) (Fill-in-the-Blank) D 5 (Exercise on light, In British English, With Answer)
 
-I can use different __________ to change the colour of light.
+I can use different \_\_\_\_\_\_\_\_\_\_ to change the colour of light.
 
 \subsection{Answer}
 \begin{itemize}
@@ -54406,7 +54416,7 @@ A chemical change is not reversible. Can you explain why?
 
 (Science) (Question, Short Answer) D 6 (Exercise on reversible and irreversible reactions)
 
-What three things do you need to make a fire?  
+What three things do you need to make a fire?
 
 
 (Science) (Question) D 6 (Exercise on reversible and irreversible reactions)
@@ -54441,7 +54451,7 @@ What do we call a solid that dissolves in water?
 
 (Science) (Question) D 6 (Exercise on reversible and irreversible reactions)
 
-Can you think of a way to make a solute dissolve more quickly in a solution?  
+Can you think of a way to make a solute dissolve more quickly in a solution?
 
 
 (Science) (Question, Short Answer) D 6 (Exercise on reversible and irreversible reactions)
@@ -54461,12 +54471,12 @@ How can one separate a solid from a solution?
 
 (Science) (Question) D 6 (Exercise on reversible and irreversible reactions)
 
-How can you separate sugar from a sugary drink?  
+How can you separate sugar from a sugary drink?
 
 
 (Science) (Fill-in-the-Blank, Short Answer) D 6 (Exercise on reversible and irreversible reactions, With Answer)
 
-Solids dissolved in water are still in the __________.
+Solids dissolved in water are still in the \_\_\_\_\_\_\_\_\_\_.
 
 \subsection{Answer}
 \begin{itemize}
@@ -54481,7 +54491,7 @@ Does temperature change solubility? Why?
 
 (Science) (Fill-in-the-Blank, Short Answer) D 6 (Exercise on reversible and irreversible reactions, With Answer)
 
-Some reactions need __________ to start.
+Some reactions need \_\_\_\_\_\_\_\_\_\_ to start.
 
 \subsection{Answer}
 \begin{itemize}
@@ -54532,9 +54542,9 @@ Investigation: Do plants need water to grow?
 
 Fill in the gaps.
 \begin{enumerate}
-\item Plants need light and ______ to grow.
-\item If a plant has no light the leaves go ______.
-\item If a plant has no water the leaves ______.
+\item Plants need light and \_\_\_\_\_\_ to grow.
+\item If a plant has no light the leaves go \_\_\_\_\_\_.
+\item If a plant has no water the leaves \_\_\_\_\_\_.
 \end{enumerate}
 
 
@@ -54571,7 +54581,7 @@ Write two reasons why emergency vehicles have sirens.
 
 (Science) (Question) D 1 (Exercise on sound, With Illustration)
 
-Why do hunting animals have padded feet?  
+Why do hunting animals have padded feet?
 
 [STRDGM] The image depicts a hyena creeping up on its prey, illustrating the concept of quiet movement in animals. [STPDGM]
 
@@ -54585,7 +54595,7 @@ Finish the labels for the parts of the body.
 
 (Science) (Question, Short Answer) D 1 (Exercise on body parts)
 
-How many arms have you got?  
+How many arms have you got?
 
 
 (Science) (Question, Short Answer) D 1 (Exercise on body parts)
@@ -54658,9 +54668,9 @@ Write down the name of one plant and two animals. Are they producers or consumer
   \end{enumerate}
   \item Complete the sentences to describe how your windmill moves.
   \begin{enumerate}
-    \item When I blow hard, the windmill moves ________.
-    \item When I blow softly, the windmill moves ________.
-    \item The windmill ________ round and round, but it doesn’t move another ________.
+    \item When I blow hard, the windmill moves \_\_\_\_\_\_\_\_.
+    \item When I blow softly, the windmill moves \_\_\_\_\_\_\_\_.
+    \item The windmill \_\_\_\_\_\_\_\_ round and round, but it doesn’t move another \_\_\_\_\_\_\_\_.
   \end{enumerate}
 \end{enumerate}
 
@@ -54829,13 +54839,13 @@ Investigation: feeling objects
 
 Choose your favourite foods and drinks for breakfast.
 \begin{itemize}
-\item I like to eat ________________
-\item I like to drink ________________
-\item I like to eat ________________
-\item I like to drink ________________
-\item I like to eat ________________
-\item I like to drink ________________
-\item I like to eat ________________
+\item I like to eat \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\item I like to drink \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\item I like to eat \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\item I like to drink \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\item I like to eat \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\item I like to drink \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\item I like to eat \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \end{itemize}
 
 
@@ -54846,7 +54856,7 @@ Which part of the body senses touch?
 
 (Science) (Question, Short Answer) D 3 (Exercise on the senses)
 
-Imagine you cannot see. Which senses will you use to find your way around?  
+Imagine you cannot see. Which senses will you use to find your way around?
 
 
 (Science) (Exercise, Short Answer) D 3 (Exercise on the senses)
@@ -54943,7 +54953,7 @@ Why does having large ears help some animals to hear?
 
 (Science) (Short Answer) D 3 (Exercise on the senses)
 
-Name two parts of the ear.  
+Name two parts of the ear.
 
 
 (Science) (True-False Exercise) D 3 (Exercise on the senses, With Answer)
@@ -54980,7 +54990,7 @@ How does the sense of touch protect us?
 
 (Science) (Question) D 3 (Exercise on the senses)
 
-Imagine you have no sense of touch. What will happen?  
+Imagine you have no sense of touch. What will happen?
 
 
 (Science) (Exercise) D 4 (Exercise on the states of matter)
@@ -55103,7 +55113,7 @@ Write the name of a material that reflects a lot of light.
 
 (Science) (Fill-in-the-Blank, Exercise) D 5 (Exercise on reflectors)
 
-When light bounces off an object it is ____.
+When light bounces off an object it is \_\_\_\_.
 
 
 (Science) (Exercise) D 3 (Exercise on living and non-living things)
@@ -55113,16 +55123,16 @@ Think about what animals need to do so that they can stay alive. Write three exa
 
 (Science) (Short Answer) D 3 (Exercise on living and non-living things)
 
-Look around and write down all the non-living things you can see.  
+Look around and write down all the non-living things you can see.
 
 
 (Science) (Question, Fill-in-the-Blanks) D 1 (Exercise on pushes and pulls)
 
 How can you make these toys move?
 \begin{enumerate}[label=\alph*.]
-\item I can ______ the toy duck.
-\item I can ______ the toy robot.
-\item I can ______ the balloon to make the toy car move.
+\item I can \_\_\_\_\_\_ the toy duck.
+\item I can \_\_\_\_\_\_ the toy robot.
+\item I can \_\_\_\_\_\_ the balloon to make the toy car move.
 \end{enumerate}
 
 
@@ -55182,8 +55192,8 @@ Name one thing that smells good to you.
 
 Fill in the missing words. One has been done for you.
 \begin{enumerate}[label=\alph*.]
-\item We have ______ senses.
-\item These are seeing, ______, touch and ______.
+\item We have \_\_\_\_\_\_ senses.
+\item These are seeing, \_\_\_\_\_\_, touch and \_\_\_\_\_\_.
 \end{enumerate}
 
 
@@ -55206,7 +55216,7 @@ How can we work to save our natural world?
 
 (Science) (Question) D 6 (Exercise on saving energy)
 
-What can we do to save energy?  
+What can we do to save energy?
 
 
 (Science) (Question) D 6 (Exercise on pollution)
@@ -55318,7 +55328,7 @@ Opening a door towards you uses a push force. True / False
 
 (Science) (Short Answer) D 3 (Exercise on life forces)
 
-Name one difference between a mammal and a reptile.  
+Name one difference between a mammal and a reptile.
 
 
 (Science) (Sorting Exercise) D 3 (Exercise on life forces, With Word Bank)
@@ -55355,7 +55365,7 @@ Imagine you are alone in the desert. What do you need to stay alive? Circle the 
 
 (Science) (Question) D 3 (Exercise on life forces)
 
-There is an insect called a mayfly which only lives for one or two days. What is the one life process it must do before it dies?  
+There is an insect called a mayfly which only lives for one or two days. What is the one life process it must do before it dies?
 
 
 (Science) (Question) D 3 (Exercise on life forces)
@@ -55365,7 +55375,7 @@ Is a piece of limestone a living or non-living thing? Explain why.
 
 (Science) (Question) D 3 (Exercise on life forces)
 
-What can a bird do that a rat cannot do?  
+What can a bird do that a rat cannot do?
 
 
 (Science) (Question) D 3 (Exercise on life forces)
@@ -55375,7 +55385,7 @@ How can we help plants to grow?
 
 (Science) (Short Answer) D 3 (Exercise on life forces)
 
-Name two things that plants need to grow well.  
+Name two things that plants need to grow well.
 
 
 (Science) (Short Answer) D 3 (Exercise on life forces)
@@ -55646,8 +55656,8 @@ What do you think is happening when an object hits another object?
 
 Complete the sentences using the words in the word bank.
 \begin{enumerate}[label=\alph*.]
-\item When two moving objects hit __________, forces can make the objects change __________.
-\item When two objects hit each other, one object __________ the other.
+\item When two moving objects hit \_\_\_\_\_\_\_\_\_\_, forces can make the objects change \_\_\_\_\_\_\_\_\_\_.
+\item When two objects hit each other, one object \_\_\_\_\_\_\_\_\_\_ the other.
 \end{enumerate}
 
 \subsection{Word Bank}
@@ -55721,7 +55731,7 @@ Can you name somewhere where we use force to help us?
 
 (Science) (Question) D 3 (Exercise on forces)
 
-What happens when two moving objects hit each other?  
+What happens when two moving objects hit each other?
 
 
 (Science) (True-False Exercise) D 3 (Exercise on forces, With Answer)
@@ -55861,7 +55871,7 @@ Two stages of an investigation are ‘Asking questions’ and ‘Predicting what
 
 (Science) (Question, Short Answer) D 3 (Exercise on flowering plants, With Illustration)
 
-What do plants take from the air?  
+What do plants take from the air?
 
 [STRDGM] The image shows a flowering plant with a visible root system, including roots extending into the soil. There is also a thermometer indicating temperature ranges. [STPDGM]
 
@@ -55896,7 +55906,7 @@ What happens to a plant if the weather is too cold for it?
 
 (Science) (Short Answer) D 3 (Exercise on flowering plants, With Illustration)
 
-Name one thing that tells you that a plant is unhealthy.  
+Name one thing that tells you that a plant is unhealthy.
 
 [STRDGM] The image shows a flowering plant with a visible root system, including roots extending into the soil. There is also a thermometer indicating temperature ranges. [STPDGM]
 
@@ -56013,7 +56023,7 @@ What do you think you can do to help the environment?
 
 (Science) (Question) D 6 (Exercise on environmental awareness)
 
-What are some ways that humans can harm the environment?  
+What are some ways that humans can harm the environment?
 
 
 (Science) (Question) D 6 (Exercise on environmental awareness)
@@ -56038,7 +56048,7 @@ What are the main causes of water pollution?
 
 (Science) (Question) D 6 (Exercise on environmental awareness)
 
-How can we reduce our impact on the environment?  
+How can we reduce our impact on the environment?
 
 
 (Science) (Investigation) D 1 (Exercise on movement, Exercise involving a table, With Illustration)
@@ -56089,7 +56099,7 @@ Construct your own food chain using words and pictures.
 
 (Science) (Question) D 6 (Exercise on food chains)
 
-Do you think that you can be in a food chain? Think about what you eat. Where does it come from?  
+Do you think that you can be in a food chain? Think about what you eat. Where does it come from?
 
 
 (Science) (Creative Activity) D 6 (Exercise on food chains)
@@ -56122,12 +56132,12 @@ Circle the answer that is true for you.
 
 Fill in the correct words.
 \begin{enumerate}[label=\alph*.]
-\item My fingers are connected to my h____.
-\item My hand is connected to my a____.
-\item My arm is connected to my s__________.
-\item My toes are connected to my f____.
-\item My foot is connected to my l____.
-\item My leg bends at my k____.
+\item My fingers are connected to my h\_\_\_\_.
+\item My hand is connected to my a\_\_\_\_.
+\item My arm is connected to my s\_\_\_\_\_\_\_\_\_\_.
+\item My toes are connected to my f\_\_\_\_.
+\item My foot is connected to my l\_\_\_\_.
+\item My leg bends at my k\_\_\_\_.
 \end{enumerate}
 
 
@@ -56135,8 +56145,8 @@ Fill in the correct words.
 
 Answer the questions.
 \begin{enumerate}[label=\alph*.]
-\item Which two senses do you use most to find your way to school? S______ and ________
-\item Which three senses tell you that food is bad and not safe to eat? ________, ________ and ________
+\item Which two senses do you use most to find your way to school? S\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_
+\item Which three senses tell you that food is bad and not safe to eat? \_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_
 \end{enumerate}
 
 
@@ -56167,8 +56177,8 @@ Investigation: What is the object like?
 
 Fill in the gaps.
 \begin{enumerate}[label=\alph*.]
-\item Some materials can have more than one __________.
-\item A material can be shiny and ________.
+\item Some materials can have more than one \_\_\_\_\_\_\_\_\_\_.
+\item A material can be shiny and \_\_\_\_\_\_\_\_.
 \end{enumerate}
 
 
@@ -56200,17 +56210,17 @@ Fill in the gaps.
 
 Complete the paragraph about predators and prey.
 
-Some animals hunt for their food and are called __________. The animals that are hunted and killed by predators are called __________. Predators and prey are both __________ because they cannot produce their own __________.  
+Some animals hunt for their food and are called \_\_\_\_\_\_\_\_\_\_. The animals that are hunted and killed by predators are called \_\_\_\_\_\_\_\_\_\_. Predators and prey are both \_\_\_\_\_\_\_\_\_\_ because they cannot produce their own \_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Fill-in-the-Blanks, Short Answer) D 1 (Exercise on materials)
 
-Write the names of two metals: ________________ and ______________.
+Write the names of two metals: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Fill-in-the-Blanks, Short Answer) D 1 (Exercise on materials)
 
-Write the names of two non-metals: ________________ and ______________.
+Write the names of two non-metals: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Question) D 1 (Exercise on materials)
@@ -56237,7 +56247,7 @@ Why is rubber used to make these objects?
 
 (Science) (Questions) D 6 (Exercise on metals and plastics, With Illustration, Exercise involving a table)
 
-Look at the information in the table below. Then answer the questions that follow.  
+Look at the information in the table below. Then answer the questions that follow.
 \begin{enumerate}[label=\alph*.]
 \item Why do you think gold is not used in wires often?
 \item Why is copper used in wires more than other metals?
@@ -56483,7 +56493,7 @@ Tick the correct ending for this sentence: The pitch of sound is ... how loud or
 
 (Science) (Question) D 4 (Exercise on sound and music, With Illustration)
 
-Which oscillating wave pattern shows the highest-pitched sound?  
+Which oscillating wave pattern shows the highest-pitched sound?
 
 [STRDGM] The image shows three oscillating wave patterns, each represented by a line graph with peaks and troughs. The first graph has wider peaks, the second has narrower peaks, and the third has the narrowest peaks. [STPDGM]
 
@@ -56581,7 +56591,7 @@ What do plants need so they grow?
 
 Fill in the missing words in these sentences.
 
-Human activities can damage the environment. Plants and animals living in their natural habitat may be ______________. If we don’t protect them they may become ______________.
+Human activities can damage the environment. Plants and animals living in their natural habitat may be \_\_\_\_\_\_\_\_\_\_\_\_\_\_. If we don’t protect them they may become \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Question) D 6 (Exercise on caring for the environment)
@@ -56758,15 +56768,15 @@ Work with a partner.
 
 (Science) (Short Answer, Fill-in-the-Blanks) D 1 (Exercise on metals and non-metals)
 
-Write two things we use metals for: __________ and __________.
+Write two things we use metals for: \_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Fill-in-the-Blanks) D 1 (Exercise on metals and non-metals)
 
 Circle the correct answer.
 \begin{itemize}
-\item Copper is a __________ (non-metal / metal).
-\item Plastics are __________ (non-metals / metals).
+\item Copper is a \_\_\_\_\_\_\_\_\_\_ (non-metal / metal).
+\item Plastics are \_\_\_\_\_\_\_\_\_\_ (non-metals / metals).
 \end{itemize}
 
 
@@ -56813,8 +56823,8 @@ What is a property? Circle the words that are properties of materials: hard, sof
 
 Write the words to complete the sentences.
 \begin{enumerate}[label=\alph*.]
-\item Toys can feel h___ or s____.
-\item Some things look s____ or d____.
+\item Toys can feel h\_\_\_ or s\_\_\_\_.
+\item Some things look s\_\_\_\_ or d\_\_\_\_.
 \end{enumerate}
 
 [STRDGM] The image shows various materials and objects, including a teddy bear, a box, a raincoat, and a boy wearing a raincoat. There are also images of different materials like a pot, a book, and coins, as well as colorful fabric and rubber items. [STPDGM]
@@ -56843,7 +56853,7 @@ Write the words to complete the sentences.
 
 (Science) (True-False Exercise) D 6 (Exercise on electrical conductors and insulators)
 
-True or false? Electricity travels through conductors.  
+True or false? Electricity travels through conductors.
 
 
 (Science) (Question) D 6 (Exercise on electrical conductors and insulators)
@@ -56868,7 +56878,7 @@ Why is copper used in wires and electrical sockets?
 
 (Science) (Short Answer) D 6 (Exercise on electrical conductors and insulators)
 
-Metals used in wires must have two properties. Name them.  
+Metals used in wires must have two properties. Name them.
 
 
 (Science) (Question) D 6 (Exercise on electrical conductors and insulators)
@@ -56898,7 +56908,7 @@ What happens to the bulb if the battery is not connected properly?
 
 (Science) (Question) D 6 (Exercise on circuits)
 
-A person investigates what happens to a circuit when the number of bulbs is changed. The person also changes the number of batteries. Is it a fair test?  
+A person investigates what happens to a circuit when the number of bulbs is changed. The person also changes the number of batteries. Is it a fair test?
 
 
 (Science) (Short Answer) D 6 (Exercise on circuits)
@@ -56918,7 +56928,7 @@ Draw the symbol for a battery.
 
 (Science) (Activity) D 6 (Exercise on circuits, Exercise involving drawing)
 
-Draw the symbol for a bulb.  
+Draw the symbol for a bulb.
 
 
 (Science) (Activity) D 6 (Exercise on circuits, Exercise involving drawing, Exercise involving a diagram)
@@ -56948,7 +56958,7 @@ Draw a circuit diagram for a circuit with a battery, wires, a buzzer and two bul
   \end{itemize}
   \item Fill in the missing words. One has been done for you.
   \begin{itemize}
-    \item Some objects __________ other objects to them. They are called A __________ has two ends, one end of the __________ is the North seeking pole and the other end is the __________ seeking pole. The law of magnetism is: Like poles __________ and opposite poles attract.
+    \item Some objects \_\_\_\_\_\_\_\_\_\_ other objects to them. They are called A \_\_\_\_\_\_\_\_\_\_ has two ends, one end of the \_\_\_\_\_\_\_\_\_\_ is the North seeking pole and the other end is the \_\_\_\_\_\_\_\_\_\_ seeking pole. The law of magnetism is: Like poles \_\_\_\_\_\_\_\_\_\_ and opposite poles attract.
   \end{itemize}
 \end{enumerate}
 
@@ -56962,8 +56972,8 @@ Draw a circuit diagram for a circuit with a battery, wires, a buzzer and two bul
   \item How can we help this plant get better?
   \item Complete the doctor's report on this plant.
   \begin{itemize}
-    \item The leaves are dead so it cannot __________ the plant.
-    \item The stem is wilted so it __________ difficult for the plant to take in __________.
+    \item The leaves are dead so it cannot \_\_\_\_\_\_\_\_\_\_ the plant.
+    \item The stem is wilted so it \_\_\_\_\_\_\_\_\_\_ difficult for the plant to take in \_\_\_\_\_\_\_\_\_\_.
   \end{itemize}
   \item Write a letter to the owner of the plant. Explain what they should do to make their plant better. Write your letter in your Investigation notebook.
   \item What do you think happens to a tree when it doesn't have enough water?
@@ -57003,7 +57013,7 @@ Name an animal that is adapted to live in a hot dry habitat. Name one way this a
 
 (Science) (Question, Short Answer) D 4 (Exercise on habitat)
 
-How can we help to stop pollution? Name two ways.  
+How can we help to stop pollution? Name two ways.
 
 
 (Science) (Short Answer) D 4 (Exercise on habitat)
@@ -57033,7 +57043,7 @@ What do we use electric lights for?
 
 (Science) (Partner Activity, Creative Task) D 4 (Exercise on electricity)
 
-Imagine we live in a world with no electricity. With a partner, think of three things that are different in this world.  
+Imagine we live in a world with no electricity. With a partner, think of three things that are different in this world.
 
 
 (Science) (Short Answer, Questions) D 4 (Exercise on electricity)
@@ -57202,11 +57212,11 @@ What happens if you wire your teacher's computer incorrectly? Why is it importan
 \begin{enumerate}
   \item How many children are in your family?
   \begin{itemize}
-    \item There are __________ children.
+    \item There are \_\_\_\_\_\_\_\_\_\_ children.
   \end{itemize}
   \item Are you the youngest child? Are you in the middle? Are you an only child?
   \begin{itemize}
-    \item I am __________.
+    \item I am \_\_\_\_\_\_\_\_\_\_.
   \end{itemize}
 \end{enumerate}
 
@@ -57227,14 +57237,14 @@ Investigation: Do all humans grow at the same rate?
 
 Circle the correct word.
 
-Humans do/do not grow to the same size in the same time.  
+Humans do/do not grow to the same size in the same time.
 
 
 (Science) (Fill-in-the-Blanks) D 1 (Exercise on family and growth)
 
 \begin{enumerate}[label=\alph*.]
-\item Humans start as a ______ and grow into an adult.
-\item I am __________ compared to others in my class.
+\item Humans start as a \_\_\_\_\_\_ and grow into an adult.
+\item I am \_\_\_\_\_\_\_\_\_\_ compared to others in my class.
 \end{enumerate}
 
 
@@ -57270,7 +57280,7 @@ True or false? Change the false sentences so they are true.
 
 (Science) (Question) D 4 (Exercise on circuits)
 
-How can you find a fault in a series circuit?  
+How can you find a fault in a series circuit?
 
 
 (Science) (Question) D 4 (Exercise on electricity)
@@ -57282,12 +57292,12 @@ Why is mains electricity much more dangerous than electricity from a battery?
 
 Read the sentences about a model for electrical current. Write the correct words in the gaps.
 
-We can pass __________ around a circle to model electrical __________ flowing around a __________. The balls are like the tiny __________ that create __________.
+We can pass \_\_\_\_\_\_\_\_\_\_ around a circle to model electrical \_\_\_\_\_\_\_\_\_\_ flowing around a \_\_\_\_\_\_\_\_\_\_. The balls are like the tiny \_\_\_\_\_\_\_\_\_\_ that create \_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Fill-in-the-Blank Exercise) D 4 (Exercise on electrical current)
 
-Complete the sentence: "Electricity will only flow through a __________ circuit."
+Complete the sentence: "Electricity will only flow through a \_\_\_\_\_\_\_\_\_\_ circuit."
 
 
 (Science) (Exercise) D 4 (Exercise on electrical current)
@@ -57404,7 +57414,7 @@ What did you have to eat last night?
 
 (Science) (Short Answer) D 1 (Exercise on eating and drinking)
 
-Write down what you had to eat last night.  
+Write down what you had to eat last night.
 
 
 (Science) (Activity) D 1 (Exercise on eating and drinking, With Illustration)
@@ -57418,7 +57428,7 @@ Look at the picture of the food plate. Make a model of a healthy meal.
 
 Investigation: Which foods are healthy?
 
-Look at different foods from a shop. Are they good for you?  
+Look at different foods from a shop. Are they good for you?
 
 
 (Science) (Question) D 1 (Exercise on eating and drinking)
@@ -57430,11 +57440,11 @@ Why do we need a healthy diet?
 
 Fill in the correct words.
 \begin{enumerate}[label=\alph*.]
-\item We need to eat a healthy diet to g___.
-\item We need to drink lots of _______ to keep healthy.
-\item A healthy diet has lots of __________.
-\item It has some __________.
-\item It has a little bit of __________.
+\item We need to eat a healthy diet to g\_\_\_.
+\item We need to drink lots of \_\_\_\_\_\_\_ to keep healthy.
+\item A healthy diet has lots of \_\_\_\_\_\_\_\_\_\_.
+\item It has some \_\_\_\_\_\_\_\_\_\_.
+\item It has a little bit of \_\_\_\_\_\_\_\_\_\_.
 \end{enumerate}
 
 
@@ -57578,10 +57588,10 @@ Which forces are invisible? How can you show them?
 
 Fill in the correct word.
 \begin{enumerate}[label=\alph*.]
-\item Plants and ______ are living things.
-\item Living things can grow, ______ and eat.
-\item Buildings and ______ have never been alive.
-\item Things that are not alive cannot ______, move or eat.
+\item Plants and \_\_\_\_\_\_ are living things.
+\item Living things can grow, \_\_\_\_\_\_ and eat.
+\item Buildings and \_\_\_\_\_\_ have never been alive.
+\item Things that are not alive cannot \_\_\_\_\_\_, move or eat.
 \end{enumerate}
 
 
@@ -57931,10 +57941,10 @@ Where do they live? Match the animal or plant to its home.
 
 Fill in the gaps.
 \begin{enumerate}[label=\alph*.]
-\item Animals and plants need a place to live and g____.
-\item Animals need food, water and a place to s____.
-\item Plants need w____ so they can grow.
-\item Some animals and birds m____ a place to sleep.
+\item Animals and plants need a place to live and g\_\_\_\_.
+\item Animals need food, water and a place to s\_\_\_\_.
+\item Plants need w\_\_\_\_ so they can grow.
+\item Some animals and birds m\_\_\_\_ a place to sleep.
 \end{enumerate}
 
 
@@ -58270,9 +58280,9 @@ Investigation: How well does your soil drain?
 (Science) (Fill-in-the-Blanks) D 2 (Exercise on rocks)
 
 \begin{enumerate}[label=\alph*.]
-\item Rocks are used for buildings because they are __________.
-\item Small, round pieces of rock are called __________.
-\item The best soil for growing crops is __________.
+\item Rocks are used for buildings because they are \_\_\_\_\_\_\_\_\_\_.
+\item Small, round pieces of rock are called \_\_\_\_\_\_\_\_\_\_.
+\item The best soil for growing crops is \_\_\_\_\_\_\_\_\_\_.
 \end{enumerate}
 
 
@@ -58280,7 +58290,7 @@ Investigation: How well does your soil drain?
 
 Complete the paragraph.
 
-Seeds need to be __________ to find a place to grow. There are four main ways of seed dispersal. They are __________, __________, __________, and __________.
+Seeds need to be \_\_\_\_\_\_\_\_\_\_ to find a place to grow. There are four main ways of seed dispersal. They are \_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Short Answer) D 5 (Exercise on seeds and seed dispersal)
@@ -58292,7 +58302,7 @@ List the four main methods of seed dispersal.
 
 Complete this paragraph about adaptations of seeds.
 
-Seeds sometimes have to compete to grow so they can move far away from the parent plant. Seeds that are dispersed by __________ are usually able to __________. Seeds that are dispersed by animals may have parts that __________ to the animal’s fur or may have fruits that the animals __________. Seeds that are dispersed by explosions usually have the seed pod and are then carried by the wind.
+Seeds sometimes have to compete to grow so they can move far away from the parent plant. Seeds that are dispersed by \_\_\_\_\_\_\_\_\_\_ are usually able to \_\_\_\_\_\_\_\_\_\_. Seeds that are dispersed by animals may have parts that \_\_\_\_\_\_\_\_\_\_ to the animal’s fur or may have fruits that the animals \_\_\_\_\_\_\_\_\_\_. Seeds that are dispersed by explosions usually have the seed pod and are then carried by the wind.
 
 
 (Science) (Question) D 5 (Exercise on biology, With Illustration)
@@ -58311,7 +58321,7 @@ Why do watermelons have so many seeds?
 
 (Science) (Question) D 5 (Exercise on biology, With Illustration)
 
-Would six seeds in a watermelon be enough?  
+Would six seeds in a watermelon be enough?
 
 [STRDGM] The image features a vibrant scene with various flowering plants, including a close-up of a butterfly on a flower, seedlings emerging from the soil, and a sliced watermelon showing its seeds. The background is a blurred garden setting, enhancing the focus on the plants and the watermelon. [STPDGM]
 
@@ -58413,7 +58423,7 @@ Explain why we have night and day.
 
 (Science) (Short Answer, Question) D 2 (Exercise on rocks)
 
-Can you remember talking about properties of rocks? Name three properties.  
+Can you remember talking about properties of rocks? Name three properties.
 
 
 (Science) (True-False Exercise) D 5 (Exercise on evaporation and condensation, With Answer)
@@ -58609,7 +58619,7 @@ What word do we use to describe substances that let lots of light through? Give 
 
 (Science) (Question, Short Answer) D 5 (Exercise on shadows)
 
-What word do we use to describe substances that let some light through? Give three examples.  
+What word do we use to describe substances that let some light through? Give three examples.
 
 
 (Science) (Question, Short Answer) D 5 (Exercise on shadows)
@@ -58624,7 +58634,7 @@ How can you make a puppet shadow that is very dark?
 
 (Science) (Question) D 5 (Exercise on shadows, In British English)
 
-How can you make a coloured shadow?  
+How can you make a coloured shadow?
 
 
 (Science) (Question, Short Answer) D 5 (Exercise on shadows)
@@ -58634,7 +58644,7 @@ When the shadow changes its length and position, does the Sun move or does the E
 
 (Science) (Question) D 5 (Exercise on shadows)
 
-How can you make a puppet shadow grow larger on the screen?  
+How can you make a puppet shadow grow larger on the screen?
 
 
 (Science) (Question) D 5 (Exercise on investigations)
@@ -58654,7 +58664,7 @@ What is the modern unit of light measurement called?
 
 (Science) (Question, Short Answer) D 5 (Exercise on shadows)
 
-What time of day is your shadow the shortest?  
+What time of day is your shadow the shortest?
 
 
 (Science) (Question, Short Answer) D 5 (Exercise on shadows)
@@ -58746,11 +58756,11 @@ Brightness depends on light intensity. True / False
 
 Show what animals and plants could live in these environments. An example for each has been done for you. If you know of other animals you might see, you can add those too:
 \begin{enumerate}[label=\alph*.]
-\item Warm sea: Tuna and __________
-\item Coastal fog woodlands: Warbler and __________
-\item Wetlands: Reeds and __________
-\item Grasslands and mountains: Goat and __________
-\item Desert: Camel and __________
+\item Warm sea: Tuna and \_\_\_\_\_\_\_\_\_\_
+\item Coastal fog woodlands: Warbler and \_\_\_\_\_\_\_\_\_\_
+\item Wetlands: Reeds and \_\_\_\_\_\_\_\_\_\_
+\item Grasslands and mountains: Goat and \_\_\_\_\_\_\_\_\_\_
+\item Desert: Camel and \_\_\_\_\_\_\_\_\_\_
 \end{enumerate}
 
 
@@ -58837,7 +58847,7 @@ What is steam?
 
 (Science) (Short Answer) D 5 (Exercise on evaporation and condensation)
 
-Write four examples of where you have seen steam.  
+Write four examples of where you have seen steam.
 
 
 (Science) (Question) D 5 (Exercise on evaporation and condensation)
@@ -58941,7 +58951,7 @@ What happens to the Sun at night?
 
 (Science) (Partner Discussion) D 4 (Exercise on solids and liquids)
 
-Discuss with your partner examples of solids and liquids you have seen today.  
+Discuss with your partner examples of solids and liquids you have seen today.
 
 
 (Science) (Questions) D 4 (Exercise on gas, With Illustration)
@@ -59209,7 +59219,7 @@ Explain how plants and animals keep cool in very hot countries.
 
 (Science) (Short Answer) D 2 (Exercise on plants and animals)
 
-Name three different environments that you can find in hot, dry countries.  
+Name three different environments that you can find in hot, dry countries.
 
 
 (Science) (Short Answer) D 2 (Exercise on plants and animals)
@@ -59219,7 +59229,7 @@ Name two animals that live in the desert.
 
 (Science) (Question) D 2 (Exercise on plants and animals)
 
-In a growing country, what is the biggest threat to the environment?  
+In a growing country, what is the biggest threat to the environment?
 
 
 (Science) (True-False Exercise) D 2 (Exercise on plants and animals, With Answer)
@@ -59244,7 +59254,7 @@ We need to care for our environment. True / False
 
 (Science) (Question) D 2 (Exercise on plants and animals)
 
-How often does the weather change in hot, dry countries?  
+How often does the weather change in hot, dry countries?
 
 
 (Science) (Short Answer) D 2 (Exercise on plants and animals)
@@ -59283,7 +59293,7 @@ How do we get day and night?
 
 Complete the sentences.
 
-The Earth __________ so one part is facing the __________. The part is in __________. The other side of the Earth is away from the Sun. This part is in __________.
+The Earth \_\_\_\_\_\_\_\_\_\_ so one part is facing the \_\_\_\_\_\_\_\_\_\_. The part is in \_\_\_\_\_\_\_\_\_\_. The other side of the Earth is away from the Sun. This part is in \_\_\_\_\_\_\_\_\_\_.
 
 
 (Science) (Question) D 2 (Exercise on Earth science)
@@ -59316,7 +59326,6 @@ Explain how you can separate sand from salt.
 What equipment will you use to separate salt from a solution?
 
 [STRDGM] The image shows various pieces of laboratory equipment used for separating mixtures, including a sieve, beaker, funnel, filter paper, and a magnet. Each piece is labeled with a letter corresponding to the questions. [STPDGM]
-
 
 
 (Mathematics) (Drawing Shapes) D 1 M
