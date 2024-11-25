@@ -324,11 +324,11 @@ def batch(content: str, name: str, current_tokens: int, current_batch: list, bat
     })  
 
     # Get the encoding for the model
-    encoding = tiktoken.get_encoding("cl100k_base")
+    encoding = tiktoken.encoding_for_model(task['body']['model'])
     # Encode the text to get the tokens
-    task_tokens = len(encoding.encode(prompt)) + (len(encoding.encode(content)) if is_text else 0)
+    task_tokens = len(encoding.encode(prompt)) + (len(encoding.encode(content)) if is_text else 0) + task['body']['max_tokens']
     # Check if the current batch is full
-    if current_tokens + task_tokens > 70000:
+    if current_tokens + task_tokens >= 80000:
         # If it is full, add the current batch to the list of batches
         batches.append(deepcopy(current_batch))
         current_batch.clear()
