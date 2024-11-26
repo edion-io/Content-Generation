@@ -11,7 +11,7 @@ from utils import SUBJECTS
 # Parameters
 # -------------------------
 # Specify the folder/file containing any relevant files
-PATH = 'questions.txt'
+PATH = 'german.txt'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the batch folder
