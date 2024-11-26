@@ -42639,8 +42639,8 @@ Use the perfect tense to complete the sentences. Use “Haber” + the verb in t
 
 
 (Spanish) (Writing Exercise) D G (Exercise on writing news, With Answer)
-Write the news corresponding to the given headlines. Use the following verbs: “escaparse, acabar, ganar, morir, subir”.  
-Example:  
+Write the news corresponding to the given headlines. Use the following verbs: “escaparse, acabar, ganar, morir, subir”.\\  
+Example:  \\
 - Sube la gasolina: Ha subido la gasolina. (Gas is up.)  
 
 \begin{enumerate}
@@ -42786,7 +42786,7 @@ Reorder these words to create phrases using the verb “Haber” with its correc
 
 
 (Spanish) (Grammar Exercise) D G (Exercise on phrase construction, With Answer)
-Form phrases uniting elements from the column and joining them with porque.
+Form phrases uniting elements from the column and joining them with porque.\\
 Example: No he podido llamar porque he perdido mi teléfono.
 
 \begin{enumerate}
@@ -42875,7 +42875,7 @@ Translate the following sentences from Spanish to English.
 
 
 (Spanish) (Grammar Exercise, Fill in the Blank) D G (With Answer, Exercise on possessive pronouns)
-Complete the sentences as in the example: mías, nuestros, suyas, tuyo, suyo.  
+Complete the sentences as in the example: mías, nuestros, suyas, tuyo, suyo. \\ 
 Example: ¿De quién es este libro? Es mío.  
 \begin{enumerate}
     \item ¿De quién son estas llaves? Son \_\_\_\_\_. (Whose keys are these? They are mine.)
