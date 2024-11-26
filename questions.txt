@@ -43144,7 +43144,7 @@ Example: ¿De quién es \_\_\_ libro?: – ¿De quién es este libro? (Whose boo
 
 
 (Spanish) (Grammar Exercise, Fill in the Blank) D G (With Answer, Exercise on demonstratives)
-Exercise 5: Complete sentences as in the example. Use the following demonstratives: este, estos, eso, esos, aquellos.  
+Complete sentences as in the example. Use the following demonstratives: este, estos, eso, esos, aquellos.  
 \begin{enumerate}
     \item Mi amigo Juan dice que \_\_\_\_\_ bar es el mejor de la ciudad. (My friend Juan says this bar is the best in the city.)
     \item ¿Ustedes conocen a \_\_\_\_\_ chicas? Son hermosas. (You know those girls? They are beautiful.)
