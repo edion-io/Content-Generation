@@ -368,9 +368,9 @@ def batch(content: str, name: str, current_tokens: int, current_batch: list, bat
     })  
 
     # Encode the text to get the tokens
-    task_tokens = num_tokens_from_messages(messages, task['body']['model']) + task['body']['max_tokens']
+    task_tokens = num_tokens_from_messages(messages, task['body']['model'])
     # Check if the current batch is full
-    if current_tokens + task_tokens >= 400000:
+    if current_tokens + task_tokens >= 420000:
         # If it is full, add the current batch to the list of batches
         batches.append(deepcopy(current_batch))
         current_batch.clear()
@@ -509,3 +509,107 @@ def get_images(file: str, pages: list, offset: int, spec: str) -> list:
         else:
             continue
     return images
+
+def with_illustration_and_with_answer(file: str, save_path: str) -> None:
+    """ Annotate questions with 'With Illustration' and 'With Answer' tags.
+
+    Args:
+        file (str): The path to the file containing the questions.
+        save_path (str): The path to save the annotated questions.
+    """
+    # Extract all the questions from the file
+    with open(file, "r") as f:
+        content = f.read()
+
+    # Split the questions by header
+    questions = re.split(r'\n(?=\(.*?\) \(.*?\))', content)
+
+    indexes = []
+
+    for i, q in enumerate(questions):
+        added = False
+        if "With Answer" in q or "\\subsection{Answers}" in q:
+            # Separate the header and the question
+            sep = q.split("\n", 1)
+            header = sep[0]
+            question = sep[1].strip()
+            h_bool = "With Answer" in header
+            q_bool = "\\subsection{Answers}" in question
+
+            if h_bool and not q_bool:
+                header_e = re.split(r'\s+(?=(?:[^()]*\([^()]*\))*[^()]*$)', header)
+                mod = header_e.pop()
+                if mod == "(With Answer)":
+                    mod = "M"
+                else:
+                    last_e = mod[1:-1]
+                    last_e = [s.strip() for s in last_e.split(",")]
+                    idx = last_e.index("With Answer")
+                    last_e.pop(idx)
+                    if len(last_e) == 1:
+                        mod = f"({last_e[0]})"
+                    else:
+                        mod = "(" + ", ".join(last_e) + ")"
+                header_e.append(mod)
+                added = True
+            elif q_bool and not h_bool:
+                header_e = re.split(r'\s+(?=(?:[^()]*\([^()]*\))*[^()]*$)', header)
+                mod = header_e.pop()
+                if mod == "M":
+                    mod = "(With Answer)"
+                else:
+                    mod = "(" + mod[:-1] + ", With Answer)"
+                header_e.append(mod)
+                added = True
+
+        if "With Illustration" in q or "[STRDGM]" in q:
+            # Separate the header and the question
+            edge = False
+            sep = q.split("\n", 1)
+            header = sep[0]
+            question = sep[1].strip()
+            h_bool = "With Illustration" in header
+            q_bool = "[STRDGM]" in question
+            if h_bool and not q_bool:
+                if not added:
+                    header_e = re.split(r'\s+(?=(?:[^()]*\([^()]*\))*[^()]*$)', header)
+                mod = header_e.pop()
+                if "With Illustration" not in mod:
+                    header_e.append(mod)
+                    mod = header_e.pop(1)
+                    edge = True
+                if mod == "(With Illustration)":
+                    mod = "M" if not edge else "E"
+                else:
+                    last_e = mod[1:-1]
+                    last_e = [s.strip() for s in last_e.split(",")]
+                    idx = last_e.index("With Illustration")
+                    last_e.pop(idx)
+                    if len(last_e) == 1:
+                        mod = f"({last_e[0]})"
+                    else:
+                        mod = "(" + ", ".join(last_e) + ")"
+                if edge:
+                    header_e.insert(1, mod) 
+                else:
+                    header_e.append(mod)
+                added = True
+            elif q_bool and not h_bool:
+                if not added:
+                    header_e = re.split(r'\s+(?=(?:[^()]*\([^()]*\))*[^()]*$)', header)
+                mod = header_e.pop()
+                if mod == "M":
+                    mod = "(With Illustration)"
+                else:
+                    mod = "(" + mod[:-1] + ", With Illustration)"
+                header_e.append(mod)
+                added = True
+        if added:
+            indexes.append((i, " ".join(header_e) + "\n" + question))
+      
+    for idx in indexes:
+        questions[idx[0]] = idx[1]
+    
+    # Write the modified questions to a file
+    with open(save_path, "w") as f:
+        f.write("\n\n\n".join(questions))
