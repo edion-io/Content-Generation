@@ -21216,7 +21216,7 @@ Identify ethical issues connected with being a consumer.
 Why do there need to be rules and regulations about transporting dangerous materials?
 
 
-(Social Studies) (Multiple Choice Exercise) D 4 (Exercise on civilisation, In British English)
+(Social Studies) (Multiple Choice Exercise) D 4 (Exercise on civilisation, Exercise in British English)
 
 When a culture develops areas such as science, art and maths it is known as:
 \begin{enumerate}[label=\alph*.]
@@ -21969,7 +21969,7 @@ Wealth, income and resources are not distributed evenly across the world. The re
 \end{enumerate}
 
 
-(Social Studies) (Question Exercise) D 6 (Exercise on immunisation programmes, In British English)
+(Social Studies) (Question Exercise) D 6 (Exercise on immunisation programmes, Exercise in British English)
 
 What has been the overall effect of the polio immunisation programme in India?
 
@@ -22134,7 +22134,7 @@ In what ways does the past affect the present?
 Draw portraits of Osman I, Mehmed II and Suleiman the Magnificent, then write a brief description of what each of these men achieved.
 
 
-(Social Studies) (Creative Task, Mapping Exercise) D 5 (Exercise on the Ottoman Empire, In British English)
+(Social Studies) (Creative Task, Mapping Exercise) D 5 (Exercise on the Ottoman Empire, Exercise in British English)
 
 Colour a copy of the map showing lands around the Mediterranean Sea to show the areas controlled by the Ottoman Empire at its greatest extent.
 
@@ -22866,7 +22866,7 @@ Write about two ways in which people can help to create a happy and peaceful soc
 Describe two ways in which people can make the best use of resources in school.
 
 
-(Social Studies) (Short Answer Exercise) D 3 (Exercise on friendship, In British English)
+(Social Studies) (Short Answer Exercise) D 3 (Exercise on friendship, Exercise in British English)
 
 Describe the behaviour you would expect people in a friendship group to show towards one another.
 
@@ -27753,17 +27753,17 @@ Write down the past tense (ovt) of these ten verbs (Tip: Look up the verbs you d
 Past tense (ovt) of the following verbs: koken – kookte; wonen – woonde; fietsen – fietste; rollen – rolde; draaien – draaide; fotograferen – fotografeerde; graaien – graaide; lachen – lachte; sjouwen – sjouwde
 
 
-(Dutch) (Writing Exercise) D G (Exercise on using past participles with auxiliary verbs, With Answer, Tone is entertaining)
+(Dutch) (Writing Exercise) D G (Exercise on using past participles with auxiliary verbs, With Answer, Exercise with an entertaining tone)
 
 Write down ten Dutch sentences in which you use the past participle, with the auxiliary verb “hebben.” Then write five sentences using the past participle with the auxiliary verb “zijn.” When you are done, give yourself a compliment for writing and knowing so much Dutch already! Try to talk as much as possible and don’t forget: Practice makes perfect!
 
 
-(Dutch) (Creative Writing Exercise) D G (With Answer, Tone is entertaining, Exercise on conversations involving food items)
+(Dutch) (Creative Writing Exercise) D G (With Answer, Exercise with an entertaining tone, Exercise on conversations involving food items)
 
 Try to come up with ten small conversations in Dutch involving bread, meat, vegetables, and fruits. Ask for the items, the price, and order a certain amount. Write them down and repeat them out loud several times, to get used to these everyday things. You will need them daily. So, start chewing on them…
 
 
-(Dutch) (Writing Exercise) D G (Exercise on forming questions and answers, With Example, Tone is entertaining)
+(Dutch) (Writing Exercise) D G (Exercise on forming questions and answers, With Example, Exercise with an entertaining tone)
 
 Ask several questions using the interrogative pronouns hoe (how), wie (who), wat (what), waar (where), wanneer (when). And while you are at it, how about forming an answer to them as well? Example: (1) "Hoe werkt dit keukenapparaat? Dat kun je beter aan mijn vader vragen." (2) "Hoe laat vertrekt de trein naar Amsterdam? De volgende trein vertrekt om kwart over vier." Write down ten of these sets and call yourself an advanced speaker of Dutch!
 
@@ -47084,7 +47084,7 @@ How do you say the following in German?
 \end{enumerate}
 
 
-(German) (Writing Exercise, Translation Exercise) D G (With Answer, Exercise on translation, Theme is shopping)
+(German) (Writing Exercise, Translation Exercise) D G (With Answer, Exercise on translation, Exercise about shopping)
 
 How do you say the following in German?
 \begin{enumerate}
@@ -47135,7 +47135,7 @@ How do you say the following in German?
 \end{enumerate}
 
 
-(German) (Writing Exercise) D G (With Answer, Theme is Doctor, Exercise on translating phrases)
+(German) (Writing Exercise) D G (With Answer, Exercise about doctors, Exercise on translating phrases)
 
 How do you say the following in German?
 \begin{enumerate}
@@ -48648,7 +48648,7 @@ Choose the correct preposition for each space below.
 [STRDGM] The image shows various materials being mixed with water, including sugar, salt, and jelly cubes, demonstrating which dissolve and which do not. There are also containers with clear water and the materials being added to them. [STPDGM]
 
 
-(Science) (Activity, Group Discussion Exercise) D 2 (Exercise on spinning Earth, Exercise on Earth's illumination)
+(Science) (Activity, Group Discussion Exercise) D 2 (Exercise on Earth spinning, Exercise on Earth's illumination)
 
 Discuss with your group why the Earth is half-lit and half-dark in many pictures. Share your group's ideas with the class.
 
@@ -48898,7 +48898,7 @@ Copy these sentences. Use these words to fill in the gaps: food, ears, speak, te
 Do you know a song that can help us remember the names of our body parts?
 
 
-(Science) (Activity, Investigation, Experiment) D 5 (With Materials, Exercise on melting point of ice)
+(Science) (Activity, Investigation, Experiment) D 5 (With Materials, Exercise on the melting point of ice)
 
 \begin{enumerate}
   \item Measure the temperature of the ice cube with the thermometer before you start warming it. Record your reading.
@@ -49167,7 +49167,7 @@ Identify and describe the seven life processes of living things.
 \end{itemize}
 
 
-(Science) (Activity, Comparison Exercise) D 3 (With Illustration, Exercise on movement of living and non-living things)
+(Science) (Activity, Comparison Exercise) D 3 (With Illustration, Exercise on the movement of living and non-living things)
 
 Compare the movement of living things with that of non-living things, using examples such as plants and machines.
 
@@ -49189,7 +49189,7 @@ Explain the importance of respiration and nutrition for living organisms.
 Illustrate the differences between living and non-living things in terms of their life processes.
 
 
-(Science) (Activity, Research Exercise, Group Task) D 5 (Exercise on exercise and its advantages, Exercise involving a table, Activity on advantages and disadvantages of exercising)
+(Science) (Activity, Research Exercise, Group Task) D 5 (Exercise on exercising and its advantages, Exercise involving a table, Activity on advantages and disadvantages of exercising)
 
 \begin{enumerate}
 \item Collect as many sources of information about exercise as people who are athletes and sports players as you can.
@@ -49339,7 +49339,7 @@ Discuss how the circulatory system interacts with other body systems (lungs, kid
 \end{itemize}
 
 
-(Science) (Group Activity, Investigation Exercise) D 3 (Exercise on push and pull force, Activity with force measurement)
+(Science) (Group Activity, Investigation Exercise) D 3 (Exercise on push and pull forces, Activity with force measurement)
 
 \begin{enumerate}
   \item Collect some objects that your group wants to use for measuring force.
@@ -49391,7 +49391,7 @@ Explain why metals are used as conductors in electrical items.
 Describe the properties of copper and aluminium that make them good conductors.
 
 
-(Science) (Activity, Discussion Exercise, Long Answer Exercise) D 6 (Exercise on tungsten, Exercise on its use in lamps, Exercise on high-temperature suitability)
+(Science) (Activity, Discussion Exercise, Long Answer Exercise) D 6 (Exercise on tungsten, Exercise on the use of tungsten in lamps, Exercise on high-temperature suitability)
 
 Discuss the use of tungsten in lamps and why it is suitable for high temperatures.
 
@@ -50266,7 +50266,7 @@ Describe the role of sensors in the sense organs.
 Discuss the difference between voluntary and involuntary actions.
 
 
-(Science) (Activity) D 5 (Exercise on sense organs, Exercise on brain processing information)
+(Science) (Activity) D 5 (Exercise on sense organs, Exercise on the brain processing information)
 
 Illustrate how the brain processes information from the sense organs.
 
@@ -50437,7 +50437,7 @@ Now try to explain the clouds in picture (c). Tell the class what you think.
 Explain the process of gaseous exchange in the lungs.
 
 
-(Science) (Activity, Short Answer Exercise) D 6 (Exercise on the respiratory system, Exercise on roles of oxygen and carbon dioxide)
+(Science) (Activity, Short Answer Exercise) D 6 (Exercise on the respiratory system, Exercise on the roles of oxygen and carbon dioxide)
 
 Describe the roles of oxygen and carbon dioxide in respiration.
 
@@ -50462,12 +50462,12 @@ Illustrate the pathway of air through the respiratory system, including the exch
 [STRDGM] An illustration showing the human respiratory system, highlighting the lungs, heart, veins, and arteries. Arrows indicate the flow of air with oxygen entering the lungs and carbon dioxide exiting, along with labels for each part. [STPDGM]
 
 
-(Science) (Activity, Discussion Exercise) D 6 (Exercise on the reproductive system, Exercise on differences between male and female reproductive organs)
+(Science) (Activity, Discussion Exercise) D 6 (Exercise on the reproductive system, Exercise on the differences between male and female reproductive organs)
 
 Discuss the differences between male and female reproductive organs.
 
 
-(Science) (Activity, Short Answer Exercise) D 6 (Exercise on the reproductive system, Exercise on roles of eggs and sperm)
+(Science) (Activity, Short Answer Exercise) D 6 (Exercise on the reproductive system, Exercise on the roles of eggs and sperm)
 
 Identify the roles of eggs and sperm in reproduction.
 
@@ -50494,7 +50494,7 @@ Illustrate the human reproductive system, labeling key parts such as the uterus,
 Explain the role of kidneys and what happens when they fail.
 
 
-(Science) (Activity, Short Answer Exercise) D 6 (Exercise on lungs, Exercise on consequences of lung failure)
+(Science) (Activity, Short Answer Exercise) D 6 (Exercise on lungs, Exercise on the consequences of lung failure)
 
 Describe the importance of lungs and the consequences of lung failure.
 
@@ -50583,7 +50583,7 @@ Explain the significance of the liver and the consequences of liver failure.
 Identify the male and female sex cells in plants.
 
 
-(Science) (Activity, Long Answer Exercise) D 5 (With Illustration, Exercise on plant reproduction, Exercise on fertilisation process)
+(Science) (Activity, Long Answer Exercise) D 5 (With Illustration, Exercise on plant reproduction, Exercise on the fertilisation process)
 
 Explain the process of fertilisation in plants.
 
@@ -50631,7 +50631,7 @@ Illustrate the process of pollen traveling from the anthers to the stigma.
 \end{itemize}
 
 
-(Science) (Activity, Research Exercise) D 4 (Exercise on astronomy, With Exploration)
+(Science) (Activity, Research Exercise) D 4 (Exercise on astronomy, Exercise involving exploration)
 
 \begin{enumerate}
 \item Find out more about astronomy.
@@ -50797,7 +50797,7 @@ You will need: a balloon, a ticking watch, and a timer, paper (or Workbooks) and
 \end{enumerate}
 
 
-(Science) (Activity, Short Answer Exercise) D 4 (Exercise on the human skeleton, Exercise on functions of the skeleton)
+(Science) (Activity, Short Answer Exercise) D 4 (Exercise on the human skeleton, Exercise on the functions of the skeleton)
 
 Describe the functions of the skeleton in supporting the body.
 
@@ -51796,7 +51796,7 @@ Insects carry pollen from one plant to another. Why do they do this?
 Why does nectar attract pollinators?
 
 
-(Science) (Question Exercise) D 5 (Exercise on the life cycle of a flowering plant, Exercise on plant reproductive parts)
+(Science) (Question Exercise) D 5 (Exercise on the life cycle of a flowering plant, Exercise on plants' reproductive parts)
 
 The flower contains the male and female parts of the plant. What is the scientific name for the male part? What is the scientific name for the female part?
 
@@ -51853,7 +51853,7 @@ The life of a flowering plant begins with \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 What do you think muscles do?
 
 
-(Science) (Question Exercise) D 4 (Exercise on muscles and skeletons, Exercise on cheetah's leg muscles)
+(Science) (Question Exercise) D 4 (Exercise on muscles and skeletons, Exercise on a cheetah's leg muscles)
 
 Why do you think the cheetah needs strong muscles in its legs?
 
@@ -52234,12 +52234,12 @@ What can you do to ensure that your plants receive enough sunlight?
 List two different ways in which pollen can move from one plant to another plant of the same kind.
 
 
-(Science) (Question, Short Answer Exercise) D 5 (Exercise on pollinating flowers, In British English)
+(Science) (Question, Short Answer Exercise) D 5 (Exercise on pollinating flowers, Exercise in British English)
 
 Which colour do the bees like the most?
 
 
-(Science) (Question, Short Answer Exercise) D 5 (Exercise on pollinating flowers, In British English, Exercise on bee preferences)
+(Science) (Question, Short Answer Exercise) D 5 (Exercise on pollinating flowers, Exercise in British English, Exercise on bee preferences)
 
 Which colour do the bees like the least?
 
@@ -52261,7 +52261,7 @@ Decide whether the following statements are true or false:
 \end{itemize}
 
 
-(Science) (Investigation, Activity) D 2 (Exercise on changing the shapes of materials, With Materials, In British English)
+(Science) (Investigation, Activity) D 2 (Exercise on changing the shapes of materials, With Materials, Exercise in British English)
 
 \paragraph{Investigation} Making a paper picture
 \begin{itemize}
@@ -52765,7 +52765,7 @@ Look at the picture.
 [STRDGM] The image shows a group of children outdoors, smiling and holding colorful kites. There are four children: two boys and two girls, each wearing brightly colored t-shirts with different symbols. In another part of the image, there are four illustrated characters of different ages and genders, standing side by side, with varying clothing styles. [STPDGM]
 
 
-(Science) (Creative Activity, Fill-in-the-Blanks Exercise) D 1 (Exercise on parts of plants, In British English, With Illustration)
+(Science) (Creative Activity, Fill-in-the-Blanks Exercise) D 1 (Exercise on parts of plants, Exercise in British English, With Illustration)
 
 \begin{enumerate}
   \item Colour in the plant.
@@ -53458,12 +53458,12 @@ Which material is the most waterproof?
 Do all your friends like the same things?
 
 
-(Science) (Question Exercise) D 1 (In British English, Exercise on colour)
+(Science) (Question Exercise) D 1 (Exercise in British English, Exercise on colour)
 
 What is your favourite colour?
 
 
-(Science) (Question Exercise) D 1 (In British English, Exercise on animals)
+(Science) (Question Exercise) D 1 (Exercise in British English, Exercise on animals)
 
 What is your favourite animal?
 
@@ -53563,7 +53563,7 @@ List two everyday uses of dissolving.
 How can you make a solid dissolve faster?
 
 
-(Science) (Question Exercise) D 3 (Exercise on plants, Exercise on effects of no water on plants)
+(Science) (Question Exercise) D 3 (Exercise on plants, Exercise on the effects of no water on plants)
 
 What will happen if we do not give water to plants?
 
@@ -53573,7 +53573,7 @@ What will happen if we do not give water to plants?
 How can we prove that plants need water to grow?
 
 
-(Science) (Activity, Question Exercise, Creative Activity) D 5 (Exercise on colour, In British English, With Materials, With Illustration)
+(Science) (Activity, Question Exercise, Creative Activity) D 5 (Exercise on colour, Exercise in British English, With Materials, With Illustration)
 
 \begin{enumerate}
 \item Take a circular piece of card and divide it into eight sections. Colour each section a different colour.
@@ -53935,7 +53935,7 @@ Draw a ray diagram.
 What is the name for the angle of the light as it reaches the mirror?
 
 
-(Science) (Question Exercise) D 5 (Exercise on light, In British English)
+(Science) (Question Exercise) D 5 (Exercise on light, Exercise in British English)
 
 When you see a red car, what has happened to all the other colours of the rainbow (in the context of white light)?
 
@@ -53950,12 +53950,12 @@ What is white light made up of?
 \end{itemize}
 
 
-(Science) (Long Answer Exercise) D 5 (Exercise on light, In British English, Exercise on colors)
+(Science) (Long Answer Exercise) D 5 (Exercise on light, Exercise in British English, Exercise on colors)
 
 Explain why we see certain colours.
 
 
-(Science) (Fill-in-the-Blank Exercise) D 5 (Exercise on light, In British English, With Answer, Exercise on changing light color)
+(Science) (Fill-in-the-Blank Exercise) D 5 (Exercise on light, Exercise in British English, With Answer, Exercise on changing light color)
 
 I can use different \_\_\_\_\_\_\_\_\_\_ to change the colour of light.
 
@@ -54015,7 +54015,7 @@ What do we call a solid that dissolves in water?
 Can you think of a way to make a solute dissolve more quickly in a solution?
 
 
-(Science) (Question, Short Answer Exercise) D 6 (Exercise on reversible and irreversible reactions, Exercise on reactions that give out heat)
+(Science) (Question, Short Answer Exercise) D 6 (Exercise on reversible and irreversible reactions, Exercise on reactions that give out heat, Exercise on exothermic reactions)
 
 What is the name of the reaction that gives out heat?
 
@@ -54371,7 +54371,7 @@ Your teacher will demonstrate how to measure the temperature of steam. Your teac
 \end{enumerate}
 
 
-(Science) (Question, Short Answer Exercise) D 4 (Exercise on steam, Exercise on change of state)
+(Science) (Question, Short Answer Exercise) D 4 (Exercise on steam, Exercise on the state changes)
 
 What is the change of state from liquid to a gas called?
 
@@ -55038,7 +55038,7 @@ Melting of a solid.
 What is this process called?
 
 
-(Science) (Short Answer Exercise) D 4 (Exercise on melting and freezing, Exercise on states of water)
+(Science) (Short Answer Exercise) D 4 (Exercise on melting and freezing, Exercise on the states of water)
 
 Write two examples of where you can find water in each of its states.
 
@@ -55451,7 +55451,7 @@ Describe the journey that water takes after it has entered the roots.
 [STRDGM] The image shows a flowering plant with a visible root system, including roots extending into the soil. There is also a thermometer indicating temperature ranges. [STPDGM]
 
 
-(Science) (Question, Activity) D 3 (Exercise on flowering plants, With Illustration, Exercise on effects of temperature)
+(Science) (Question, Activity) D 3 (Exercise on flowering plants, With Illustration, Exercise on the effects of temperature)
 
 What happens to a plant if the weather is too hot for it?
 
@@ -55572,7 +55572,7 @@ Explain how raindrops can split light to create a rainbow.
 What can we do to protect the environment?
 
 
-(Science) (Long Answer Exercise) D 6 (Exercise on environmental awareness, Exercise on importance of environmental protection)
+(Science) (Long Answer Exercise) D 6 (Exercise on environmental awareness, Exercise on the importance of environmental protection)
 
 Explain why it is important to protect the environment.
 
@@ -55582,7 +55582,7 @@ Explain why it is important to protect the environment.
 What do you think you can do to help the environment?
 
 
-(Science) (Question) D 6 (Exercise on environmental awareness, Exercise on human impact on the environment)
+(Science) (Question) D 6 (Exercise on environmental awareness, Exercise on humans' impact on the environment)
 
 What are some ways that humans can harm the environment?
 
@@ -55909,7 +55909,7 @@ Propose solutions to reduce pollution from vehicles.
 \end{itemize}
 
 
-(Science) (Investigation, Group Activity, Drawing Exercise) D 3 (Exercise on the tongue, In British English, Exercise involving drawing, With Materials, With Illustration)
+(Science) (Investigation, Group Activity, Drawing Exercise) D 3 (Exercise on the tongue, Exercise in British English, Exercise involving drawing, With Materials, With Illustration)
 
 \paragraph{Investigation} Which parts of the tongue have the most taste buds?
 \begin{enumerate}
@@ -56376,7 +56376,7 @@ Look for metal objects. Record the objects you find. Use your Investigation Note
 [STRDGM] The image displays metal objects, including a bowl and a pan, with a hand interacting with them. [STPDGM]
 
 
-(Science) (Question, Activity) D 1 (Exercise on properties of materials, Exercise on materials)
+(Science) (Question, Activity) D 1 (Exercise on the properties of materials, Exercise on materials)
 
 \begin{enumerate}[label=\alph*]
     \item What is a property? 
@@ -56712,7 +56712,7 @@ Look closely at the picture of a sunflower.
 [STRDGM] The image shows a bright sunflower with large yellow petals and a dark center, surrounded by other sunflowers under a clear blue sky. The sun is shining brightly in the background, casting light on the flowers. [STPDGM]
 
 
-(Science) (Question Exercise) D 6 (Exercise on balanced and unbalanced forces, Exercise on effects of forces)
+(Science) (Question Exercise) D 6 (Exercise on balanced and unbalanced forces, Exercise on the effects of forces)
 
 \begin{enumerate}[label=\alph*.]
 \item Can you remember how forces can change the shape of an object?
@@ -56935,12 +56935,12 @@ Which of these objects do you think are attracted to a magnet? Circle the correc
 Describe how plants take in water through their roots and how the water moves through the stem.
 
 
-(Science) (Partner Activity) D 4 (Exercise on electrical current)
+(Science) (Partner Activity) D 4 (Exercise on electrical currents)
 
 Explain to your partner what happens to the flow of electricity when it comes to a break in a circuit.
 
 
-(Science) (Activity) D 4 (Exercise on electrical current, With Illustration)
+(Science) (Activity) D 4 (Exercise on electrical currents, With Illustration)
 
 Pass balls around a circle to represent electrical current flowing around a circuit.
 
@@ -57328,7 +57328,7 @@ Which paper makes the best boat? You are going to test different papers. You wil
 [STRDGM] The image shows a person testing different types of paper boats in a water container, with various paper samples laid out for comparison. [STPDGM]
 
 
-(Science) (Short Answer Exercise) D 3 (Exercise on paper, Exercise on properties of materials)
+(Science) (Short Answer Exercise) D 3 (Exercise on paper, Exercise on the properties of materials)
 
 Write two properties of paper that make it bad for making boats.
 
@@ -57784,7 +57784,7 @@ Why do we sometimes need to stop electricity?
 What happens to a circuit if there is a gap in it?
 
 
-(Science) (Question Exercise) D 2 (Exercise on electricity and circuits, Exercise on meaning of circuit)
+(Science) (Question Exercise) D 2 (Exercise on electricity and circuits, Exercise on the meaning of circuit)
 
 What does the word 'circuit' mean?
 
@@ -58039,7 +58039,7 @@ Condensation is the reverse of evaporation. True / False
 \end{itemize}
 
 
-(Science) (Question, Short Answer Exercise) D 5 (Exercise on evaporation and condensation, Exercise on states of matter)
+(Science) (Question, Short Answer Exercise) D 5 (Exercise on evaporation and condensation, Exercise on the states of matter)
 
 What are the three states of matter?
 
@@ -58156,7 +58156,7 @@ What happens to the particles during a change of state?
 Can you name the particles that make up solids, liquids, and gases?
 
 
-(Science) (Exercise, Question) D 4 (Exercise on solids, liquids and gases, Exercise on states of matter)
+(Science) (Exercise, Question) D 4 (Exercise on solids, liquids and gases, Exercise on the states of matter)
 
 What is the shape of each state of matter?
 
@@ -58200,7 +58200,7 @@ What word do we use to describe substances that do not let light through? Give t
 How can you make a puppet shadow that is very dark?
 
 
-(Science) (Question Exercise) D 5 (Exercise on shadows, In British English)
+(Science) (Question Exercise) D 5 (Exercise on shadows, Exercise in British English)
 
 How can you make a coloured shadow?
 
@@ -58609,7 +58609,7 @@ Circle the correct answer.
 \end{enumerate}
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on weather and water in hot countries, With Materials, Exercise on cleaning groundwater)
+(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Materials, Exercise on cleaning groundwater)
 
 \paragraph{Investigation} Cleaning groundwater
 \begin{enumerate}
@@ -58627,7 +58627,7 @@ Circle the correct answer.
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on weather and water in hot countries, With Materials)
+(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Materials)
 
 \paragraph{Investigation} Cleaning sea water
 \begin{enumerate}
@@ -58643,7 +58643,7 @@ Circle the correct answer.
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on weather and water in hot countries, With Materials)
+(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Materials)
 
 \subsection{Investigation: Capturing drinking water from salt water}
 \begin{enumerate}
@@ -58660,17 +58660,17 @@ Circle the correct answer.
 \end{itemize}
 
 
-(Science) (Question, Short Answer Exercise) D 2 (Exercise on weather and water in hot countries, Exercise on seasons)
+(Science) (Question, Short Answer Exercise) D 2 (Exercise on the weather and water in hot countries, Exercise on seasons)
 
 In what season does it rain in hot, dry countries?
 
 
-(Science) (Short Answer Exercise) D 2 (Exercise on weather and water in hot countries, Exercise on sources of drinking water)
+(Science) (Short Answer Exercise) D 2 (Exercise on the weather and water in hot countries, Exercise on sources of drinking water)
 
 Name two sources of water we use for drinking.
 
 
-(Science) (Question Exercise) D 2 (Exercise on weather and water in hot countries)
+(Science) (Question Exercise) D 2 (Exercise on the weather and water in hot countries)
 
 Why can't we drink sea water straight from the sea?
 
@@ -58725,7 +58725,7 @@ What is the boiling point of water?
 Explain how you know the boiling point.
 
 
-(Science) (Exercise) D 5 (Exercise on boiling and melting, Exercise on importance of boiling and melting points)
+(Science) (Exercise) D 5 (Exercise on boiling and melting, Exercise on the importance of boiling and melting points)
 
 Describe a situation in which boiling and melting points are important.
 
@@ -59194,7 +59194,7 @@ Circle the numbers that are multiples of 7.
 \end{enumerate}
 
 
-(Mathematics) (Multiplication Exercise) D 4 (Exercise that uses images)
+(Mathematics) (Multiplication Exercise) D 4 (Exercise with multiplication triangles, Exercise that uses images)
 
 Complete these multiplication triangles.
 
