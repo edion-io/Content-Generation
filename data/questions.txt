@@ -1,4 +1,4 @@
-(Computer Science) (Practical Exercise) D 2 (Activity)
+(Computer Science) (Practical Exercise, Activity) D 2 M
 
 Create a document file called 'My hobby' to use as a poster and add an image to it.
 Change the size of the image in your poster.  
@@ -56,7 +56,7 @@ Add a sprite (for example, an apple) to your screen. Make a program to control t
 \end{itemize}
 
 
-(Computer Science) (Programming Exercise) D 5 (With Material, Bonus Activity)
+(Computer Science) (Programming Exercise, Activity) D 5 (With Material, Activity to be used as a bonus activity)
 
 Add a sprite (for example, a parrot) and use a block that makes this sprite try to reach other sprites. Add an extra sprite to your screen (for example, a strawberry). Use a block that makes a sprite jump to a random location to make the strawberry jump to a random place on the screen. This should make it much harder for any other sprite to reach the strawberry sprite.  
 
@@ -91,7 +91,7 @@ Find the manual settings menu on your camera or smartphone. Change the shutter s
 \end{itemize}
 
 
-(Computer Science) (Photography Exercise) D 5 (At Home Activity, With Material)
+(Computer Science) (Photography Exercise) D 5 (Activity to be completed at home, With Material)
 
 Think of a theme such as 'celebration' or 'happiness' or your favourite colour. Use your camera to take photos of subjects around your home. Try different compositions and lighting. Save your favourite photos.
 
@@ -153,7 +153,7 @@ Think about a topic you are interested in. Write down four or five key words tha
 List the types of computer you use at home or at school. Which type of computer do you prefer to use for your school work? Why?
 
 
-(Computer Science) (Discussion Exercise) D 4 (At Home Activity, Exercise on computers)
+(Computer Science) (Discussion Exercise) D 4 (Activity that must be completed at home, Exercise on computers)
 
 Talk to a family member who is in work. What do they use computers for at work? How do computers make it easier for them to do their job?
 
@@ -163,7 +163,7 @@ Talk to a family member who is in work. What do they use computers for at work? 
 List three ways that you use computers to help you do school work. For each one, say how you would complete the work without a computer. How does using a computer make it easier to do your school work?
 
 
-(Computer Science) (Creative Exercise, Short Answer) D 1 (Thought Exercise)
+(Computer Science) (Creative Exercise, Short Answer) D 1 (Exercise that encourages the student to think)
 
 Explore the Amazon rainforest using your imagination. Describe what you think a rainforest might feel like, including the sounds you might hear, the smells you might encounter, and the textures of the plants and animals. Now think about how you could use this information with a computer to create something meaningful. Write it down.
 
@@ -295,7 +295,7 @@ Make an information sheet to promote good practice about saving files. Use the b
 Work with a partner. How well does your partner use file names and folders? Suggest how your partner can make improvements to their file storage.
 
 
-(Computer Science) (Activity, Short Answer Exercise) D 4 (At Home)
+(Computer Science) (Activity, Short Answer Exercise) D 4 (Activity with an "at home" component)
 
 Spend time at home with a family member who has work stored on a computer or tablet. How do they organise their data files? Can you suggest ways to improve how they organise their files? Can you learn anything from the way they work?
 
@@ -373,7 +373,7 @@ Play the game several times. Keep a tally of how often the character reaches the
 \end{itemize}
 
 
-(Computer Science) (Practical Exercise) D 5 (With Materials, Exercise on creating a photo album)
+(Computer Science) (Practical Exercise) D 5 (With Material, Exercise on creating a photo album)
 
 Choose a recipe and make it or ask someone to make it for you. Take pictures throughout the process. Transfer your photos to your computer—use a USB cable or cloud storage. In the Photos application or the folder containing your photos, choose the photos you want for your recipe. Create an album for your recipe. Put all your chosen photos into your new album or folder.
 
@@ -394,7 +394,7 @@ Can you think of all the ways of sharing photos between devices? Write down your
 Why do you need to ask permission before you connect a device to a computer?
 
 
-(Computer Science) (Activity, Short Answer, Programming Exercise) D 2 (Exercise on algorithm writing, Challenge Question)
+(Computer Science) (Activity, Short Answer, Programming Exercise) D 2 (Exercise on algorithm writing, Exercise to use as a challenge question)
 
 A programmer wanted to make a program. The sprite is a penguin. Here is a list of things that the penguin will do.  
 \begin{itemize}
@@ -439,7 +439,7 @@ Use the skills you learned in class to:
 \end{itemize}
 
 
-(Computer Science) (Programming Exercise) D 2 (Bonus Question, With Material)
+(Computer Science) (Programming Exercise) D 2 (Exercise to use as a bonus question, With Material)
 
 Choose a program. Add a backdrop to your program.
 
@@ -553,7 +553,7 @@ Look at a web page about rainforest animals. Describe something you can see on t
 Choose a web page. Think of any words you can imagine would be on the web page. Describe what you think you might find on this web page.
 
 
-(Computer Science) (Writing Exercise) D 1 (Short Answer)
+(Computer Science) (Writing Exercise, Short Answer Exercise) D 1 M
 
 If you could create a web page on any topic, what would you choose? Describe or explain your idea.
 
@@ -705,7 +705,7 @@ Draw a picture of a computer. In your picture, show:
 \end{itemize}
 
 
-(Computer Science) (Activity) D 1 (At home exercise)
+(Computer Science) (Activity) D 1 (Exercise with a social component, Exercise that must be completed outside of school)
 
 Talk to someone at home about technologies they use. Draw pictures. Bring your pictures to school.
 
@@ -852,7 +852,7 @@ In your own words, explain what the 'join' operator does.
 \end{itemize}
 
 
-(Computer Science) (Programming Exercise) D 4 (Extra challenge, With Prerequisites)
+(Computer Science) (Programming Exercise) D 4 (Exercise to add as an extra challenge, With Prerequisites)
 
 The light blue 'Sensing' blocks include a block called 'answer'. This is a variable that stores the user's answer to the question. Add an extra block that says the user's answer.
 
@@ -877,7 +877,7 @@ Save your slide show.
 \end{enumerate}
 
 
-(Computer Science) (Creative Writing Exercise) D 3 (At Home Exercise)
+(Computer Science) (Creative Writing Exercise) D 3 (Exercise involving the student's household)
 
 Come up with a story. Tell an adult at home the story you have made up. If you wish, you can ask for ideas to change the story. If you agree with their ideas, note them down.
 
@@ -925,7 +925,7 @@ Create a simple set of instructions for Scratch to follow when you click. What w
 Describe your dream job when you grow up. How will you use a computer in your job?
 
 
-(Computer Science) (Survey Exercise) D 5 (At Home Exercise)
+(Computer Science) (Survey Exercise) D 5 (Exercise where the student must involve their household)
 
 Find out what the adults in your family and other grown-up friends think about teleworking. Ask these questions.  
 \begin{enumerate}
@@ -965,7 +965,7 @@ Make up a short play about how to talk kindly and politely to friends online.
 Sometimes you may spend too much time on the internet. Can you think of any ways you can help yourself remember to do other kinds of activities?
 
 
-(Computer Science) (Discussion Exercise) D 2 (At Home Exercise)
+(Computer Science) (Discussion Exercise) D 2 (Exercise that must be completed at home)
 
 Talk to an adult about how to keep safe and happy when using computers at home.
 
@@ -1050,7 +1050,7 @@ Give examples to the answers of the following questions:
 \end{enumerate}
 
 
-(Computer Science) (Research Exercise, Short Answer Exercise) D 5 (Must involve Tungurahua)
+(Computer Science) (Research Exercise, Short Answer Exercise) D 5 (Exercise about Tungurahua)
 
 \begin{enumerate}[label=\alph*.]
 \item Carry out a web search about Tungurahua. How many results does the search return? 
@@ -1060,7 +1060,7 @@ Give examples to the answers of the following questions:
 \end{enumerate}
 
 
-(Computer Science) (Short Answer Exercise, Research Exercise) D 5 (Must involve search engines and advertising, Activity on search engines and advertising)
+(Computer Science) (Short Answer Exercise, Research Exercise) D 5 (Exercise on search engines and advertising, Activity on search engines and advertising)
 
 \begin{enumerate}[label=\alph*.]
 \item Carry out a web search for more information about how search engines work.
@@ -1623,7 +1623,7 @@ Draw a picture to show the two types of output.
 Different types of computer have different inputs and outputs. Find out as many different kinds as you can and make a list.
 
 
-(Computer Science) (Creative Exercise, Writing Exercise) D 1 (Involves writing)
+(Computer Science) (Creative Exercise, Writing Exercise) D 1 M
 
 Some people have never used a computer. Think of a person like that. Write a letter to them. Tell them how you use a computer at school. Draw a picture to show them.
 
@@ -1767,12 +1767,12 @@ Imagine that your friend has received threatening text messages from an anonymou
 Create a poster with the title 'Good internet / Bad internet'. Use one half of the poster to promote the positive side of the internet. Use the other half to warn about the negative side of the internet.
 
 
-(Computer Science) (Research Exercise) D 5 (At Home Exercise)
+(Computer Science) (Research Exercise) D 5 (Exercise that involves an at-home component)
 
 Find out how old your parents or grandparents were when the web was invented. Do they remember the first time they used the web?
 
 
-(Computer Science) (Research Exercise, Writing Exercise) D 5 (Exercise on impacts of climate change, With Short Answer)
+(Computer Science) (Research Exercise, Writing Exercise) D 5 (Exercise on impacts of climate change)
 
 Search the web for information about the impacts of climate change. Find a page that you like. Is the page mainly facts or opinions? Give one example of each.
 
@@ -1921,7 +1921,7 @@ Try using the borders and fill color menus to make your spreadsheet more interes
 Look at the top of a spreadsheet screen and then at the top of a word processor screen. Which things are the same? Why are they the same? How does that help you use the software?
 
 
-(Computer Science) (Activity, Short Answer Exercise) D 1 (Outdoor exercise)
+(Computer Science) (Activity, Short Answer Exercise) D 1 (Exercise that involves some degree of outdoor activity)
 
 Talk to people about computer games. Do they like to play computer games? Find out why.
 
@@ -1943,7 +1943,7 @@ What is a sprite? Say in your own words.
 [STRDGM] The image shows a cartoon cat sprite on a colorful space backdrop, illustrating the concept of a sprite moving in a programming environment.] [STPDGM]
 
 
-(Computer Science) (Activity, Short Answer Exercise) D 1 (Multi-part) \
+(Computer Science) (Activity, Short Answer Exercise) D 1 (Multi-part)
 \begin{enumerate}
 \item Imagine you are creating a simple game using blocks. First, think about what happens when you want to start the game. What would you need to do to make it start? 
 \item Now, think about how you would explain to someone else how to start the game. What steps would you tell them to follow?
@@ -2033,7 +2033,7 @@ List different methods you can think of to initiate a game.
 Which jobs could a computer do? Which activities could a computer do? Write down your answers like this: A computer can work out how much to charge for food.
 
 
-(Computer Science) (Discussion Exercise) D 2 (At home exercise)
+(Computer Science) (Discussion Exercise) D 2 (Exercise that involves some degree of activity at home)
 
 Is using a computer always the best way to carry out a task? Talk with an adult about tasks that humans do better than computers.
 
@@ -2056,7 +2056,7 @@ Is using a computer always the best way to carry out a task? Talk with an adult 
 What do you need to think about when you put words and images together on a page? How do words and images work best together?
 
 
-(Computer Science) (Programming Exercise) D 2 (Exercise on creating a simple program, Short Answer)
+(Computer Science) (Programming Exercise, Short Answer Exercise) D 2 (Exercise on creating a simple program)
 
 Describe how you would create a simple program where a character (sprite) jumps to a random location, says "Hello!", and then moves towards a point you choose. Think about the steps you would take to make this happen without needing any specific tools.
 
@@ -2140,7 +2140,7 @@ Draw a computer. Show the wire that brings electricity to the computer. Draw a c
 What must you do to stay safe when you use electronic devices?
 
 
-(Computer Science) (Activity, Short Answer Exercise) D 4 (At home exercise, Multi-part, Exercise on microprocessors)
+(Computer Science) (Activity, Short Answer Exercise) D 4 (Exercise that must be completed at home, Multi-part, Exercise on microprocessors)
 
 \begin{enumerate}
 \item Explore your home and make a list of the items you can find that use microprocessor technology. If a device has a display, it probably has an embedded microprocessor.
@@ -2267,7 +2267,7 @@ While sharing is good, what are some general practices children can follow to en
 Describe something you have learned about robots, focusing on how they are used in everyday life or their potential future applications.
 
 
-(Computer Science) (Short Answer Exercise) D 6 (Exercise on robots, Relates to the world)
+(Computer Science) (Short Answer Exercise) D 6 (Exercise on robots, Exercise that relates to the world)
 
  Think about a task you do regularly. Describe how a robot could be designed to help with that task, considering its features and functions.
 
@@ -2287,7 +2287,7 @@ Describe something you have learned about robots, focusing on how they are used 
 Open a search engine. Enter the search string 'pizza recipe vegetarian' and look at the first page of results. Now enter 'pizza recipe vegetarian -margherita'. Are there any changes in the search results?
 
 
-(Computer Science) (Writing Exercise) D 4 (Creative Exercise, Exercise on searching the web)
+(Computer Science) (Writing Exercise, Creative Exercise) D 4 (Exercise on searching the web)
 
 Use your web search skills to create an advert for your favourite pizza. Write a short paragraph that tells people how good your pizza is!
 
@@ -2300,7 +2300,7 @@ Use your web search skills to create an advert for your favourite pizza. Write a
 \end{enumerate}
 
 
-(Computer Science) (Activity) D 4 (At Home Activity)
+(Computer Science) (Activity) D 4 (Activity that must be completed at home)
 
 Do other members of your family use the internet? Share some useful search skills with your family to help them when they use the internet. Report on their opinions on these skills. Do they help them?
 
@@ -2383,7 +2383,7 @@ Imagine you are a mountain explorer.
 Say one thing you can attach to an email as well as a picture.
 
 
-(Computer Science) (Short Answer Exercise) D 4 (Relates to the world, Multi-part)
+(Computer Science) (Short Answer Exercise) D 4 (Exercise that relates to the world, Multi-part)
 
 \begin{enumerate}[label=\alph*.]
 \item How do you organise your data files at home and at school? 
@@ -2406,7 +2406,7 @@ Draw a picture of one thing you can do with a computer outside school. For examp
 What could you do with a computer outside school?
 
 
-(Computer Science) (Writing Exercise) D 1 (Exercise on reflection, Short Answer)
+(Computer Science) (Writing Exercise, Short Answer Exercise) D 1 (Exercise on reflection)
 
 How will you use computers when you are grown up?
 
@@ -2422,7 +2422,7 @@ Complete each sentence with might or must.
 \end{enumerate}
 
 
-(English) (Fill in the Blank) D 5 (Exercise on using could, should, or would)
+(English) (Fill in the Blank) D 5 (Exercise on using could/should/would)
 
 Complete each sentence with could, should or would.
 \begin{enumerate}
@@ -2690,7 +2690,16 @@ Use these abstract nouns in sentences of your own:
 \end{enumerate}
 
 
-(English) (Punctuation Exercise) D 3 (With Illustration) Complete each sentence with a full stop, question mark, or exclamation mark. \begin{enumerate} \item Which book are you reading \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \item I am reading Kenyan Adventure \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \item That was the best book I've ever read \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \end{enumerate} [STRDGM] The image shows a book titled "Kenyan Adventure" with an illustration of a girl and a dog. [STPDGM]
+(English) (Punctuation Exercise) D 3 (With Illustration)
+
+Complete each sentence with a full stop, question mark, or exclamation mark. 
+
+\begin{enumerate} 
+\item Which book are you reading \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\item I am reading Kenyan Adventure \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\item That was the best book I've ever read \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+\end{enumerate} 
+[STRDGM] The image shows a book titled "Kenyan Adventure" with an illustration of a girl and a dog. [STPDGM]
 
 
 (English) (Classification Exercise) D 3 M
@@ -3416,7 +3425,7 @@ Add a word to the sentences in the word list. You don't have to use all the word
 \end{enumerate}
 
 
-(English) (Writing Exercise) D 2 (Exercise on possessive nouns, Rewriting exercise)
+(English) (Writing Exercise) D 2 (Exercise on possessive nouns)
 
 Write each of these in a shorter way using a possessive noun.
 \begin{enumerate}
@@ -3509,7 +3518,7 @@ Copy and join each pair of sentences with who, which or that.
 \end{enumerate}
 
 
-(English) (Writing Exercise) D 5 (Exercise on writing sentences using who, which or that)
+(English) (Writing Exercise) D 5 (Exercise on writing sentences using who/which/that)
 
 Write full sentences about these things using who, which or that.
 \begin{enumerate}
@@ -3530,7 +3539,7 @@ Write the sentences, adding the capital letters and full stops.
 \end{enumerate}
 
 
-(English) (Spelling Exercise) D 2 (Exercise on finishing words with or, ore, or aw)
+(English) (Spelling Exercise) D 2 (Exercise on finishing words with or/ore/aw)
 
 Finish the words using or, ore or aw.
 \begin{enumerate}
@@ -4044,7 +4053,7 @@ Write sentences to express your opinion about the time you go to bed on a school
 \end{enumerate}
 
 
-(English) (Grammar Exercise) D 6 (Exercise on conditional clauses, With Underline)
+(English) (Grammar Exercise) D 6 (Exercise on conditional clauses, Exercise involving underlining)
 
 Underline the conditional clause in each sentence
 \begin{enumerate}
@@ -4171,7 +4180,7 @@ Choose one of the following:
 Plan an explanation by adding notes and a diagram.
 
 
-(English) (Writing Exercise) D 5 (Exercise on playwriting, Creative Writing)
+(English) (Writing Exercise, Creative Exercise) D 5 (Exercise on playwriting)
 
 \begin{enumerate}[label=\alph*.]
 \item You are going to write the next scene of the play Centaurus 1. The play is set aboard a spaceship that is on its way to a distant planet. The crew now received a message from an unknown source. Write brief notes on what you think the message could be about.
@@ -4320,7 +4329,7 @@ Write two sentences of your own, each using a pair of the homophones.
 \end{enumerate}
 
 
-(English) (Punctuation Exercise) D 6 (Exercise on adding speech marks, capital letters, and other punctuation)
+(English) (Punctuation Exercise) D 6 (Exercise on adding speech marks/capital letters and other punctuation)
 
 Add any missing speech marks, capital letters and other punctuation to each sentence.
 \begin{enumerate}
@@ -4656,7 +4665,7 @@ Write each of these words correctly. They each have a missing silent letter.
 [STRDGM] Image of scissors and a whistle. [STPDGM]
 
 
-(English) (Writing Exercise) D 6 (Creative writing, Exercise with multiple sections)
+(English) (Writing Exercise, Creative exercise) D 6 (Exercise with multiple subsections)
 
 You will write an information brochure about a famous historic site.
 
@@ -5039,7 +5048,7 @@ Check the words you wrote in a dictionary. If you find a mistake, write the corr
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-(English) (Writing Exercise) D 3 (Creative writing)
+(English) (Writing Exercise, Creative Exercise) D 3 (Exercise involving story writing)
 
 \begin{enumerate}[label=\alph*.]
 \item One day, an old lady was sitting and thinking.\\
@@ -5425,7 +5434,7 @@ You are going to write a newspaper article on one of the following topics: Amy J
 Choose a topic for your dictionary page, select three words linked to that topic each starting with a different letter, write the words in alphabetical order, and add a picture and description for each word.
 
 
-(English) (Spelling Exercise) D 1 (Fill in the blanks)
+(English) (Spelling Exercise, Fill in the blanks) D 1 M
 
 \begin{enumerate}
 \item Add sh to the beginning or end of these words.
@@ -5632,7 +5641,9 @@ Use the words in brackets to complete each sentence using the correct -er or -es
 \end{enumerate}
 
 
-(English) (Table Completion Exercise, Grammar Exercise) D 3 (With Illustration, Exercise on adjectives) Complete this table.
+(English) (Table Completion Exercise, Grammar Exercise) D 3 (With Illustration, Exercise on adjectives)
+
+Complete this table.
 
 \begin{table}[]
 \begin{tabular}{l|l|l}
@@ -6478,7 +6489,7 @@ Underline the relative pronoun in each sentence
 \end{enumerate}
 
 
-(English) (Grammar Exercise) T D 5 (Exercise on joining sentences with relative pronouns)
+(English) (Grammar Exercise) D 5 (Exercise on joining sentences with relative pronouns)
 
 Copy and join each pair of sentences with who, which or that
 \begin{enumerate}
@@ -7025,7 +7036,7 @@ Write pairs of rhyming words: cave, shake, sail, day, say, save, snake, nail
 \end{enumerate}
 
 
-(English) (Spelling Exercise) D 1 (Exercise on underlining words with "ai", "ay" and "a-e" spelling patterns)
+(English) (Spelling Exercise) D 1 (Exercise on underlining words with "ai"/"ay"/"a-e" spelling patterns)
 
 In each sentence underline the words with "ai", "ay" and "a-e" spelling patterns.:
 \begin{enumerate}
@@ -7062,7 +7073,7 @@ Underline the present perfect tense verbs in sentences
 \end{enumerate}
 
 
-(English) (Grammar Exercise) D 4 (Exercise on present perfect, Table completion)
+(English) (Grammar Exercise) D 4 (Exercise on present perfect, Exercise involving table completion)
 
 Complete the table with present perfect tense forms
 
@@ -7499,7 +7510,7 @@ Write the plural noun for each word.
 \end{enumerate}
 
 
-(English) (Grammar Exercise) D 6 (Exercise on conjunctions, Completing Sentences, With Illustration)
+(English) (Grammar Exercise) D 6 (Exercise on conjunctions, Exercise on completing sentences, With Illustration)
 
 % Box with words
 \begin{tcolorbox}[colframe=black, colback=white, title=Conjunctions, width=\textwidth]
@@ -7539,7 +7550,7 @@ Trace and then copy the words four times each:
 \end{enumerate}
 
 
-(English) (Fill in the Blank) D 1 (Exercise on using do, to, so, no)
+(English) (Fill in the Blank) D 1 (Exercise on using do/to/so/no)
 
 Write do or to or so or no in each sentence.
 \begin{enumerate}
@@ -7892,7 +7903,7 @@ Underline the noun phrase in each sentence.
 \end{enumerate}
 
 
-(English) (Grammar Exercise) D 4 (Rewriting, Exercise with an example)
+(English) (Grammar Exercise) D 4 (Exercise on noun phrases and adjectives, Exercise with an example)
 
 Expand each noun phrase with an adjective. Write the noun phrase. \begin{enumerate}
 \item this tree + huge = this huge tree
@@ -8945,7 +8956,7 @@ Write the plural of these nouns. Put each plural noun into a sentence of your ow
 \end{enumerate}
 
 
-(English) (Grammar Exercise, Writing Exercise) T D 3 (Exercise on singular nouns, Exercise with sentence creation)
+(English) (Grammar Exercise, Writing Exercise) D 3 (Exercise on singular nouns, Exercise with sentence creation)
 
 Modify words Write the singular of these nouns. Put each singular noun into a sentence of your own. \begin{enumerate} \item ponies singular: \_\_\_\_\_\_\_\_\_\_ Sentence: \_\_\_\_\_\_\_\_\_\_ \item keys singular: \_\_\_\_\_\_\_\_\_\_ Sentence: \_\_\_\_\_\_\_\_\_\_ \item lorries singular: \_\_\_\_\_\_\_\_\_\_ Sentence: \_\_\_\_\_\_\_\_\_\_ \end{enumerate}
 
@@ -9188,9 +9199,10 @@ Join sentences with a conjunction of your choosing.
 \end{enumerate}
 
 
-(English) (Writing Exercise) D 5 (Rephrasing Exercise)
+(English) (Writing Exercise) D 5 (Exercise on rewriting and improving text)
 
 Copy and improve the following sentences, making them easier to read:
+
 I have to write an adventure story this weekend. I have been trying to think about what to write. I haven't come up with any ideas!
 
 
@@ -9783,7 +9795,7 @@ Use a word from the word box to complete each of these idioms.
 \end{enumerate}
 
 
-(English) (Grammar Exercise) D 5 (Exercise on identifying nouns, pronouns, and verbs)
+(English) (Grammar Exercise) D 5 (Exercise on identifying nouns/pronouns/verbs)
 
 Underline the noun or pronoun and the verb in each sentence. Write S for singular or P for plural.
 \begin{enumerate}
@@ -10312,7 +10324,7 @@ Work in a group.
 \end{enumerate}
 
 
-(Geography) (Map Exercise, Activity) D 5 (With Materials)
+(Geography) (Map Exercise, Activity) D 5 (With Material)
 
 Find Benidorm on a map or in an atlas. How far away is it from your home? In which direction does it lie from your home?  
 
@@ -10348,7 +10360,7 @@ Describe a holiday you have taken at the coast. What was the coast like? What wa
 Write four reasons why Singapore is in a good location for a port.
 
 
-(Geography) (Research Exercise, Mapping Exercise, Activity) D 5 (With Materials)
+(Geography) (Research Exercise, Mapping Exercise, Activity) D 5 (With Material)
 
 \begin{enumerate}
 \item Use travel guides, the Internet or an atlas to find as many ferry ports around the world as you can.
@@ -10374,7 +10386,7 @@ Write four reasons why Singapore is in a good location for a port.
 \end{enumerate}
 
 
-(Geography) (Descriptive Exercise) T D 1 (With Illustration, Exercise on identifying building materials)
+(Geography) (Descriptive Exercise) D 1 (With Illustration, Exercise on identifying building materials)
 
 This is a picture of a school. It is quite a new building. What is it made of? 
 
@@ -10438,7 +10450,7 @@ Work with a friend. Discuss how it might be possible to reduce the damage people
 Write a short story describing how a grain of sand washed up on a beach became part of a sand dune system that was eventually used as a golf course.
 
 
-(Geography) (Identification Exercise) T D 5 (With Illustration)
+(Geography) (Identification Exercise) D 5 (With Illustration)
 
 Find Singapore on the map.
 
@@ -10828,7 +10840,7 @@ Use building blocks or other modelling equipment to design and build a model dam
 Use an atlas or the Internet to find how many of the world's largest cities are on the coast.
 
 
-(Geography) (Research Exercise) D 5 (Exercise on large ports, industrial towns, villages, and holiday resorts on the coast)
+(Geography) (Research Exercise) D 5 (Exercise on large ports/industrial towns/villages/holiday resorts on the coast)
 
 Find out about large ports, industrial towns, villages, and holiday resorts on the coast.
 
@@ -11139,7 +11151,7 @@ Look at a map of your local area. Draw a map of the area where you live. Include
 Write a list of the kinds of things that might delay road traffic and railway trains. Which kind of traffic is most easily delayed?
 
 
-(Geography) (Discussion Exercise, Writing Exercise) D 3 (Exercise with pair activity, Short Answer)
+(Geography) (Discussion Exercise, Writing Exercise, Short Answer Exercise) D 3 (Exercise with a pair activity)
 
 Some people say that if we had bigger and better roads, then road traffic delays would not occur so often. Talk about this with a friend. Do you agree or disagree? Write down the arguments for and against bigger and better roads.
 
@@ -11409,7 +11421,7 @@ Find out about a change that is taking place in your area, such as the building 
 Collect pictures of your village, town or city. What are the oldest pictures you can find? How has your village, town or city changed? Can you find any early plans or maps? As a class, display your pictures, plans and maps.
 
 
-(Geography) (Short Answer Exercise, Drawing Exercise) D 3 (Exercise on planning a village, town or city)
+(Geography) (Short Answer Exercise, Drawing Exercise) D 3 (Exercise on planning a village/town/city)
 
 Imagine you have to plan a new village, town or city centre. What sort of buildings will it need? Draw a picture to show what your new village, town or city will look like.
 
@@ -11439,7 +11451,7 @@ Design a poster to help to raise money for a water project in a country where th
 Look at a water bill for your home. How is the amount you have to pay worked out? What kinds of things does the water company charge for?
 
 
-(Geography) (Data Collection Exercise, Activity) D 5 (Experiment)
+(Geography) (Data Collection Exercise, Activity) D 5 (Exercise involving an experiment)
 
 You can work out how much water a dripping tap wastes. Turn on the cold tap until it is just dripping. Put a bucket under the tap and measure how much water drips into the bucket in an hour. How much water would drip away in a day, a week and a year?
 
@@ -12134,7 +12146,7 @@ Write a list of all the different ways in which people travel from place to plac
 Most people in India use public transport, particularly in the towns and cities. How do most people in your country travel?
 
 
-(Geography) (Map Exercise, Writing Exercise) D 2 (Exercise on map search, Short Answer)
+(Geography) (Map Exercise, Writing Exercise, Short Answer Exercise) D 2 (Exercise on map search)
 
 \begin{enumerate}[label=\alph*.]
 \item Look at a large-scale map of a country area. Choose four or five villages shown on the map.
@@ -12416,7 +12428,7 @@ Copy and complete these sentences, using the four main compass directions. Use a
 Use the telephone directory and the Internet to help you to write a list of the main industries in your local area.
 
 
-(Geography) (Research Exercise, Interview Exercise, Short Answer Exercise) T D 2 (Exercise on changes to local industries)
+(Geography) (Research Exercise, Interview Exercise, Short Answer Exercise) D 2 (Exercise on changes to local industries)
 
 \begin{enumerate}[label=\alph*.]
 \item Interview older people and use the Internet to find out if there have been any changes to the industries in your area in the last ten years.
@@ -12509,7 +12521,7 @@ Create a spreadsheet to compare hurricanes and tornadoes. Include the following 
 \end{enumerate}
 
 
-(Geography) (Research Exercise, Plotting Exercise, Mapping Exercise) D 5 (Exercise on collecting pictures, newspaper cuttings, and Internet articles showing the path of destruction caused by a tornado)
+(Geography) (Research Exercise, Plotting Exercise, Mapping Exercise) D 5 (Exercise on collecting pictures/newspaper cuttings/Internet articles showing the path of destruction caused by a tornado)
 
 Collect pictures, newspaper cuttings and Internet articles showing the path of destruction caused by a tornado. If you can, plot the route of the tornado on a map.
 
@@ -13039,7 +13051,7 @@ Artists made mosaics by:
 \end{enumerate}
 
 
-(History) (Explanation Exercise) D 4 (Exercise on javelin-throwing, archery, and rowing)
+(History) (Explanation Exercise) D 4 (Exercise on javelin-throwing, Exercise on archery, Exercise on rowing)
 
 Write a brief explanation of how javelin-throwing or archery and rowing may have begun.
 
@@ -13168,7 +13180,7 @@ Can you find Mount Everest on the map?
 Good historians know that people's lives can be very different, even if they live in the same town or city in the same period of history. Write a paragraph to describe the differences between the lives of rich people and poor people in London in the 19th century.
 
 
-(History) (Discussion Exercise, Activity) D 2 (Exercise on the reigns of Elizabeth II, Elizabeth I, and Victoria)
+(History) (Discussion Exercise, Activity) D 2 (Exercise on the reigns of Elizabeth II/Elizabeth I/Victoria)
 
 \begin{enumerate}
 \item Write five questions you would like to ask Elizabeth II about her life as queen and how the world has changed during her reign.  
@@ -13257,7 +13269,7 @@ Decide if these statements are true or false. Write ‘True' or ‘False' for yo
 Use books and the Internet to research an ancient game. Write a brief fact sheet about your chosen game.
 
 
-(History) (Group Activity, Presentation Exercise) D 4 (Exercise on Roman art, jewellery, and literature)
+(History) (Group Activity, Presentation Exercise) D 4 (Exercise on Roman art/jewellery/literature)
 
 Work in a group. Prepare a presentation about what Roman art, jewellery and literature tell us about Ancient Roman culture.
 
@@ -13674,7 +13686,7 @@ Have you ever flown in an airplane? What was it like? How has air travel changed
 Write about how Viking sailors navigated at sea.
 
 
-(History) (Group Activity, Presentation Exercise) D 6 (Exercise on Vikings' raids, trades, and explorations)
+(History) (Group Activity, Presentation Exercise) D 6 (Exercise on Vikings' raids/trades/explorations)
 
 Work in a group to prepare an oral or digital presentation showing when and where the Vikings raided, traded and explored. Include a map in your presentation.
 
@@ -13964,7 +13976,7 @@ Imagine you have joined the Roman army. Write a letter home explaining:
 \end{enumerate}
 
 
-(History) (Research Exercise, Group Activity, Pair Activity, Writing Exercise) D 5 (Fact File Task, Exercise on Roman army battles)
+(History) (Research Exercise, Group Activity, Pair Activity, Writing Exercise) D 5 (Exercise on writing a fact file, Exercise on Roman army battles)
 
 Work with a partner or in a small group. Use books or the Internet to find out about some of the Roman army's most famous battles. Choose one battle and write a fact file about it. Base your fact file on the following questions. Who was the Roman emperor at the time? Why did the battle take place? Where was the battle? Who won – and how? Present your fact file to the rest of the class or include it as part of a class display.
 
@@ -14029,7 +14041,7 @@ Use books or the Internet to find out when farming started in your country or re
 Work in a group. Take turns to describe one task carried out by a man, woman or child in an Iron Age village. Score one point for each task you name. Miss a go if you cannot name a task.
 
 
-(History) (Group Activity, Creative Exercise) D 3 (Exercise on Iron Age settlements, Poster Design)
+(History) (Group Activity, Creative Exercise) D 3 (Exercise on Iron Age settlements, Activity involving poster design)
 
 Work in a group. Find out about Iron Age settlements in your country. Create a large poster to show the information.
 
@@ -14226,7 +14238,7 @@ How did railways develop?
 Why are modern railways so important?
 
 
-(History) (Multiple Choice Exercise) T D 2 (Exercise on the first aircraft to fly)
+(History) (Multiple Choice Exercise) D 2 (Exercise on the first aircraft to fly)
 
 The first aircraft to fly in the air was:  
 \begin{enumerate}[label=\alph*.]
@@ -14236,7 +14248,7 @@ The first aircraft to fly in the air was:
 \end{enumerate}
 
 
-(History) (Multiple Choice Exercise) T D 6 (Exercise on the first balloon flight)
+(History) (Multiple Choice Exercise) D 6 (Exercise on the first balloon flight)
 
 The first balloon flight took place in the:
 \begin{enumerate}[label=\alph*.]
@@ -14246,7 +14258,7 @@ The first balloon flight took place in the:
 \end{enumerate}
 
 
-(History) (Multiple Choice Exercise) T D 6 (Exercise on the first airplane with an engine)
+(History) (Multiple Choice Exercise) D 6 (Exercise on the first airplane with an engine)
 
 The first airplane with an engine was built by:
 \begin{enumerate}[label=\alph*.]
@@ -14306,7 +14318,7 @@ Collect some pictures of different houses in your local area. Find out when the 
 Why do you think so many Viking settlements were built near to the coast or rivers?
 
 
-(History) (Lesson Planning Activity, Presentation Creation Exercise) D 6 (Activity on Viking farming, fishing, hunting and trade)
+(History) (Lesson Planning Activity, Presentation Creation Exercise) D 6 (Activity on Viking farming/fishing/hunting/trade)
 
 Prepare a lesson for younger students that explains Viking farming, fishing, hunting and trade. Use presentation software and start with an image that shows what you will teach in the lesson. Try to use a map in your lesson.
 
@@ -14439,7 +14451,7 @@ Carry out some detailed research into Mayan clothing.
 Explain how the following boats differ from each other: dugouts, coracles and reed boats.
 
 
-(History) (Research Exercise, Creative Exercise) D 5 (Activity on creating a poster about ships and boats used for trade, exploration, and war throughout history)
+(History) (Research Exercise, Creative Exercise) D 5 (Activity on creating a poster about ships and boats used for trade/exploration/war throughout history)
 
 Use research to create a poster that explains how ships and boats were used for trade, exploration and war throughout history.
 
@@ -14673,7 +14685,7 @@ Write a brief explanation of why you think we remember the Ancient Egyptians.
 Describe three features of an Iron Age hill fort that helped people to defend the fort from an attack.
 
 
-(History) (Research Exercise, Creative Exercise, Group Activity) D 3 (Activity on Iron Age tools, Class Display Activity)
+(History) (Research Exercise, Creative Exercise, Group Activity) D 3 (Activity on Iron Age tools, Activity involving the creation of a class display)
 
 Work in a group. Find out about some Iron Age tools. Create a class display with:
 \begin{enumerate}[label=\alph*.]
@@ -14693,7 +14705,7 @@ Imagine you are an archeologist. You have found some objects in the remains of a
 \end{enumerate}
 
 
-(History) (Research Exercise, Writing Exercise, Short Answer Exercise) D 5 (Activity on Iron Age musical instruments, Written Discussion)
+(History) (Research Exercise, Writing Exercise, Short Answer Exercise) D 5 (Activity on Iron Age musical instruments)
 
 Find out about Iron Age musical instruments. Are there any in a museum near you? What do objects like these tell us about life in the Iron Age?
 
@@ -15026,7 +15038,7 @@ Write down three ways in which your life is different from the lives of people i
 Imagine you have survived a battle against warriors from an Iron Age tribe. Write a report describing what you saw and heard before the battle began.
 
 
-(History) (Research Exercise, Creative Exercise, Activity) D 3 (Exercise on trading goods during the Iron Age, Class Display)
+(History) (Research Exercise, Creative Exercise, Activity) D 3 (Exercise on trading goods during the Iron Age, Exercise on making a class display)
 
 Find out about three goods that people traded during the Iron Age. Draw each item. Make a class display. On a world map, place your drawing of each item in the country it came from.
 
@@ -15056,7 +15068,7 @@ Find out about one material or product that was traded between two different cou
 Pyramids were very expensive to build. Discuss with a partner why the pharaohs wanted to create these huge buildings.
 
 
-(History) (Research Exercise, Activity) D 3 (Exercise on building a pyramid, Class Display)
+(History) (Research Exercise, Activity) D 3 (Exercise on building a pyramid, Exercise on making a class display)
 
 Research the different stages of building a pyramid. Make a class display to show your findings.
 
@@ -15076,7 +15088,7 @@ Make a poster ordering the men in an Ancient Greek city to report for military d
 Imagine you are a hoplite on a trireme. Write a report of a sea battle. Describe the tactics used in the battle.
 
 
-(History) (Research Exercise, Long Answer Exercise) D 4 (Activity on the Battle of Marathon, Thermopylae or Salamis)
+(History) (Research Exercise, Long Answer Exercise) D 4 (Activity on the Battle of Marathon, Activity on the Battle of Thermopylae, Activity on the Battle of Salamis)
 
 Use reference books and the Internet to research the Battle of Marathon, Thermopylae or Salamis. Write about 100 words to describe the battle.
 
@@ -15557,7 +15569,7 @@ Write an information sheet about the types of boat below. Include information ab
 Carry out a survey to find out what types of transport people in your class have used. Ask what types of transport they use most often, as well as the different types of transport they have used in their lifetime. Present your findings using charts and graphs.
 
 
-(History) (Drawing Exercise, Activity) D 5 (Exercise on timeline creation, Developments in transport)
+(History) (Drawing Exercise, Activity) D 5 (Exercise involving the creation of a timeline, Exercise on the developments in transport)
 
 Create a single timeline showing developments in transport. Include developments in road, rail, air and sea transport.
 
@@ -15594,7 +15606,7 @@ Use books and the Internet to find out if there have ever been tin or copper min
 Research the climate where the earliest civilisations were located. How did the climate influence people's clothes and food?
 
 
-(History) (Research Exercise, Presentation Exercise, Discussion Exercise) D 4 (Activity on Ancient Egypt craftspeople)
+(History) (Research Exercise, Presentation Exercise, Discussion Exercise) D 4 (Activity on Ancient Egyptian craftspeople)
 
 \begin{enumerate}
 \item Work in a group. Research the work of a craftsperson in Ancient Egypt. Prepare a presentation for the class.  
@@ -15763,7 +15775,7 @@ Research how developments in transport have changed people's lives.
 Why do you think explorers used caravels?
 
 
-(History) (Writing Exercise) D 5 (Creative Writing Task)
+(History) (Writing Exercise, Creative Exercise) D 5 M
 
 Imagine you are a sailor on board a caravel. Use all the information you have learned so far to write an account of a day at sea. Make sure you include:  
 \begin{enumerate}[label=\alph*.]
@@ -15813,7 +15825,7 @@ Explain who first settled in London and why.
 Describe how and why London grew so rapidly.
 
 
-(History) (Long Answer Exercise) D 6 (Exercise on plagues, fires, and invasions in London)
+(History) (Long Answer Exercise) D 6 (Exercise on plagues/fires/invasions in London)
 
 Recall how plagues, fires and invasions had a major impact on London.
 
@@ -15968,12 +15980,12 @@ Imagine you are an Anglo-Saxon king and a foreign king has come to visit you. Wr
 \end{enumerate}
 
 
-(History) (Research Exercise) D 5 (Challenge on Anglo-Saxon graves)
+(History) (Research Exercise) D 5 (Exercise on Anglo-Saxon graves)
 
 Anglo-Saxons were often buried with their possessions. When archeologists discover Anglo-Saxon graves, they find evidence of the different jobs that men and women did and the skills they had. Read more about what was found buried at Sutton Hoo and find out who may have owned these treasures.
 
 
-(History) (Activity, Writing Exercise, Discussion Exercise) D 4 (Partner Activity)
+(History) (Partner Activity, Writing Exercise, Discussion Exercise) D 4 M
 
 Work with a friend. Discuss and write down your answers.  
 \begin{enumerate}[label=\alph*.]
@@ -16692,7 +16704,7 @@ Find out what was said in the first messages sent by telephone and email.
 Make up some pictographs. Use them to write a simple message. Swap your message with a partner. Can you understand each other's messages?
 
 
-(History) (Activity, Short Answer Exercise) D 3 (Partner Activity)
+(History) (Partner Activity, Short Answer Exercise) D 3 M
 
 Work with a partner. Write three things that people in an early civilisation needed to:  
 \begin{enumerate}[label=\alph*.]
@@ -16987,7 +16999,7 @@ How did postal services begin? How have they changed? How else do we send messag
 Where did the modern postal services begin?
 
 
-(History) (Challenge Exercise, Short Answer Exercise) D 3 (Question on early postal systems)
+(History) (Challenge Exercise, Short Answer Exercise) D 3 (Exercise on early postal systems)
 
 Where did early postal systems develop?
 
@@ -17027,12 +17039,12 @@ Carry out some research into a museum in another country. Find out when the muse
 Work in a group. Find out how postal services in your country work today. Write about how the postal services have changed over time.
 
 
-(History) (Activity, Discussion Exercise) D 3 (Partner Activity on advantages of email and postal services)
+(History) (Partner Activity, Discussion Exercise) D 3 (Activity on advantages of email and postal services)
 
 Discuss with a friend the advantages of email and of postal services.
 
 
-(History) (Research Exercise, Writing Exercise) D 3 (Activity on the Pony Express, Report Writing Exercise)
+(History) (Research Exercise, Writing Exercise) D 3 (Activity on the Pony Express, Exercise involving writing a report)
 
 Use books and the Internet to research and write a brief report about the Pony Express in the USA.
 
@@ -17401,7 +17413,7 @@ Write a self-assessment that describes some of your strengths and areas for deve
 Make a labelled drawing of all the things in your living room at home and all the things in your bedroom. Mark off the ones you think would not have been in your parents' living room and bedroom when they were children.
 
 
-(Social Studies) (Long Answer Exercise) D 2 (Exercise on big changes in the environment, transport, communication, and homes)
+(Social Studies) (Long Answer Exercise) D 2 (Exercise on big changes in the environment/transport/communication/homes)
 
 Write about some big changes that have happened in the environment, transport, communication and homes.
 
@@ -17492,7 +17504,7 @@ Make a poster showing how some everyday waste can be recycled.
 Prepare a lesson you would deliver to younger students that explains the idea of sustainable development simply. Include examples of how they could consume fewer resources.
 
 
-(Social Studies) (Creative Writing Exercise, Writing Exercise) D 6 (Article Writing Activity, Exercise on writing a brief history of the country's development since independence)
+(Social Studies) (Creative Writing Exercise, Writing Exercise) D 6 (Activity with article writing, Exercise on writing a brief history of the student's country's development since independence)
 
 Write an article for a travel guide that gives a brief history of the development of your country since independence.
 
@@ -17585,7 +17597,7 @@ What is a population?
 What behaviour is expected of people in a public library?
 
 
-(Social Studies) (Group Activity, Writing Exercise) D 3 (Exercise on public spaces, Report Writing Exercise)
+(Social Studies) (Group Activity, Writing Exercise) D 3 (Exercise on public spaces, Exercise involving writing a report)
 
 Work in a group to identify some of the public spaces you know. Write a report about what each space offers and how it should be used.
 
@@ -17628,7 +17640,7 @@ Make a list of situations in which you use different interpersonal skills and ex
 Find out about the average temperatures in your local area.
 
 
-(Social Studies) (Research Exercise, Writing Exercise) D 4 (Activity on recent local events caused by winds, Report Writing Exercise)
+(Social Studies) (Research Exercise, Writing Exercise) D 4 (Activity on recent local events caused by winds, Exercise involving writing a report)
 
 Find out about recent local events caused by winds and write a brief report.
 
@@ -17672,7 +17684,7 @@ Make a careful copy of a piece of Islamic calligraphy.
 Make a timeline showing major events from the founding of the Roman Empire to the end of the rule of the Rashidite caliphs.
 
 
-(Social Studies) (Discussion Exercise) D 5 (Exercise on early cultures, Activity on differences in food, clothing, and shelter)
+(Social Studies) (Discussion Exercise) D 5 (Exercise on early cultures, Activity on differences in food/clothing/shelter)
 
 Work in a group to discuss the differences you would expect to see in the food, clothing, and shelter of the early cultures that developed in the different climate zones. Explain the reasons for these differences.
 
@@ -18024,7 +18036,7 @@ How have you changed since you were a baby?
 What ideas or values are important in your culture?
 
 
-(Social Studies) (Research Exercise, Long Answer Exercise) D 4 (Exercise on customs, Exercise on ideas, beliefs and values)
+(Social Studies) (Research Exercise, Long Answer Exercise) D 4 (Exercise on customs, Exercise on ideas, Exercise on beliefs, Exercise on values)
 
 Find out about some common customs of your country and one other country. Explain the ideas, beliefs and values that the customs show.
 
@@ -18209,7 +18221,7 @@ The time is different in different places on the Earth by one hour for every:
 \end{enumerate}
 
 
-(Social Studies) (Discussion Exercise) D 2 (Exercise on illnesses, Partner Discussion)
+(Social Studies) (Discussion Exercise) D 2 (Exercise on illnesses, Exercise with partner discussion)
 
 Discuss with a partner all the things you could not do if you were ill in bed.
 
@@ -18586,7 +18598,7 @@ How do we find out about life in the past?
 \end{enumerate}
 
 
-(Social Studies) (Design Exercise, Activity) D 5 (Exercise on threats to health, Poster Design Activity)
+(Social Studies) (Design Exercise, Activity) D 5 (Exercise on threats to health, Activity on designing a poster)
 
 Design a poster that informs people of one of the common threats to health and how these can be avoided.
 
@@ -19154,7 +19166,7 @@ Carry out some research into the bodies in your country that are engaged in or m
 Work in a group to discuss what the world would be like without the internet.
 
 
-(Social Studies) (Discussion Exercise) D 3 (Activity on foods for settled farmers, fishermen, and nomadic herders)
+(Social Studies) (Discussion Exercise) D 3 (Activity on foods for settled farmers/fishermen/nomadic herders)
 
 Work in a group to discuss the different foods that would be available for the different groups of people who became settled farmers, fishermen, and nomadic herders.
 
@@ -19359,12 +19371,12 @@ Draw and write about the responsibilities of two different people within a home.
 Work in a group and write some rules you would have about keeping safe in the home.
 
 
-(Social Studies) (Writing Exercise) T D 5 (Exercise on shared values and goals)
+(Social Studies) (Writing Exercise) D 5 (Exercise on shared values and goals)
 
 Write a list of the shared values and goals that you think would help people in a country live and work well together.
 
 
-(Social Studies) (Group Activity, Writing Exercise) T D 5 (Exercise on cooperation for national improvement)
+(Social Studies) (Group Activity, Writing Exercise) D 5 (Exercise on cooperation for national improvement)
 
 Work in a group to make a list of ways in which people can work together to make your country a better place to live.
 
@@ -20016,7 +20028,7 @@ Talk about sustainable development.
 Talk about the Council of Human and Environmental Affairs, which seeks to create a regional strategy for environmental protection.
 
 
-(Social Studies) (Discussion Exercise, Writing Exercise) D 2 (Exercise on water usage by people, animals, and plants)
+(Social Studies) (Discussion Exercise, Writing Exercise) D 2 (Exercise on water usage by people/animals/plants)
 
 Talk with a friend about all the ways in which water is used by people, animals and plants and then write about one each of these.
 
@@ -20488,7 +20500,7 @@ Identify behaviour that is expected in school and in public.
 What do you think people need to be happy?
 
 
-(Social Studies) (Writing Exercise, Activity) D 4 (Exercise on behaviour in the digital world, List Writing Activity)
+(Social Studies) (Writing Exercise, List Writing Activity) D 4 (Exercise on behaviour in the digital world)
 
 Make a list of guidelines that tell people how they should behave in the ‘digital world'.
 
@@ -20591,7 +20603,7 @@ An important thing to learn within a family is:
 \end{enumerate}
 
 
-(Social Studies) (Multiple Choice Exercise) D 3 (Exercise on culture, Exercise with art, music, and buildings)
+(Social Studies) (Multiple Choice Exercise) D 3 (Exercise on culture, Exercise on art, Exercise on music, Exercise on buildings)
 
 The parts of culture, including art, music and buildings, that survive from the past are sometimes known as:
 \begin{enumerate}[label=\alph*.]
@@ -20987,7 +20999,7 @@ Work in a group to research recent climate-related events that have presented ha
 Work in a group. Think of three ways to re-use a plastic bottle or parts of one.
 
 
-(Social Studies) (Writing Exercise) D 2 (Exercise on recycling, Exercise on what can be made from recycled paper, card and metal)
+(Social Studies) (Writing Exercise) D 2 (Exercise on recycling, Exercise on what can be made from recycled paper/card/metal)
 
 Write about what can be made from recycled paper, card and metal.
 
@@ -21178,7 +21190,7 @@ What is special about using the sun to make electricity?
 Find out about the work of one of the emergency services in your country.
 
 
-(Social Studies) (Writing Exercise, Activity) D 3 (Exercise on travel, List Writing Activity)
+(Social Studies) (Writing Exercise, List Writing Activity) D 3 (Exercise on travel)
 
 \begin{enumerate}
 \item Choose a climate zone and then use maps or atlases to find a particular town and country within that zone.
@@ -21390,7 +21402,7 @@ What kinds of waste exist?
 What can be done with waste?
 
 
-(Social Studies) (Long Answer Exercise) D 2 (Exercise on sustainability, Exercise on reducing, recycling and re-using waste)
+(Social Studies) (Long Answer Exercise) D 2 (Exercise on sustainability, Exercise on reducing/recycling/re-using waste)
 
 Talk about reducing, recycling and re-using waste.
 
@@ -21524,7 +21536,7 @@ The best way to stop the spread of germs is:
 Make a list of three different foods you like to eat and explain why you like each one.
 
 
-(Social Studies) (Long Answer Exercise) D 1 (Exercise on exercises for heart, muscles, and flexibility)
+(Social Studies) (Long Answer Exercise) D 1 (Exercise on exercises for the heart/muscles/flexibility)
 
 Write about exercises you could do that help your heart grow stronger, exercises that make your muscles stronger, and exercises that help you to be more flexible.
 
@@ -21842,12 +21854,12 @@ Name three groups to which you belong. Briefly describe how each group has influ
 Describe the type of decoration that might be seen in a mosque. Explain why this style of decoration is chosen.
 
 
-(Social Studies) (Short Answer Exercise) D 5 (Exercise on traditional Arab dances, Exercise with examples)
+(Social Studies) (Short Answer Exercise) D 5 (Exercise on traditional Arab dances, Exercise with one or more examples)
 
 Give a brief description of some traditional Arab dances and give two examples of when and where they may be performed.
 
 
-(Social Studies) (Short Answer Exercise) D 5 (Exercise on tradition, Exercise on traditional music, songs, and dances)
+(Social Studies) (Short Answer Exercise) D 5 (Exercise on tradition, Exercise on traditional music/songs/dances)
 
 Give two reasons people might give for the importance of performing traditional music, songs and dances.
 
@@ -21877,7 +21889,7 @@ Work in a group to suggest some ideas that would mean that everyone in the world
 Work in a group to make a presentation that explains some of the advantages the European countries developed in the later 1700s.
 
 
-(Social Studies) (Creative Exercise, Mapping Exercise) D 6 (Poster Design Activity, Exercise on trade in the Middle East)
+(Social Studies) (Creative Exercise, Mapping Exercise, Activity) D 6 (Activity with poster-design, Exercise on trade in the Middle East)
 
 Make a poster that contains a labelled map showing resources available in different lands of the Middle East, and the main trade routes through the region.
 
@@ -22259,7 +22271,7 @@ Write about three resources you have used today. Say what the resources are and 
 Write two rules you know from a game or a sport, one rule from your school, and one rule from your home. Explain how the rules help.
 
 
-(Social Studies) (Writing Exercise, Activity) D 1 (Exercise on survival, List Writing Activity)
+(Social Studies) (Writing Exercise, List Writing Activity) D 1 (Exercise on survival)
 
 Write a list of at least four things that you think every person needs in order to survive.
 
@@ -22299,7 +22311,7 @@ How does the body use food?
 Why is it important to eat well?
 
 
-(Social Studies) (Diagram Exercise) D 4 (Exercise on resources from plants, animals, and the sea)
+(Social Studies) (Diagram Exercise) D 4 (Exercise on resources from plants/animals/the sea)
 
 Create a diagram that shows the resources available from plants, animals, and the sea.
 
@@ -22941,7 +22953,7 @@ How do globes and maps help us to find out about the world?
 Write about how your family meets your physical needs.
 
 
-(Social Studies) (Role-Playing Exercise, Group Exercise) D 2 (Exercise about care, Activity on when a child might need to feel love, care or encouragement)
+(Social Studies) (Role-Playing Exercise, Group Exercise) D 2 (Exercise about care, Activity on when a child might need to feel love/care/encouragement)
 
 Work in a group to make up role plays that show when a child might need to feel love, care or encouragement.
 
@@ -26086,7 +26098,7 @@ Complete the sentences that follow using the correct form of the verb in bracket
 \end{enumerate}
 
 
-(Dutch) (Writing Exercise) D G (Exercise on dialogues, Creative Writing)
+(Dutch) (Writing Exercise, Creative Exercise) D G (Exercise on dialogues, Exercise with a creative component)
 
 Create two (or more) dialogues between two acquaintances who happen to meet at a reception. They haven't seen one another for some time. One of your dialogues should be between a younger and an older person, so you need to think about how they address one another. Your second dialogue should be between two younger people. Use the following points to help you in creating this conversation.
 \begin{itemize}
@@ -27271,7 +27283,7 @@ Make the following sentences negative using niet:
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise) D G (With Answer, Answer in English, Exercise on text comprehension)
+(Dutch) (Short Answer Exercise) D G (With Answer, Exercise in Dutch but requiring an answer in English, Exercise on text comprehension)
 
 \textbf{Dialogue: In De Sportswinkel}\\
 Mark: Jee, wat een cool T-shirtl\\
@@ -27697,7 +27709,7 @@ How to say it in Dutch?
 13 = dertien; 8 = acht; 27 = zevenentwintig; 63 = drieënzestig; 78 = achtenzeventig; 104 = honderdvier; 12 = twaalf; 140 = honderdveertig; 549 = vijfhonderdnegenenveertig; 636 = zeshonderdzesendertig; 244 = tweehonderdvierenveertig; 82 = tweeëntachtig
 
 
-(Dutch) (Activity, Vocabulary Exercise) D G (Requires Material, Exercise on finding and pronouncing Dutch words with double vowels)
+(Dutch) (Activity, Vocabulary Exercise) D G (Exercise that requires external sources, With Material, Exercise on finding and pronouncing Dutch words with double vowels)
 
 If you live in an area where Dutch words are everywhere, try to find ten Dutch words with these double vowels, write them down, learn how to pronounce them, and look up what they mean.
 
@@ -27763,7 +27775,7 @@ Write down ten Dutch sentences in which you use the past participle, with the au
 Try to come up with ten small conversations in Dutch involving bread, meat, vegetables, and fruits. Ask for the items, the price, and order a certain amount. Write them down and repeat them out loud several times, to get used to these everyday things. You will need them daily. So, start chewing on them…
 
 
-(Dutch) (Writing Exercise) D G (Exercise on forming questions and answers, With Example, Exercise with an entertaining tone)
+(Dutch) (Writing Exercise) D G (Exercise on forming questions and answers, Exercise with one or more examples, Exercise with an entertaining tone)
 
 Ask several questions using the interrogative pronouns hoe (how), wie (who), wat (what), waar (where), wanneer (when). And while you are at it, how about forming an answer to them as well? Example: (1) "Hoe werkt dit keukenapparaat? Dat kun je beter aan mijn vader vragen." (2) "Hoe laat vertrekt de trein naar Amsterdam? De volgende trein vertrekt om kwart over vier." Write down ten of these sets and call yourself an advanced speaker of Dutch!
 
@@ -36648,7 +36660,7 @@ Traduire en français les phrases suivantes en utilisant tu et l'inversion si n�
 \end{enumerate}
 
 
-(French) (Translation Exercise) D G (Exercise on could, would, should, With Answer)
+(French) (Translation Exercise) D G (Exercise on could/would/should, With Answer)
 
 Could, would ou should? Traduire en anglais les phrases suivantes.
 \begin{enumerate}
@@ -37360,7 +37372,7 @@ Mettre les phrases suivantes à la voix passive. Attention aux temps de verbe!
 \end{enumerate}
 
 
-(French) (Grammar Exercise) (Exercise on transformation, Exercise on using active voice, With Answer)
+(French) (Grammar Exercise) D G (Exercise on transformation, Exercise on using active voice, With Answer)
 Mettre les phrases suivantes à la voix active. Attention aux temps de verbe!
 \begin{enumerate}
     \item Le gâteau a été fait par le chef.
@@ -40004,7 +40016,7 @@ Write the letter next to the sound.
 \end{enumerate}
 
 
-(Spanish) (Spelling Exercise, Meaning Exercise) D G (Exercise with transcription, With Answer, In Spanish)
+(Spanish) (Spelling Exercise, Meaning Exercise) D G (Exercise with transcription, With Answer, Exercise in Spanish)
 
 Escribe el nombre de los siguientes palabras.
 
@@ -40026,7 +40038,7 @@ Escribe el nombre de los siguientes palabras.
 \end{enumerate}
 
 
-(Spanish) (Transcription Exercise, Translation Exercise) D G (Exercise on professions, With Answer, In English)
+(Spanish) (Transcription Exercise, Translation Exercise) D G (Exercise on professions, With Answer, Exercise in English)
 
 Write out the following professions. Translate them into English too.
 
@@ -42273,7 +42285,7 @@ Complete the sentences with the corresponding prepositions using a, hasta, desde
 \end{enumerate}
 
 
-(Spanish) (Fill in the Blanks, Grammar Exercise) D G (With Answer, Exercise on using antes de, durante, or después de)
+(Spanish) (Fill in the Blanks, Grammar Exercise) D G (With Answer, Exercise on using antes de/durante/después de)
 
 Complete the sentences using antes de, durante, or después de.
 \begin{enumerate}
@@ -45266,7 +45278,7 @@ For example, when presented with the sentence "Sie haben eine Zeitung," you woul
 \end{enumerate}
 
 
-(German) (Sentence Completion Exercise) D G (With Answer, With Example)
+(German) (Sentence Completion Exercise) D G (With Answer, Exercise with one or more examples)
 
 Complete each sentence with the words provided in parentheses. For example:\\
 
@@ -45363,7 +45375,7 @@ Ask questions based on the sentences given below. Use the underlined phrase in e
 \end{enumerate}
 
 
-(German) (Writing Exercise, Grammar Exercise) D G (With Answer, With Example, Exercise on Dativ Objects, Exercise on forming questions)
+(German) (Writing Exercise, Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on Dativ Objects, Exercise on forming questions)
 
 Form a question based on the phrase underlined in each sentence. For example, when presented with the phrase Ich spreche mit Karl, you say Mit wem spreche ich?
 
@@ -45405,7 +45417,7 @@ Form a question based on the phrase underlined in each sentence. For example, wh
 \end{enumerate}
 
 
-(German) (Writing Exercise) D G (With Answer, Multiple Steps, With Example, Exercise on Prices and Numbers)
+(German) (Writing Exercise) D G (With Answer, Exercise with multiple steps, Exercise with one or more examples, Exercise on Prices and Numbers)
 
 Ask how much each object costs. Then, use the price to give the answer.\\
 
@@ -45435,7 +45447,7 @@ For example, when presented with the words\\
 \end{enumerate}
 
 
-(German) (Writing Exercise) D G (Exercise on asking when someone is coming, With Answer, With Example)
+(German) (Writing Exercise) D G (Exercise on asking when someone is coming, With Answer, Exercise with one or more examples)
 
 Using the two phrases provided, ask when someone is coming. Answer with the provided adverb. For example:\\
 
@@ -45462,7 +45474,7 @@ Wann kommt Peter? Er kommt morgen.
 \end{enumerate}
 
 
-(German) (Writing Exercise) D G (With Answer, With Example, Exercise on asking and answering time)
+(German) (Writing Exercise) D G (With Answer, Exercise with one or more examples, Exercise on asking and answering time)
 
 Using the two phrases provided, ask what time an event is. Answer with the time provided. The first exercise has been solved for you.
 
@@ -45489,7 +45501,7 @@ Um wie viel Uhr ist der Film? Der Film ist um fünfzehn Uhr.
 \end{enumerate}
 
 
-(German) (Writing Exercise) D G (With Answer, With example, Exercise on Days of the Week)
+(German) (Writing Exercise) D G (With Answer, Exercise with one or more examples, Exercise on Days of the Week)
 
 Using the two phrases provided, ask when an event is. Answer with the day provided. For example:\\
 
@@ -45519,7 +45531,7 @@ Wann ist die Party? Die Party ist am Montag.
 \end{enumerate}
 
 
-(German) (Writing Exercise) D G (With Answer, With Example, Exercise on years, Exercise on forming sentences)
+(German) (Writing Exercise) D G (With Answer, Exercise with one or more examples, Exercise on years, Exercise on forming sentences)
 
 Using the name and the year provided, form a sentence that says when someone was born.\\
 
@@ -45547,7 +45559,7 @@ Answers
 \end{enumerate}
 
 
-(German) (Grammar Exercise) D G (With Answer, With Example, Exercise on past tense)
+(German) (Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on past tense)
 
 Form the past tense for the following regular verbs with the pronouns provided. For example:\\
 
@@ -45681,7 +45693,7 @@ Fill in the correct past tense form of the verb in parentheses.
 \end{enumerate}
 
 
-(German) (Sentence Transformation Exercise) D G (With Answer, With Example, Exercise on future tense)
+(German) (Sentence Transformation Exercise) D G (With Answer, Exercise with one or more examples, Exercise on future tense)
 
 Change the present tense sentences below to the future tense by using werden.\\
 
@@ -45724,7 +45736,7 @@ For example, when presented with the sentence \textit{Ich bleibe in Berlin} (I a
 \end{enumerate}
 
 
-(German) (Grammar Exercise) D G (With Answer, With Example, Exercise on restating sentences in present tense)
+(German) (Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on restating sentences in present tense)
 
 Restate each future tense sentence in the present tense. For example:\\
 Sie wird es verstehen.          Sie versteht es.             
@@ -45884,7 +45896,7 @@ Change the following infinitives to past participles.
 \end{enumerate}
 
 
-(German) (Grammar Exercise) D G (With Answer, With Example, Exercise on present perfect tense)
+(German) (Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on present perfect tense)
 
 Decide whether the verbs should be used with sein or haben in the present perfect tense and form the past participle with the subject provided.\\
 
@@ -45967,7 +45979,7 @@ Restate the sentences below in the past perfect tense. Watch for verbs that use 
 \end{enumerate}
 
 
-(German) (Grammar Exercise) D G (With Answer, With Example, Exercise on restating phrases in different tenses)
+(German) (Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on restating phrases in different tenses)
 
 Restate each present tense phrase in the present perfect, the past perfect, and the future perfect. For example:\\
 
@@ -46108,7 +46120,7 @@ Restate the following present tense sentences in the future tense.
 \end{enumerate}
 
 
-(German) (Grammar Exercise) D G (Exercise on modifying sentences, With Answer, With example)
+(German) (Grammar Exercise) D G (Exercise on modifying sentences, With Answer, Exercise with one or more examples)
 
 Restate the following infinitives with the pronoun er in the present perfect tense. For example:\\
 
@@ -46151,7 +46163,7 @@ singen (to sing) - er hat gesungen\\
 \end{enumerate}
 
 
-(German) (Fill in the Blanks Exercise) D G (With Answer, With Example, With Hint, Exercise on possessive adjectives)
+(German) (Fill in the Blanks Exercise) D G (With Answer, Exercise with one or more examples, With Hint, Exercise on possessive adjectives)
 
 Using the pronouns, decide which possessive adjective to use to complete each sentence. For example, when presented with "ich / Sabine findet \_\_\_\_\_\_\_\_\_\_\_ Buch," you say, "Sabine findet mein Buch." Sabine finds my book, because "mein" is the possessive adjective form of "ich."\\
 
@@ -46289,7 +46301,7 @@ Fill in the blanks with the correct form of the adjectives shown in parentheses.
 \end{enumerate}
 
 
-(German) (Writing Exercise) D G (With Answer, With Example, Exercise on Comparative and Superlative)
+(German) (Writing Exercise) D G (With Answer, Exercise with one or more examples, Exercise on Comparative and Superlative)
 
 Give the comparative and superlative for each adjective below.\\
 
@@ -46322,7 +46334,7 @@ For example, when presented with the adjective klein, you say, kleiner, am klein
 \end{enumerate}
 
 
-(German) (Sentence Modification Exercise) D G (With Answer, With Example)
+(German) (Sentence Modification Exercise) D G (With Answer, Exercise with one or more examples)
 
 Complete the sentence Ich weiß nicht,… with the following questions.\\
 
@@ -47186,7 +47198,7 @@ How do you say the following in German?
 \end{enumerate}
 
 
-(German) (Reading Exercise, Comprehension Exercise) D G (With Answer, Separate Translation)
+(German) (Reading Exercise, Comprehension Exercise) D G (With Answer, Exercise with a separate translation)
 
 Es war einmal ein armer Mann, der in einem Dorf wohnte. Dieser Mann war sehr arm, aber er besaß ein Pferd, das so exquisit war, das selbst Könige es ihm abkaufen wollten-  und das zu jedem Preis. Doch der Mann lehnte immer wieder ab. Plötzlich eines Morgens, stellte er fest, dass das Pferd verschwunden war. Alle Menschen aus dem Dorf versammelten um ihr Mitgefühl auszudrücken.\\
 
@@ -47857,7 +47869,7 @@ In dieser Schicht habe ich keine anderen Passagiere mitgenommen. Ich war in mein
 \end{enumerate}
 
 
-(German) (Reading Comprehension Exercise) D G (With Answer, Multi-part Exercise)
+(German) (Reading Comprehension Exercise) D G (With Answer, Multi-part)
 
 In einer kleinen Stadt lebte eine junge Frau namens Julia Schmidt. Sie war sehr intelligent und talentiert. Da sie Sozialpädagogik studierte, war sie auf der Suche nach einem Job in einem Kindergarten. Julia liebte Kinder, und es war schon immer ihr Traumjob gewesen. Deswegen beschloss sie, ihre Bewerbung in einem kleinen Kindergarten abzugeben und dort ihr Glück zu versuchen. Als sie dort ankam, erwartete sie die Direktorin des Kindergartens und begrüßte sie.\\
 \textit{In a small town lived a young woman named Julia Schmidt. She was very intelligent and talented. Since she was studying social education, she was looking for a job in a kindergarten. Julia loved children and it had always been her dream job. Therefore, she decided to submit her application in a small kindergarten and try her luck there. When she got there, the director of the kindergarten welcomed her.}\\
@@ -48162,7 +48174,7 @@ Underline all nouns with articles in the plural form.\\
 Hallo Anna! Ich war gestern bei meiner Freundin Lena. Sie hat viele Hunde und sogar eine Katze. Ich liebe Tiere und besonders Hunde. Ich habe auch ihre Schwestern kennengelernt. Der Tag war sehr schön. Morgen werden wir zusammen ins Kino gehen. Die Filme die im Angebot sind, sehen alle cool aus. Wir wissen immer noch nicht welchen wir schauen werden. Ich hoffe dir geht es gut. Liebe Grüße Sarah
 
 
-(German) (Fill in the Blanks Exercise) D G (Exercise on definite articles, Exercise with masculine, feminine, and neuter articles)
+(German) (Fill in the Blanks Exercise) D G (Exercise on definite articles, Exercise with masculine/feminine/neuter articles)
 
 Fill in the spaces with the appropriate article. (masculine - der, feminine - die, neuter - das)
 
@@ -48190,7 +48202,7 @@ Add the correct personal pronoun in each sentence below. Pay attention to the ca
 \end{enumerate}
 
 
-(German) (Fill-in-the-Blanks Exercise) D G (With Example, Exercise on possessive pronouns)
+(German) (Fill-in-the-Blanks Exercise) D G (Exercise with one or more examples, Exercise on possessive pronouns)
 
 Insert the correct possessive pronoun as indicated in brackets. The first sentence gives you an example: \textit{Ich habe meine (ich) Tasche vergessen.}
 
@@ -48308,7 +48320,7 @@ Fill in the spaces with the correct preterite form.
 \end{enumerate}
 
 
-(German) (Fill-in-the-Blanks Exercise) D G (Exercise on tense conjugation, With Example)
+(German) (Fill-in-the-Blanks Exercise) D G (Exercise on tense conjugation, Exercise with one or more examples)
 
 Insert the correct conjugated perfect form of the verb (sein or haben + partizip 2). Here is an example: Ich habe (haben) gelacht (lachen).
 
@@ -48841,7 +48853,7 @@ Discuss with your group why the Earth is half-lit and half-dark in many pictures
 \end{enumerate}
 
 
-(Science) (Group Activity, Drawing Exercise) D 2 (Exercise on shadows, With Materials)
+(Science) (Group Activity, Drawing Exercise) D 2 (Exercise on shadows, With Material)
 
 \begin{enumerate}
   \item Talk with your group about how you can make shadows using a torch.
@@ -48898,7 +48910,7 @@ Copy these sentences. Use these words to fill in the gaps: food, ears, speak, te
 Do you know a song that can help us remember the names of our body parts?
 
 
-(Science) (Activity, Investigation, Experiment) D 5 (With Materials, Exercise on the melting point of ice)
+(Science) (Activity, Investigation, Experiment) D 5 (With Material, Exercise on the melting point of ice)
 
 \begin{enumerate}
   \item Measure the temperature of the ice cube with the thermometer before you start warming it. Record your reading.
@@ -48919,7 +48931,7 @@ Do you know a song that can help us remember the names of our body parts?
 \end{itemize}
 
 
-(Science) (Activity, Investigation Exercise) D 6 M (Exercise on mixing solids with water, Exercise with predictions and observations)
+(Science) (Activity, Investigation Exercise) D 6 (Exercise on mixing solids with water, Exercise with predictions and observations)
 
 \begin{enumerate}
   \item Investigate what happens when you add a spoonful of one of the solids to water.
@@ -48938,7 +48950,7 @@ Do you know a song that can help us remember the names of our body parts?
 \end{enumerate}
 
 
-(Science) (Investigation Exercise) D 6 M (Exercise on solutions)
+(Science) (Investigation Exercise) D 6 (Exercise on solutions)
 
 \begin{enumerate}
   \item Explore the process of making a solution of sugar and water.
@@ -49014,7 +49026,7 @@ Unscramble the letters to find three life processes: tghow, tonniuir, temomev.
 \end{enumerate}
 
 
-(Science) (Activity, Investigation Exercise) D 6 (Exercise on insoluble solids and filtering, With Materials)
+(Science) (Activity, Investigation Exercise) D 6 (Exercise on insoluble solids and filtering, With Material)
 
 \begin{enumerate}
 \item Explore how filtering works, using the solids you have chosen.
@@ -49265,7 +49277,7 @@ Discuss how the circulatory system interacts with other body systems (lungs, kid
 \end{enumerate}
 
 
-(Science) (Activity, Group Discussion, Investigation Exercise) D 6 (Exercise on conductivity, Exercise involving a table, With Materials)
+(Science) (Activity, Group Discussion, Investigation Exercise) D 6 (Exercise on conductivity, Exercise involving a table, With Material)
 
 \begin{enumerate}
   \item Collect at least 10 items made of different materials.
@@ -49315,7 +49327,7 @@ Discuss how the circulatory system interacts with other body systems (lungs, kid
 [STRDGM] An image showing a classroom with various objects made of different materials, such as wood, metal, plastic, and fabric, placed on desks for observation. [STPDGM]
 
 
-(Science) (Activity) D 3 (With Materials, Exercise on the effects of force on the movement of an object)
+(Science) (Activity) D 3 (With Material, Exercise on the effects of force on the movement of an object)
 
 \begin{enumerate}
   \item Take a ball, a toy with wheels or some other object that can roll down a slope.
@@ -49354,7 +49366,7 @@ Discuss how the circulatory system interacts with other body systems (lungs, kid
 \end{enumerate}
 
 
-(Science) (Class Activity, Group Discussion, Investigation Exercise) D 6 M (Exercise on changes of state and temperature, Exercise on hardness)
+(Science) (Class Activity, Group Discussion, Investigation Exercise) D 6 (Exercise on changes of state and temperature, Exercise on hardness)
 
 \begin{enumerate}
   \item Choose to investigate:
@@ -49415,7 +49427,7 @@ Identify the different components shown in the image related to electrical circu
 [STRDGM] The image shows various scenarios: a parachutist descending with a parachute, a person snapping their fingers, a stick floating on water, a splash from a dropped object, a basketball being dribbled, two players shooting a basketball, and a person holding a water bottle. Each scenario illustrates different forces acting on the objects. [STPDGM]
 
 
-(Science) (Activity, Group Discussion, Question Exercise, Experiment) D 5 (With Illustration, With Materials, Exercise on the movement of the Sun and the Earth)
+(Science) (Activity, Group Discussion, Question Exercise, Experiment) D 5 (With Illustration, With Material, Exercise on the movement of the Sun and the Earth)
 
 \begin{enumerate}
   \item Discuss these questions with your group:
@@ -49441,7 +49453,7 @@ Identify the different components shown in the image related to electrical circu
 \end{itemize}
 
 
-(Science) (Group Activity, Investigation Exercise, Discussion Exercise) D 6 (Exercise involving data collection, With Illustration, With Materials, Activity on circuits)
+(Science) (Group Activity, Investigation Exercise, Discussion Exercise) D 6 (Exercise involving data collection, With Illustration, With Material, Activity on circuits)
 
 \begin{enumerate}
   \item Choose to investigate:
@@ -49509,7 +49521,7 @@ Identify the different components shown in the image related to electrical circu
 \end{itemize}
 
 
-(Science) (Class Activity, Group Discussion Exercise, Investigation Exercise) D 6 (Exercise on friction, With Materials)
+(Science) (Class Activity, Group Discussion Exercise, Investigation Exercise) D 6 (Exercise on friction, With Material)
 
 \begin{enumerate}
   \item Collect the items and materials you need to explore one of the methods for reducing friction:
@@ -49618,7 +49630,7 @@ Work with a partner.
 \end{enumerate}
 
 
-(Science) (Activity, Investigation Exercise, Group Discussion) D 6 M (Exercise on surface testing)
+(Science) (Activity, Investigation Exercise, Group Discussion) D 6 (Exercise on surface testing)
 
 \begin{itemize}
   \item Set up the slope in a place where the balls can roll down without causing damage.
@@ -49631,7 +49643,7 @@ Work with a partner.
 \end{itemize}
 
 
-(Science) (Activity, Group Discussion Exercise) D 6 M (Exercise on forces, Exercise on road safety)
+(Science) (Activity, Group Discussion Exercise) D 6 (Exercise on forces, Exercise on road safety)
 
 \begin{itemize}
 \item Discuss this question with your group: Why is it harder to stop a fast-moving car than a slow-moving car?
@@ -49706,7 +49718,7 @@ Work with a partner.
 [STRDGM] A diagram showing an eye with labeled parts including the pupil, iris, cornea, lens, retina, and optic nerve. There is also a separate illustration of a light source, such as a candle, with arrows indicating the direction of light rays entering the eye. [STPDGM]
 
 
-(Science) (Class Activity, Discussion, Creative Task) D 5 (Exercise on fruits and seeds, Exercise involving drawing, With Illustration, With Materials, Exercise on seed dispersal)
+(Science) (Class Activity, Discussion, Creative Task) D 5 (Exercise on fruits and seeds, Exercise involving drawing, With Illustration, With Material, Exercise on seed dispersal)
 
 \begin{enumerate}
 \item Gather and collect seeds from fruits.
@@ -49795,7 +49807,7 @@ Describe the relationship between predators and prey in an ecosystem.
 \end{enumerate}
 
 
-(Science) (Group Activity, Investigation, Discussion Exercise) D 6 (With Materials, Exercise on habitats)
+(Science) (Group Activity, Investigation, Discussion Exercise) D 6 (With Material, Exercise on habitats)
 
 \begin{itemize}
 \item Discuss with your group which two habitats you will investigate in your locality. Try to choose two that are very different.
@@ -49812,7 +49824,7 @@ Describe the relationship between predators and prey in an ecosystem.
 \end{itemize}
 
 
-(Science) (Group Activity) D 6 (Exercise on food chains, With Materials)
+(Science) (Group Activity) D 6 (Exercise on food chains, With Material)
 
 \begin{itemize}
 \item Look at all the food chains displayed in your class and find a common feature. Tell your group what you think it is.
@@ -49864,7 +49876,7 @@ List examples of insect-pollinated flowers.
 \end{enumerate}
 
 
-(Science) (Group Activity, Investigation Exercise) D 5 (Exercise on transparent and opaque materials, With Materials)
+(Science) (Group Activity, Investigation Exercise) D 5 (Exercise on transparent and opaque materials, With Material)
 
 \begin{enumerate}
   \item Plan an investigation with your group to explore transparent and opaque materials.
@@ -49884,7 +49896,7 @@ List examples of insect-pollinated flowers.
 \end{enumerate}
 
 
-(Science) (Group Activity, Investigation Exercise) D 4 M (Exercise on exploring local environments)
+(Science) (Group Activity, Investigation Exercise) D 4 (Exercise on exploring local environments)
 
 \begin{enumerate}
   \item Choose where the environment will be:
@@ -50023,7 +50035,7 @@ Explain how living organisms adapt to their environments.
 \end{itemize}
 
 
-(Science) (Activity, Investigation Exercise, Discussion Exercise) D 4 (Exercise involving data collection, Exercise involving writing a report, With Materials, Exercise on plant roots)
+(Science) (Activity, Investigation Exercise, Discussion Exercise) D 4 (Exercise involving data collection, Exercise involving writing a report, With Material, Exercise on plant roots)
 
 \begin{enumerate}
   \item Put water into the container and fill it to the top. Carefully dig up a small plant, taking care not to break off its roots.
@@ -50061,7 +50073,7 @@ Explain how living organisms adapt to their environments.
 \end{itemize}
 
 
-(Science) (Activity, Investigation Exercise) D 3 M (Exercise on planning and conducting a fair test)
+(Science) (Activity, Investigation Exercise) D 3 (Exercise on planning and conducting a fair test)
 
 \begin{enumerate}
 \item Discuss ideas with your group to plan a fair test.
@@ -50125,7 +50137,7 @@ Explore the properties of magnets and their applications in everyday life.
 Conduct a survey of local wildlife and their habitats.
 
 
-(Science) (Activity, Group Discussion, Experiment) D 5 (Exercise on mirrors, With Materials, Exercise on light redirection)
+(Science) (Activity, Group Discussion, Experiment) D 5 (Exercise on mirrors, With Material, Exercise on light redirection)
 
 \begin{itemize}
 \item Use the mirror to create as many different effects as you can.
@@ -50148,7 +50160,7 @@ Conduct a survey of local wildlife and their habitats.
 \end{itemize}
 
 
-(Science) (Activity, Group Discussion, Investigation Exercise) D 5 (With Materials, Exercise on mirrors, Activity on reflections)
+(Science) (Activity, Group Discussion, Investigation Exercise) D 5 (With Material, Exercise on mirrors, Activity on reflections)
 
 \begin{itemize}
 \item Write out the alphabet in capital letters on a sheet of paper. Make each one at least 2 cm tall.
@@ -50171,7 +50183,7 @@ Conduct a survey of local wildlife and their habitats.
 \end{itemize}
 
 
-(Science) (Activity, Investigation Exercise) D 5 (With Materials, Exercise on boiling water, Exercise involving data collection)
+(Science) (Activity, Investigation Exercise) D 5 (With Material, Exercise on boiling water, Exercise involving data collection)
 
 \begin{enumerate}
   \item Set up a container of water above a heat source.
@@ -50192,7 +50204,7 @@ Conduct a survey of local wildlife and their habitats.
 \end{itemize}
 
 
-(Science) (Activity, Discussion Exercise, Investigation Exercise) D 5 (Exercise on light intensity, With Materials, Exercise involving a table, Exercise involving data collection)
+(Science) (Activity, Discussion Exercise, Investigation Exercise) D 5 (Exercise on light intensity, With Material, Exercise involving a table, Exercise involving data collection)
 
 \begin{enumerate}
   \item Handle the light meter and become familiar with how to use it and read it.
@@ -50322,7 +50334,7 @@ Now try to explain the clouds in picture (c). Tell the class what you think.
 [STRDGM] Picture (a) shows a warm glass with tiny droplets of water forming on its surface, indicating condensation. [STPDGM] [STRDGM] Picture (b) features a cold can with water droplets on the outside, demonstrating the same process. [STPDGM] [STRDGM] Picture (c) depicts a fluffy white cloud in the sky, representing condensed water vapour. [STPDGM]
 
 
-(Science) (Activity, Investigation Exercise) D 5 (Exercise on flowers, With Materials)
+(Science) (Activity, Investigation Exercise) D 5 (Exercise on flowers, With Material)
 
 \begin{enumerate}
   \item Collect some flowers from outside.
@@ -50362,7 +50374,7 @@ Now try to explain the clouds in picture (c). Tell the class what you think.
 \end{enumerate}
 
 
-(Science) (Activity, Investigation Exercise) D 5 (Exercise on shadows, With Illustration, With Materials)
+(Science) (Activity, Investigation Exercise) D 5 (Exercise on shadows, With Illustration, With Material)
 
 \begin{enumerate}
   \item Go outside on a sunny day and look at shadows. Notice their size and direction.
@@ -50395,7 +50407,7 @@ Now try to explain the clouds in picture (c). Tell the class what you think.
 \end{enumerate}
 
 
-(Science) (Activity) D 5 (With Illustration, Exercise involving going outside, With Materials, Exercise on evaporation)
+(Science) (Activity) D 5 (With Illustration, Exercise involving going outside, With Material, Exercise on evaporation)
 
 \begin{enumerate}
   \item Go outside into the sunshine. Do the following things:
@@ -50534,7 +50546,7 @@ Explain the significance of the liver and the consequences of liver failure.
 [STRDGM] A diagram showing the processes of condensation and evaporation, with arrows indicating the flow from liquid water to water vapor (evaporation) and back to liquid water (condensation). The diagram includes labels for "Cooled," "Heated," "Liquid water," "Evaporation," and "Condensation." The layout is clear and visually organized to help understand the processes. [STPDGM]
 
 
-(Science) (Activity, Investigation Exercise) D 5 (With Materials, Exercise on shadows)
+(Science) (Activity, Investigation Exercise) D 5 (With Material, Exercise on shadows)
 
 \begin{enumerate}
   \item Using the torch, try to change the size of the shadow around one of the objects.
@@ -50550,7 +50562,7 @@ Explain the significance of the liver and the consequences of liver failure.
 \end{itemize}
 
 
-(Science) (Activity, Investigation, Group Discussion Exercise) D 5 (With Materials, Exercise on shadows, Activity with predictions)
+(Science) (Activity, Investigation, Group Discussion Exercise) D 5 (With Material, Exercise on shadows, Activity with predictions)
 
 \begin{enumerate}
   \item Play with the torch and one object against a sheet of paper to act as a screen where you can observe the shadow.
@@ -50649,7 +50661,7 @@ Illustrate the process of pollen traveling from the anthers to the stigma.
 What happens to sounds when they travel through a solid?
 
 
-(Science) (Activity, Experiment, Discussion Exercise, Partner Activity) D 4 (Exercise on sound, With Materials, With Illustration)
+(Science) (Activity, Experiment, Discussion Exercise, Partner Activity) D 4 (Exercise on sound, With Material, With Illustration)
 
 You will need: paper (or Workbooks) and a pen or pencil.
 \begin{itemize}
@@ -50676,7 +50688,7 @@ You will need: paper (or Workbooks) and a pen or pencil.
 What happens to sounds when they travel through a liquid?
 
 
-(Science) (Activity, Experiment, Discussion Exercise, Partner Activity) D 4 (With Materials, With Illustration, Exercise on sound, Activity on sound traveling through liquids)
+(Science) (Activity, Experiment, Discussion Exercise, Partner Activity) D 4 (With Material, With Illustration, Exercise on sound, Activity on sound traveling through liquids)
 
 You will need: a balloon, a ticking watch, and a timer, paper (or Workbooks) and a pen or pencil.
 \begin{itemize}
@@ -50700,7 +50712,7 @@ You will need: a balloon, a ticking watch, and a timer, paper (or Workbooks) and
 \end{itemize}
 
 
-(Science) (Activity, Investigation Exercise) D 4 (With Materials, Exercise on observation)
+(Science) (Activity, Investigation Exercise) D 4 (With Material, Exercise on observation)
 
 \begin{itemize}
 \item Take a ruler or the edge of your desk.
@@ -50736,7 +50748,7 @@ You will need: a balloon, a ticking watch, and a timer, paper (or Workbooks) and
 \end{itemize}
 
 
-(Science) (Activity, Investigation Exercise) D 4 (Exercise on sound, With Materials, Exercise involving a table, Exercise involving a chart, Exercise involving data collection)
+(Science) (Activity, Investigation Exercise) D 4 (Exercise on sound, With Material, Exercise involving a table, Exercise involving a chart, Exercise involving data collection)
 
 \begin{itemize}
 \item Handle the sound meter carefully.
@@ -50752,7 +50764,7 @@ You will need: a balloon, a ticking watch, and a timer, paper (or Workbooks) and
 \end{itemize}
 
 
-(Science) (Activity, Investigation Exercise) D 2 (With Materials, Exercise involving circuits, Activity on circuits)
+(Science) (Activity, Investigation Exercise) D 2 (With Material, Exercise involving circuits, Activity on circuits)
 
 \begin{enumerate}
 \item Take a cell (battery), a lamp and two wires.
@@ -50831,7 +50843,7 @@ Identify the role of red marrow in blood cell production.
 \end{enumerate}
 
 
-(Science) (Activity, Experiment, Group Discussion Exercise) D 4 (With Materials, Exercise on pitch)
+(Science) (Activity, Experiment, Group Discussion Exercise) D 4 (With Material, Exercise on pitch)
 
 \begin{enumerate}
 \item Hold a rubber band between your teeth and stretch it with one hand, holding it with your other hand.
@@ -50845,7 +50857,7 @@ Identify the role of red marrow in blood cell production.
 \end{itemize}
 
 
-(Science) (Activity, Group Discussion, Investigation Exercise) D 4 (With Materials, Exercise on pitch, Exercise involving a table)
+(Science) (Activity, Group Discussion, Investigation Exercise) D 4 (With Material, Exercise on pitch, Exercise involving a table)
 
 \begin{enumerate}
 \item You will need a rubber band and a small container (e.g., a small matchbox).
@@ -50863,7 +50875,7 @@ Identify the role of red marrow in blood cell production.
 \end{itemize}
 
 
-(Science) (Activity, Investigation Exercise) D 4 (Exercise involving a table, Exercise involving data collection, Exercise on magnets, With Materials)
+(Science) (Activity, Investigation Exercise) D 4 (Exercise involving a table, Exercise involving data collection, Exercise on magnets, With Material)
 
 \begin{enumerate}
   \item Draw a table to record the results of the activity, including columns for the name of the object, material, and whether it is attracted or not by the magnet.
@@ -50975,7 +50987,7 @@ Discuss the concept of freezing as a faster cooling method and its application i
 \end{enumerate}
 
 
-(Science) (Activity, Investigation Exercise) D 4 (With Materials, Exercise involving data collection, Activity on magnetism)
+(Science) (Activity, Investigation Exercise) D 4 (With Material, Exercise involving data collection, Activity on magnetism)
 
 \begin{enumerate}
   \item Tie a thread to one of the bar magnets.
@@ -51027,7 +51039,7 @@ Describe the structure and function of joints, including ligaments and tendons.
 [STRDGM] An illustration showing the human arm with labels for the shoulder joint, elbow joint, biceps muscle, humerus bone, tendon, and ligament. The arm is depicted in a way that highlights the connections between these components, emphasizing their roles in movement. [STPDGM]
 
 
-(Science) (Activity) D 4 (Exercise on muscles, bones, and joints, Exercise on locomotion)
+(Science) (Activity) D 4 (Exercise on muscles, Exercise on bones, Exercise on joints, Exercise on locomotion)
 
 Illustrate the relationship between muscles, bones, and joints in locomotion.
 
@@ -51044,7 +51056,7 @@ Copy and complete the sentences below. Here are the words you will need: liquid,
 \end{enumerate}
 
 
-(Science) (Activity, Group Discussion, Investigation Exercise) D 4 (Exercise on drying, With Materials)
+(Science) (Activity, Group Discussion, Investigation Exercise) D 4 (Exercise on drying, With Material)
 
 Experiment to test the speed of drying pieces of cloth.
 \begin{itemize}
@@ -51337,7 +51349,7 @@ Many animals have eyes. These let the animals see things. Some fish that live de
 Why are the trees growing together taller than those which are growing on their own?
 
 
-(Science) (Investigation Exercise, True-False Exercise, Activity) D 5 (Exercise involving tracking shadow, Exercise on shadows, Exercise involving data collection, With Materials, Exercise involving a table, With Illustration)
+(Science) (Investigation Exercise, True-False Exercise, Activity) D 5 (Exercise involving tracking shadow, Exercise on shadows, Exercise involving data collection, With Material, Exercise involving a table, With Illustration)
 
 \begin{enumerate}
   \item Take your shadow puppet outside to make shadows or simply use yourself.
@@ -51547,7 +51559,7 @@ How are flowers pollinated?
 [STRDGM] The image shows two shadow puppets being used in a performance, with a light source behind them creating distinct shadows on a screen. In another part of the image, a child is interacting with the shadows, showcasing the fun of shadow play. [STPDGM]
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on natural and man-made materials, With Materials)
+(Science) (Investigation Exercise) D 2 (Exercise on natural and man-made materials, With Material)
 
 \begin{enumerate}
 \item Look at the objects your teacher has given you.
@@ -51570,7 +51582,7 @@ Which natural material is often used for making pots and bowls?
 Which man-made material is used to build bridges, dams, and roads?
 
 
-(Science) (Question, Investigation Exercise, Partner Activity) D 2 (Exercise on light and dark activities, With Materials)
+(Science) (Question, Investigation Exercise, Partner Activity) D 2 (Exercise on light and dark activities, With Material)
 
 \begin{enumerate}
   \item What can you see in a dark room?
@@ -51619,7 +51631,7 @@ How can people see each other?
 Does a mirror give out light? Explain your answer.
 
 
-(Science) (Investigation Exercise, Partner Activity, Question) D 2 (Exercise on light sources, With Materials)
+(Science) (Investigation Exercise, Partner Activity, Question) D 2 (Exercise on light sources, With Material)
 
 Investigate: Is a reflection a source of light? Work with a partner to hold a mirror in front of your face to look at your reflection. What happens to your reflection?
 
@@ -51639,7 +51651,7 @@ Name two natural sources of light.
 Name two artificial sources of light.
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on dissolving materials in water, With Materials, With Illustration)
+(Science) (Investigation Exercise) D 2 (Exercise on dissolving materials in water, With Material, With Illustration)
 
 \begin{enumerate}
 \item Add some water to your beakers so they are all half full.
@@ -51670,7 +51682,7 @@ Circle the correct answer.
 \end{enumerate}
 
 
-(Science) (Investigation Exercise, Question Exercise, Group Activity) D 5 (Exercise on growing and shrinking shadows, Exercise involving a table, Exercise involving data collection, With Materials, With Illustration)
+(Science) (Investigation Exercise, Question Exercise, Group Activity) D 5 (Exercise on growing and shrinking shadows, Exercise involving a table, Exercise involving data collection, With Material, With Illustration)
 
 In groups, carry out an investigation to explore if your prediction is true.
 \begin{enumerate}
@@ -52167,7 +52179,7 @@ Look at the picture below. Draw circles around all the items that use electricit
 List all the games you have used electricity to play.
 
 
-(Science) (Activity, Short Answer Exercise) D 2 (Exercise on simple circuits, With Illustration, With Materials)
+(Science) (Activity, Short Answer Exercise) D 2 (Exercise on simple circuits, With Illustration, With Material)
 
 \begin{enumerate}
 \item Connect the batteries, wires, and bulbs to create a simple circuit.
@@ -52261,7 +52273,7 @@ Decide whether the following statements are true or false:
 \end{itemize}
 
 
-(Science) (Investigation, Activity) D 2 (Exercise on changing the shapes of materials, With Materials, Exercise in British English)
+(Science) (Investigation, Activity) D 2 (Exercise on changing the shapes of materials, With Material, Exercise in British English)
 
 \paragraph{Investigation} Making a paper picture
 \begin{itemize}
@@ -52354,7 +52366,7 @@ Can you put the names to the major organs below? Use the words in the word bank.
 Create a poster about vertebrates and invertebrates.
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on cooling materials, With Materials)
+(Science) (Investigation Exercise) D 2 (Exercise on cooling materials, With Material)
 
 \paragraph{Investigation} Cooling water
 \begin{itemize}
@@ -52372,7 +52384,7 @@ Create a poster about vertebrates and invertebrates.
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on heating materials, With Materials)
+(Science) (Investigation Exercise) D 2 (Exercise on heating materials, With Material)
 
 \paragraph{Investigation} Heating ice
 \begin{itemize}
@@ -53065,7 +53077,7 @@ How much have you learned about magnets? Write the sentences in the correct orde
 \end{enumerate}
 
 
-(Science) (Investigation Exercise) D 4 (Exercise on making and measuring sound, With Materials)
+(Science) (Investigation Exercise) D 4 (Exercise on making and measuring sound, With Material)
 
 \paragraph{Investigation} How can we investigate the vibrations that cause sound?
 \begin{itemize}
@@ -53091,7 +53103,7 @@ How much have you learned about magnets? Write the sentences in the correct orde
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 4 (Exercise on making and measuring sound, With Materials)
+(Science) (Investigation Exercise) D 4 (Exercise on making and measuring sound, With Material)
 
 \paragraph{Investigation} Volume
 \begin{itemize}
@@ -53105,7 +53117,7 @@ How much have you learned about magnets? Write the sentences in the correct orde
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 4 (Exercise on making and measuring sound, Exercise involving a table, With Materials)
+(Science) (Investigation Exercise) D 4 (Exercise on making and measuring sound, Exercise involving a table, With Material)
 
 \paragraph{Investigation} Sound levels in the school
 \begin{itemize}
@@ -53198,7 +53210,7 @@ How can you use a piece of aluminum foil to make a better mirror?
 Explain how light is reflected into your eyes when using a mirror.
 
 
-(Science) (Investigation Exercise) D 5 (Exercise on mirrors, With Materials)
+(Science) (Investigation Exercise) D 5 (Exercise on mirrors, With Material)
 
 \paragraph{Investigation} Making a ray box
 \begin{enumerate}
@@ -53308,7 +53320,7 @@ Guess what sounds these animals and people make.
 [STRDGM] The image shows various animals and people engaging in activities that produce sounds, such as clapping, whistling, and making music. There are illustrations of a lion, birds, and a group of people playing instruments. [STPDGM]
 
 
-(Science) (Investigation Exercise) D 1 (Exercise on talking and listening, Exercise involving data collection, With Materials)
+(Science) (Investigation Exercise) D 1 (Exercise on talking and listening, Exercise involving data collection, With Material)
 
 \paragraph{Investigation} Measure the sounds in school.
 \begin{enumerate}
@@ -53378,7 +53390,7 @@ True or false? A large parachute falls faster than a small parachute.
 How can you show the direction and size of invisible forces on diagrams?
 
 
-(Science) (Question Exercise) D 6 (Exercise on mass and weight, With Answer, With Materials)
+(Science) (Question Exercise) D 6 (Exercise on mass and weight, With Answer, With Material)
 
 What is created when objects move against each other?
 
@@ -53388,7 +53400,7 @@ What is created when objects move against each other?
 \end{itemize}
 
 
-(Science) (Fill-in-the-Blank Exercise) D 6 (Exercise on mass and weight, With Materials)
+(Science) (Fill-in-the-Blank Exercise) D 6 (Exercise on mass and weight, With Material)
 
 The larger the surface area, the greater the \_\_\_\_\_\_\_\_\_\_.
 
@@ -53398,7 +53410,7 @@ The larger the surface area, the greater the \_\_\_\_\_\_\_\_\_\_.
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 1 (Exercise on growing plants, With Materials)
+(Science) (Investigation Exercise) D 1 (Exercise on growing plants, With Material)
 
 \paragraph{Investigation}
 \begin{itemize}
@@ -53453,7 +53465,7 @@ Which material is the most waterproof?
 \end{enumerate}
 
 
-(Science) (Question) D 1 M (Exercise on preferences) 
+(Science) (Question) D 1 (Exercise on preferences) 
 
 Do all your friends like the same things?
 
@@ -53491,7 +53503,7 @@ How do we hear? Circle your answers.
 \end{enumerate}
 
 
-(Science) (Activity) D 1 (Exercise on plants, With Materials)
+(Science) (Activity) D 1 (Exercise on plants, With Material)
 
 \begin{enumerate}
 \item Get a pot. Put some pebbles in it.
@@ -53573,7 +53585,7 @@ What will happen if we do not give water to plants?
 How can we prove that plants need water to grow?
 
 
-(Science) (Activity, Question Exercise, Creative Activity) D 5 (Exercise on colour, Exercise in British English, With Materials, With Illustration)
+(Science) (Activity, Question Exercise, Creative Activity) D 5 (Exercise on colour, Exercise in British English, With Material, With Illustration)
 
 \begin{enumerate}
 \item Take a circular piece of card and divide it into eight sections. Colour each section a different colour.
@@ -53598,7 +53610,7 @@ How can we prove that plants need water to grow?
 \end{itemize}
 
 
-(Science) (Activity, Question) D 3 (Exercise on making shapes with forces, With Materials)
+(Science) (Activity, Question) D 3 (Exercise on making shapes with forces, With Material)
 
 Crump a piece of paper into the smallest ball that you can. What force have you used to do this?
 
@@ -53615,7 +53627,7 @@ What are the people using to change the shape of the materials?
 [STRDGM] The images show various people using different techniques to shape materials: a blacksmith hammering metal, a potter shaping clay on a wheel, a chef rolling dough, and a factory setting where a car body is being formed in a mould. [STPDGM]
 
 
-(Science) (Investigation Exercise, Creative Activity, Drawing Exercise) D 3 (Exercise on making shapes with forces, With Materials, Exercise involving drawing)
+(Science) (Investigation Exercise, Creative Activity, Drawing Exercise) D 3 (Exercise on making shapes with forces, With Material, Exercise involving drawing)
 
 \paragraph{Investigation} Using forces to change the shape of modelling clay
 \begin{enumerate}
@@ -53632,7 +53644,7 @@ What are the people using to change the shape of the materials?
 \end{itemize}
 
 
-(Science) (Investigation Exercise, Creative Activity) D 3 (Exercise on making shapes with forces, With Materials)
+(Science) (Investigation Exercise, Creative Activity) D 3 (Exercise on making shapes with forces, With Material)
 
 \paragraph{Investigation} Using forces to mould modelling clay
 \begin{enumerate}
@@ -53813,7 +53825,7 @@ What decays the teeth? Circle the correct word: acid / sugar
 How many teeth does an adult have?
 
 
-(Science) (Investigation, Activity) D 3 (Exercise on forces, With Materials)
+(Science) (Investigation, Activity) D 3 (Exercise on forces, With Material)
 
 \paragraph{Investigation} Using forces to make a toy change speed or stop
 \begin{enumerate}
@@ -53833,7 +53845,7 @@ How many teeth does an adult have?
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 3 (Exercise on forces, With Materials)
+(Science) (Investigation Exercise) D 3 (Exercise on forces, With Material)
 
 \paragraph{Investigation} Changing the speed and direction of a toy car
 \begin{enumerate}
@@ -53854,7 +53866,7 @@ How many teeth does an adult have?
 \end{itemize}
 
 
-(Science) (Investigation Exercise, Question Exercise) D 3 (Exercise on forces, With Materials, With Illustration)
+(Science) (Investigation Exercise, Question Exercise) D 3 (Exercise on forces, With Material, With Illustration)
 
 \paragraph{Investigation} How do things move on different surfaces?
 \begin{enumerate}
@@ -53900,7 +53912,7 @@ Explain what happens when reflected light enters our eyes.
 Explain how a shadow is made.
 
 
-(Science) (Question Exercise) D 5 (Exercise on light, Exercise on opaque, translucent, and transparent materials)
+(Science) (Question Exercise) D 5 (Exercise on light, Exercise on opaque/translucent/transparent materials)
 
 What are opaque, translucent, and transparent materials?
 
@@ -54082,7 +54094,7 @@ Some reactions need \_\_\_\_\_\_\_\_\_\_ to start.
 Do you think you can eat plants that grow in the dark? Explain why.
 
 
-(Science) (Investigation Exercise, Creative Activity) D 1 (Exercise on plants, Exercise involving drawing, With Materials)
+(Science) (Investigation Exercise, Creative Activity) D 1 (Exercise on plants, Exercise involving drawing, With Material)
 
 \paragraph{Investigation} Do plants need water to grow?
 \begin{enumerate}
@@ -54184,7 +54196,7 @@ Which objects feel hard?
 Which object feels soft and hard?
 
 
-(Science) (Investigation Exercise, Question) D 1 (Exercise on materials, With Materials)
+(Science) (Investigation Exercise, Question) D 1 (Exercise on materials, With Material)
 
 \paragraph{Investigation} What materials can you find?
 \begin{enumerate}
@@ -54216,7 +54228,7 @@ Which object feels soft and hard?
 Write down the name of one plant and two animals. Are they producers or consumers?
 
 
-(Science) (Investigation, Fill-in-the-Blanks Exercise, Partner Activity) D 1 (Exercise on moving things, With Materials)
+(Science) (Investigation, Fill-in-the-Blanks Exercise, Partner Activity) D 1 (Exercise on moving things, With Material)
 
 \begin{enumerate}
   \item Investigation: Make a paper windmill
@@ -54248,7 +54260,7 @@ Write down the name of one plant and two animals. Are they producers or consumer
 Can you describe how water makes a waterwheel move?
 
 
-(Science) (Question, Investigation Exercise) D 1 (Exercise on moving things, With Materials)
+(Science) (Question, Investigation Exercise) D 1 (Exercise on moving things, With Material)
 
 \paragraph{Investigation} How do bubbles move in the wind?
 \begin{enumerate}
@@ -54621,7 +54633,7 @@ How are particles arranged in solids, liquids and gases?
 What happens to the particles when a substance changes state?
 
 
-(Science) (Investigation Exercise) D 5 (Exercise on reflection, With Materials)
+(Science) (Investigation Exercise) D 5 (Exercise on reflection, With Material)
 
 \begin{enumerate}
   \item Use your torch to investigate objects around the room. Shine the light from the torch on different objects. Write down which objects bounce the light back.
@@ -54792,7 +54804,7 @@ How do we harm our world?
 How can small things such as recycling help to care for our environment?
 
 
-(Science) (Investigation Exercise, Partner Activity) D 1 (Exercise on making things go faster or slower, With Materials)
+(Science) (Investigation Exercise, Partner Activity) D 1 (Exercise on making things go faster or slower, With Material)
 
 \paragraph{Investigation} What makes a toy car move?
 \begin{itemize}
@@ -54809,7 +54821,7 @@ How can small things such as recycling help to care for our environment?
 \end{itemize}
 
 
-(Science) (Investigation, Partner Activity) D 1 (Exercise on making things go faster or slower, With Materials)
+(Science) (Investigation, Partner Activity) D 1 (Exercise on making things go faster or slower, With Material)
 
 \paragraph{Investigation} How can you stop a moving toy car?
 \begin{itemize}
@@ -54825,7 +54837,7 @@ How can small things such as recycling help to care for our environment?
 \end{itemize}
 
 
-(Science) (Creative Activity, Group Activity) D 1 (Exercise on making things go faster or slower, With Materials)
+(Science) (Creative Activity, Group Activity) D 1 (Exercise on making things go faster or slower, With Material)
 
 Make a moving toy.
 \begin{itemize}
@@ -54840,7 +54852,7 @@ Make a moving toy.
 \end{itemize}
 
 
-(Science) (Creative Activity, Activity) D 1 (Exercise on making things go faster or slower, With Materials)
+(Science) (Creative Activity, Activity) D 1 (Exercise on making things go faster or slower, With Material)
 
 Make a balloon toy car.
 \begin{itemize}
@@ -54892,7 +54904,7 @@ Opening a door towards you uses a push force. True / False
 Name one difference between a mammal and a reptile.
 
 
-(Science) (Sorting Exercise) D 3 (Exercise on life forces, With Word Bank, Exercise on invertebrates and vertebrates)
+(Science) (Sorting Exercise) D 3 (Exercise on life forces, Exercise with a word bank, Exercise on invertebrates and vertebrates)
 
 Sort the animals in the word bank into the following two groups:
 \begin{enumerate}[label=\alph*.]
@@ -55058,7 +55070,7 @@ Water freezes at 0°C. True or False?
 Ice melts at 100°C. True or False?
 
 
-(Science) (Investigation Exercise, Question) D 3 (Exercise on sight, With Materials)
+(Science) (Investigation Exercise, Question) D 3 (Exercise on sight, With Material)
 
 \paragraph{Investigation} Is seeing with two eyes better than one?
 \begin{enumerate}
@@ -55074,7 +55086,7 @@ Ice melts at 100°C. True or False?
 \end{itemize}
 
 
-(Science) (Partner Activity, Investigation, Question Exercise) D 3 (Exercise on sight, With Illustration, With Materials, Activity on depth perception)
+(Science) (Partner Activity, Investigation, Question Exercise) D 3 (Exercise on sight, With Illustration, With Material, Activity on depth perception)
 
 \paragraph{Investigation} Is seeing with two eyes better than one?
 \begin{enumerate}
@@ -55107,7 +55119,7 @@ Ice melts at 100°C. True or False?
 \end{enumerate}
 
 
-(Science) (Investigation Exercise) D 3 (Exercise on sight, With Illustration, With Materials)
+(Science) (Investigation Exercise) D 3 (Exercise on sight, With Illustration, With Material)
 
 \paragraph{Investigation} The blind spot
 \begin{enumerate}
@@ -55125,7 +55137,7 @@ Ice melts at 100°C. True or False?
 \end{itemize}
 
 
-(Science) (Investigation Exercise, Question) D 3 (Exercise on sight, With Materials)
+(Science) (Investigation Exercise, Question) D 3 (Exercise on sight, With Material)
 
 \paragraph{Investigation} Brain tricks
 \begin{enumerate}
@@ -55186,7 +55198,7 @@ What do you think will happen to a ball when it hits the wall?
 [STRDGM] The image features children playing with balls and toy cars, illustrating the concept of forces in motion. [STPDGM]
 
 
-(Science) (Partner Activity, Investigation, Question) D 3 (Exercise on forces, Exercise involving a table, With Materials, Exercise involving data collection)
+(Science) (Partner Activity, Investigation, Question) D 3 (Exercise on forces, Exercise involving a table, With Material, Exercise involving data collection)
 
 \paragraph{Investigation} What happens when a moving object hits another object?
 \begin{enumerate}
@@ -55213,7 +55225,7 @@ What do you think will happen to a ball when it hits the wall?
 What do you think is happening when an object hits another object?
 
 
-(Science) (Fill-in-the-Blanks Exercise) D 3 (Exercise on forces, With Word Bank)
+(Science) (Fill-in-the-Blanks Exercise) D 3 (Exercise on forces, Exercise with a word bank)
 
 Complete the sentences using the words in the word bank.
 \begin{enumerate}[label=\alph*.]
@@ -55399,7 +55411,7 @@ Changing the direction of the force changes the direction of the movement. True 
 [STRDGM] The image shows a classroom setting where students are engaged in sound-related experiments. [STPDGM]
 
 
-(Science) (Group Activity, Investigation Exercise) D 3 (Exercise on sound, With Illustration, With Materials)
+(Science) (Group Activity, Investigation Exercise) D 3 (Exercise on sound, With Illustration, With Material)
 
 \paragraph{Investigation} Hearing and ear size
 \begin{enumerate}
@@ -55678,7 +55690,7 @@ True or false?
 \end{enumerate}
 
 
-(Science) (Multiple Choice Exercise) D 1 M (Exercise on similarities and differences)
+(Science) (Multiple Choice Exercise) D 1 (Exercise on similarities and differences)
 
 Circle the answer that is true for you.
 \begin{enumerate}[label=\alph*.]
@@ -55689,7 +55701,7 @@ Circle the answer that is true for you.
 \end{enumerate}
 
 
-(Science) (Fill-in-the-Blanks Exercise) D 1 M (Exercise on body parts)
+(Science) (Fill-in-the-Blanks Exercise) D 1 (Exercise on body parts)
 
 Fill in the correct words.
 \begin{enumerate}[label=\alph*.]
@@ -55866,7 +55878,7 @@ Explain why it is important to care about literacy.
 List three ways to promote literacy in your community.
 
 
-(Science) (Activity) D 6 M (Activity on community cleanup)
+(Science) (Activity) D 6 (Activity on community cleanup)
 
 Identify areas in your community that need attention. Plan a community cleanup event.
 
@@ -55891,7 +55903,7 @@ Discuss the environmental impact of old cars.
 Propose solutions to reduce pollution from vehicles.
 
 
-(Science) (Labelling Exercise, Question) D 3 (Exercise on flowering plants, With Illustration, With Word Bank)
+(Science) (Labelling Exercise, Question) D 3 (Exercise on flowering plants, With Illustration, Exercise with a word bank)
 
 \begin{enumerate}[label=\alph*.]
 \item Look at the picture of a flowering plant. Label the parts using the words in the word bank.
@@ -55909,7 +55921,7 @@ Propose solutions to reduce pollution from vehicles.
 \end{itemize}
 
 
-(Science) (Investigation, Group Activity, Drawing Exercise) D 3 (Exercise on the tongue, Exercise in British English, Exercise involving drawing, With Materials, With Illustration)
+(Science) (Investigation, Group Activity, Drawing Exercise) D 3 (Exercise on the tongue, Exercise in British English, Exercise involving drawing, With Material, With Illustration)
 
 \paragraph{Investigation} Which parts of the tongue have the most taste buds?
 \begin{enumerate}
@@ -55946,7 +55958,7 @@ Propose solutions to reduce pollution from vehicles.
 Your teacher will give you some different foods. Work with a partner to sort the foods into the different food groups in a table.
 
 
-(Science) (Investigation, Activity) D 3 (With Materials, Exercise on the tongue)
+(Science) (Investigation, Activity) D 3 (With Material, Exercise on the tongue)
 
 \paragraph{Investigation} Does saliva help you taste?
 \begin{enumerate}
@@ -56064,7 +56076,7 @@ Which oscillating wave pattern shows the highest-pitched sound?
 You can change the pitch of sounds to make music. True / False
 
 
-(Science) (Investigation Exercise, Class Activity) D 3 (Exercise on smell, With Materials)
+(Science) (Investigation Exercise, Class Activity) D 3 (Exercise on smell, With Material)
 
 \paragraph{Investigation} Recognising smells
 \begin{enumerate}
@@ -56111,7 +56123,7 @@ You can change the pitch of sounds to make music. True / False
 \end{itemize}
 
 
-(Science) (Matching Exercise, Activity) D 3 (Exercise on smell, With Word Bank)
+(Science) (Matching Exercise, Activity) D 3 (Exercise on smell, Exercise with a word bank)
 
 Match up the words in the word bank with their meanings below.
 \begin{itemize}
@@ -56133,7 +56145,7 @@ Match up the words in the word bank with their meanings below.
 How does smell protect us? Write about two ways.
 
 
-(Science) (True-False Exercise) D 4 M (Exercise on identification keys)
+(Science) (True-False Exercise) D 4 (Exercise on identification keys)
 
 True or false?
 \begin{enumerate}[label=\alph*.]
@@ -56298,7 +56310,7 @@ What do you think small animals in the oceans eat?
 Think about different habitats. Are there any habitats that do not have green plants as the producer?
 
 
-(Science) (Matching Exercise, Activity) D 6 (Exercise on food chains, With Word Bank)
+(Science) (Matching Exercise, Activity) D 6 (Exercise on food chains, Exercise with a word bank)
 
 Match the words in the word bank with the correct definitions below.
 \begin{enumerate}[label=\alph*.]
@@ -57039,7 +57051,7 @@ List all the forces that you have learned about.
 How does friction help a Formula 1 driver?
 
 
-(Science) (Investigation, Question Exercise) D 6 (Exercise on friction and air resistance, With Materials)
+(Science) (Investigation, Question Exercise) D 6 (Exercise on friction and air resistance, With Material)
 
 \paragraph{Investigation} Investigate air resistance with paper.
 \begin{enumerate}
@@ -57113,7 +57125,7 @@ Can you make electricity with your hair or your clothes?
 \end{itemize}
 
 
-(Science) (Investigation Exercise, Question) D 6 (Exercise on electrical conductors and insulators, With Materials, Activity on static electricity)
+(Science) (Investigation Exercise, Question) D 6 (Exercise on electrical conductors and insulators, With Material, Activity on static electricity)
 
 \paragraph{Investigation} How can you investigate static electricity?
 \begin{enumerate}
@@ -57205,7 +57217,7 @@ What are some everyday examples of evaporation?
 How can you demonstrate evaporation at home?
 
 
-(Science) (Question) D 4 (Exercise on circuits, With Materials)
+(Science) (Question) D 4 (Exercise on circuits, With Material)
 
 Can you make a circuit using the components on this picture?
 
@@ -57259,7 +57271,7 @@ Name three things that sound can travel through.
 Explain how you hear sounds.
 
 
-(Science) (Creative Activity, Question) D 4 (Exercise on sound, With Materials)
+(Science) (Creative Activity, Question) D 4 (Exercise on sound, With Material)
 
 Make a telephone from two paper cups and a long piece of string. Can you hear your partner speak?
 
@@ -57270,7 +57282,7 @@ Make a telephone from two paper cups and a long piece of string. Can you hear yo
 \end{itemize}
 
 
-(Science) (Activity, Short Answer Exercise) D 4 (Exercise on habitat, With Word Bank, With Illustration)
+(Science) (Activity, Short Answer Exercise) D 4 (Exercise on habitat, Exercise with a word bank, With Illustration)
 
 Look closely at the map of the world and the photographs. The photographs show different animals living in different habitats.
 \begin{enumerate}[label=\alph*.]
@@ -57290,7 +57302,7 @@ Look closely at the map of the world and the photographs. The photographs show d
 [STRDGM] The map shows various regions of the world with different habitats. There are photographs of animals associated with each habitat, such as a polar bear, an orangutan, a snake, a zebra, and a shark. Each animal is placed in a corresponding location on the map. [STPDGM]
 
 
-(Science) (Research Activity, Exercise) D 4 (Exercise on habitats, Exercise involving a graph, Activity with bar graph)
+(Science) (Research Activity, Exercise) D 4 (Exercise on habitats, Exercise involving a graph, Activity with a bar graph)
 
 Create a bar graph to show the number of different species found in various habitats.
 
@@ -57357,7 +57369,7 @@ Answer these questions.
 [STRDGM] The image shows a hammer with a metal head and a wooden handle, alongside a paper towel and tissue paper for comparison. [STPDGM]
 
 
-(Science) (Question, Investigation Exercise, Activity) D 4 (Exercise on insulation, With Materials)
+(Science) (Question, Investigation Exercise, Activity) D 4 (Exercise on insulation, With Material)
 
 Switch on the radio and place it in the box. Can you hear the radio?
 
@@ -57402,7 +57414,7 @@ Why do some airport workers wear ear defenders?
 [STRDGM] The image shows two men wearing ear defenders near a large jet engine, which is producing significant noise. [STPDGM]
 
 
-(Science) (Investigation Exercise) D 4 (Exercise on circuits, With Materials)
+(Science) (Investigation Exercise) D 4 (Exercise on circuits, With Material)
 
 \paragraph{Investigation} Making a switch
 \begin{itemize}
@@ -57904,7 +57916,7 @@ How long does it take the Earth to spin on its axis?
 How long does it take the Earth to orbit the Sun?
 
 
-(Science) (Partner Activity) D 5 (Exercise on Earth's movements, With Materials)
+(Science) (Partner Activity) D 5 (Exercise on Earth's movements, With Material)
 
 \begin{enumerate}
 \item Working in pairs, ask your partner to stand very still in a space holding a lit torch. They are the Sun.
@@ -57959,7 +57971,7 @@ Think about all of the things you do in a day. Remember night-time as well.
 How do you know that it is morning? What sounds do you hear? What can you smell? How much sunlight is there? Then, how do you know that it is the end of the day?
 
 
-(Science) (Partner Activity, Activity) D 5 (Exercise on Earth's movements, With Materials)
+(Science) (Partner Activity, Activity) D 5 (Exercise on Earth's movements, With Material)
 
 \begin{enumerate}
 \item Ask your partner to hold a lit torch in position. The torch is a model of the Sun.
@@ -58084,7 +58096,7 @@ What happens when a liquid reaches its freezing point?
 What happens when a solid reaches its melting point?
 
 
-(Science) (True-False Exercise) D 5 (Exercise on evaporation and condensation, With Answer, Exercise on boiling, freezing, and melting points)
+(Science) (True-False Exercise) D 5 (Exercise on evaporation and condensation, With Answer, Exercise on boiling, Exercise on freezing, Exercise on melting points)
 
 Different liquids have different boiling, freezing and melting points. True / False
 
@@ -58129,14 +58141,14 @@ When a liquid is evaporated from a solution a solid is left behind. True / False
 \end{itemize}
 
 
-(Science) (Activity) D 4 (Exercise on solids, liquids and gases, With Illustration)
+(Science) (Activity) D 4 (Exercise on solids, Exercise on liquids, Exercise on gases, With Illustration)
 
 Look at the pictures. Identify the substances by labeling them as solid, liquid, or gas.
 
 [STRDGM] The image shows various containers with different states of matter: a solid block, a liquid in a glass, and gas bubbles in a flask. The solid appears rigid, the liquid takes the shape of its container, and the gas is dispersed throughout the flask. [STPDGM]
 
 
-(Science) (Descriptive Exercise) D 4 (Exercise on solids, liquids and gases)
+(Science) (Descriptive Exercise) D 4 (Exercise on solids, Exercise on liquids, Exercise on gases)
 
 Think about the characteristics of solids, liquids, and gases. Describe each in the section below.
 \begin{itemize}
@@ -58146,32 +58158,32 @@ Think about the characteristics of solids, liquids, and gases. Describe each in 
 \end{itemize}
 
 
-(Science) (Exercise, Question) D 4 (Exercise on solids, liquids and gases, Exercise on change of state)
+(Science) (Exercise, Question) D 4 (Exercise on solids, Exercise on liquids, Exercise on gases, Exercise on change of state)
 
 What happens to the particles during a change of state?
 
 
-(Science) (Exercise, Question) D 4 (Exercise on solids, liquids and gases, Exercise on particles)
+(Science) (Exercise, Question) D 4 (Exercise on solids, Exercise on liquids, Exercise on gases, Exercise on particles)
 
 Can you name the particles that make up solids, liquids, and gases?
 
 
-(Science) (Exercise, Question) D 4 (Exercise on solids, liquids and gases, Exercise on the states of matter)
+(Science) (Exercise, Question) D 4 (Exercise on solids, Exercise on liquids, Exercise on gases, Exercise on the states of matter)
 
 What is the shape of each state of matter?
 
 
-(Science) (Exercise, Question) D 4 (Exercise on solids, liquids and gases)
+(Science) (Exercise, Question) D 4 (Exercise on solids, Exercise on liquids, Exercise on gases)
 
 How do you know that gas is being formed?
 
 
-(Science) (Exercise, Question) D 4 (Exercise on solids, liquids and gases, Exercise on proving gas presence)
+(Science) (Exercise, Question) D 4 (Exercise on solids, Exercise on liquids, Exercise on gases, Exercise on proving gas presence)
 
 How can you prove that gas is present in a container?
 
 
-(Science) (Question, Activity) D 4 (Exercise on solids, liquids and gases)
+(Science) (Question, Activity) D 4 (Exercise on solids, Exercise on liquids, Exercise on gases)
 
 \begin{enumerate}[label=\alph*.]
 \item Describe how you would collect gas in a balloon.
@@ -58320,7 +58332,7 @@ Brightness depends on light intensity. True / False
 \end{itemize}
 
 
-(Science) (Short Answer Exercise, Fill-in-the-Blanks Exercise) D 2 (Exercise on plants, animals and their environment)
+(Science) (Short Answer Exercise, Fill-in-the-Blanks Exercise) D 2 (Exercise on plants, Exercise on animals, Exercise on the environment of plants and animals)
 
 Show what animals and plants could live in these environments. An example for each has been done for you. If you know of other animals you might see, you can add those too:
 \begin{enumerate}[label=\alph*.]
@@ -58332,12 +58344,12 @@ Show what animals and plants could live in these environments. An example for ea
 \end{enumerate}
 
 
-(Science) (Short Answer Exercise) D 2 (Exercise on plants, animals and their environment, Exercise on environments in hot and dry countries)
+(Science) (Short Answer Exercise) D 2 (Exercise on the environment, Exercise on environments in hot and dry countries)
 
 Name three different environments that can be found in hot and dry countries.
 
 
-(Science) (Short Answer Exercise) D 2 (Exercise on plants, animals and their environment, Exercise on pollution prevention)
+(Science) (Short Answer Exercise) D 2 (Exercise on the environment, Exercise on pollution prevention)
 
 Name one thing that you can do so you don’t pollute your environment.
 
@@ -58376,7 +58388,7 @@ Go outside in the morning and look at where the Sun is.
 \end{enumerate}
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on building materials, With Materials)
+(Science) (Investigation Exercise) D 2 (Exercise on building materials, With Material)
 
 \paragraph{Investigation} Making bricks
 \begin{enumerate}
@@ -58609,7 +58621,7 @@ Circle the correct answer.
 \end{enumerate}
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Materials, Exercise on cleaning groundwater)
+(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Material, Exercise on cleaning groundwater)
 
 \paragraph{Investigation} Cleaning groundwater
 \begin{enumerate}
@@ -58627,7 +58639,7 @@ Circle the correct answer.
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Materials)
+(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Material)
 
 \paragraph{Investigation} Cleaning sea water
 \begin{enumerate}
@@ -58643,7 +58655,7 @@ Circle the correct answer.
 \end{itemize}
 
 
-(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Materials)
+(Science) (Investigation Exercise) D 2 (Exercise on the weather and water in hot countries, With Material)
 
 \subsection{Investigation: Capturing drinking water from salt water}
 \begin{enumerate}
@@ -59094,7 +59106,7 @@ What subtraction is shown on this diagram?
 [STRDGM] A diagram showing a subtraction of fractions represented as bars, with segments labeled 8/10 and 1/10. [STPDGM]
 
 
-(Mathematics) (Time Calculation Exercise) D 3  (Exercise on converting hours to minutes)
+(Mathematics) (Time Calculation Exercise) D 3 (Exercise on converting hours to minutes)
 
 A television programme goes for \( \frac{1}{5} \) of an hour. How many minutes is that?
 
@@ -59127,7 +59139,7 @@ Mariposa buys a shirt in the sale. Its price was \$30 originally, but then reduc
 [STRDGM] An image of a shirt with a price tag showing $30. [STPDGM]
 
 
-(Mathematics) (Fraction Exercise) D 3 (With Illustration, Themed with juice)
+(Mathematics) (Fraction Exercise) D 3 (With Illustration, Exercise with juice as a theme)
 
 Hien mixes 200 millilitres of orange juice, 200 millilitres of pineapple juice and 200 millilitres of lemonade. What fraction of a litre is the drink that he makes?
 
@@ -59299,7 +59311,7 @@ Complete the table.
 \end{table}
 
 
-(Mathematics) (True or False Exercise, Geometry Exercise) D 5  (Exercise with triangles)
+(Mathematics) (True or False Exercise, Geometry Exercise) D 5 (Exercise with triangles)
 
 Is this triangle isosceles?
 
@@ -60966,7 +60978,7 @@ Calculate the following:
 \end{enumerate}
 
 
-(Mathematics) (Word Problem) D 6 (Shopping Problem, With Answer)
+(Mathematics) (Word Problem) D 6 (Exercise presenting a shopping problem, With Answer)
 A shop has these items for sale:
 \begin{itemize}
     \item Coffee maker: \$29.95
@@ -62028,7 +62040,7 @@ Take the current date as January 1st 2022.
 \end{enumerate}
 
 
-(Mathematics) (Word Problem, Short Answer) D 4 (Challenge Question, With Answer)
+(Mathematics) (Word Problem, Short Answer) D 4 (With Answer)
 Explain if the number fifteen thousand five hundred and fifty-three is divisible by 5.
 
 \subsection*{Answers}
@@ -62277,7 +62289,7 @@ Calculate, writing the remainder as a fraction:
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise) D 5 (Missing Digit Exercise, With Answer)
+(Mathematics) (Arithmetic Exercise) D 5 (Exercise with missing digits, With Answer)
 Write the missing digit: \( 20 + 4 + 2 + 0.5 = 26 \frac{1}{4} \).
 
 \subsection*{Answers}
@@ -62416,7 +62428,7 @@ Find the missing numbers.
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise) D 2 (Challenge Exercise, Multi-part)
+(Mathematics) (Challenge Exercise, Arithmetic Exercise) D 2 (Multi-part)
 
 Using the digits 2, 1, 3, and 5 only once, make two 2-digit numbers. Add the two numbers together.
 
@@ -62587,7 +62599,7 @@ One sixth of a number is 30. What is the number?
 The number is 180.
 
 
-(Mathematics) (Word Problem) D 5 (Correcting Statements)
+(Mathematics) (Word Problem) D 5 (Exercise where the student must correct a statement)
 
 Zara says, 'To find \( \frac{1}{3} \) of 100, I divide by 3 and multiply by 10.' Correct her statement and find the correct answer.
 
@@ -63688,7 +63700,7 @@ Polly wants to buy a pair of jeans that cost \$40. She currently has \$35.90. Ho
 Polly needs \$4.10 more.
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 5 (Estimation Exercise, Multi-part, With Answer)
+(Mathematics) (Word Problem, Arithmetic Exercise) D 5 (Multi-part, With Answer)
 
 Samir and Abimbola are making a list of food to buy for their party. This is their list so far with the prices for the amounts they need:
 
@@ -64728,7 +64740,7 @@ What is the sum of 4563 and 2766?
 The answer is 7329.
 
 
-(Mathematics) (Arithmetic Exercise) D 5 (Word Problem, With Answer)
+(Mathematics) (Arithmetic Exercise) D 5 (With Answer)
 What is \( 739 \times 6 \)?
 
 \subsection*{Answers}
@@ -65041,7 +65053,7 @@ The answer is 1150 ml.
 The sum is 1490 ml.
 
 
-(Mathematics) (Arithmetic Exercise) D 3 (Exercise with addition, Volume Calculation, With Answer)
+(Mathematics) (Arithmetic Exercise) D 3 (Exercise with addition, Exercise involving volumes, With Answer)
 \( 340 \, \text{ml} + 420 \, \text{ml} = \, \_\_\_\_\_\_\_\_\_\_ \, \text{ml} \)
 
 \subsection*{Answers}
@@ -65598,7 +65610,7 @@ Pick four digits and make a new number. Your number is \_\_\_\_\_\_\_\_\_\_ mill
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise, Multi-part) D 3 (Word Problem, With Answer)
+(Mathematics) (Arithmetic Exercise, Multi-part) D 3 (With Answer)
 
 \begin{enumerate}[label=\alph*.]
 \item  What number is 3000 more than 3250?
@@ -65693,7 +65705,7 @@ Douglas ran 150 \text{ m} in 25 \text{ seconds}. Find his average speed in \text
 His average speed is 6 \text{ m/s}.
 
 
-(Mathematics) (Word Problem) D 6 (Distance and Time Problem, With Answer)
+(Mathematics) (Word Problem) D 6 (Exercise formulated as a distance and time problem With Answer)
 Rose and Lucy set off from Town C to Town D at the same time. The two towns were 640 km apart. After 8 hours, Rose reached Town D, while Lucy was still 128 km away from Town D. If Lucy continued at the same average speed, how much longer did she take than Rose to reach Town D?
 
 \subsection*{Answers}
@@ -66515,7 +66527,7 @@ Thus, Cynthia has \( 3 \times 24 = 72 \) posters and Laura has \( 4 \times 24 = 
 The new ratio is \( 6 : 5 \).
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 1 (Comparison Exercise, With Answer)
+(Mathematics) (Word Problem, Arithmetic Exercise) D 1 (Exercise involving comparison, With Answer)
 Amelia spent \$27. Tyrone spent \$52. How much more money did Tyrone spend than Amelia?
 
 Tyrone spent \$\_\_\_\_\_ more than Amelia.
@@ -67505,7 +67517,7 @@ Draw lines to join each fraction to the equivalent decimal:
 [STRDGM] A list of fractions: \( \frac{1}{5}, \frac{3}{5}, \frac{1}{2}, \frac{1}{4}, \frac{3}{10} \) on one side and decimals: \( 0.2, 0.6, 0.5, 0.25, 0.3 \) on the other side, with lines to be drawn connecting them. [STPDGM]
 
 
-(Mathematics) (Diagram Exercise, Fill in the Blank) D 5 (With Illustration, Exercise on equivalent fractions, decimals, and percentages, Multi-part)
+(Mathematics) (Diagram Exercise, Fill in the Blank) D 5 (With Illustration, Exercise on equivalence, Exercise on fractions, Exercise on decimals, Exercise on percentages, Multi-part)
 
 Complete these diagrams with equivalent fractions, decimals, and percentages:
 
@@ -67519,7 +67531,7 @@ Complete these diagrams with equivalent fractions, decimals, and percentages:
 [STRDGM] Four circles each divided into 10 equal sectors from center. [STPDGM]
 
 
-(Mathematics) (Word Problem Exercise, Drawing Exercise) D 5 (Challenge Task, With Illustration, Multi-part)
+(Mathematics) (Word Problem Exercise, Drawing Exercise, Challenge Exercise) D 5 (With Illustration, Multi-part)
 
 The fence has ten sections of equal length.
 
@@ -67584,7 +67596,7 @@ What was the difference in temperature between the morning and the afternoon?
 [STRDGM] A temperature scale with ticks showing 15°C and 21°C. [STPDGM]
 
 
-(Mathematics) (Arithmetic Exercise) D 6 (Exercise with matching, With illustration)
+(Mathematics) (Arithmetic Exercise) D 6 (Exercise with matching, With Illustration)
 
 Choose one number from the given cards to complete each number sentence.
 
@@ -67635,7 +67647,7 @@ This picture represents \( \frac{1}{3} \) of a shape. It has 5 rectangles. Draw 
 [STRDGM] A grid 5 by 3 without grid lines with only 5 random cells filled with color. [STPDGM]
 
 
-(Mathematics) (Evaluation Exercise) D 5 (True/False Statements)
+(Mathematics) (Evaluation Exercise) D 5 (Exercise with true and false statements)
 
 Tick (\checkmark) the statements that are true. Put a cross (X) next to any statements that are false.
 
@@ -67752,7 +67764,7 @@ This fraction model shows 6 whole units. Tick the number sentence that represent
 [STRDGM] A visual representation of 6 whole units divided into shaded and unshaded fractions, with 3 units shaded. [STPDGM]
 
 
-(Mathematics) (Arithmetic Exercise, Word Problem) D 5 (Correction Task)
+(Mathematics) (Arithmetic Exercise, Word Problem) D 5 (Exercise where the student needs to correct someone's mistakes)
 
 Arun multiplies a fraction by a whole number. He writes \( \frac{2}{3} \times 7 = 2 \). Explain what Arun's mistake is and correct his answer.
 
@@ -67948,7 +67960,7 @@ Find all the lines of symmetry in this pattern.
 [STRDGM] A grid pattern with alternating black and white squares arranged in a checkerboard style, consisting of 8 rows and 8 columns. [STPDGM]
 
 
-(Mathematics) (Geometry Exercise) D 4 (Exercise with drawing, With illustration)
+(Mathematics) (Geometry Exercise) D 4 (Exercise with drawing, With Illustration)
 
 Draw lines of symmetry into the following shapes:
 
@@ -68163,7 +68175,7 @@ Reflect the shapes in the diagonal mirror lines.
 [STRDGM] A grid with a square in the bottom left corner, a triangle in the top right corner, and a circle in the center[STPDGM]
 
 
-(Mathematics) (Geometry Exercise) D 6 (Challenge Exercise, With Illustration)
+(Mathematics) (Geometry Exercise, Challenge Exercise) D 6 (With Illustration)
 
 Draw the correct mirror line for each reflection shown in the grid below.
 
@@ -68200,7 +68212,7 @@ Draw an instrument you would use to measure height.
 Draw the tallest things you know.
 
 
-(Mathematics) (Illustration Exercise) D 1 (With Drawing)
+(Mathematics) (Illustration Exercise) D 1 (With Illustration)
 
 Draw a ring around the thermometer that shows the highest temperature.
 
@@ -68974,7 +68986,7 @@ Write fractions to complete the number sentences.
 [STRDGM] A number line from 0 to 1 with the tick marks at 0.25, 0.5, and 0.75, no labels are printed. [STPDGM]
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 4 (With Illustration, Estimation Exercise, Multi-part)
+(Mathematics) (Word Problem, Arithmetic Exercise) D 4 (With Illustration, Multi-part)
 
 A jug has a capacity of 1 litre.
 
@@ -70710,7 +70722,7 @@ What was the height of the tallest plant?
 \end{figure}
 
 
-(Mathematics) (Data Analysis Exercise) D 5 (Multi-part Exercise)
+(Mathematics) (Data Analysis Exercise) D 5 (Multi-part)
 
 Record the height of each plant.
 
@@ -70830,7 +70842,7 @@ The shaded parts of the fraction strips represent two fractions.
 [STRDGM] One fraction strip showing the shaded area representing 2/5. Another fraction strip showing the shaded area representing 3/5. [STPDGM]
 
 
-(Mathematics) (Word Problem) D 5 (Challenge Question)
+(Mathematics) (Word Problem, Challenge Exercise) D 5 (Exercise on fractions)
 Arun painted a rectangle in green, red, and blue. He painted \( \frac{1}{3} \) green and \( \frac{1}{4} \) red. What fraction did he paint blue?
 
 
@@ -71273,7 +71285,7 @@ Flip a coin 60 times and record the results in the table.
 Draw the bar chart showing the outcomes of flipping a die. Write two sentences about the outcomes of your experiment.
 
 
-(Mathematics) (Short Answer) D 5 (Challenge Activity)
+(Mathematics) (Short Answer, Challenge Activity) D 5 (Exercise with an experiment)
 Describe a situation with a bag containing 10 colored balls: 4 red, 3 blue, and 3 green. Predict the outcomes of drawing one ball from the bag without looking.
 
 Write two sentences about the outcomes of your experiment.
@@ -71553,7 +71565,7 @@ How many degrees warmer is it in Amsterdam than in Helsinki?
 \end{equation*}
 
 
-(Mathematics) (Short Answer) D 4 (Explanation Exercise)
+(Mathematics) (Short Answer) D 4 (Exercise that requires an explanation)
 
 Mira is counting in threes starting at -13 and adding 3, showing the sequence: -13, -10, -7, -4, -1, 2, 5 Is Mira correct? Explain your answer.
 
@@ -72186,7 +72198,7 @@ Write the area and perimeter under each shape.
 [STRDGM] A triangle with a base of 6 units and a height of 3 units [STPDGM]
 
 
-(Mathematics) (Table Exercise, Word Problem) D 3 (Activity-based Exercise)
+(Mathematics) (Table Exercise, Word Problem) D 3 (Exercise that is activity-based)
 With a friend, choose five different activities that you can do in the classroom. Time how long each activity takes and fill in the table below.
 
 \begin{table}[h]
@@ -72447,7 +72459,7 @@ Write your answers as a fraction and a decimal fraction.
 [STRDGM] One rectangle with a half of the its area shaded, one rectangle with 1/3 of its area shaded, one rectangle with 3/4 of its area shaded. [STPDGM]
 
 
-(Mathematics) (Arithmetic Exercise, Multiple Choice) D 4 (Exercise on decimal comparison, Word Problem)
+(Mathematics) (Arithmetic Exercise, Multiple Choice) D 4 (Exercise on decimal comparison)
 
 Which decimal fraction is equal to a half?
 
@@ -72525,15 +72537,15 @@ Complete the following calculations:
 \end{enumerate}
 
 
-(Mathematics) (Fill in the Blank) D 2 (Sentence Completion Exercise)
+(Mathematics) (Fill in the Blank) D 2 (Exercise on fact families, Exercise where the answer has a degree of freedom)
 Complete these sentences.
 
-I found the fact families for number \_\_\_\_\_\_\_.
+I found the fact families for the number \_\_\_\_\_\_\_.
 
 There are \_\_\_\_\_\_\_ different families.
 
 
-(Mathematics) (Activity Exercise) D 5 (Hands-on)
+(Mathematics) (Activity Exercise) D 5 (Exercise with a hands-on component)
 Take four strips of paper. Keep one strip whole. Fold the second strip in half. Open it up and label each section with the fraction it shows: \( \frac{1}{2} \). Fold the third strip into half and half again. Open it up and label each section with the fraction it shows: \( \frac{1}{4}, \frac{1}{4}, \frac{1}{4} \). Fold the fourth strip into half, half again, and half once more. Open it up and label each section with the fraction it shows: \( \frac{1}{8}, \frac{1}{8}, \frac{1}{8}, \frac{1}{8} \). Put your fraction strips in order, largest to smallest, under the first whole strip. Draw lines and write labels on this diagram to show the fractions you made.
 
 
@@ -73690,7 +73702,7 @@ Add 101 to these numbers:
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise) D 4 (Partner Activity)
+(Mathematics) (Arithmetic Exercise, Partner Activity) D 4 (Exercise with a table, With Illustration)
 
 Fill the table below for the following Numbers: 111, 454, 239, 144, 571
 
@@ -73960,9 +73972,10 @@ I was on \_\_. I jumped on \_\_. I landed on \_\_.
 Calculate \( 286 \times 29 \).
 
 
-(Mathematics) (Estimation Exercise) D 2 (Activity)
+(Mathematics) (Estimation Exercise, Activity) D 2 (Exercise with estimation)
 
 Estimate how long it will take you to do each of these activities:
+
 How do you work out the following calculations in your head?
 \begin{enumerate}[label=\alph*.]
 \item Count to 100
@@ -74057,7 +74070,7 @@ Sugar& 10g & \\
 \end{tabular}
 
 
-(Mathematics) (Matching Exercise, Illustration) D 5
+(Mathematics) (Matching Exercise, Illustration) D 5 M
 
 Draw lines to match the analogue clock faces with their corresponding digital times.
 
@@ -74719,7 +74732,7 @@ Find the matching divisions for each multiplication in the 2, 5, and 10 times ta
 \end{enumerate}
 
 
-(Mathematics) (Fill in the Blank) D 2 (Completing Sentences)
+(Mathematics) (Fill in the Blank) D 2 (Exercise with sentence completion)
 
 Complete these sentences using the words "count on" or "count back".
 
@@ -75370,7 +75383,7 @@ A pie is made with bananas and oranges. There is a total of 6 kg of fruit in the
 There are 28 students in a class. 16 of the students are girls. What proportion of the students are boys? Write your answer in two ways.
 
 
-(Mathematics) (Arithmetic Exercise, Problem-solving) D 5 (Word Problem)
+(Mathematics) (Arithmetic Exercise, Word Problem) D 5 (Exercise with toy animals)
 
 Aran has a collection of toy animals. \( \frac{1}{2} \) are lions, \( \frac{3}{10} \) are monkeys, and \( \frac{1}{5} \) are giraffes. Calculate possible numbers of each animal.
 
@@ -75864,7 +75877,7 @@ There are \_\_\_\_\_\_ more red pencils than blue pencils.
 [STRDGM] A number line labeled from 0 to 20. [STPDGM]
 
 
-(Mathematics) (Short Answer, Word Problem) D 1 (Fill in the Blank, With Illustration)
+(Mathematics) (Short Answer, Word Problem, Fill in the Blank) D 1 (With Illustration)
 
 There are \_\_\_ oranges altogether.
 
@@ -75995,14 +76008,14 @@ Color the third box in the series.
 [STRDGM] A sequence of five boxes in a row. [STPDGM]
 
 
-(Mathematics) (Exercise with Illustration) D 1 (Coloring Exercise)
+(Mathematics) (Coloring Exercise, Geometry Exercise) D 1 (With Illustration)
 
 Color the shapes between the squares.
 
 [STRDGM] A circle and a triangle arranged between two squares. [STPDGM]
 
 
-(Mathematics) (Visual Exercise) D 1 (With Illustration)
+(Mathematics) (Coloring Exercise, Geometry Exercise) D 1 (Exercise with a visual component, With Illustration)
 
 Color the triangle which has the same size as the shaded one.
 
@@ -76777,7 +76790,7 @@ Colour the path of even numbers to get out of the maze.
 \end{tikzpicture}
 
 
-(Mathematics) (Drawing Exercise, Arithmetic Exercise) D 1 (Completing Number Sentences)
+(Mathematics) (Drawing Exercise, Arithmetic Exercise) D 1 (Exercise on completing number sentences)
 
 Draw 5 balloons. Then, draw 2 more balloons.
 
@@ -77309,7 +77322,7 @@ Add or subtract. Then pair up the number sentences.
 \end{enumerate}
 
 
-(Mathematics) (Word Problem, Short Answer) D 1 (Comparing Quantities, With Illustration)
+(Mathematics) (Word Problem, Short Answer) D 1 (Exercise involving the comparison of quantities, With Illustration)
 
 How many fewer balloons does David have than Lynn?
 
@@ -77535,7 +77548,7 @@ Irregular pentagons have \_\_\_\_\_ sides.
 Irregular hexagons have \_\_\_\_\_ sides.
 
 
-(Mathematics) (Short Answer, Writing Exercise) D 2 (Fill in the Blank)
+(Mathematics) (Short Answer, Writing Exercise) D 2 M
 Write the days of the week and the months of the year in order. Choose which day and month to start with.
 
 
@@ -78327,7 +78340,7 @@ Choose an object in the classroom to estimate and then measure.
 \end{enumerate}
 
 
-(Mathematics) (Fill in the Blank) D 2 (Sentence Completion)
+(Mathematics) (Fill in the Blank) D 2 (Exercise involving sentence completion)
 
 Complete these sentences.
 
@@ -78686,7 +78699,7 @@ Three florists need their water bottles filled. Each bottle holds 1 liter. The t
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise, Matching Exercise, Short Answer) D 2 (Word problem)
+(Mathematics) (Arithmetic Exercise, Matching Exercise, Short Answer) D 2 M
 
 Which products are in both the multiplication table for 5 and the multiplication table for 10? Explain why.
 
@@ -79486,14 +79499,16 @@ The 3-digit numbers are:
 What is the smallest 4-digit number that you can make using all the digits 7, 5, 2, 6?
 
 
-(Mathematics) (Arithmetic Exercise, Word Problem) D 3 (Comparison Question)
+(Mathematics) (Arithmetic Exercise, Word Problem) D 3 M
 
 A storybook is priced at \$8.60
+
 A T-shirt is priced at \$10.50
+
 How much cheaper is the storybook than the T-shirt?
 
 
-(Mathematics) (Arithmetic Exercise, Problem Solving) D 3 (Exercise with calculations, With illustration)
+(Mathematics) (Arithmetic Exercise, Problem Solving) D 3 (Exercise with calculations, With Illustration)
 
 Here is a number game board. Write down 16 calculations, so that each calculation gives you an answer on the board. You should write a mixture of multiplication and division calculations.
 
@@ -79675,14 +79690,14 @@ Find the lengths of the key and paper clip, to the nearest centimetre.
 [STRDGM] A key labeled and a paper clip. [STPDGM]
 
 
-(Mathematics) (Arithmetic Exercise) D 3 (Exercise with fractions, Number Line Exercise, With Illustration, Multi-part)
+(Mathematics) (Arithmetic Exercise) D 3 (Exercise with fractions, Exercise with number lines, With Illustration, Multi-part)
 
 Write down 5 fractions between 0 and 1. They should all have a different denominator. Place them on this number line:
 
 [STRDGM] A horizontal number line marked from 0 to 1 with equal intervals. [STPDGM]
 
 
-(Mathematics) (Arithmetic Exercise) D 3 (Exercise with fractions, Number Line Exercise, With Illustration, Multi-part)
+(Mathematics) (Arithmetic Exercise) D 3 (Exercise with fractions, Exercise with number lines, With Illustration, Multi-part)
 
 Write down 5 fractions between 1 and 2. Place them on this number line:
 
@@ -80045,7 +80060,7 @@ Use the 100 square below. Choose any number between 1 and 6. Use your answer to 
 [STRDGM] A 10x10 grid with numbers from 1 to 100. [STPDGM]
 
 
-(Mathematics) (Short Answer) D 3 (Knowledge Check)
+(Mathematics) (Short Answer) D 3 M
 
 \begin{enumerate}[label=\alph*.]
 \item Define what a face is and provide an example of a shape that has faces.
@@ -80206,7 +80221,7 @@ Complete the number patterns.
 There are 36 students in a class. How many different ways can the students be arranged into equal groups? Draw each different arrangement and write the fact family below each picture.
 
 
-(Mathematics) (Arithmetic Exercise) D 3 (Exercise with division, Complete Sentences)
+(Mathematics) (Arithmetic Exercise, Fill-in-the-blank) D 3 (Exercise with division)
 
 Complete the division sentences.
 
@@ -81724,7 +81739,7 @@ Write the missing numbers:
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise, Word Problem) D 4 (Exercise with division, Puzzle)
+(Mathematics) (Arithmetic Exercise, Word Problem, Puzzle) D 4 (Exercise with division)
 
 Can you find a 2-digit number that divides by 4 with remainder 1, by 5 with remainder 1, and by 6 with remainder 1?
 
@@ -82841,7 +82856,7 @@ Now do the same for these months and years:
 \end{enumerate}
 
 
-(Mathematics) (Geometry Exercise) D 5 (Partner Activity, With Illustration)
+(Mathematics) (Geometry Exercise, Partner Activity) D 5 (With Illustration)
 
 Work with a partner. Here is a coordinate grid: Plot three corners of a small square onto the grid. Give your grid to your partner. Your partner works out where the other coordinate goes to make the square. Record the coordinates of the whole square. Now plot two corners of a scalene triangle.
 
@@ -83046,14 +83061,13 @@ The scales below weigh items up to 1 kg. Label them with the weight of each frui
 [STRDGM] A scale with a dial indicating a weight of 400 g and a pear placed on it. [STPDGM]
 
 
-(Mathematics) (Arithmetic Exercise) D 5 (Exercise on percentage calculation, Estimation Exercise)
+(Mathematics) (Arithmetic Exercise) D 5 (Exercise on percentage calculation)
 
 Take 0 and two random digits from 1 to 9. Make a 3-digit multiple of 10. Calculate as many percentages of that number as you can in two minutes. Write your percentages here.
 
-\begin{enumerate}[label=\alph*.]
-\item Example: If you create the number 240, calculate 10\%, 20\%, 30\%, etc.
-\item Write your calculated percentages below:
-\end{enumerate}
+For example: If you create the number 240, calculate 10\%, 20\%, 30\%, etc.
+
+Write your calculated percentages below:
 
 
 (Mathematics) (Geometry Exercise, Estimation Exercise) D 5 (Exercise on measuring angles, With Illustration)
@@ -83063,7 +83077,7 @@ Measure the angles to the nearest \(5^\circ\). Write your estimate and the actua
 [STRDGM] A diagram with three angles of different size labeled as Angle 1, Angle 2, and Angle 3. [STPDGM]
 
 
-(Mathematics) (Data Analysis Exercise, Word Problem) D 5 (Score Analysis, Multi-part)
+(Mathematics) (Data Analysis Exercise, Word Problem) D 5 (Exercise about score analysis, Multi-part)
 These are the scores:
 
 4, 1, 3, 5, 5, 1, 1
@@ -83271,7 +83285,7 @@ Now give your sequence to a partner. Ask them these questions:
 \end{enumerate}
 
 
-(Mathematics) (Word Problem) D 5 (Calendar Activity, Multi-part, With Illustration)
+(Mathematics) (Word Problem, Calendar Activity) D 5 (Multi-part, With Illustration)
 
 Mark your birthday on the calendar.
 
@@ -83403,7 +83417,7 @@ Choose four different containers from the classroom.
 \end{enumerate}
 
 
-(Mathematics) (Creative Exercise) D 5 (Group Activity)
+(Mathematics) (Creative Exercise, Group Activity) D 5 M
 
 Work in a group. Each of you draws one or two squares on cm-squared paper. Each square needs to have sides of 10 cm. Your group needs five squares altogether. Cut out your squares. As a group, use your five squares to make eight different shapes. Use all five squares for each shape. Draw your shapes here:
 
@@ -83816,7 +83830,7 @@ Complete the sentences to explain the method to calculate \( 845 \div 13 \):
 \end{enumerate}
 
 
-(Mathematics) (Geometry Exercise) D 6 (Challenge Question, With Illustration)
+(Mathematics) (Geometry Exercise) D 6 (With Illustration)
 
 What transformation should be done to shape C to change it to shape D?
 
@@ -84054,7 +84068,7 @@ Calculate:
 \end{enumerate}
 
 
-(Mathematics) (Geometry Exercise) D 6 (Transformation Task, With Illustration)
+(Mathematics) (Geometry Exercise) D 6 (Exercise about transformations, With Illustration)
 
 Write down the possible transformations of shape A to shape B.
 
@@ -84477,7 +84491,7 @@ Jack has 12 toy cars and Tom has 8 toy cars. Express the number of Jack's toy ca
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise) D 6 (Exercise with fractions, Word Problem, With Illustration, Multi-part)
+(Mathematics) (Arithmetic Exercise, Word Problem) D 6 (Exercise with fractions, With Illustration, Multi-part)
 
 \begin{enumerate}[label=\alph*.]
 \item What fraction of the length of Rod P is the length of Rod Q? \_\_\_\_\_\_
@@ -85914,21 +85928,21 @@ Color the flowers that match each number. 5 - green, 6 - red, 7 - yellow, 8 - bl
 [STRDGM] A grid of flower outlines. Each flower has an addition problem: \(3 + 3\), \(4 + 4\), \(2 + 3\), \(5 + 2\), and \(4 + 5\). [STPDGM]
 
 
-(Mathematics) (Exercise with Illustration) D 1 (Coloring Exercise)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color the longest bean.
 
 [STRDGM] Five wavy lines representing beans of varying lengths. [STPDGM]
 
 
-(Mathematics) (Exercise with Illustration) D 1 (Coloring Exercise)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color the tallest animal.
 
 [STRDGM] A mouse, a moose wearing a bow, and a cartoon character standing on stacked books, where the moose is the tallest among them. [STPDGM]
 
 
-(Mathematics) (Exercise with Illustration) D 1 (Coloring Exercise)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color the shortest string of beads.
 
@@ -85942,7 +85956,7 @@ Color the smallest shape red. Color the biggest shape blue.
 [STRDGM] 5 squares of different size each. [STPDGM]
 
 
-(Mathematics) (Exercise with Coloring) D 1 (With Illustration)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color the specified items: the second jug; the first kite.
 
@@ -85986,7 +86000,7 @@ Circle the greatest number: 12, 16, 18, 10, 14.
 Circle the greatest number: 13, 11, 15, 12, 14.
 
 
-(Mathematics) (Exercise with Coloring, Exercise with Illustration) D 1 (Multi-part)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration, Multi-part)
 
 Color the 3rd ball from the right and cross out the 5th ball from the left in the row of balls.
 
@@ -85998,28 +86012,28 @@ Color the 3rd ball from the right and cross out the 5th ball from the left in th
 [STRDGM] A row of ten identical balls. [STPDGM]
 
 
-(Mathematics) (Exercise with Coloring) D 1 (With Illustration)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color the shape that you can get by drawing around each solid as shown.
 
 [STRDGM] A rectangular prism, a cylinder, a pyramid, a cone, and a triangular prism. To the right of each solid, there are three shapes: a circle, a square, and a triangle. [STPDGM]
 
 
-(Mathematics) (Exercise with Coloring) D 1 (With Illustration)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color the 3 pieces that form the given square.
 
 [STRDGM] An uncolored square divided into three distinct geometric shapes: a triangle, a rectangle, and a trapezoid. [STPDGM]
 
 
-(Mathematics) (Exercise with Illustration) D 1 (Coloring Exercise)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color half of the square and a quarter of the rectangle.
 
 [STRDGM] A square and a rectangle. [STPDGM]
 
 
-(Mathematics) (Exercise with Coloring) D 1 (With Illustration)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color the 6th ball from the right.
 
@@ -86047,7 +86061,7 @@ Color the second orange from the left.
 [STRDGM] A row of eight identical circular oranges. [STPDGM]
 
 
-(Mathematics) (Exercise with Illustration) D 1 (Coloring Exercise)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color the picture that shows halves.
 
@@ -86056,14 +86070,14 @@ Color the picture that shows halves.
 [STRDGM] A crescent moon that is not divided. [STPDGM]
 
 
-(Mathematics) (Exercise with Coloring) D 1 (With Illustration)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color a half of each of the following shapes.
 
 [STRDGM] A triangle and a rectangle. [STPDGM]
 
 
-(Mathematics) (Exercise with Coloring) D 1 (With Illustration)
+(Mathematics) (Coloring Exercise) D 1 (With Illustration)
 
 Color a quarter of each of the following shapes.
 
@@ -86847,11 +86861,13 @@ Write the numbers:
 
 Color the shape that comes next.
 
-1. Rectangle, Circle, Rectangle, \_\_\_\_
-2. Circle, Triangle, Circle, \_\_\_\_
-3. Triangle, Rectangle, Triangle, \_\_\_\_
-4. Rectangle, Rectangle, Rectangle, \_\_\_\_
-5. Triangle, Circle, Triangle, \_\_\_\_
+\begin{enumerate}
+\item Rectangle, Circle, Rectangle, \_\_\_\_
+\item Circle, Triangle, Circle, \_\_\_\_
+\item Triangle, Rectangle, Triangle, \_\_\_\_
+\item Rectangle, Rectangle, Rectangle, \_\_\_\_
+\item Triangle, Circle, Triangle, \_\_\_\_
+\end{enumerate}
 
 
 (Mathematics) (Arithmetic Exercise, Word Problem) D 1 (Exercise with division)
@@ -86912,16 +86928,16 @@ Match the correct order to the picture: 1st, 2nd, 3rd, 4th, 5th, and 6th.
 
 (Mathematics) (Matching Exercise) D 1 M
 
-Match the numbers with words:
-Words: forty-five, ninety-nine, seventy-three, eighty-two, fifty-four, sixty-one
-Numbers: 73, 99, 45, 82, 61, 54
+Match the numbers with words:\\
+Words: forty-five, ninety-nine, seventy-three, eighty-two, fifty-four, sixty-one\\
+Numbers: 73, 99, 45, 82, 61, 54\\
 
 
 (Mathematics) (Matching Exercise) D 1 M
 
-Match the numbers with words:
-Words: thirty-eight, thirty-one, thirty-seven, twenty-six, forty, twenty-nine
-Numbers: 26, 29, 31, 37, 38, 40
+Match the numbers with words:\\
+Words: thirty-eight, thirty-one, thirty-seven, twenty-six, forty, twenty-nine\\
+Numbers: 26, 29, 31, 37, 38, 40\\
 
 
 (Mathematics) (Matching Exercise) D 1 M
@@ -87113,7 +87129,7 @@ How much money is there in each set?
 \end{enumerate}
 
 
-(Mathematics) (Short Answer) D 1 (Yes or No Questions, With Illustration)
+(Mathematics) (Short Answer) D 1 (Exercise presented as a yes or no question, With Illustration)
 
 Are there more butterflies than flowers?
 
@@ -87123,7 +87139,7 @@ Are there more butterflies than flowers?
 
 (Mathematics) (Short Answer) D 1 (With Illustration)
 
-There are more snails than leaves.
+Are there more snails than leaves?
 
 [STRDGM] A row of three snails and two leaves. [STPDGM]
 
@@ -87135,9 +87151,9 @@ Are there more worms than fish?
 [STRDGM] A row of three fish. Two worms above the row of fish. [STPDGM]
 
 
-(Mathematics) (Short Answer) D 1 (Yes or No Questions, With Illustration)
+(Mathematics) (Short Answer) D 1 (Exercise presented as a yes or no question, With Illustration)
 
-There are more chickens than ducks.
+Are there more chickens than ducks?
 
 [STRDGM] A group of three chickens on the left and a group of two ducks on the right. [STPDGM]
 
@@ -87341,7 +87357,7 @@ Write heavier than, lighter than or as heavy as.
 \end{enumerate}
 
 
-(Mathematics) (Drawing Exercise, Arithmetic Exercise) D 1 (Exercise with completing sentences, With illustration)
+(Mathematics) (Drawing Exercise, Arithmetic Exercise) D 1 (Exercise with completing sentences, With Illustration)
 
 Draw 4 snails in a row. Then, draw 1 more snail next to them.
 
@@ -87419,7 +87435,7 @@ x = 12 - 8
 The number of birds left is \(  \).
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 1 (Finding Unknown Quantity)
+(Mathematics) (Word Problem, Arithmetic Exercise) D 1 (Exercise about finding an unknown quantity)
 
 Ryan states he has 13 marbles, while Peter claims to have 7 more marbles than Ryan.
 
@@ -87973,7 +87989,7 @@ Draw the missing part.
 \end{itemize}
 
 
-(Mathematics) (Number Statements) D 1 (With Illustration, Write Symbols)
+(Mathematics) (Number Statements) D 1 (With Illustration, Exercise on writing number sentences)
 
 Write two number sentences for each picture.
 
@@ -88813,7 +88829,7 @@ There are 3 groups of 6 buttons.
 There are \_\_\_\_\_\_\_\_\_\_ buttons altogether.
 
 
-(Mathematics) (Arithmetic Exercise, Fill in the Blank) D 1 (Word Problem)
+(Mathematics) (Arithmetic Exercise, Fill in the Blank) D 1 (Exercise involving flowers)
 
 There are 5 groups of 3 flowers.
 
@@ -88905,7 +88921,7 @@ Fill in the blanks for the following statements:
 \end{enumerate}
 
 
-(Mathematics) (Short Answer) D 1 (Fill in the Blank, With Illustration)
+(Mathematics) (Short Answer Exercise, Fill in the Blank) D 1 (With Illustration)
 
 There are \_\_\_\_\_\_ more flowers than vases.
 
@@ -90596,7 +90612,7 @@ Arrange the numbers in order, beginning with the smallest:
 8709, 8907, 8970, 8790
 
 
-(Mathematics) (Measurement Exercise) D 3 (Activity Measurement)
+(Mathematics) (Measurement Exercise) D 3 (Exercise on measuring activity)
 
 Walk 10 paces. How many seconds did it take you to walk those paces?
 
@@ -91023,7 +91039,7 @@ Fill in the blanks in the following number patterns:
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise) D 3 (Matching Exercise)
+(Mathematics) (Arithmetic Exercise) D 3 (Exercise involving matching)
 
 Match the equations with their answers.
 
@@ -91064,12 +91080,20 @@ Calculate.
 \end{tabular}
 
 
-(Mathematics) (Arithmetic Exercise) D 3 (Matching Exercise with Illustration)
+(Mathematics) (Arithmetic Exercise) D 3 (Exercise with matching, With Illustration)
 
-Join each pair of matching cards with a straight line.
+Join each pair of equations with a straight line.
 
-[STRDGM] Two columns of cards: the left column contains the following mathematical operations: \( 6 \times 8 \), \( 20 \div 4 \), \( 5 + 7 \), and \( 15 - 9 \). The right column contains the corresponding results: 12, 48, 6, and 5. [STPDGM]
-
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Left Column: Operations} & \textbf{Right Column: Results} \\
+\hline
+\( 6 \times 8 \) & 12 \\
+\( 20 \div 4 \) & 48 \\
+\( 5 + 7 \) & 6 \\
+\( 15 - 9 \) & 5 \\
+\hline
+\end{tabular}
 
 (Mathematics) (Arithmetic Exercise) D 3 (Exercise with addition)
 
@@ -91196,7 +91220,7 @@ Express time durations in months.
 \end{tabular}
 
 
-(Mathematics) (Comparison Exercise) D 3 (Matching Exercise with angles, With Illustration)
+(Mathematics) (Comparison Exercise) D 3 (Exercise with matching, Exercise with angles, With Illustration)
 
 Tick (\checkmark) the correct answer for each angle.
 
@@ -91819,7 +91843,7 @@ Mr. Lin bought 2500 tiles. He used 1164 tiles for one room and 940 tiles for ano
 \end{enumerate}
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Comparison Exercise)
+(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Exercise involving comparison)
 
 A factory has 2000 workers. 1340 of them are men. The rest are women. How many more men than women are there?
 
@@ -92636,7 +92660,7 @@ Arrange the numbers in order, beginning with the greatest:
 \end{enumerate}
 
 
-(Mathematics) (Measurement Exercise, Drawing Exercise) D 3 (Exercise on activity, With illustration)
+(Mathematics) (Measurement Exercise, Drawing Exercise) D 3 (Exercise on activity, With Illustration)
 
 Draw 5 triangles. How many seconds did it take you to draw them?
 
@@ -92653,7 +92677,7 @@ Draw 5 triangles. How many seconds did it take you to draw them?
 
 
 
-(Mathematics) (Measurement Exercise, Estimation Exercise) D 3 (Activity-based)
+(Mathematics) (Measurement Exercise, Estimation Exercise, Activity) D 3 M
 Skip 15 times. How many seconds do you think it will take?
 
 
@@ -93212,7 +93236,7 @@ Nancy left Town M at 6:20 p.m. and reached Town N at 7:50 p.m. Her average speed
 \end{enumerate}
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 6 (Estimation Exercise, Multi-part)
+(Mathematics) (Word Problem, Arithmetic Exercise) D 6 (Exercise involving estimation, Multi-part)
 
 Cities P and Q were 180 km apart. John left City P at 4:15 p.m. and reached City Q at 6:30 p.m. If he had increased his average speed by 20 km/h, how much earlier would he have reached City Q?
 
@@ -93250,7 +93274,7 @@ Alvin took 2 hours to cover \( \frac{1}{4} \) of a journey. He covered the remai
 Patrick covered \( \frac{2}{5} \) of a journey in 50 minutes and the remaining 210 km in 2 hours 40 minutes. Find his average speed for the whole journey.
 
 
-(Mathematics) (Word Problem) D 6 (Distance and Time Problem)
+(Mathematics) (Word Problem) D 6 (Exercise on distance and time)
 
 Pamela and Ann set off from Town P to Town Q at the same time. The two towns were 600 km apart. When Pamela reached Town Q 5 hours later, Ann was still 120 km away from Town Q. If Ann continued at the same average speed, how long did she take to reach Town Q?
 
@@ -93294,7 +93318,7 @@ Three people, Edwin, Mark, and a third person, are shown with amounts of money. 
 \end{enumerate}
 
 
-(Mathematics) (Algebra Exercise) D 6 (Word Problem, Multi-part)
+(Mathematics) (Word Problem, Algebra Exercise) D 6 (Multi-part)
 Let \( e \) represent the number of magazines Don has. Jack has twice as many magazines.
 
 \begin{enumerate}[label=\alph*.]
@@ -94053,7 +94077,7 @@ Complete the table below based on the given ratio:
 \]
 
 
-(Mathematics) (Arithmetic Exercise) D 6 (Exercise on ratios, Table Completion Exercise)
+(Mathematics) (Arithmetic Exercise) D 6 (Exercise on ratios, Exercise with table completion)
 
 The ratio of the amount of coffee powder to the amount of sugar used to make coffee is \( 5:4 \).
 
@@ -94144,7 +94168,7 @@ There are 6 cages. There are \( m \) birds in each cage.
 \end{enumerate}
 
 
-(Mathematics) (Short Answer) D 1 (Writing Activity)
+(Mathematics) (Short Answer, Writing Activity) D 1 M
 
 Write the correct day of the week in each empty space.
 
@@ -94161,7 +94185,7 @@ Write the correct day of the week in each empty space.
 \end{table}
 
 
-(Mathematics) (Drawing Exercise, Short Answer) D 1 (Activity)
+(Mathematics) (Drawing Exercise, Short Answer, Activity) D 1 M
 
 Draw and write about something that happens once a year.
 
@@ -94259,7 +94283,7 @@ Write the sign \( <, > \) or \( = \) to make each expression correct.
 \end{enumerate}
 
 
-(Mathematics) (Arithmetic Exercise) D 6 (Challenge Exercise, Multi-part)
+(Mathematics) (Arithmetic Exercise) D 6 (Multi-part)
 
 Use the numbers 2, 3, and 4 to complete the calculations.
 
