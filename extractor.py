@@ -88,27 +88,10 @@ if __name__ == "__main__":
 
         # Separate each question by their headers
         questions = re.split(r'\n(?=\(.*?\) \(.*?\))', text)
-        qs = []
-        # Remove empty strings and get the subject you want
-        for q in questions:
-            header, body = q.split("\n", 1)
-                # Create a pattern for matching parameter groups
-            pattern = r"""
-            (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
-            (\([^)]*\)|T)\s       # Capture text inside parentheses or "T"
-            D\s                     # Match the literal "D"
-            (\d+|G)\s               # Capture a number or "G"
-            (\([^)]*\)|M)         # Capture text inside parentheses or "M"
-            """
-            # Split the parameters
-            match = re.match(pattern, header, re.VERBOSE)
-            params = match.groups()
-            if params[3] not in ('M', None, '(Multi-part)', '(With Answer)'):
-                qs.append(q)
-        # questions = [q.strip() for q in questions if q.strip() and args.subject in q]
+        questions = [q.strip() for q in questions if q.strip() and args.subject in q]
 
         # Create multiple completions and store them in batches
-        batch_items(BATCH_FOLDER, qs, PROMPT, args.subject, True)
+        batch_items(BATCH_FOLDER, questions, PROMPT, args.subject, True)
     elif args.key == "sb":
         submit_batch(BATCH_FOLDER, client, args.batch_file_name)
     elif args.key == "ab":

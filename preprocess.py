@@ -2,6 +2,7 @@
 import argparse
 import re
 import inflect
+from spellchecker import SpellChecker
 
 # -------------------------
 # Parsers / Subparsers
@@ -67,7 +68,7 @@ def modifier(modifiers: list) -> str:
 
     # Separate the "With ..." modifiers first
     for modifier in modifiers:
-        if modifier in 'With Illustration With Answer With Material With Prerequisites With Context With Hint':
+        if modifier in 'With Answer With Material With Prerequisites With Context With Hint':
             w_mods.append(modifier.strip())
         else:
             remaining.append(modifier.strip())
@@ -91,17 +92,22 @@ def modifier(modifiers: list) -> str:
 
     # Handle remaining modifiers
     for modifier in remaining:
-        if modifier == 'With Marks':
+        if modifier == 'With Illustration':
+          final += ' The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).'
+        elif modifier == 'With Marks':
             final += ' There should be marks/points assigned to the question.'
         elif modifier == 'With Instruction':
             final += ' The exercise should have a top sentence that serve as instructions.'
         elif modifier == 'Multi-part':
             final += ' It should have multiple steps.'
         else:
-            second_word = modifier.split(' ')[1]
-            if second_word == 'with':
+            split = modifier.split(' ')
+            # If the second word is with, we replace it with involving
+            if split[1] == 'with':
                 modifier = modifier.replace('with', 'involving', 1)
-            final += f' It should be {p.a(modifier.lower())}.'
+            # Put the first word to lowercase
+            modifier = modifier.replace(split[0], split[0].lower())
+            final += f' It should be {p.a(modifier)}.'
     
     return final
 
@@ -151,18 +157,69 @@ def make_instructions(file_path: str) -> list:
     # Split the questions on their headers
     questions = re.split(header_pattern, content)
 
-    # Turn headers into instructions and create a new dataset using them
+    # Prepare the instructions list
     instructions = []
     for q in questions:
-        if q:
-            params, body = q.split("\n", 1)
-            instructions.append(instructionize(params) + '\n' + body.strip())
-
+        if q.strip():
+            # Split into header and body
+            if "\n" in q:
+                params, body = q.strip().split("\n", 1)
+            else:
+                params = q.strip()
+                body = ''
+            # Use your existing pattern
+            pattern = r"""
+            (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
+            (\([^)]*\)|T)\s       # Capture text inside parentheses or "T"
+            D\s                   # Match the literal "D"
+            (\d+|G)\s             # Capture a number or "G"
+            (\([^)]*\)|M)         # Capture text inside parentheses or "M"
+            """
+            match = re.match(pattern, params, re.VERBOSE)
+            if match:
+                # Check if the match consumed the entire header line
+                if match.end() != len(params):
+                    # Extra text detected after the header
+                    print(f"Header with potential issue:\n'{params}'\n")
+                # Proceed with instructionization
+                instructions.append(instructionize(params) + '\n' + body.strip())
+            else:
+                # Header does not match the expected pattern
+                print(f"Header does not match expected pattern:\n'{params}'\n")
     return instructions
 
+# New function to check spelling in headers
+def check_header_spelling(file_path: str) -> None:
+    """
+    Reads the headers from the questions.txt file and checks for spelling mistakes.
+    """
+    spell = SpellChecker()
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    # Regular expression to match headers
+    header_pattern = r'\n(?=\(.*?\) \(.*?\))'
+    # Split the questions on their headers
+    questions = re.split(header_pattern, content)
+
+    for q in questions:
+        if q.strip():
+            params = q.strip().split("\n", 1)[0]
+            # Extract words from the header
+            header_text = params.replace('(', '').replace(')', '')
+            words = re.findall(r'\b\w+\b', header_text)
+            misspelled = spell.unknown(words)
+            if misspelled:
+                print(f"Spelling mistakes in header: '{params}'")
+                print("Misspelled words:", ', '.join(misspelled))
+                print()
+
 if __name__ == "__main__":
+    
+    
+
     questions = make_instructions('data/questions.txt')
 
-    with open('instructions.txt', 'w') as f:
+    with open('data/instructions.txt', 'w') as f:
         for q in questions:
             f.write(q + '\n\n\n')

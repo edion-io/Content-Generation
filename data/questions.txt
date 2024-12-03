@@ -1844,9 +1844,9 @@ Make a program that asks for a number and then tells you that number plus five.
 \end{enumerate}
 
 
-(Computer Science) (Programming Exercise) D 3 (Exercise with sprites, Exercise on maths operations)
+(Computer Science) (Programming Exercise) D 3 (Exercise with sprites, Exercise on mathematical operations)
 
-Make a program with many different sprites. Make each sprite do a different maths operation.
+Make a program with many different sprites. Make each sprite do a different mathematical operation.
 
 
 (Computer Science) (Programming Exercise) D 5 (Exercise with Bonus Challenge)
@@ -3919,7 +3919,7 @@ to call          & she \_\_\_        & she \_\_\_            \\ \hline
 \end{table}
 
 
-(English) (Grammar Exercise) D 3 (Exercise on present perfect tense)
+(English) (Grammar Exercise) D 3 (Exercise on the present perfect tense)
 
 Use these present perfect tense verbs in sentences of your own.
 \begin{enumerate}
@@ -5716,7 +5716,8 @@ Complete these sentences with past progressive verbs.
 \item They \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ for Grandfather.
 \item Mother \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ dinner.
 \end{enumerate}
-STRDGM Image of a model railway with a train, trees, and a small house in a scenic setting. STPDGM
+
+[STRDGM] Image of a model railway with a train, trees, and a small house in a scenic setting. [STPDGM]
 
 
 (English) (Writing Exercise) D 4 (With Illustration, Exercise on creative writing)
@@ -7073,7 +7074,7 @@ Underline the present perfect tense verbs in sentences
 \end{enumerate}
 
 
-(English) (Grammar Exercise) D 4 (Exercise on present perfect, Exercise involving table completion)
+(English) (Grammar Exercise) D 4 (Exercise on the present perfect tense, Exercise involving table completion)
 
 Complete the table with present perfect tense forms
 
@@ -7820,7 +7821,7 @@ Write all of the prepositions from the box that can follow each word below.
 \end{enumerate}
 
 
-(English) (Grammar Exercise) D 4 (Exercise on present perfect tense)
+(English) (Grammar Exercise) D 4 (Exercise on the present perfect tense)
 
 Underline the two words that make up the present perfect tense in each sentence.
 \begin{enumerate}
@@ -8555,7 +8556,7 @@ Put full stops at the end of the telling sentences. Put question marks at the en
 \end{enumerate}
 
 
-(English) (Grammar Exercise) D 6 (Exercise on present perfect tense)
+(English) (Grammar Exercise) D 6 (Exercise on the present perfect tense)
 
 Underline the present perfect tense verb in each sentence.
 \begin{enumerate}
@@ -9278,7 +9279,7 @@ Write as many silent letter words as you can into a sentence.
 [STRDGM] A drawing of a sheep. [STPDGM]
 
 
-(English) (Grammar Exercise, Fill in the Blank) D 6 (Exercise on subjunctive form)
+(English) (Grammar Exercise, Fill in the Blank) D 6 (Exercise on the subjunctive form)
 
 Write the subjunctive form of these verbs.
 Verb family name:
@@ -12587,7 +12588,7 @@ Write four important uses of the world's larger rivers.
 Write a sentence about each of these river words: stream, dam, valley, gorge, waterfall, oxbow lake, estuary, delta.
 
 
-(History) (Report Writng Exercise) D 6 M
+(History) (Report Writing Exercise) D 6 M
 
 Write a detailed report on the Great Fire of London. In your report, include information such as when the fire started, who the first victim was, how and why the fire spread so quickly, and how people tried to fight the fire.  
 
@@ -16274,7 +16275,7 @@ Work with a friend or in a small group to carry out research into one of the fol
 In London, builders and archeologists have uncovered many Roman objects. Create a presentation about some of the objects that have been found.
 
 
-(History) (Writing Exercise, Activity) D 6 (Exercise on writing a report, With description of Tudor society)
+(History) (Writing Exercise, Activity) D 6 (Exercise on writing a report, Exercise requiring the description of Tudor society)
 
 Write a brief report of no more than 100 words with the title 'Description of England'. Your report should explain how the population of the country was divided into four groups within Tudor society.
 
@@ -16789,7 +16790,7 @@ Soldiers who fought on horses were called:
 \end{enumerate}
 
 
-(History) (Multiple Choice Exercise) D 5 (Exercise on Celtic warrior queen)
+(History) (Multiple Choice Exercise) D 5 (Exercise on a Celtic warrior queen)
 
 In 60 ce, which Celtic warrior queen gathered a huge army and fought against the Romans?  
 \begin{enumerate}[label=\alph*.]
@@ -26286,7 +26287,7 @@ Complete the sentences that follow about the relationships within the family. Ea
 \end{enumerate}
 
 
-(Dutch) (Creative Writing Exercise) D G M (Exercise on describing clothing)
+(Dutch) (Creative Writing Exercise) D G (Exercise on describing clothing)
 
 Describe what you and your friend are going to wear tomorrow.
 
@@ -26340,7 +26341,7 @@ Ik draag een grijs T-shirt en een korte broek.
 Mijn vriendin draagt een strakke blouse en een spijkerbroek.
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on family members)
+(Dutch) (Short Answer Exercise) D G (Exercise on family members)
 
 Answer these questions:
 \begin{enumerate}
@@ -26350,7 +26351,7 @@ Answer these questions:
 \end{enumerate}
 
 
-(Dutch) (Pronunciation Exercise) D G M (Exercise on family vocabulary)
+(Dutch) (Pronunciation Exercise) D G (Exercise on family vocabulary)
 
 Say:
 \begin{enumerate}
@@ -26375,18 +26376,18 @@ Which of the following descriptive words gets an extra -e, and which doesn't? Ca
 A descriptive word gets an extra -e when it is used with a de word. When it is used with a het word, it does not get an extra -e.
 
 
-(Dutch) (Pronunciation Exercise) D G M (Exercise on saying sentences)
+(Dutch) (Pronunciation Exercise) D G (Exercise on saying sentences)
 
 Say:  
 I am wearing a white T-shirt.
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on describing clothing)
+(Dutch) (Short Answer Exercise) D G (Exercise on describing clothing)
 
 Describe what you are wearing.
 
 
-(Dutch) (Pronunciation Exercise) D G M (Exercise on saying phrases)
+(Dutch) (Pronunciation Exercise) D G (Exercise on saying phrases)
 
 Say:  
 We like red wine.
@@ -26504,7 +26505,7 @@ Fill in the gaps.
 \end{enumerate}
 
 
-(Dutch) (Translation Exercise, Writing Exercise, Speaking Exercise) D G M (Exercise on creating a dialogue)
+(Dutch) (Translation Exercise, Writing Exercise, Speaking Exercise) D G (Exercise on creating a dialogue)
 
 Write a short dialogue:\\
 Ask what you and your partner should do on Saturday.\\
@@ -26515,7 +26516,7 @@ Arrange to meet at 2.15 at the entrance.\\
 Read this new dialogue out loud and then write it down.\\
 
 
-(Dutch) (Short Answer Exercise, Dialogue Exercise) D G (Multi-part, Exercise on Jan's activities)
+(Dutch) (Short Answer Exercise, Dialogue Exercise) D G (Multi-part, Exercise that requires some reading comprehension, Exercise involving the writing of sentences)
 
 Jan's diary:\\
 Zaterdagmiddag: nieuwe voetbalschoenen kopen\\
@@ -26551,7 +26552,7 @@ You're going on holiday with a friend. There's a lot that still needs to be orga
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise with personal perspective)
+(Dutch) (Short Answer Exercise) D G (Exercise with personal perspective)
 
 Answer the following questions from your own perspective.  
 Answer with a whole sentence.
@@ -26570,7 +26571,7 @@ Answer with a whole sentence.
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on answering with geen)
+(Dutch) (Short Answer Exercise) D G (Exercise on answering with geen)
 
 Practise answering with geen by completing the following mini-dialogues.
 Answer all these questions in the negative:
@@ -26587,7 +26588,7 @@ Answer all these questions in the negative:
 \end{enumerate}
 
 
-(Dutch) (Writing Exercise) D G M (Exercise on giving negative answers)
+(Dutch) (Writing Exercise) D G (Exercise on giving negative answers)
 
 Unfortunately, things are not going as planned and you're having to give negative answers to all the following questions.
 
@@ -26763,7 +26764,7 @@ Ik hou van ... humor (England) --> Ik hou van Engelse humor.
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise, Dialogue Exercise) D G M (Exercise on plans and activities)
+(Dutch) (Short Answer Exercise, Dialogue Exercise) D G (Exercise on plans and activities)
 
 Kees and Maria's diary:\\
 Vrijdagavond: Maria's verjaardag vieren\\
@@ -26775,7 +26776,7 @@ Zaterdagochtend: langs de dijk fietsen\\
 \end{enumerate}
 
 
-(Dutch) (Writing Exercise) D G M (Exercise on using verbs to make sentences)
+(Dutch) (Writing Exercise) D G (Exercise on using verbs to make sentences)
 
 Look at this list of activities:
 \begin{enumerate}
@@ -26792,7 +26793,7 @@ Use the verbs gaan, mogen, moeten, willen and kunnen to make sentences about the
 Which verb you use depends on what seems appropriate to you, whether you can, want, are allowed or have to do these activities.
 
 
-(Dutch) (Pronunciation Exercise) D G M (Exercise on speaking sentences)
+(Dutch) (Pronunciation Exercise) D G (Exercise on speaking sentences)
 
 Say:
 \begin{enumerate}
@@ -26802,19 +26803,19 @@ Say:
 \end{enumerate}
 
 
-(Dutch) (Writing Exercise, Speaking Exercise) D G M (Exercise on asking questions)
+(Dutch) (Writing Exercise, Speaking Exercise) D G (Exercise on asking questions)
 
 Ask Carla whether she is going to watch television tonight.\\
 Write the sentence and say it out loud.
 
 
-(Dutch) (Pronunciation Exercise) D G M (Exercise on telling a friend)
+(Dutch) (Pronunciation Exercise) D G (Exercise on telling a friend)
 
 Tell a friend:  
 Robert is in love with you.
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on expressing interest)
+(Dutch) (Short Answer Exercise) D G (Exercise on expressing interest)
 
 Say how much you are interested (or not) in the following things:
 \begin{enumerate}
@@ -26824,7 +26825,7 @@ Say how much you are interested (or not) in the following things:
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on making suggestions)
+(Dutch) (Short Answer Exercise) D G (Exercise on making suggestions)
 
 Make suggestions to your friends, saying you can do the following things.\\
 Add the day on which you could undertake these things:
@@ -26889,7 +26890,7 @@ Answer the following questions about the dialogue in English.
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on comparing dialogues, With questions in English)
+(Dutch) (Short Answer Exercise) D G (Exercise on comparing dialogues, With questions in English)
 
 Dialoog 1
 Barkeeper: Hoi.
@@ -27144,7 +27145,7 @@ A waiter in a cafe says Zegt u het maar.
 Order two cups of coffee, a cola and an orange juice.
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on ordering items in different ways)
+(Dutch) (Short Answer Exercise) D G (Exercise on ordering items in different ways)
 
 Order the following things.
 Try to do it in different ways:
@@ -27155,7 +27156,7 @@ Try to do it in different ways:
 \end{enumerate}
 
 
-(Dutch) (Pronunciation Exercise) D G M (Exercise on saying phrases)
+(Dutch) (Pronunciation Exercise) D G (Exercise on saying phrases)
 
 Say:
 \begin{enumerate}
@@ -27164,13 +27165,13 @@ Say:
 \end{enumerate}
 
 
-(Dutch) (Pronunciation Exercise) D G M (Exercise on saying phrases)
+(Dutch) (Pronunciation Exercise) D G (Exercise on saying phrases)
 
 Say:  
 Juliet kisses Jake.
 
 
-(Dutch) (Fill in the Blank Exercise) D G M (Exercise on verb forms)
+(Dutch) (Fill in the Blank Exercise) D G (Exercise on verb forms)
 
 Fill in the correct form of the verb:
 \begin{enumerate}
@@ -27180,7 +27181,7 @@ Fill in the correct form of the verb:
 \end{enumerate}
 
 
-(Dutch) (Grammar Exercise) D G M (Exercise on modifying sentences)
+(Dutch) (Grammar Exercise) D G (Exercise on modifying sentences)
 
 Fill in the missing word. Then, replace Gabriella and Peter-Jan with one of the following words: ik, mij, zij, hij, wij, hem, haar, jou, jij.
 
@@ -27238,7 +27239,7 @@ Kan ik met ... spreken?
 \end{enumerate}
 
 
-(Dutch) (Writing Exercise) D G M (Exercise on creating dialogues)
+(Dutch) (Writing Exercise) D G (Exercise on creating dialogues)
 
 Make up dialogues for the following situations.
 \begin{enumerate}
@@ -27329,7 +27330,7 @@ Tony: Ach man, wat maakt dat nou uit? Dan werk je toch een paar dagen meer in de
 \end{enumerate}
 
 
-(Dutch) (Writing Exercise, Short Answer Exercise) D G M (Exercise on mini-dialogues and preferences)
+(Dutch) (Writing Exercise, Short Answer Exercise) D G (Exercise on mini-dialogues and preferences)
 
 Look at this list:\\
 Mevrouw Dijkstal / een groot feest\\
@@ -27439,7 +27440,7 @@ duur expensive\\
 schoon clean\\
 
 
-(Dutch) (Writing Exercise) D G M (Exercise on comparing public figures using adjectives)
+(Dutch) (Writing Exercise) D G (Exercise on comparing public figures using adjectives)
 
 Write a comparison of two major public figures.\\
 They could be sporting heroes, political figures or figures in the royal family.\\
@@ -27489,7 +27490,7 @@ Use adjectives you already know and some from this list in your description:
 \end{enumerate}
 
 
-(Dutch) (Vocabulary Exercise) D G (With Answer, Exercise on saying goodbye in Dutch)  
+(Dutch) (Vocabulary Exercise) D G (With Answer, Exercise on saying goodbye in Dutch)
 There are various ways of saying goodbye in Dutch:\\
 You can use tot zo and tot straks, which both mean see you in a little while.\\
 If two individuals did not know when they would meet again, they could say tot ziens.\\
@@ -27551,7 +27552,7 @@ Bel dan een half uur voor u wilt vertrekken naar de Treintaxi-centrale
 \end{enumerate}
 
 
-(Dutch) (Fill in the Blank Exercise) D G M (Exercise on using appropriate words)
+(Dutch) (Fill in the Blank Exercise) D G (Exercise on using appropriate words)
 
 Complete the following sentences, using \textit{gewoon}, \textit{hoor} or \textit{natuurlijk} as appropriate.
 
@@ -27609,7 +27610,7 @@ Omdat \_\_\_\_\_\_\_.
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on the function of "nou")
+(Dutch) (Short Answer Exercise) D G (Exercise on the function of "nou")
 
 What is the function of nou in the following sentences?
 \begin{enumerate}
@@ -27621,7 +27622,7 @@ What is the function of nou in the following sentences?
 \end{enumerate}
 
 
-(Dutch) (Ordering Exercise, Writing Exercise) D G M (Activity on creating a poem)
+(Dutch) (Ordering Exercise, Writing Exercise) D G (Activity on creating a poem)
 
 You have been asked to participate in the Sinterklaas celebration at work. Names were allocated secretly and you have to get a present for Andrew. You quite like him, but you are annoyed about the fact that he is often late. \\
 
@@ -27714,7 +27715,7 @@ How to say it in Dutch?
 If you live in an area where Dutch words are everywhere, try to find ten Dutch words with these double vowels, write them down, learn how to pronounce them, and look up what they mean.
 
 \subsection*{Materials}
-Collection of native dutch texts, could be newspapers, advertisements, product labels, etc. Alternatively, go outside and look in your environment.
+Collection of native Dutch texts, could be newspapers, advertisements, product labels, etc. Alternatively, go outside and look in your environment.
 
 
 (Dutch) (Writing Exercise) D G (Exercise on writing phrases, With Hint)
@@ -27780,7 +27781,7 @@ Try to come up with ten small conversations in Dutch involving bread, meat, vege
 Ask several questions using the interrogative pronouns hoe (how), wie (who), wat (what), waar (where), wanneer (when). And while you are at it, how about forming an answer to them as well? Example: (1) "Hoe werkt dit keukenapparaat? Dat kun je beter aan mijn vader vragen." (2) "Hoe laat vertrekt de trein naar Amsterdam? De volgende trein vertrekt om kwart over vier." Write down ten of these sets and call yourself an advanced speaker of Dutch!
 
 
-(Dutch) (Writing Exercise) D G M (Exercise on holiday activities)
+(Dutch) (Writing Exercise) D G (Exercise on holiday activities)
 
 Give three activities which you like doing on your holidays. Start your sentences with Ik wil op vakantie ...
 
@@ -27799,7 +27800,7 @@ Answer: Ik ga liever barbecueen, want dat doe je buiten.
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise, Reading Comprehension Exercise) D G M (Exercise on work-life balance)
+(Dutch) (Short Answer Exercise, Reading Comprehension Exercise) D G (Exercise on work-life balance)
 
 Koen is IT -specialiste bij een grote bank.\\
 Petra heeft een riant salaris, maar moet wel hard werken.\\
@@ -27826,7 +27827,7 @@ Answer the following questions about the reading text in English.
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise, Reading Comprehension Exercise) D G M (Exercise on Jos's work and free time)
+(Dutch) (Short Answer Exercise, Reading Comprehension Exercise) D G (Exercise with a short text, Exercise with an individual named Jos)
 
 Jos Korenaar is eindredacteur bij een krant.\\
 'Voor fulltimewerk, kom ik niet,' zegt Jos.\\
@@ -27857,7 +27858,7 @@ Answer the following questions about the reading text in English.
 \end{enumerate}
 
 
-(Dutch) (Question and Answer Exercise) D G (Exercise with an example, Multi-part) 
+(Dutch) (Question and Answer Exercise) D G (Exercise with an example, Multi-part)
 \begin{enumerate}[label=\alph*.]
 \item Wat vind je belangrijker? What do you think is more important?\\
 Say what you find more important by answering the questions following the example:\\
@@ -27929,7 +27930,7 @@ Ik ben niet kleinzielig maar wel veeleisend. / I am not small-minded but I am de
 \end{enumerate}
 
 
-(Dutch) (Writing Exercise) D G M (Exercise on characteristics of a partner)
+(Dutch) (Writing Exercise) D G (Exercise on characteristics of a partner)
 
 Think of what you are looking for in a partner (present or future). Make up a list of as many characteristics as you can think of (at least five), following the example:\\
 Hij/zij moet geduldig zijn. He/she must be patient.\\
@@ -27967,7 +27968,7 @@ Hij/zij moet een goed gevoel voor humor hebben. He/she must have a good sense of
 \end{enumerate}
 
 
-(Dutch) (Short Answer Exercise) D G M (Exercise on greetings and farewells, Exercise with translation)
+(Dutch) (Short Answer Exercise) D G (Exercise on greetings and farewells, Exercise with translation)
 
 \begin{enumerate}
 \item Give two ways of saying "See you later" in Dutch.
@@ -27986,7 +27987,7 @@ Hij/zij moet een goed gevoel voor humor hebben. He/she must have a good sense of
 \end{enumerate}
 
 
-(Dutch) (Fill in the Blank Exercise) D G M (Exercise on using toch or maar)
+(Dutch) (Fill in the Blank Exercise) D G (Exercise on using toch or maar)
 
 Complete using toch or maar as appropriate.
 \begin{enumerate}
@@ -33668,7 +33669,7 @@ Reformuler les phrases en utilisant être en train de + infinitif.
 \item Elle est en train de manger une omelette aux champignons.
 \end{enumerate}
 
-(French) (Q&A Exercise) D G (Exercise on present tense, Exercise with depuis, With Answer)
+(French) (Q&A Exercise) D G (Exercise on the present tense, Exercise with depuis, With Answer)
 
 Répondre aux questions en utilisant le présent et depuis.
 
@@ -33730,7 +33731,7 @@ Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire.
 \item Je pèse les légumes.
 \end{enumerate}
 
-(French) (Grammar Exercise) D G (Exercise on conjugation, Exercise on present tense, With Answer)
+(French) (Grammar Exercise) D G (Exercise on conjugating to the present tense, With Answer)
 
 Mettre les verbes entre parenthèses au présent.
 
@@ -33834,7 +33835,7 @@ Traduire les phrases suivantes en utilisant vous si nécessaire.
     \item Ils (Elles) dorment dans la chambre de Sonia.
 \end{enumerate}
 
-(French) (Grammar Exercise) D G (Exercise on conjugation, Exercise on present tense, With Answer)
+(French) (Grammar Exercise) D G (Exercise on conjugating to the present tense, With Answer)
 
 Mettre au présent les verbes entre parenthèses.
 \begin{enumerate}[label=\Roman*.]
@@ -36212,7 +36213,7 @@ Mettre au plus-que-parfait les verbes entre parenthèses.
 \end{enumerate}
 
 
-(French) (Grammar Exercise) D G (Exercise on plus-que-parfait, With Answer)
+(French) (Grammar Exercise) D G (Exercise on the plus-que-parfait tense, With Answer)
 
 Commencer les phrases par "si seulement" et mettre au plus-que-parfait les verbes entre parenthèses.
 
@@ -36722,7 +36723,7 @@ Mettre les verbes au subjonctif.
 \end{enumerate}
 
 
-(French) (Grammar Exercise) D G (Exercise on subjunctive, With Answer)
+(French) (Grammar Exercise) D G (Exercise on using the subjunctive, With Answer)
 Mettre les propositions subordonnées au subjonctif.
 \begin{enumerate}
     \item Il faut que vous (aller)          voir ce film.
@@ -36752,7 +36753,7 @@ Mettre les propositions subordonnées au subjonctif.
 \end{enumerate}
 
 
-(French) (Grammar Exercise) D G (Exercise on subjonctif, With Answer)
+(French) (Grammar Exercise) D G (Exercise on the subjonctif tense, With Answer)
 
 Mettre les verbes entre parenthèses au subjonctif.
 
@@ -36814,7 +36815,7 @@ Mettre les verbes entre parenthèses au subjonctif ou à l'indicatif.
 \end{enumerate}
 
 
-(French) (Grammar Exercise) D G (Exercise on subjonctif, With Answer)
+(French) (Grammar Exercise) D G (Exercise on the subjonctif tense, With Answer)
 
 Mettre les propositions subordonnées suivantes au subjonctif.
 
@@ -37189,7 +37190,7 @@ Mettre au participe présent les verbes suivants:
 \end{enumerate}
 
 
-(French) (Grammar Exercise) D G (Exercise on gérondif, With Answer)
+(French) (Grammar Exercise) D G (Exercise on using the gérondif tense, With Answer)
 
 Mettre au gérondif les verbes suivants:
 \begin{enumerate}
@@ -39659,7 +39660,7 @@ Translate from Spanish to English and vice versa.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 
 Translate this conversation from Spanish to English.
 
@@ -39767,7 +39768,7 @@ Complete the following sentences with nationalities in masculine, feminine, or p
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from English to Spanish.  
 \begin{enumerate}
     \item Arturo is a fireman.
@@ -39835,7 +39836,7 @@ Translate the following sentences from English to Spanish.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following text from Spanish to English.  
 Hola, me llamo Sara y soy de Marruecos. Vivo en Francia y soy profesora de árabe. Tengo treinta años. Tengo un novio que se llama Pierre y un pequeño gato cuyo nombre es Pete.  
 
@@ -39863,7 +39864,7 @@ Complete the following phrases with professions.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following text from Spanish to English.  
 \begin{enumerate}
     \item Luis es ecuatoriano, vive en Quito.
@@ -40192,7 +40193,7 @@ LA:
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 
 Translate the following from English to Spanish.
 
@@ -40276,7 +40277,7 @@ Locate the nouns in the following sentences.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 
 Translate the following phrases from English to Spanish.
 \begin{enumerate}
@@ -40359,7 +40360,7 @@ Fill in the blanks with the correct number.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from Spanish to English.  
 \begin{enumerate}
     \item La leche cuesta cuatro pesos el litro.
@@ -40640,7 +40641,7 @@ Re-order these words to create sentences that make sense.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate these sentences from English to Spanish.  
 \begin{enumerate}
     \item There is no more beer.
@@ -41514,7 +41515,7 @@ Write the plural of the following sentences and phrases:
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following phrases from English to Spanish.  
 \begin{enumerate}
     \item Nokia cellphones
@@ -41628,7 +41629,7 @@ Complete the sentences with the correct form of the adjectives in brackets.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from English to Spanish.  
 \begin{enumerate}
     \item I am very tired.
@@ -41828,7 +41829,7 @@ Write the right time in Spanish from the following phrases.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from English to Spanish.  
 \begin{enumerate}
     \item I work in the morning and study in the afternoon.
@@ -41848,7 +41849,7 @@ Translate the following sentences from English to Spanish.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following phrases from Spanish to English.  
 \begin{enumerate}
     \item Alrededor de
@@ -41888,7 +41889,7 @@ Complete the next exercise with the days of the week.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following phrases from Spanish to English:  
 \begin{enumerate}
     \item La semana
@@ -42052,7 +42053,7 @@ Change these negative sentences into affirmative ones.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Choose the right translation for these sentences.  
 \begin{enumerate}
     \item El nunca ha manejado.
@@ -42506,7 +42507,7 @@ Complete the sentences with the correct preposition.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from English to Spanish.  
 \begin{enumerate}
     \item What's this for?
@@ -42569,7 +42570,7 @@ Translate the following sentences from English to Spanish.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from Spanish to English.  
 \begin{enumerate}
     \item Mi mamá cambió su vehículo por uno nuevo.
@@ -42757,7 +42758,7 @@ Use the perfect tense to complete the sentences. Use “Haber” + the verb in t
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from Spanish to English.  
 \begin{enumerate}
     \item Recientemente he salido con Paula.
@@ -42866,7 +42867,7 @@ Complete the phrases using possessive adjectives.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from Spanish to English.  
 \begin{enumerate}
     \item Rodrigo trabaja con su padre.
@@ -43175,7 +43176,7 @@ Complete sentences as in the example. Use the following demonstratives: este, es
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 
 Translate the following sentences from English to Spanish.
 \begin{enumerate}
@@ -43386,7 +43387,7 @@ Complete the sentences. Use the following demonstratives: tan, igual de.
 \end{enumerate}
 
 
-(Spanish) (Translation Exercise) D G (With Answer)  
+(Spanish) (Translation Exercise) D G (With Answer)
 Translate the following sentences from English to Spanish.
 \begin{enumerate}
     \item My mother is younger than my father.
@@ -43779,7 +43780,7 @@ Use the correct form of the present tense shortcut with the following sentences.
 \end{enumerate}
 
 
-(Spanish) (Grammar Exercise) D G (Exercise on present progressive, With Answer)
+(Spanish) (Grammar Exercise) D G (Exercise on the present progressive tense, With Answer)
 
 Use the correct form of the present progressive tense with the following sentences.  
 \begin{enumerate}
@@ -45375,7 +45376,7 @@ Ask questions based on the sentences given below. Use the underlined phrase in e
 \end{enumerate}
 
 
-(German) (Writing Exercise, Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on Dativ Objects, Exercise on forming questions)
+(German) (Writing Exercise, Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on dativ objects, Exercise on forming questions)
 
 Form a question based on the phrase underlined in each sentence. For example, when presented with the phrase Ich spreche mit Karl, you say Mit wem spreche ich?
 
@@ -45896,7 +45897,7 @@ Change the following infinitives to past participles.
 \end{enumerate}
 
 
-(German) (Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on present perfect tense)
+(German) (Grammar Exercise) D G (With Answer, Exercise with one or more examples, Exercise on the present perfect tense)
 
 Decide whether the verbs should be used with sein or haben in the present perfect tense and form the past participle with the subject provided.\\
 
@@ -46411,7 +46412,7 @@ Complete the sentences below with the correct word or phrase from the two provid
 \end{enumerate}
 
 
-(German) (Writing Exercise) D G (With Answer, Exercise on Subjunctive)
+(German) (Writing Exercise) D G (With Answer, Exercise on using the subjunctive)
 
 Rewrite each infinitive in the Subjunctive I and the Subjunctive II for the pronoun er.
 
@@ -48160,14 +48161,14 @@ Insert the correct word from the parenthesis into the space.
 \end{enumerate}
 
 
-(German) (Grammar Exercise) D G M (Exercise on identifying subjects in nominative)
+(German) (Grammar Exercise) D G (Exercise on identifying subjects in nominative)
 
 In the postcard below, underline all subjects that are in nominative.\\
 
 Hallo Alisa! Meine Famillie und ich haben hier in Spanien viel Spaß. Das Wetter ist einfach fantastisch. Wie geht es mit den Prüfungen? Hast du irgendwelche interessante Neuigkeiten? Unser Onkel kommt uns vielleicht sogar hier besuchen. Er hat sich die nächste Woche frei genommen. Die Umgebung ist wirklich toll. Du solltest uns auch besuchen! Liebe Grüße Marie
 
 
-(German) (Grammar Exercise) D G M (Exercise on underlining nouns with articles in the plural form)
+(German) (Grammar Exercise) D G (Exercise on underlining nouns with articles in the plural form)
 
 Underline all nouns with articles in the plural form.\\
 
@@ -48250,7 +48251,7 @@ Underline all demonstrative pronouns in the text. (Both the demonstrative pronou
 Diese Katze ist so süß! - Wirklich? Ich finde diese dort besser. Der Kühlschrank ist leer. - Kein Problem, ich kann einkaufen gehen. Welchen Kuchen möchtest du? - Denjenigen, den ich vor einer Woche gekauft habe. Hast du einen neuen Freund? - Nein, immer noch derselbe. Mit diesen Klamotten willst du joggen gehen? Die sind doch gar nicht bequem!
 
 
-(German) (Fill-in-the-Blanks Exercise) D G M (Exercise on the correct form of "man")
+(German) (Fill-in-the-Blanks Exercise) D G (Exercise on the correct form of "man")
 
 Add the right form of "man" to the sentences below. (man, einen, einem). Tip: Always ask the W questions to find out which form is the right one.
 
@@ -48264,7 +48265,7 @@ Add the right form of "man" to the sentences below. (man, einen, einem). Tip: Al
 \end{enumerate}
 
 
-(German) (Fill in the Blank Exercise) D G M (Exercise on interrogative pronouns)
+(German) (Fill in the Blank Exercise) D G (Exercise on interrogative pronouns)
 
 Add the correct interrogative pronouns into the spaces below.
 
@@ -48364,7 +48365,7 @@ Add the right form of haben and sein in the plusquamperfect.
 \end{enumerate}
 
 
-(German) (Fill-in-the-Blanks Exercise) D G M (Exercise on modal verbs)
+(German) (Fill-in-the-Blanks Exercise) D G (Exercise on modal verbs)
 
 Fill the spaces with the correct modal verbs.
 
@@ -48405,7 +48406,7 @@ Add the correct verb forms in the passive tense. Pay attention to the tense.
 \end{enumerate}
 
 
-(German) (Fill in the Blank Exercise) D G M (Exercise on the participle 1)
+(German) (Fill in the Blank Exercise) D G (Exercise on the participle 1)
 
 In this exercise, the infinitive is in the left column and the corresponding participle 1 is in the right column. Add the correct form to each space.
 
@@ -48422,7 +48423,7 @@ In this exercise, the infinitive is in the left column and the corresponding par
 \end{enumerate}
 
 
-(German) (Fill in the Blank Exercise) D G M (Exercise on participle 2 forms)
+(German) (Fill in the Blank Exercise) D G (Exercise on participle 2 forms)
 
 In this exercise, the infinitives of the verbs are in the left column, and the corresponding participle 2 forms are in the right column. Fill in the spaces.
 
@@ -48440,7 +48441,7 @@ In this exercise, the infinitives of the verbs are in the left column, and the c
 \end{enumerate}
 
 
-(German) (Fill-in-the-Blanks Exercise) D G M (Exercise on subjunctive 1 form)
+(German) (Fill-in-the-Blanks Exercise) D G (Exercise on the subjunctive 1 form)
 
 Fill the spaces with the right subjunctive 1 form.
 
@@ -48453,7 +48454,7 @@ Fill the spaces with the right subjunctive 1 form.
 \end{enumerate}
 
 
-(German) (Fill in the Blank Exercise) D G M (Exercise on imperative form)
+(German) (Fill in the Blank Exercise) D G (Exercise on imperative form)
 
 Fill the spaces with the correct imperative form. Pay attention to the use of uppercase and lowercase letters at the beginning of the sentence.
 
@@ -48482,7 +48483,7 @@ Fill in the spaces with the correct form of the adjectives in parentheses.
 \end{enumerate}
 
 
-(German) (Fill in the Blank Exercise) D G M (Exercise on choosing the correct word)
+(German) (Fill in the Blank Exercise) D G (Exercise on choosing the correct word)
 
 Choose the correct word to complete the sentence.
 
@@ -50122,7 +50123,7 @@ Investigate how different materials absorb heat from sunlight.
 Analyze the impact of human activities on local ecosystems.
 
 
-(Science) (Activity, Experiment Exercise) D 6 (Exercise on pH of various liquids)
+(Science) (Activity, Experiment Exercise) D 6 (Exercise on the pH of various liquids)
 
 Design a simple experiment to test the pH of various liquids.
 
@@ -52618,7 +52619,7 @@ How does the sun's path differ in summer and winter?
 What is the effect of the Earth's tilt on sunlight?
 
 
-(Science) (Question Exercise) D 5 (Exercise on sunlight, Exercise on location) 
+(Science) (Question Exercise) D 5 (Exercise on sunlight, Exercise on location)
 
 How much sunlight does your location receive?
 
@@ -53465,7 +53466,7 @@ Which material is the most waterproof?
 \end{enumerate}
 
 
-(Science) (Question) D 1 (Exercise on preferences) 
+(Science) (Question) D 1 (Exercise on preferences)
 
 Do all your friends like the same things?
 
@@ -53709,7 +53710,7 @@ How do the North and South poles of a magnet react to each other?
 There are only three magnetic metals. What are they?
 
 
-(Science) (Question Exercise) D 4 (Exercise on magnetism, Exercise on steel) 
+(Science) (Question Exercise) D 4 (Exercise on magnetism, Exercise on steel)
 
 Why is steel magnetic?
 
@@ -54578,7 +54579,7 @@ What are the names of the three states of matter?
 [STRDGM] The images include: a large iceberg floating in water, ice cubes, a kettle with steam coming out, a glowing furnace, and several metal containers with liquid inside. [STPDGM]
 
 
-(Science) (Question, Short Answer Exercise) D 4 (Exercise on the states of matter, Exercise on changing states) 
+(Science) (Question, Short Answer Exercise) D 4 (Exercise on the states of matter, Exercise on changing states)
 
 What do we need to change ice to water and to change water to steam?
 
@@ -55026,7 +55027,7 @@ Which materials make the darkest shadows?
 Are there some materials which do not make shadows?
 
 
-(Science) (Question Exercise) D 5 (Exercise on materials and shadows, Exercise on darkness) 
+(Science) (Question Exercise) D 5 (Exercise on materials and shadows, Exercise on darkness)
 
 Does the darkest material make the darkest shadow?
 
@@ -55863,7 +55864,7 @@ Create a poster showing how recycling helps the environment.
 Discuss what can be done with classroom waste.
 
 
-(Science) (Activity) D 6 (Exercise on environmental awareness, Exercise on recycling, Activity on proposing a recycling plan) 
+(Science) (Activity) D 6 (Exercise on environmental awareness, Exercise on recycling, Activity on proposing a recycling plan)
 
 Propose a recycling plan for your classroom.
 
@@ -56295,7 +56296,7 @@ How many different habitats can you name?
 Which habitat do you find the most interesting, and why?
 
 
-(Science) (Question Exercise) D 6 (Exercise on food chains, Exercise on producers) 
+(Science) (Question Exercise) D 6 (Exercise on food chains, Exercise on producers)
 
 Do you think that all producers are green plants that grow on land?
 
@@ -56882,9 +56883,9 @@ Complete the sentence: "Electricity will only flow through a \_\_\_\_\_\_\_\_\_\
 Explain how a switch works.
 
 
-(Science) (Unjumble Exercise) D 3 (Exercise on materials, Exercise on properties)
+(Science) (Word Unscrambling Exercise) D 3 (Exercise on materials, Exercise on properties)
 
-Can you unjumble the six properties of materials?
+Can you unscramble the words to find the six properties of materials?
 \begin{enumerate}
 \item f o s t
 \item h r g o u
@@ -57664,7 +57665,7 @@ The hardness of a rock makes it useful for some things but not others. True / Fa
 \end{itemize}
 
 
-(Science) (Question) D 2 (Exercise on rocks, Exercise on clay) 
+(Science) (Question) D 2 (Exercise on rocks, Exercise on clay)
 
 Thousands of years ago in the Middle East many people’s houses were made of clay. What made clay easier to use than stone?
 
@@ -65090,7 +65091,8 @@ The answer is 1045 ml.
 The answer is 1014 ml.
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (With Answer) A stamp album costs \$12.50. A photo album costs \$3.50 more than the stamp album. Find the total cost of the two albums.
+(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (With Answer)
+A stamp album costs \$12.50. A photo album costs \$3.50 more than the stamp album. Find the total cost of the two albums.
 
 \subsection*{Answers}
 The total cost of the two albums is \$19.00.
@@ -66672,7 +66674,8 @@ The difference is 7.
 The total number of pupils who took swimming lessons is 136.
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Exercise with subtraction, Multi-part, With Answer) Mrs. Chen spent \$35 on meat and \$12 on vegetables. How much less money did she spend on vegetables than on meat?
+(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Exercise with subtraction, Multi-part, With Answer)
+Mrs. Chen spent \$35 on meat and \$12 on vegetables. How much less money did she spend on vegetables than on meat?
 
 \subsection*{Answers}
 She spent \$23 less on vegetables than on meat.
@@ -66803,7 +66806,8 @@ Shauna donated \$20 to charity and had \$60 left. What percentage of her money d
 She had 75\% of her money left.
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 6 (Exercise on percentage calculation, With Answer) Jessie spent \$16 on a magazine, \$26 on a book, and had \$18 left. What percentage of her money did she spend?
+(Mathematics) (Word Problem, Arithmetic Exercise) D 6 (Exercise on percentage calculation, With Answer)
+Jessie spent \$16 on a magazine, \$26 on a book, and had \$18 left. What percentage of her money did she spend?
 
 \subsection*{Answers}
 Jessie spent 70\% of her money.
@@ -67138,7 +67142,8 @@ There are 96 men and 72 women in a queue. Find the ratio of the number of men to
 The ratio of the number of men to the total number of men and women is \( \frac{96}{96 + 72} = \frac{96}{168} = \frac{4}{7} \).
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 1 (Multi-part, With Answer) Nicole bought 12 pastries. She put 4 of them on a plate. She put the rest in a box. How many pastries were there in the box?
+(Mathematics) (Word Problem, Arithmetic Exercise) D 1 (Multi-part, With Answer)
+Nicole bought 12 pastries. She put 4 of them on a plate. She put the rest in a box. How many pastries were there in the box?
 
 \begin{enumerate}[label=\alph*.]
 \item How many pastries did Nicole put in the box?
@@ -67394,7 +67399,8 @@ Use the 100 square to help you find the solutions:
 [STRDGM] A 100 square grid with numbers 1 to 100 arranged in rows and columns. [STPDGM]
 
 
-(Mathematics) (Arithmetic Exercise) D 2 (Exercise on finding differences, Multi-part, With Illustration) Find the difference between each pair of numbers.
+(Mathematics) (Arithmetic Exercise) D 2 (Exercise on finding differences, Multi-part, With Illustration)
+Find the difference between each pair of numbers.
 
 \begin{enumerate}[label=\alph*.]
 \item 15 and 8
@@ -70088,7 +70094,7 @@ Find five pairs of numbers that add up to 900.
 \end{enumerate}
 
 
-(Mathematics) (Sorting Exercise, Diagram) D 3 (With Illustration, Exercise with Venn diagram)
+(Mathematics) (Sorting Exercise, Diagram) D 3 (With Illustration, Exercise with a Venn diagram)
 
 Sort these numbers into the Venn diagram: 1, 5, 16, 42, 43, 48, 67, 89, 92.
 
@@ -75774,7 +75780,7 @@ There are \_\_\_\_\_\_\_\_ months in a year.
 [STRDGM] A calendar grid showing the days of the week with dates from 1 to 31, arranged in rows under the days Monday to Sunday. [STPDGM]
 
 
-(Mathematics) (Diagram Exercise) D 1 (Exercise with Venn diagram, With Illustration)
+(Mathematics) (Diagram Exercise) D 1 (Exercise with a Venn diagram, With Illustration)
 
 Where would you put the fruit and vegetables? Complete the Venn diagram with the items listed below.
 
@@ -77852,7 +77858,7 @@ Put the months of the year in order. Write how many days are in each month.
 \end{enumerate}
 
 
-(Mathematics) (Sorting Exercise) D 2 (Exercise with Venn Diagram, With Illustration)
+(Mathematics) (Sorting Exercise) D 2 (Exercise with a Venn diagram, With Illustration)
 
 Write or draw the shapes in the correct places.
 
@@ -77863,7 +77869,7 @@ Shapes in the overlap have \_\_\_\_\_\_ and \_\_\_\_\_\_ edges.
 [STRDGM] A Venn diagram with two overlapping circles labeled "Flat Faces" and "Curved Faces." [STPDGM]
 
 
-(Mathematics) (Labeling Exercise) D 2 (Exercise with Venn Diagram, With Illustration)
+(Mathematics) (Labeling Exercise) D 2 (Exercise with a Venn diagram, With Illustration)
 
 Label the Venn diagram and sort shapes: Triangles, Squares, Cubes, Spheres.
 
@@ -80667,7 +80673,7 @@ Fill in this grid with multiples of 100. When you have done this, write down 5 n
 [STRDGM] A grid with 7 rows and 7 columns, with the number 400 in the center and blank spaces around it. [STPDGM]
 
 
-(Mathematics) (Sorting Exercise) D 3 (Exercise with Venn Diagram, With Illustration)
+(Mathematics) (Sorting Exercise) D 3 (Exercise with a Venn diagram, With Illustration)
 
 Use the Venn diagrams below to sort these numbers in two different ways: 7, 39, 87, 4, 28, 66, 99, 72, 60, 30, 15, 55, 95, 19, 27, 34, 100, 12.
 
@@ -91534,7 +91540,8 @@ A computer costs \$1685. It is \$425 cheaper than a piano. What is the cost of t
 Mr. Li earns \$3000 a month. He spends \$2200 a month and saves the rest. How much money can he save in 6 months?
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Multi-part) Cik Zarina baked 600 pineapple tarts for sale. She packed them into packets of 6. She sold 45 packets.
+(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Multi-part)
+Cik Zarina baked 600 pineapple tarts for sale. She packed them into packets of 6. She sold 45 packets.
 
 \begin{enumerate}[label=\alph*.]
 \item How many packets of pineapple tarts did Cik Zarina pack in total?
@@ -91596,7 +91603,8 @@ There were \_\_\_\_ apples left.
 There were 249 boys and 255 girls in a field. They lined up in 9 equal rows. How many children were there in each row?
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Multi-part) Osman cut a rope 414 m long into pieces. Each piece was 9 m long. He divided each piece into 4 equal parts.
+(Mathematics) (Word Problem, Arithmetic Exercise) D 3 (Multi-part)
+Osman cut a rope 414 m long into pieces. Each piece was 9 m long. He divided each piece into 4 equal parts.
 
 \begin{enumerate}[label=\alph*.]
 \item How many pieces of rope did Osman cut?
@@ -93767,7 +93775,8 @@ Kenneth spent \(12\%\) of his money on a shirt and \(25\%\) of the remainder on 
 The number of motorcycles at a car park was decreased by 60%. The decrease was 150 motorcycles. How many motorcycles were there after the decrease?
 
 
-(Mathematics) (Word Problem, Arithmetic Exercise) D 6 (Exercise on percentage change calculation, Multi-part) The number of local students at a hostel was increased by \(30\%\) to \(65\). The number of foreign students was increased by \(5\%\) to \(42\).
+(Mathematics) (Word Problem, Arithmetic Exercise) D 6 (Exercise on percentage change calculation, Multi-part)
+The number of local students at a hostel was increased by \(30\%\) to \(65\). The number of foreign students was increased by \(5\%\) to \(42\).
 
 \begin{enumerate}[label=\alph*.]
 \item How many local students were there before the increase?
