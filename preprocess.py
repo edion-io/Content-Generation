@@ -1,7 +1,4 @@
 # Copyright (C) 2024  Edion Management Systems
-from openai import OpenAI
-import glob
-import json
 import argparse
 import re
 import inflect
@@ -29,7 +26,7 @@ def get_ordinal_suffix(number):
 
 def exercise_type(value: str) -> str:
     # If no exercise type is specified, we simply ask for an exercise
-    if value == 'T':
+    if value in ('T', None):
         final = 'Give me an exercise'
     else:
         p = inflect.engine()
@@ -39,39 +36,74 @@ def exercise_type(value: str) -> str:
             final = 'Give me a combination of'
             for i, val in enumerate(value):
                 if i != len(value) - 1:
-                    final += f' {p.a(val)} {val.lower()},'
+                    final += f' {p.a(val.lower()).strip()}'
+                    if len(value) > 2:
+                        final += ','
                 else:
-                    final += f' and {p.a(val)} {val.lower()}'
+                    final += f' and {p.a(val.lower()).strip()}'
         # Otherwise we just ask for the single exercise type
         else:
-            final = f'Give me {p.a(val)} {val.lower()}'
+            final = f'Give me {p.a(value[0].lower()).strip()}'
 
     return final
 
 def grade_and_subject(grade: str, subject: str) -> str:
     # Formulate the "For a (grade) student" segment
-    final = f'for a {f"{grade}{get_ordinal_suffix(int(grade))} grade " if grade != 'G' else ''}student'
+    final = f'for a {f"{grade}{get_ordinal_suffix(int(grade))} grade " if grade not in ('G', None) else ''}student'
     
     # Formulate the "learning (subject)" segment
-    if subject == 'T':
+    if subject in ('S', None):
         final += '.'
     else:
-        final += f' learning {subject.lower()}.'
+        subject = subject.lower() if subject not in 'French English Dutch Spanish German' else subject
+        final += f' learning {subject}.'
   
     return final
 
-def modifier(value: list) -> str:
+def modifier(modifiers: list) -> str:
+    # Initialize parameters
+    w_mods, remaining, final = [], [], ''
+    p = inflect.engine()
+
+    # Separate the "With ..." modifiers first
+    for modifier in modifiers:
+        if modifier in 'With Illustration With Answer With Material With Prerequisites With Context With Hint':
+            w_mods.append(modifier.strip())
+        else:
+            remaining.append(modifier.strip())
+
+    # If there are any "With ..." modifiers, then create a sentence with them
+    if w_mods:
+        for i, modifier in enumerate(w_mods):
+            mod = modifier.replace('With ', '').lower()
+            if mod != 'context':
+                mod += 's'
+            if i == 0:
+                final += f' It should have a subsection for {mod}'
+            elif i == len(w_mods) - 1:
+                final += f', and {mod}'
+            else:
+                final += f', {mod}'
+
+            # Separate the period-adding logic for cases where len(w_mods) == 1
+            if i == len(w_mods) - 1:
+                final += '.'
+
+    # Handle remaining modifiers
+    for modifier in remaining:
+        if modifier == 'With Marks':
+            final += ' There should be marks/points assigned to the question.'
+        elif modifier == 'With Instruction':
+            final += ' The exercise should have a top sentence that serve as instructions.'
+        elif modifier == 'Multi-part':
+            final += ' It should have multiple steps.'
+        else:
+            second_word = modifier.split(' ')[1]
+            if second_word == 'with':
+                modifier = modifier.replace('with', 'involving', 1)
+            final += f' It should be {p.a(modifier.lower())}.'
     
-
-    if 'With Illustration With Answer With Material With Prerequisites With Context With Hint':
-        pass
-
-    # With Marks ()
-
-    # With Instruction
-    final = 'It should be '
-
-    # Multi-part
+    return final
 
 
 def instructionize(header: str) -> str:
@@ -89,21 +121,13 @@ def instructionize(header: str) -> str:
 
     # Clean the parameters
     params = [p.replace('(', '').replace(')', '') if '(' in p else p for p in params]
-    try:
-        for mod in params[3].split(','):
-            mod = mod.strip()
-            if not (mod.startswith('Exercise') or mod.startswith('With') or mod.startswith('Activity') or mod == 'Multi-part' or mod == 'M'):
-                print(mod, header)
-    except:
-        print(header)
-        print(params)
-    return
     
     # Formulate the initial instruction
     instruction = f"{exercise_type(params[1])} {grade_and_subject(params[2], params[0])}"
+    
     # If there are any modifiers, formulate a new sentence describing them
-    if params[3] != 'M':
-        instruction += f' {modifier(params[3].split(','))}'
+    if params[3] not in ('M', None):
+        instruction += f'{modifier(params[3].split(','))}'
 
     return instruction
 
@@ -118,21 +142,27 @@ def make_instructions(file_path: str) -> list:
     Returns:
         list: A list of questions split by headers.
     """
+    # Open the file
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
     # Regular expression to match headers
     header_pattern = r'\n(?=\(.*?\) \(.*?\))'
+    # Split the questions on their headers
     questions = re.split(header_pattern, content)
 
+    # Turn headers into instructions and create a new dataset using them
+    instructions = []
     for q in questions:
         if q:
             params, body = q.split("\n", 1)
-            instructionize(params)
-    
+            instructions.append(instructionize(params) + '\n' + body.strip())
 
-    return questions
+    return instructions
 
 if __name__ == "__main__":
-    make_instructions('data/questions.txt')
+    questions = make_instructions('data/questions.txt')
 
+    with open('instructions.txt', 'w') as f:
+        for q in questions:
+            f.write(q + '\n\n\n')

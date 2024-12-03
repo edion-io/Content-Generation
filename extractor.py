@@ -11,7 +11,7 @@ from utils import SUBJECTS
 # Parameters
 # -------------------------
 # Specify the folder/file containing any relevant files
-PATH = 'questions.txt'
+PATH = 'data/questions.txt'
 # Specify the folder containing the images
 IMAGE_FOLDER = 'imgs'
 # Specify the batch folder
@@ -23,7 +23,7 @@ CLOUDINARY_API = "667797151493891"
 CLOUDINARY_SECRET = "WuKdiXBzcwzUgOsdOey5J9E8k7c"
 
 # Specify the prompt for the chat completion task
-PROMPT =  "You are a data annotator where each data is an exercise.  You will be shown exercises composed of a header and a body. The header is always the first line of the question. In each set of parentheses, everything should be separated with commas, not the word \"and\". For example:\n(Science) (Question, Investigation, Partner Activity) D 2 (Exercise on light and dark activities, With Materials)\n\nThe second set of parentheses of the header always encloses the exercise's type. It's okay for an exercise to have more than one type, however, the exercise types should always be very general (avoid specificity at all costs). For example, for questions about adjectives you would write Grammar Exercise.  The last set of parentheses is the modifier. A modifier is a specification of what is written in any of the other sets of parentheses. For example, here it says With Materials because the exercise this header belongs to, has a section listing required materials. We want to keep the trend that the exercise type is general, while the modifier adds specificity. Your job is to follow these steps:\n\n1. Closely examine the header (specifically the exercise type and the modifier) and the question.\n2. Current exercise types may have types that are too specific or don't make sense. For example, \"Transcription and Meaning\" is not good, and we would prefer Spelling Exercise. When you find an exercise type that is too specific or doesn't make sense: \nI. Replace it with a more general type (unless it's already there). Exercise types should always end with \"Exercise\".\nII. Take the specific type and try to write it/them in the modifier in the format With … or Exercise that has … or Exercise with … or Exercise on … or Activity on, Activity with…\nIII. When you add said modifier, make sure that you don't put it in pascal case\n3.  Carefully read the question to see if you can add a modifier that summarizes the question (using similar keywords to what is shown in (2. II.)).\n\n\nFor example:\n(Science) (Fill-in-the-Blanks, Activity, Short Answer) D 6 (With Illustration)\n*exercise involving writing organ names in blank spaces using an illustration*\n\nwould become:\n(Science) (Fill-in-the-Blanks Exercise, Activity, Short Answer Exercise) D 6 (Exercise on organs, With Illustration)\n\nNOTE: You can replace/edit/remove exercise types but do not change modifiers that are already there, those are always correct.\n\n4.  Output the entire new header with the body of the question"
+PROMPT =  "You are a data annotator and each data point is an exercise.  You will be shown exercises composed of a header and a body. The header is always the first line of the question. For example:\n(French) (Grammar Exercise, Fill in the Blank) D 6 (Multi-part, Exercise on future antérieur, With Illustration)\n\nYour job is to:\n1. Analyze the last set of parentheses (in our above example this would be (Multi-part, Exercise on future antérieur, With Illustration)\n2. Determine if a determiner is necessary (e.g., “Exercise on futur antérieur” should become “Exercise on the futur antérieur”).\n3. Add the correct determiner only where required.\n4. Do not add unnecessary determiners (e.g., “Exercise on past tense shortcuts” is fine as is).\n5. Do not add determiners to modifiers that start with With (e.g., With Marks, With Answer, etc)\n6. Output the entire text given to you with the changes edited in."
 
 # -------------------------
 # Parsers / Subparsers
@@ -88,11 +88,27 @@ if __name__ == "__main__":
 
         # Separate each question by their headers
         questions = re.split(r'\n(?=\(.*?\) \(.*?\))', text)
+        qs = []
         # Remove empty strings and get the subject you want
-        questions = [q.strip() for q in questions if q.strip() and args.subject in q]
+        for q in questions:
+            header, body = q.split("\n", 1)
+                # Create a pattern for matching parameter groups
+            pattern = r"""
+            (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
+            (\([^)]*\)|T)\s       # Capture text inside parentheses or "T"
+            D\s                     # Match the literal "D"
+            (\d+|G)\s               # Capture a number or "G"
+            (\([^)]*\)|M)         # Capture text inside parentheses or "M"
+            """
+            # Split the parameters
+            match = re.match(pattern, header, re.VERBOSE)
+            params = match.groups()
+            if params[3] not in ('M', None, '(Multi-part)', '(With Answer)'):
+                qs.append(q)
+        # questions = [q.strip() for q in questions if q.strip() and args.subject in q]
 
         # Create multiple completions and store them in batches
-        batch_items(BATCH_FOLDER, questions, PROMPT, args.subject, True)
+        batch_items(BATCH_FOLDER, qs, PROMPT, args.subject, True)
     elif args.key == "sb":
         submit_batch(BATCH_FOLDER, client, args.batch_file_name)
     elif args.key == "ab":
