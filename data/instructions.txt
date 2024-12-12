@@ -1,3 +1,7 @@
+Input
+Output
+
+
 Give me a combination of a practical exercise and an activity for a 2nd grade student learning computer science.
 Create a document file called 'My hobby' to use as a poster and add an image to it.
 Change the size of the image in your poster.  

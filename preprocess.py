@@ -3,6 +3,7 @@ import argparse
 import re
 import inflect
 from spellchecker import SpellChecker
+import csv
 
 # -------------------------
 # Parsers / Subparsers
@@ -117,8 +118,8 @@ def instructionize(header: str) -> str:
     pattern = r"""
     (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
     (\([^)]*\)|T)\s       # Capture text inside parentheses or "T"
-    D\s                     # Match the literal "D"
-    (\d+|G)\s               # Capture a number or "G"
+    D\s                   # Match the literal "D"
+    (\d+|G)\s             # Capture a number or "G"
     (\([^)]*\)|M)         # Capture text inside parentheses or "M"
     """
     # Split the parameters
@@ -158,15 +159,12 @@ def make_instructions(file_path: str) -> list:
     questions = re.split(header_pattern, content)
 
     # Prepare the instructions list
-    instructions = []
+    instructions = [('Input', 'Output')]
     for q in questions:
         if q.strip():
             # Split into header and body
-            if "\n" in q:
-                params, body = q.strip().split("\n", 1)
-            else:
-                params = q.strip()
-                body = ''
+            params, body = q.strip().split("\n", 1)
+
             # Use your existing pattern
             pattern = r"""
             (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
@@ -182,7 +180,7 @@ def make_instructions(file_path: str) -> list:
                     # Extra text detected after the header
                     print(f"Header with potential issue:\n'{params}'\n")
                 # Proceed with instructionization
-                instructions.append(instructionize(params) + '\n' + body.strip())
+                instructions.append((instructionize(params), body.strip()))
             else:
                 # Header does not match the expected pattern
                 print(f"Header does not match expected pattern:\n'{params}'\n")
@@ -215,11 +213,17 @@ def check_header_spelling(file_path: str) -> None:
                 print()
 
 if __name__ == "__main__":
-    
-    
-
+    # Turn the questios into an instruction tuning dataset
     questions = make_instructions('data/questions.txt')
 
+    # Write the new dataset to a text file
     with open('data/instructions.txt', 'w') as f:
         for q in questions:
-            f.write(q + '\n\n\n')
+            f.write(q[0] + '\n' + q[1] + '\n\n\n')
+    
+    with open('data/instructions.csv', mode='w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerows(questions)
+    
+    
+
