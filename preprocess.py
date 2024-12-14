@@ -4,14 +4,73 @@ import re
 import inflect
 from spellchecker import SpellChecker
 import csv
+from collections import defaultdict
+from rapidfuzz import fuzz
+from copy import deepcopy
 
-# -------------------------
-# Parsers / Subparsers
-# -------------------------
-# Create the parser and subparsers
-argparser = argparse.ArgumentParser(description="Preprocess data for instruction-tuning.")
+def group_params(params: defaultdict, parameter: str) -> None:
+    original = deepcopy(params[parameter])
 
-def get_ordinal_suffix(number):
+    for p1 in original:
+        # Normalize the first parameter depending on whether we're dealing with exercise types or modifiers
+        if parameter == 'T':
+            # Skip cases where the parameter is a baseline parameter
+            if p1 in ('Exercise', 'Activity', 'Question', 'Game'):
+                continue
+            else:
+                cp1 = p1.replace(' Exercise', "").replace(' Activity', "")
+        else:
+            cp1 = p1.replace("Exercise ", "").replace("Activity ", "")
+        for p2 in original:
+            # Skip redundant cases
+            if p1 == p2 or (parameter == 'T' and p2 in ('Exercise', 'Activity', 'Question', 'Game')):
+                continue
+            else:
+                # Normalize the second parameter depending on whether we're dealing with exercise types or modifiers
+                if parameter == 'T':
+                    cp2 = p2.replace(' Exercise', "").replace(' Activity', "")
+                else:
+                    cp2 = p2.replace("Exercise ", "").replace("Activity ", "")
+
+                # Use fuzzy matching to obtain a similarity score
+                score = fuzz.token_sort_ratio(cp1, cp2)
+
+                # If the score is greater than 90, parameters are truly similar and both still present in the set then remove one
+                if score > 90 and not (('Exercise' in p1 and 'Activity' in p2) or ('Exercise' in p2 and 'Activity' in p1)):
+                    if p1 in params[parameter] and p2 in params[parameter]:
+                        params[parameter].remove(p1)
+                        params['removed_' + parameter].add(p1)
+
+def match_params(header: str):
+    # Create a pattern for splitting
+    pattern = r"""
+    (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
+    (\([^)]*\)|T)\s       # Capture text inside parentheses or "T"
+    D\s                   # Match the literal "D"
+    (\d+|G)\s             # Capture a number or "G"
+    (\([^)]*\)|M)         # Capture text inside parentheses or "M"
+    """
+    return re.match(pattern, header, re.VERBOSE)
+
+def get_params(header: str):
+    # Split the parameters 
+    match = match_params(header)
+
+    # Clean the parameters
+    return [p.replace('(', '').replace(')', '') if '(' in p else p for p in match.groups()]
+
+def get_questions(path: str):
+    # Open the file and get its contents
+    with open(path, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    # Regular expression to match headers
+    header_pattern = r'\n(?=\(.*?\) \(.*?\))'
+
+    # Split the questions on their headers
+    return re.split(header_pattern, content)
+
+def get_ordinal_suffix(number: int):
     # Handle special cases for 'teen' numbers
     if 11 <= number % 100 <= 13:
         return "th"
@@ -114,20 +173,7 @@ def modifier(modifiers: list) -> str:
 
 
 def instructionize(header: str) -> str:
-    # Create a pattern for matching parameter groups
-    pattern = r"""
-    (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
-    (\([^)]*\)|T)\s       # Capture text inside parentheses or "T"
-    D\s                   # Match the literal "D"
-    (\d+|G)\s             # Capture a number or "G"
-    (\([^)]*\)|M)         # Capture text inside parentheses or "M"
-    """
-    # Split the parameters
-    match = re.match(pattern, header, re.VERBOSE)
-    params = match.groups()
-
-    # Clean the parameters
-    params = [p.replace('(', '').replace(')', '') if '(' in p else p for p in params]
+    params = get_params(header)
     
     # Formulate the initial instruction
     instruction = f"{exercise_type(params[1])} {grade_and_subject(params[2], params[0])}"
@@ -149,56 +195,40 @@ def make_instructions(file_path: str) -> list:
     Returns:
         list: A list of questions split by headers.
     """
-    # Open the file
-    with open(file_path, 'r', encoding='utf-8') as file:
-        content = file.read()
-
-    # Regular expression to match headers
-    header_pattern = r'\n(?=\(.*?\) \(.*?\))'
-    # Split the questions on their headers
-    questions = re.split(header_pattern, content)
+    # Get the questions
+    questions = get_questions(file_path)
 
     # Prepare the instructions list
     instructions = [('Input', 'Output')]
     for q in questions:
         if q.strip():
-            # Split into header and body
-            params, body = q.strip().split("\n", 1)
+            # Split the question into header and body
+            header, body = q.strip().split("\n", 1)
 
-            # Use your existing pattern
-            pattern = r"""
-            (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
-            (\([^)]*\)|T)\s       # Capture text inside parentheses or "T"
-            D\s                   # Match the literal "D"
-            (\d+|G)\s             # Capture a number or "G"
-            (\([^)]*\)|M)         # Capture text inside parentheses or "M"
-            """
-            match = re.match(pattern, params, re.VERBOSE)
+            # Split the header into parameters
+            match = match_params(header)
+
             if match:
                 # Check if the match consumed the entire header line
-                if match.end() != len(params):
+                if match.end() != len(header):
                     # Extra text detected after the header
-                    print(f"Header with potential issue:\n'{params}'\n")
+                    print(f"Header with potential issue:\n'{header}'\n")
                 # Proceed with instructionization
-                instructions.append((instructionize(params), body.strip()))
+                instructions.append((instructionize(header), body.strip()))
             else:
                 # Header does not match the expected pattern
-                print(f"Header does not match expected pattern:\n'{params}'\n")
+                print(f"Header does not match expected pattern:\n'{header}'\n")
     return instructions
 
-# New function to check spelling in headers
 def check_header_spelling(file_path: str) -> None:
     """
     Reads the headers from the questions.txt file and checks for spelling mistakes.
     """
+    # Initialize the spell checker
     spell = SpellChecker()
-    with open(file_path, 'r', encoding='utf-8') as file:
-        content = file.read()
 
-    # Regular expression to match headers
-    header_pattern = r'\n(?=\(.*?\) \(.*?\))'
-    # Split the questions on their headers
-    questions = re.split(header_pattern, content)
+    # Get the questions
+    questions = get_questions(file_path)
 
     for q in questions:
         if q.strip():
@@ -213,17 +243,59 @@ def check_header_spelling(file_path: str) -> None:
                 print()
 
 if __name__ == "__main__":
-    # Turn the questios into an instruction tuning dataset
-    questions = make_instructions('data/questions.txt')
+    # -------------------------
+    # Parsers / Subparsers
+    # -------------------------
+    # Create the parser and subparsers
+    argparser = argparse.ArgumentParser(description="Preprocess data for instruction-tuning.")
+    subparsers = argparser.add_subparsers(dest="key", help="Subcommand description")
 
-    # Write the new dataset to a text file
-    with open('data/instructions.txt', 'w') as f:
-        for q in questions:
-            f.write(q[0] + '\n' + q[1] + '\n\n\n')
-    
-    with open('data/instructions.csv', mode='w', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerows(questions)
-    
-    
+    parser_i = subparsers.add_parser("i", help="Augment a dataset to use it for instruction-tuning")
+    parser_i.add_argument("-t", help="Keep the dataset in a .txt file, otherwise save it as a .csv", action="store_true")
 
+    parser_v = subparsers.add_parser("v", help="Visualize the distributions of the inputs")
+
+    # Parse the arguments
+    args = argparser.parse_args()
+
+    # -------------------------
+    # Program logic
+    # -------------------------
+    if args.key == "i":
+        # Turn the questions into an instruction tuning dataset
+        questions = make_instructions('data/questions.txt')
+        if args.t:
+            # Write the new dataset to a text file
+            with open('data/instructions.txt', 'w') as f:
+                for q in questions:
+                    f.write(q[0] + '\n' + q[1] + '\n\n\n')
+        else:
+            # Write the new dataset to a csv file
+            with open('data/instructions.csv', mode='w', newline='') as f:
+                writer = csv.writer(f)
+                writer.writerows(questions)
+    elif args.key == 'v':
+        # Create a dictionary of parameters
+        params = defaultdict(set)
+        keys = ['S', 'T', 'G', 'M']
+        for q in get_questions('data/questions.txt'):
+            for k, v in zip(keys, get_params(q.split("\n", 1)[0])):
+                if k in ('T', 'M') and v not in ('T', 'M', None):
+                    for p in v.split(','):
+                        params[k].add(p.strip())
+                else:
+                    params[k].add(v)
+
+        # Group like exercise type parameters
+        group_params(params, 'T')
+        
+        # Group like modifier parameters
+        group_params(params, 'M')
+
+        # Print total number of unique parameters
+        print('Number of subjects:', len(params['S']), 
+              '\nNumber of exercise types:', len(params['T']), 
+              '\nNumber of grades:', len(params['G']),
+              '\nNumber of modifiers:', len(params['M']))
+    elif args.key == 's':
+        pass
