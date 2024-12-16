@@ -6,40 +6,107 @@ from spellchecker import SpellChecker
 import csv
 from collections import defaultdict
 from rapidfuzz import fuzz
-from copy import deepcopy
+import matplotlib.pyplot as plt
 
-def group_params(params: defaultdict, parameter: str) -> None:
-    original = deepcopy(params[parameter])
+def plot_dist(labels: list, counts: list, title: str, xlab: str, path: str) -> None:
+    # Plot the bar chart
+    plt.bar(labels, counts, color='skyblue')
 
-    for p1 in original:
-        # Normalize the first parameter depending on whether we're dealing with exercise types or modifiers
-        if parameter == 'T':
-            # Skip cases where the parameter is a baseline parameter
-            if p1 in ('Exercise', 'Activity', 'Question', 'Game'):
-                continue
+    # Add titles and labels
+    plt.title(title)
+    plt.xlabel(xlab)
+    plt.ylabel('Frequency')
+
+    # Rotate x-axis labels
+    plt.xticks(rotation=90, fontsize =10)
+    # Fit the plot to the figure to avoid text overfitting
+    plt.tight_layout()
+
+    # Save the plot
+    plt.savefig(f'plots/{path}')
+
+    # Clear the plot
+    plt.clf()
+
+def group_params(path: str) -> defaultdict:
+    # Create a dictionary of parameters
+    params = defaultdict(set)
+    # Initialize a mapping for removed parameters to present parameters
+    for k in 'TM':
+        params[f'R_{k}'] = defaultdict(bool)
+    # Initialize a counter for parameters
+    for k in 'CSTGM':
+        params[f'C_{k}'] = defaultdict(int)
+
+    # Populate the dictionary of parameters while combining like terms
+    for q in get_questions(path):
+        # Reset the current combination of parameters
+        combi = ''
+
+        # Get the header of the question
+        header = q.split("\n", 1)[0]
+
+        # Extract the parameters from the header
+        current_params = get_params(header)
+
+        # Save each individual parameter
+        for k, v in zip('STGM', current_params):
+            if k in 'TM' and v not in ('T', 'M', None):
+                for p in v.split(','):
+                    # Strip the parameter of any spaces
+                    p = p.strip()
+
+                    # We check if the parameter has already been added or removed
+                    if p not in params[k] and not params[f'R_{k}'][p]:
+                        # Normalize the first parameter depending on whether we're dealing with exercise types or modifiers
+                        if k == 'T':
+                          if p not in 'ExerciseActivityQuestionGame':
+                            cp1 = p.replace(' Exercise', "").replace(' Activity', "")
+                        elif k == 'M':
+                            cp1 = p.replace("Exercise ", "").replace("Activity ", "")
+                        # Iterate through all saved parameters to check if there is any one too similar
+                        for p2 in params[k]:
+                            # Skip redundant cases
+                            if k == 'T' and p2 in 'ExerciseActivityQuestionGame':
+                                continue
+                            else:
+                                # Normalize the second parameter depending on whether we're dealing with exercise types or modifiers
+                                if k == 'T':
+                                    cp2 = p2.replace(' Exercise', "").replace(' Activity', "")
+                                else:
+                                    cp2 = p2.replace("Exercise ", "").replace("Activity ", "")
+
+                                # Use fuzzy matching to obtain a similarity score
+                                score = fuzz.token_sort_ratio(cp1, cp2)
+
+                                # If the score is greater than 90 and parameters are truly similar then remove one
+                                if score > 90 and not (('Exercise' in p and 'Activity' in p2) or ('Exercise' in p2 and 'Activity' in p)):
+                                    params[f'R_{k}'][p] = p2
+
+                        # If the parameter doesn't exist yet and there are no conflicts, add it instead
+                        if not params[f'R_{k}'][p]:
+                            params[k].add(p)
+
+                    # Update the parameter combination and the count for this specific parameter
+                    if params[f'R_{k}'][p]:
+                        combi += params[f'R_{k}'][p]
+                        params[f'C_{k}'][params[f'R_{k}'][p]] += 1
+                    else:
+                        combi += p    
+                        params[f'C_{k}'][p] += 1 
             else:
-                cp1 = p1.replace(' Exercise', "").replace(' Activity', "")
-        else:
-            cp1 = p1.replace("Exercise ", "").replace("Activity ", "")
-        for p2 in original:
-            # Skip redundant cases
-            if p1 == p2 or (parameter == 'T' and p2 in ('Exercise', 'Activity', 'Question', 'Game')):
-                continue
-            else:
-                # Normalize the second parameter depending on whether we're dealing with exercise types or modifiers
-                if parameter == 'T':
-                    cp2 = p2.replace(' Exercise', "").replace(' Activity', "")
-                else:
-                    cp2 = p2.replace("Exercise ", "").replace("Activity ", "")
+                v = k if v is None else v.strip()
+                params[k].add(v)
+                # Update the parameter combination
+                combi += v
+                # Update the count for this specific parameter
+                params[f'C_{k}'][v] += 1
+            if k in 'STG':
+                combi += '|'
+        # Update the count for this combination of parameters
+        params['C_C'][combi] += 1
 
-                # Use fuzzy matching to obtain a similarity score
-                score = fuzz.token_sort_ratio(cp1, cp2)
-
-                # If the score is greater than 90, parameters are truly similar and both still present in the set then remove one
-                if score > 90 and not (('Exercise' in p1 and 'Activity' in p2) or ('Exercise' in p2 and 'Activity' in p1)):
-                    if p1 in params[parameter] and p2 in params[parameter]:
-                        params[parameter].remove(p1)
-                        params['removed_' + parameter].add(p1)
+    return params
 
 def match_params(header: str):
     # Create a pattern for splitting
@@ -275,27 +342,37 @@ if __name__ == "__main__":
                 writer = csv.writer(f)
                 writer.writerows(questions)
     elif args.key == 'v':
-        # Create a dictionary of parameters
-        params = defaultdict(set)
-        keys = ['S', 'T', 'G', 'M']
-        for q in get_questions('data/questions.txt'):
-            for k, v in zip(keys, get_params(q.split("\n", 1)[0])):
-                if k in ('T', 'M') and v not in ('T', 'M', None):
-                    for p in v.split(','):
-                        params[k].add(p.strip())
-                else:
-                    params[k].add(v)
-
-        # Group like exercise type parameters
-        group_params(params, 'T')
-        
-        # Group like modifier parameters
-        group_params(params, 'M')
+        params = group_params('data/questions.txt')
 
         # Print total number of unique parameters
         print('Number of subjects:', len(params['S']), 
               '\nNumber of exercise types:', len(params['T']), 
               '\nNumber of grades:', len(params['G']),
-              '\nNumber of modifiers:', len(params['M']))
+              '\nNumber of modifiers:', len(params['M']),
+              '\nNumber of unique combinations:', len(params['C_C']))
+        
+        # Plot the distribution of the subjects
+        s_s = sorted(params['C_S'].items(), key=lambda x: x[1], reverse=True)
+        plot_dist([item[0] for item in s_s], [item[1] for item in s_s], 'Histogram of subject frequency', 'Subject', 'subject_dist.png')
+
+        # Plot the distribution of the grades
+        plot_dist(list(params['C_G'].keys()), list(params['C_G'].values()), 'Histogram of grade frequency', 'Grade', 'grade_dist.png')
+
+        # Sort the dictionary by its values in descending order and take the top 10
+        top_10 = sorted(params['C_T'].items(), key=lambda x: x[1], reverse=True)[:10]
+        # Plot the distribution of the top 10 exercise types
+        plot_dist([item[0] for item in top_10], [item[1] for item in top_10], 'Histogram of top 10 exercicse type frequency', 'Exercise Type', 'ex_type_dist.png')
+
+        # Sort the dictionary by its values in descending order and take the top 10
+        top_10 = sorted(params['C_M'].items(), key=lambda x: x[1], reverse=True)[:10]
+        # Plot the distribution of the top 10 modifiers
+        plot_dist([item[0] for item in top_10], [item[1] for item in top_10], 'Histogram of top 10 modifier frequency', 'Modifier', 'modifier_dist.png')
+
+        # Sort the dictionary by its values in descending order and take the top 10
+        top_10 = sorted(params['C_C'].items(), key=lambda x: x[1], reverse=True)[:10]
+        # Plot the distribution of the top 10 combinations
+        plot_dist([item[0] for item in top_10], [item[1] for item in top_10], 'Histogram of top 10 combination frequency', 'Combination', 'comb_dist.png')
+        
+
     elif args.key == 's':
         pass
