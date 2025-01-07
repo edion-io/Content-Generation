@@ -8,15 +8,36 @@ from collections import defaultdict
 from rapidfuzz import fuzz
 import matplotlib.pyplot as plt
 
-def get_removed(p: str, removed: dict) -> str:
-    # If parameter is an alias we output the source, otherwise output the origin
-    return removed[p] if removed[p] else p
+def get_removed(param: str, removed: dict) -> str:
+    """ Verifies whether a parameter tag is an alias. Outputs the source if it is.
 
-def get_param(q, param_idx, counts: dict = None, removed: dict = None, check_multi = False) -> str | bool:
+    Args:
+        param (str): Either an exercise type or a question modifier.
+        removed (dict): A dictionary mapping alias parameter tags to their source tags.
+
+    Returns:
+        str: The source tag if the parameter is an alias, otherwise the original parameter.
+    """
+    # If parameter is an alias we output the source, otherwise output the origin
+    return removed[param] if removed[param] else param
+
+def get_param(sample: str, param_idx: int, counts: dict = None, removed: dict = None, check_multi = False) -> str | bool:
+    """ Either fetches a given parameter for sorting purposes or outputs a boolean indicating whether the parameter has multiple co-occuring levels.
+
+    Args:
+        sample (str): The sample being analyzed.
+        param_idx (int): The index of the parameter if parameters exist in a list [S, T, G, M].
+        counts (dict, optional): A dictionary of counts used to select the parameter with the least frequency of occurence. Defaults to None.
+        removed (dict, optional): A dictionary mapping alias parameter tags to their source tags. Defaults to None.
+        check_multi (bool, optional): Whether to output the parameter or to check for co-occuring class levels. Defaults to False.
+
+    Returns:
+        str | bool: The desired parameter or whether the parameter has co-occuring levels of its class.
+    """
     single = True
 
     # Get the header of the question
-    header = q.split("\n", 1)[0]
+    header = sample.split("\n", 1)[0]
 
     # Extract the parameter(s) from the header
     param = get_params(header)[param_idx]
@@ -41,7 +62,19 @@ def get_param(q, param_idx, counts: dict = None, removed: dict = None, check_mul
 
     return single if check_multi else param
 
-def stratify_and_recombine(splits: list, removed: dict, classify: tuple[bool, int], n_counts: dict = None, ratios = [7,2,1]) -> list:
+def stratify_and_recombine(splits: list[list | dict], removed: dict, classify: tuple[bool, tuple[int, int]], n_counts: dict = None, ratios = [7,2,1]) -> list:
+    """ Performs a stratified split for a list triplet (usually train/val/test), then recombines the 9 new splits back into a triplet.
+
+    Args:
+        splits (list[list | dict]): The specified list triplet (a list containing three lists or dictionaries).
+        removed (dict): A dictionary mapping alias parameter tags to their source tags.
+        classify (tuple[bool, tuple[int, int]]): Indicates whether the splits are list, which parameters to stratify by, and which parameter to sort the samples by.
+        n_counts (dict, optional): A counter of the frequency of occurence of each class we are sorting the output splits by. Defaults to None.
+        ratios (list, optional): The ratio used to allocate the samples to each split. Defaults to [7,2,1].
+
+    Returns:
+        list[list | dict]: Either a triplet of dicts containing lists of questions sorted by class, or lists containing questions.
+    """
     new_splits = []
 
     # Stratify by a certain parameter
@@ -212,6 +245,15 @@ def stratified_split(questions: dict, removed: dict = None, n_counts: dict = Non
     return splits
 
 def plot_dist_top_n(d: dict, title: str, xlab: str, path: str, n: int = False) -> None:
+    """ Plots the frequency distribution of the top "n" levels of a given class for a dataset.
+
+    Args:
+        d (dict): A dictionary mapping the class levels to their frequency of occurence.
+        title (str): The title of the plot.
+        xlab (str): The x-label.
+        path (str): The path used to save the plot.
+        n (int, optional): The cutoff point for the plot (top "n" levels). Defaults to False.
+    """
     n = n if n else len(d)
     # Sort the dictionary based on the values
     items = sorted(d.items(), key = lambda x: x[1], reverse = True)[:n]
@@ -223,6 +265,15 @@ def plot_dist_top_n(d: dict, title: str, xlab: str, path: str, n: int = False) -
 
 
 def plot_dist(labels: list, counts: list, title: str, xlab: str, path: str) -> None:
+    """ Plots the frequency distribution for all levels of a given class in a dataset.
+
+    Args:
+        labels (list): A list of all the levels of the class.
+        counts (list): A list of all the counts of each level of the class, in the same order as the labels.
+        title (str): The title of the plot.
+        xlab (str): The x-label.
+        path (str): The path used to save the plot.
+    """
     # Plot the bar chart
     plt.bar(labels, counts, color='skyblue')
 
@@ -243,6 +294,19 @@ def plot_dist(labels: list, counts: list, title: str, xlab: str, path: str) -> N
     plt.clf()
 
 def group_params(path: str, keep_qs = False) -> defaultdict:
+    """ Computes counts of all the classes and the combinations of classes in a given dataset. 
+    Uses fuzzy matching to group like-levels of a class together and represent them under a single source tag.
+    Optionaly creates a dictionary sorting the samples of the dataset by subject (S).
+    
+
+    Args:
+        path (str): The path of the dataset whose classes we are analyzing/sorting/grouping.
+        keep_qs (bool, optional): Whether to create a dictionary sorting the samples of the dataset by subject (S). Defaults to False.
+
+    Returns:
+        defaultdict: A dictionary containing mappings of class aliases to their source tags, counters of all classes and their combinations,
+          and possibly a dictionary sorting the samples of the dataset by subject (S).
+    """
     # Create a dictionary of parameters
     params = defaultdict(set)
     # Initialize a mapping for removed parameters to present parameters
@@ -327,7 +391,15 @@ def group_params(path: str, keep_qs = False) -> defaultdict:
 
     return params
 
-def match_params(header: str):
+def match_params(header: str) -> re.Match:
+    """ Extracts the parameters (S, T, G, M) from a question header (the input sample).
+
+    Args:
+        header (str): The header of a question containing all of its parameters.
+
+    Returns:
+        re.Match: A regex match object containing the parameters of the question.
+    """
     # Create a pattern for splitting
     pattern = r"""
     (\([^)]*\)|S)\s       # Capture text inside parentheses or "S"
@@ -338,14 +410,30 @@ def match_params(header: str):
     """
     return re.match(pattern, header, re.VERBOSE)
 
-def get_params(header: str):
+def get_params(header: str) -> list[str]:
+    """ Extracts the parameters of a given question header, cleans them and outputs them.
+
+    Args:
+        header (str): The specified question header.
+
+    Returns:
+        list[str]: A list of parameters, in the order (S, T, G, M).
+    """
     # Split the parameters 
     match = match_params(header)
 
     # Clean the parameters
     return [p.replace('(', '').replace(')', '') if '(' in p else p for p in match.groups()]
 
-def get_questions(path: str):
+def get_questions(path: str) -> list[str]:
+    """ Fetches questions from a given .txt file and splits them by header.
+
+    Args:
+        path (str): The path to the specified .txt file.
+
+    Returns:
+        list[str]: A list of questions.
+    """
     # Open the file and get its contents
     with open(path, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -356,7 +444,15 @@ def get_questions(path: str):
     # Split the questions on their headers
     return re.split(header_pattern, content)
 
-def get_ordinal_suffix(number: int):
+def get_ordinal_suffix(number: int) -> str:
+    """ Computes the ordinal suffix for a given number.
+
+    Args:
+        number (int): The specified number.
+
+    Returns:
+        str: The ordinal suffix used for the corresponding number.
+    """
     # Handle special cases for 'teen' numbers
     if 11 <= number % 100 <= 13:
         return "th"
@@ -372,6 +468,14 @@ def get_ordinal_suffix(number: int):
         return "th"
 
 def exercise_type(value: str) -> str:
+    """ Converts a given exercise type (T) parameter into text instructions for LLMs.
+
+    Args:
+        value (str): The specified exercise type.
+
+    Returns:
+        str: Text instructions that can be used for instruction tuning.
+    """
     # If no exercise type is specified, we simply ask for an exercise
     if value in ('T', None):
         final = 'Give me an exercise'
@@ -395,6 +499,15 @@ def exercise_type(value: str) -> str:
     return final
 
 def grade_and_subject(grade: str, subject: str) -> str:
+    """ Converts a given grade (G) and subject (S) parameter into text instructions for LLMs.
+
+    Args:
+        grade (str): The specified grade parameter.
+        subject (str): The specified subject parameter. 
+
+    Returns:
+        str: Text instructions that can be used for instruction tuning.
+    """
     # Formulate the "For a (grade) student" segment
     final = f'for a {f"{grade}{get_ordinal_suffix(int(grade))} grade " if grade not in ('G', None) else ''}student'
     
@@ -408,6 +521,14 @@ def grade_and_subject(grade: str, subject: str) -> str:
     return final
 
 def modifier(modifiers: list) -> str:
+    """ Converts a given list of modifier (M) parameters into text instructions for LLMs.
+
+    Args:
+        modifiers (list): The specified list of modifier parameters.
+
+    Returns:
+        str: Text instructions that can be used for instruction tuning.
+    """
     # Initialize parameters
     w_mods, remaining, final = [], [], ''
     p = inflect.engine()
@@ -459,6 +580,14 @@ def modifier(modifiers: list) -> str:
 
 
 def instructionize(header: str) -> str:
+    """ Converts a given question header (the input [S, T, G, M]) into a set of text instructions that can be used for training LLMs.
+
+    Args:
+        header (str): The specified question header.
+
+    Returns:
+        str: Text instructions that can be used for instruction tuning.
+    """
     params = get_params(header)
     
     # Formulate the initial instruction
