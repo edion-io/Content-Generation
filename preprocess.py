@@ -8,6 +8,220 @@ from collections import defaultdict
 from rapidfuzz import fuzz
 import matplotlib.pyplot as plt
 
+def get_removed(p: str, removed: dict) -> str:
+    # If parameter is an alias we output the source, otherwise output the origin
+    return removed[p] if removed[p] else p
+
+def get_param(q, param_idx, counts: dict = None, removed: dict = None, check_multi = False) -> str | bool:
+    single = True
+
+    # Get the header of the question
+    header = q.split("\n", 1)[0]
+
+    # Extract the parameter(s) from the header
+    param = get_params(header)[param_idx]
+
+    # Check for multi-parameter strings
+    if param_idx in (1, 3) and removed:
+        params = param.split(',')
+        single = len(params) == 1
+        c = 0
+        # Choose the parameter with the lowest count
+        for p in params:
+            # Check if the parameter is an alias
+            p = get_removed(p.strip(), removed)
+            if not c:
+                c = counts[p]
+
+            if counts[p] <= c:
+                param = p
+    else:
+        # Clean the parameter
+        param = param.strip()
+
+    return single if check_multi else param
+
+def stratify_and_recombine(splits: list, removed: dict, classify: tuple[bool, int], n_counts: dict = None, ratios = [7,2,1]) -> list:
+    new_splits = []
+
+    # Stratify by a certain parameter
+    for split in splits:
+        new_splits.append(stratified_split(split, removed, n_counts, ratios=ratios, classify=classify))
+
+
+    # Recombine the splits
+    merged = new_splits[0]
+    for sublist in new_splits[1:]:
+        for idx, d in enumerate(sublist):
+            if classify[0]:
+                for key, value in d.items():
+                    merged[idx][key].extend(value)
+            else:
+                merged[idx].extend(d)
+    
+    return merged
+
+def choice_logic(list1: list, list2: list) -> str | None:
+    """ Implements the logic for selecting a sample from two lists (unique and multi-class).
+    List1 gets priority over list2.
+
+    Args:
+        list1 (list): The primary list which we want to draw from.
+        list2 (list): The secondary list.
+
+    Returns:
+        str | None: A sample or None if both lists are empty. 
+    """
+    if len(list1) != 0:
+        return list1.pop()
+    elif len(list2) != 0:
+        return list2.pop()
+    else: 
+        return None
+
+def update_class(questions: list, counts: dict, param_idx: tuple[int, int], splits: list,
+                ratios: list, removed: dict = None, max_samples = 10, skip = False) -> None:
+    """ Allocates samples to a train, validation and test set using a stratification algorithm.
+    The train set has priority over the remainder of sets and also primarily obtains "unique" samples.
+    The validation set has priority over the test set and both primarily obtain multi-class samples.
+
+    Args:
+        questions (list): A list of questions containing questions pertaining to the class 'label'.
+        counts (dict): A dictionary of frequency of occurrence for the new class we are sorting the stratified set by.
+        param_idx (tuple[int, int]): The index position of the desired parameter we are counting while stratifying.
+        splits (list): A list containing the train, validation and test splits.
+        ratios (list): A list representing the ratio which we should follow in allocating samples to each respective set.
+        removed (dict, optional): A mapping of removed class labels to their new label. Defaults to None.
+        max_samples (int, optional): The maximum number of samples that we will allocate in this function call. Defaults to 10.
+        skip (bool, optional): Whether to treat the splits as dictionaries (False) or as lists (True). Defaults to False.
+    """
+
+    # Initialize a list to hold the different samples
+    multi, unique = [], []
+
+    # Split the questions on a basis of whether they have a unique or multi-class label
+    for q in questions: 
+
+        # Get the parameter used for stratification
+        single = get_param(q, param_idx[0], counts, removed, True)
+            
+        # Update the sub classes accordingly
+        (unique if single else multi).append(q)
+
+    # Initialize a 2^14 bit integer to keep track of the number of samples in each split
+    count = 0
+
+    for _ in range(len(questions)):
+        
+        # Check which split has priority
+        idx = find_idx(max_samples, count, ratios)
+  
+        # Select a sample based on the split we are allocating to
+        # Val/Test will always be idx 1 or 2
+        # Train will always be idx 0
+        # Val/Test sets prioritize multi-class parameters; Train set prioritizes unique
+        q = choice_logic(multi, unique) if idx else choice_logic(unique, multi)
+
+        # If q is None, we've run out of samples so we stop updating the split
+        if q == None:
+            return q
+        
+        # Update the counter for the class count in each split
+        count += (1 << (14 * idx))
+
+        if skip:
+            # Update the split without paying attention to class 
+            splits[idx].append(q)
+        else:
+            # Get the parameter used for classification
+            param = get_param(q, param_idx[1], counts, removed)
+
+            splits[idx][param].append(q)
+
+def find_idx(max_samples: int, splits: int | list, ratios: list) -> int:
+    """ Returns the index of the split that has the highest priority of allocation (based on the current percentages of samples allocated to each split).
+
+    Args:
+        max_samples (int): The maximum number of samples that we will allocate in this function call.
+        splits (int | list): A bit-representation of the count of this class in each set or a list containing the containers for each split.
+        ratios (list): A list representing the ratio which we should follow in allocating samples to each respective set.
+
+    Returns:
+        int: The index of the split which is next in line for allocation.
+    """
+    # Add all ratios together
+    total = sum(ratios)
+
+    # Compute the percentages of samples allocated to each split relative to their ideal allocations
+    if type(splits) == int:
+        percentages = [((splits >> (14 * i)) & 16383) * (total / (max_samples * r)) for i, r in enumerate(ratios)]
+    else:
+        percentages = [len(s) * (total / (max_samples * r)) for r, s in zip(ratios, splits)]
+
+    # Find the split with the smallest percentage allocation (relative to its ideal allocation)
+    # Splits get higher priority based on their positions
+    idx = 0
+    lowest = percentages[idx]
+    for i, p in enumerate(percentages[1:]):
+        if p < lowest:
+            lowest = p
+            idx = i + 1
+    return idx
+    
+
+def stratified_split(questions: dict, removed: dict = None, n_counts: dict = None, n_splits = 3, ratios = [6, 2, 2], classify: tuple[bool, tuple[int, int]] = (False, None)) -> list:
+    """ Performs a stratified split on a dataset.
+
+    Args:
+        questions (dict): A dictionary mapping labels to subsets of questions.
+        removed (dict): A dictionary mapping parameter names to their general parameter assigned after grouping.
+        f_counts (dict): A dictionary of counts for the next parameter we will use to stratify.
+        n_splits (int, optional): The total number of splits to perform. Defaults to 3.
+        ratios (list, optional): A list representing the ratio which we should follow in allocating samples to each respective set.. Defaults to [7, 2, 1].
+        classify (tuple[bool, tuple[int, int]], optional): A tuple determining whether there will be more classes to stratify and the current class to stratify. Defaults to (False, None).
+
+    Returns:
+        list: A list containing the individual splits obtained post-stratification.
+    """
+    # Sort the data from smallest to largest count of occurence
+    sorted_data = sorted(questions.items(), key = lambda x: len(x[1]))
+
+    # Initialize lists for each split
+    if classify[0]:
+        splits = [defaultdict(list) for _ in range(n_splits)]
+    else:
+        splits = [[] for _ in range(n_splits)]
+
+    # Cycle through each class and the counts of samples per class
+    for item in sorted_data:
+
+        # Count the amount of samples per class we can allocate to each split
+        leftover = len(item[1]) % 10
+
+        # Compute the max number of samples divisible by 10
+        max_samples = len(item[1]) - leftover
+
+        if len(item[1]) >= 10:
+            # Partition the maximum amount of samples of this class that is divisible by 10
+            update_class(questions[item[0]][:max_samples], n_counts, classify[1], splits, ratios, removed, max_samples, skip = not classify[0])
+
+        # Add the leftover samples if there are any
+        if leftover:
+            update_class(questions[item[0]][-leftover:], n_counts, classify[1], splits, ratios, removed,skip = not classify[0])
+        
+    return splits
+
+def plot_dist_top_n(d: dict, title: str, xlab: str, path: str, n: int = False) -> None:
+    n = n if n else len(d)
+    # Sort the dictionary based on the values
+    items = sorted(d.items(), key = lambda x: x[1], reverse = True)[:n]
+    # Extract the counts and labels separately
+    counts = [item[1] for item in items]
+    labels = [item[0] for item in items]
+    # Plot the histogram of the data
+    plot_dist(labels, counts, title, xlab, path)
+
+
 def plot_dist(labels: list, counts: list, title: str, xlab: str, path: str) -> None:
     # Plot the bar chart
     plt.bar(labels, counts, color='skyblue')
@@ -28,7 +242,7 @@ def plot_dist(labels: list, counts: list, title: str, xlab: str, path: str) -> N
     # Clear the plot
     plt.clf()
 
-def group_params(path: str) -> defaultdict:
+def group_params(path: str, keep_qs = False) -> defaultdict:
     # Create a dictionary of parameters
     params = defaultdict(set)
     # Initialize a mapping for removed parameters to present parameters
@@ -37,6 +251,8 @@ def group_params(path: str) -> defaultdict:
     # Initialize a counter for parameters
     for k in 'CSTGM':
         params[f'C_{k}'] = defaultdict(int)
+    # Initialize a dict to classify questions by subject
+    params[f'Q_S'] = defaultdict(list)
 
     # Populate the dictionary of parameters while combining like terms
     for q in get_questions(path):
@@ -101,6 +317,9 @@ def group_params(path: str) -> defaultdict:
                 combi += v
                 # Update the count for this specific parameter
                 params[f'C_{k}'][v] += 1
+                # Save the questions by subject if requested
+                if keep_qs and k == 'S':
+                    params[f'Q_{k}'][v].append(q)
             if k in 'STG':
                 combi += '|'
         # Update the count for this combination of parameters
@@ -321,6 +540,10 @@ if __name__ == "__main__":
     parser_i.add_argument("-t", help="Keep the dataset in a .txt file, otherwise save it as a .csv", action="store_true")
 
     parser_v = subparsers.add_parser("v", help="Visualize the distributions of the inputs")
+    parser_v.add_argument("-p", help="Plot the frequency distributions of the data's classes",action="store_true")
+
+    parser_s = subparsers.add_parser("s", help="Perform a stratified split on a dataset to obtain training, validation and test subsets.")
+    parser_s.add_argument("ratio", help="The desired ratio for the set's train/val/test split, in the format 'x,y,z'")
 
     # Parse the arguments
     args = argparser.parse_args()
@@ -351,28 +574,52 @@ if __name__ == "__main__":
               '\nNumber of modifiers:', len(params['M']),
               '\nNumber of unique combinations:', len(params['C_C']))
         
-        # Plot the distribution of the subjects
-        s_s = sorted(params['C_S'].items(), key=lambda x: x[1], reverse=True)
-        plot_dist([item[0] for item in s_s], [item[1] for item in s_s], 'Histogram of subject frequency', 'Subject', 'subject_dist.png')
+        if args.p:
+            # Plot the distribution of the subjects
+            plot_dist_top_n(params['C_S'], 'Histogram of subject frequency', 'Subject', 'subject_dist.png')
 
-        # Plot the distribution of the grades
-        plot_dist(list(params['C_G'].keys()), list(params['C_G'].values()), 'Histogram of grade frequency', 'Grade', 'grade_dist.png')
+            # Plot the distribution of the grades
+            plot_dist(list(params['C_G'].keys()), list(params['C_G'].values()), 'Histogram of grade frequency', 'Grade', 'grade_dist.png')
 
-        # Sort the dictionary by its values in descending order and take the top 10
-        top_10 = sorted(params['C_T'].items(), key=lambda x: x[1], reverse=True)[:10]
-        # Plot the distribution of the top 10 exercise types
-        plot_dist([item[0] for item in top_10], [item[1] for item in top_10], 'Histogram of top 10 exercicse type frequency', 'Exercise Type', 'ex_type_dist.png')
+            # Plot the distribution of the top 10 exercise types
+            plot_dist_top_n(params['C_T'], 'Histogram of top 10 exercise type frequency', 'Exercise Type', 'ex_type_dist.png', 10)
+            
+            # Plot the distribution of the top 10 modifiers
+            plot_dist_top_n(params['C_M'], 'Histogram of top 10 modifier frequency', 'Modifier', 'modifier_dist.png', 10)
 
-        # Sort the dictionary by its values in descending order and take the top 10
-        top_10 = sorted(params['C_M'].items(), key=lambda x: x[1], reverse=True)[:10]
-        # Plot the distribution of the top 10 modifiers
-        plot_dist([item[0] for item in top_10], [item[1] for item in top_10], 'Histogram of top 10 modifier frequency', 'Modifier', 'modifier_dist.png')
-
-        # Sort the dictionary by its values in descending order and take the top 10
-        top_10 = sorted(params['C_C'].items(), key=lambda x: x[1], reverse=True)[:10]
-        # Plot the distribution of the top 10 combinations
-        plot_dist([item[0] for item in top_10], [item[1] for item in top_10], 'Histogram of top 10 combination frequency', 'Combination', 'comb_dist.png')
+            # Plot the distribution of the top 10 combinations
+            plot_dist_top_n(params['C_C'], 'Histogram of top 10 combination frequency', 'Combination', 'comb_dist.png', 10)
         
+        sorted_top = sorted(params['C_M'].items(), key=lambda x: x[1], reverse=True)
+        top_n = [item[1] for item in sorted_top if item[1] > 2]
+        print(len(top_n))
+        print(f"top {len(top_n)} modifiers account for {100 * sum(top_n)/sum(x[1] for x in params['C_M'].items())}% of data")
+
+        sorted_top = sorted(params['C_T'].items(), key=lambda x: x[1], reverse=True)
+        top_n = [item[1] for item in sorted_top if item[1] > 2]
+        print(len(top_n))
+        print(f"top {len(top_n)} account for {100 * sum(top_n)/sum(x[1] for x in params['C_T'].items())}% of data")
 
     elif args.key == 's':
-        pass
+        # Parse the desired ratios
+        if args.ratio:
+            ratios = [int(r) for r in args.ratio.split(',')]
+
+        # Stratified sampling of dataset
+        params = group_params('data/questions.txt', True)
+
+        # STEP 1: Stratify by Subject and partition by grade labels
+        splits = stratified_split(params['Q_S'], classify=(True, (0, 2)), ratios=ratios)
+
+        # STEP 2-4: Stratify by Grade and partition by exercise type labels
+        # then, stratify by Exercise Type and partition by modifier labels
+        # and finally stratify by modifier
+        for removed, classify, counter in zip([params['R_T'], params['R_M'], params['R_M']],
+                                              [(True, (2, 1)),  (True, (1, 3)),  (False, (3, 3))],
+                                              [params['C_T'], params['C_M'], params['C_M']]):
+            splits = stratify_and_recombine(splits, removed, classify, counter, ratios)
+
+        # Compute the total number of samples.
+        total = sum(len(s) for s in splits)
+        # Compute and output the percentage of the dataset that each split represents.
+        print(f"Final set composition:\n\nTrain: {len(splits[0]) * 100 / total:.2f}%\nVal: {len(splits[1]) * 100 / total:.2f}%\nTest: {len(splits[2]) * 100 / total:.2f}%")
