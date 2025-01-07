@@ -680,6 +680,8 @@ if __name__ == "__main__":
     # -------------------------
     # Program logic
     # -------------------------
+    
+    # Manually augments a dataset for instruction-tuning.
     if args.key == "i":
         # Turn the questions into an instruction tuning dataset
         questions = make_instructions('data/questions.txt')
@@ -693,6 +695,8 @@ if __name__ == "__main__":
             with open('data/instructions.csv', mode='w', newline='') as f:
                 writer = csv.writer(f)
                 writer.writerows(questions)
+
+    # Performs data exploration
     elif args.key == 'v':
         params = group_params('data/questions.txt')
 
@@ -729,6 +733,7 @@ if __name__ == "__main__":
         print(len(top_n))
         print(f"top {len(top_n)} account for {100 * sum(top_n)/sum(x[1] for x in params['C_T'].items())}% of data")
 
+    # Performs a stratified multi-dimensional split
     elif args.key == 's':
         # Parse the desired ratios
         if args.ratio:
