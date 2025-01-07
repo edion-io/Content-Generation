@@ -252,7 +252,7 @@ def plot_dist_top_n(d: dict, title: str, xlab: str, path: str, n: int = False) -
         title (str): The title of the plot.
         xlab (str): The x-label.
         path (str): The path used to save the plot.
-        n (int, optional): The cutoff point for the plot (top "n" levels). Defaults to False.
+        n (int, optional): The cutoff point for the plot (top "n" levels). If false, takes the length of the dictionary. Defaults to False.
     """
     n = n if n else len(d)
     # Sort the dictionary based on the values
