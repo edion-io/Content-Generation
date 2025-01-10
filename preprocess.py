@@ -666,6 +666,7 @@ if __name__ == "__main__":
     subparsers = argparser.add_subparsers(dest="key", help="Subcommand description")
 
     parser_i = subparsers.add_parser("i", help="Augment a dataset to use it for instruction-tuning")
+    parser_i.add_argument("path", help="The path fo the file contaiing the dataset.")
     parser_i.add_argument("-t", help="Keep the dataset in a .txt file, otherwise save it as a .csv", action="store_true")
 
     parser_v = subparsers.add_parser("v", help="Visualize the distributions of the inputs")
@@ -684,15 +685,15 @@ if __name__ == "__main__":
     # Manually augments a dataset for instruction-tuning.
     if args.key == "i":
         # Turn the questions into an instruction tuning dataset
-        questions = make_instructions('data/questions.txt')
+        questions = make_instructions(f'data/{args.path}.txt')
         if args.t:
             # Write the new dataset to a text file
-            with open('data/instructions.txt', 'w') as f:
+            with open(f'data/instruct_{args.path}.txt', 'w') as f:
                 for q in questions:
                     f.write(q[0] + '\n' + q[1] + '\n\n\n')
         else:
             # Write the new dataset to a csv file
-            with open('data/instructions.csv', mode='w', newline='') as f:
+            with open(f'data/instruct_{args.path}.csv', mode='w', newline='') as f:
                 writer = csv.writer(f)
                 writer.writerows(questions)
 
@@ -748,12 +749,17 @@ if __name__ == "__main__":
         # STEP 2-4: Stratify by Grade and partition by exercise type labels
         # then, stratify by Exercise Type and partition by modifier labels
         # and finally stratify by modifier
-        for removed, classify, counter in zip([params['R_T'], params['R_M'], params['R_M']],
-                                              [(True, (2, 1)),  (True, (1, 3)),  (False, (3, 3))],
-                                              [params['C_T'], params['C_M'], params['C_M']]):
+        for removed, classify, counter in zip((params['R_T'], params['R_M'], params['R_M']),
+                                              ((True, (2, 1)),  (True, (1, 3)),  (False, (3, 3))),
+                                              (params['C_T'], params['C_M'], params['C_M'])):
             splits = stratify_and_recombine(splits, removed, classify, counter, ratios)
 
         # Compute the total number of samples.
         total = sum(len(s) for s in splits)
         # Compute and output the percentage of the dataset that each split represents.
         print(f"Final set composition:\n\nTrain: {len(splits[0]) * 100 / total:.2f}%\nVal: {len(splits[1]) * 100 / total:.2f}%\nTest: {len(splits[2]) * 100 / total:.2f}%")
+
+        # Save the subsets into .txt files
+        for split, label in zip(splits, ('train', 'val', 'test')):
+            with open(f'data/{label}.txt', 'w') as f:
+                f.write("\n\n\n".join(split))
