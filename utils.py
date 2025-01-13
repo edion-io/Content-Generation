@@ -1,4 +1,4 @@
-# Copyright (C) 2024  Edion Management Systems
+# Copyright (C) 2025  Edion Management Systems
 import re
 import spacy
 import glob
