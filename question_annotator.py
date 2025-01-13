@@ -1,4 +1,4 @@
-# Copyright (C) 2024  Edion Management Systems
+# Copyright (C) 2025  Edion Management Systems
 import sys
 import tkinter as tk
 from tkinter.font import Font

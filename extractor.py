@@ -1,4 +1,4 @@
-# Copyright (C) 2024  Edion Management Systems
+# Copyright (C) 2025  Edion Management Systems
 from openai import OpenAI
 from utils import upload_image, batch_items, submit_batch, extract_raw_questions, PDF_to_images
 import glob
