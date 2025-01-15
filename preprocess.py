@@ -439,7 +439,7 @@ def get_questions(path: str) -> list[str]:
         content = file.read()
 
     # Regular expression to match headers
-    header_pattern = r'\n(?=\(.*?\) \(.*?\))'
+    header_pattern = r'\n(?=\(.*?\) \(.*?\)|\(.*?\) T D \d)'
 
     # Split the questions on their headers
     return re.split(header_pattern, content)
