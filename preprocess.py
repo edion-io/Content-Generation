@@ -7,6 +7,7 @@ import csv
 from collections import defaultdict
 from rapidfuzz import fuzz
 import matplotlib.pyplot as plt
+import json
 
 def get_removed(param: str, removed: dict) -> str:
     """ Verifies whether a parameter tag is an alias. Outputs the source if it is.
@@ -668,6 +669,7 @@ if __name__ == "__main__":
     parser_i = subparsers.add_parser("i", help="Augment a dataset to use it for instruction-tuning")
     parser_i.add_argument("path", help="The path fo the file contaiing the dataset.")
     parser_i.add_argument("-t", help="Keep the dataset in a .txt file, otherwise save it as a .csv", action="store_true")
+    parser_i.add_argument("-j", help="Keep the dataset as json, in instruction/response format.", action="store_true")
 
     parser_v = subparsers.add_parser("v", help="Visualize the distributions of the inputs")
     parser_v.add_argument("-p", help="Plot the frequency distributions of the data's classes",action="store_true")
@@ -691,6 +693,12 @@ if __name__ == "__main__":
             with open(f'data/instruct_{args.path}.txt', 'w') as f:
                 for q in questions:
                     f.write(q[0] + '\n' + q[1] + '\n\n\n')
+        elif args.j:
+            #Write the new dataset to a json format.
+            questions = [{'instruction': q[0], 'response': q[1]} for q in questions[1:]]
+
+            with open(f"data/{args.path}.json", "w") as f:
+                json.dump(questions, f, indent=4)
         else:
             # Write the new dataset to a csv file
             with open(f'data/instruct_{args.path}.csv', mode='w', newline='') as f:
@@ -763,3 +771,4 @@ if __name__ == "__main__":
         for split, label in zip(splits, ('train', 'val', 'test')):
             with open(f'data/{label}.txt', 'w') as f:
                 f.write("\n\n\n".join(split))
+        
