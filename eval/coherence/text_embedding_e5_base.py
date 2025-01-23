@@ -1,13 +1,13 @@
 import torch.nn.functional as F
 
 import torch
-import re
 import pickle
 import pandas as pd
 from torch import Tensor
 from transformers import AutoTokenizer, AutoModel
 
 
+# Load model
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 model_id = "intfloat/e5-base-v2"
@@ -17,6 +17,9 @@ model = AutoModel.from_pretrained(model_id).to(device)
 model.eval()
 
 def embed(docs: list[str]) -> list[list[float]]:
+    """
+    Embed a list of text to vectors
+    """
     docs = [f"passage: {d}" for d in docs]
     # tokenize
     tokens = tokenizer(
@@ -34,10 +37,22 @@ def embed(docs: list[str]) -> list[list[float]]:
             tokens["attention_mask"].sum(dim=1)[..., None]
     return doc_embeds.detach().cpu()
 
-sample_subjects = pd.read_csv("data/sample_subjects_train.csv")
 
-samples = sample_subjects["content"].to_list()
+struct_data = pd.read_csv('data/questions.csv')
 
+# Sample 50 excercises from each subject as train data
+sample_subjects_train = struct_data.groupby(by="subject").apply(lambda x: x.sample(n=50)).reset_index(drop=True)
+sample_subjects_train.to_csv("data/sample_subjects_train.csv")
+
+# Sample 10 excercises from each subject as train data, different from train data 
+test_subjects = struct_data[~struct_data.index.isin(sample_subjects_train.index)]
+sample_subjects_test = test_subjects.groupby(by="subject").apply(lambda x: x.sample(n=10)).reset_index(drop=True)
+sample_subjects_test.to_csv("data/sample_subjects_test.csv")
+
+
+samples = sample_subjects_train["content"].to_list()
+
+# Embed train text to vectors in batch size of 10
 vectors = None
 step = 10
 for i in range(0, len(samples), step):
@@ -50,15 +65,14 @@ for i in range(0, len(samples), step):
         pass
     # vectors = embed(samples[i:i+step])
 
+# Save vectors to file
 with open('data/sample_vectors_train.pkl', 'wb') as f:
     pickle.dump(vectors, f)
 
 
+samples = sample_subjects_test["content"].to_list()
 
-sample_subjects = pd.read_csv("data/sample_subjects_test.csv")
-
-samples = sample_subjects["content"].to_list()
-
+# Embed test text to vectors in batch size of 10
 vectors = None
 step = 10
 for i in range(0, len(samples), step):
@@ -71,6 +85,7 @@ for i in range(0, len(samples), step):
         pass
     # vectors = embed(samples[i:i+step])
 
+# Save vectors to file
 with open('data/sample_vectors_test.pkl', 'wb') as f:
     pickle.dump(vectors, f)
 
