@@ -1,0 +1,286 @@
+instruction,generation,groundtruth
+Give me a true or false statements exercise for a 4th grade student learning mathematics. It should be an exercise about odd and even numbers.,"Write true or false next to each statement below.
+
+\begin{enumerate}[label=\alph*.]
+\item The sum of two odd numbers is always even.
+\item The product of two even numbers is always odd.
+\item An even number plus an odd number equals an odd number.
+\end{enumerate}","Here are some statements. Write true if the statement is correct. Write false if it is not correct.
+
+\begin{enumerate}
+\item even + even = even
+\item odd + odd = odd
+\end{enumerate}"
+Give me a combination of a group activity and a campaign exercise for a 5th grade student learning social studies. It should be an exercise on internet safety.,Work in a group to create a poster or other campaign material that explains how people can stay safe when using the internet.,Work in a group to devise an internet safety campaign.
+Give me a combination of a sequence completion and an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise involving sequence completion.,"Complete these sequences.
+
+\begin{enumerate}[label=\alph*.]
+\item 0, 1, 2, 3, 4, \_\_, \_\_
+\item 0, 1, 3, 6, 10, \_\_, \_\_
+\end{enumerate}","\begin{enumerate}[label=\alph*.]
+\item Write the first five numbers in a sequence that starts at 42 and has a term-to-term rule of adding 0.15.
+\item Determine the value of the 10th term based on the identified pattern.
+\end{enumerate}"
+"Give me a ""always sometimes or never true"" exercise for a 4th grade student learning mathematics. It should be an exercise on even and odd numbers.","True or false? Explain your answers.
+\begin{enumerate}[label=\alph*.]
+\item The sum of two even numbers is always even.
+\item The sum of two odd numbers is always odd.
+\item The product of an even number and an odd number is always even.
+\end{enumerate}","Is it always, sometimes or never true that the sum of four even numbers will divide exactly by 4?"
+Give me a fill-in-the-blanks exercise for a student learning German. It should be an exercise on modal verbs.,"Fill in the spaces with the correct form of the modal verb.
+\begin{enumerate}
+\item Ich \_\_\_\_\_ heute nicht ins Kino gehen können, ich muss arbeiten. (I can't go to the movies today, I have to work.)
+\item Du \_\_\_\_\_ den Wagen reinwaschen müssen, der Sand ist sehr schmutzig. (You must wash the car, the sand is very dirty.)
+\item Sie \_\_\_\_\_ die Prüfungen nächste Woche abgeben müssen. (They must hand in the exams next week.)
+\item Ihr \_\_\_\_\_ morgen auf dem Sportplatz sein müsst. (You must be at the sports field tomorrow.)
+\item Er \_\_\_\_\_ sich um seine Familie kümmern müssen. (He has to take care of his family.)
+\end{enumerate}","Fill the spaces with the correct modal verbs.
+
+\begin{enumerate}
+\item Ich \_\_\_\_(können) heute leider nicht kommen.
+\item \_\_\_\_\_ (müssen) du heute noch deine Hausaufgaben machen?
+\item Wir \_\_\_\_ (sollen) das Essen heute vorbereiten.
+\item Du \_\_\_\_(müssen) jetzt aufräumen.
+\item Wir \_\_\_\_\_(mögen) diese Arbeit nicht.
+\item Ihr \_\_\_\_\_(dürfen) im Wohnzimmer schlafen.
+\item Wir \_\_\_\_\_(können) auch schon früher gehen.
+\end{enumerate}"
+"Give me a combination of a question and a description exercise for a 1st grade student learning science. It should be an exercise on materials. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should be an exercise on textures.","What can you feel about this material?
+
+[STRDGM] The image shows a person's hand touching a smooth surface, with their eyes closed, indicating they are feeling the texture without seeing it. There is also a thermometer showing temperature ranges. [STPDGM]","Imagine you are holding one of the toys in the picture. Describe this toy. What does it feel like?
+
+[STRDGM] The image shows a kitchen counter with various materials and objects, including bowls, cups, and food items. There are also toys like a teddy bear and a toy car, illustrating different textures and uses. [STPDGM]"
+Give me a creative exercise for a 6th grade student learning mathematics. It should be an exercise on drawing shapes.,Draw three different prisms.,Draw three different cuboids.
+Give me a grouping exercise for a 3rd grade student learning English. It should be an exercise on homonyms.,"Write each pair of homonyms into two groups.
+\begin{enumerate}
+\item straight/street
+\item right/write
+\item rain/reign
+\end{enumerate}","\begin{enumerate}[label=\alph*.]
+\item Circle the homonyms from the list: bank, island, fans, match, zoo, bark, nurse, atlas, sky, tale, watch.
+
+\item Choose two homonyms from the list. Use each word in two sentences to show the different meanings.
+    \begin{enumerate}
+    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \end{enumerate}
+\end{enumerate}"
+Give me a sentence construction exercise for a student learning Spanish. It should have a subsection for answers. It should be an exercise on re-ordering sentences.,"Re-order the following words to make sentences that make sense.
+\begin{enumerate}
+    \item el/ustedes/hoy/tomarán/un café (They will drink coffee today.)
+    \item la/usted/no ha perdido/peso (You haven't lost weight.)
+    \item ellos/nunca han estado/en París (They have never been in Paris.)
+    \item yo/ayer/he ganado/a la lotería (I won the lottery yesterday.)
+    \item tú/ayer/no has comido/la paella (You didn't eat paella yesterday.)
+\end{enumerate}
+
+\subsection*{Answers}
+\begin{enumerate}
+\item Ustedes tomarán un café hoy.
+\item Usted no ha perdido peso.
+\item Ellos nunca han estado en París.
+\item Yo he ganado a la lotería ayer.
+\item Tú no has comido la paella ayer.
+\end{enumerate}","Re-order these words to create sentences that make sense.  
+\begin{enumerate}
+    \item para ti / un paquete/ hay
+    \item para comer / hay / algo
+    \item ratón / en / un/ mi / habitación/ hay
+    \item en mi calle / un hotel / hay
+    \item algo / hay /en mi sopa
+\end{enumerate}
+
+\subsection*{Answers}
+\begin{enumerate}
+\item Hay un paquete para ti.
+\item Hay algo para comer.
+\item Hay un ratón en mi habitación.
+\item En mi calle hay un hotel.
+\item Hay algo en mi sopa.
+\end{enumerate}"
+"Give me an activity exercise for a 2nd grade student learning mathematics. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should be an exercise on colouring.","Colour the days of the week in the following calendar:
+
+\begin{enumerate}[label=\alph*.]
+\item Colour Monday red.
+\item Colour Tuesday blue.
+\item Colour Wednesday green.
+\item Colour Thursday yellow.
+\item Colour Friday orange.
+\item Colour Saturday purple.
+\item Colour Sunday pink.
+\end{enumerate}
+
+[STRDGM] A calendar with days of the month listed in rows. [STPDGM]","Colour in 54, 62, and 12 in the same colour on the 100 square.
+
+[STRDGM] A 10x10 grid representing numbers from 1 to 100. [STPDGM]"
+Give me a data analysis exercise for a 3rd grade student learning mathematics. It should be an exercise on data collection.,"Draw a tally chart and a block graph based on your own survey. Think of a topic for your survey. Here are some ideas: favourite ice cream flavour, number of pets, type of car, number of brothers and sisters.
+
+\begin{enumerate}[label=\alph*.]
+\item Conduct the survey to collect data.
+\item Create a tally chart to record the results.
+\item Draw a block graph to represent the data visually.
+\end{enumerate}","Collect data about the number of letters in students' names that range from three to twelve.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Number of Letters} & \textbf{Tally} \\ \hline
+3 &  \\ \hline
+4 &  \\ \hline
+5 &  \\ \hline
+6 &  \\ \hline
+7 &  \\ \hline
+8 &  \\ \hline
+9 &  \\ \hline
+10 &  \\ \hline
+11 &  \\ \hline
+12 &  \\ \hline
+\end{tabular}
+\end{table}
+
+\paragraph{Using the data}
+Now construct a frequency table.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Number of Letters} & \textbf{Frequency} \\
+3 &  \\ \hline
+4 &  \\ \hline
+5 &  \\ \hline
+6 &  \\ \hline
+7 &  \\ \hline
+8 &  \\ \hline
+9 &  \\ \hline
+10 &  \\ \hline
+11 &  \\ \hline
+12 &  \\ \hline
+\hline
+\end{tabular}
+\end{table}"
+Give me a multiple choice exercise for a 1st grade student learning science. It should be an exercise on similarities and differences.,"Circle the correct word.
+\begin{enumerate}[label=\alph*.]
+\item We are all the same / different.
+\item We look the same / similar.
+\item We can do the same / similar things.
+\end{enumerate}","Circle the answer that is true for you.
+\begin{enumerate}[label=\alph*.]
+\item Do you look like your brothers or sisters? Yes / No
+\item Do you look like your friends in the class? Yes / No
+\item Who do you look most like? my friend / my brother / my sister
+\item We are all the same but all different. True / False
+\end{enumerate}"
+"Give me a combination of a question and an observation exercise for a 6th grade student learning science. It should be an exercise on pollution. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).","Look at the picture. What pollutants can you see?
+
+[STRDGM] The image shows a bustling city street with cars emitting smoke, a factory chimney releasing smoke, and people wearing face masks in polluted areas. [STPDGM]","How do we harm our world?
+
+[STRDGM] The image shows a beautiful coastal landscape with clear blue water, green hills, and a beach. In the foreground, there are some trees and a few boats on the water. In the background, there is a factory emitting smoke into the sky, contrasting with the natural beauty of the environment. [STPDGM]"
+"Give me a descriptive exercise for a 3rd grade student learning science. It should be an exercise on flowering plants. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).","Describe the life cycle of a flowering plant.
+
+[STRDGM] A diagram showing the stages of the life cycle of a flowering plant: seeds, seedling, mature plant with flowers, and then back to seeds. Each stage is labeled clearly. [STPDGM]","Describe the journey that water takes after it has entered the roots.
+
+[STRDGM] The image shows a flowering plant with a visible root system, including roots extending into the soil. There is also a thermometer indicating temperature ranges. [STPDGM]"
+Give me a descriptive exercise for a 3rd grade student learning geography. It should be an exercise involving short answers.,Write a description of what you think the landscape around your home looks like from a hot air balloon.,"Imagine you have been transported to the Himalayas for the day. Write a short paragraph describing what you see, feel and hear."
+Give me a map exercise for a 1st grade student learning geography. It should be an exercise on searching.,Look at a map of India. Can you find Kolkata?,Use a map or an atlas to find the seaside place nearest to your home.
+Give me an algebra exercise for a 6th grade student learning mathematics. It should be an exercise on evaluating expressions. It should have multiple steps. There should be marks/points assigned to the question. It should be a with Answer.,"Given \( m = 5 \) and \( n = 3 \), find the value of each expression.
+
+\begin{enumerate}[label=\alph*.]
+\item \( m + n \)
+\item \( mn \)
+\end{enumerate}
+
+\subsection*{Answers}
+\begin{enumerate}[label=\alph*.]
+\item \( m + n = 5 + 3 = 8 \)
+\item \( mn = 5 \times 3 = 15 \)
+\end{enumerate}","Find the value of each of the following expressions when \( m = 3 \). (2 marks each)
+
+\begin{enumerate}[label=\Roman*.]
+\item \( m^2 + 5 = \) \_\_\_\_\_\_\_\_\_\_
+\item \( 14 + m^3 = \) \_\_\_\_\_\_\_\_\_\_
+\item \( m^2 - 19 = \) \_\_\_\_\_\_\_\_\_\_
+\item \( 16 - m^2 = \) \_\_\_\_\_\_\_\_\_\_
+\item \( 4m^3 + 3 = \) \_\_\_\_\_\_\_\_\_\_
+\item \( 5m^2 - 7 = \) \_\_\_\_\_\_\_\_\_\_
+\item \( 8 + 3m^3 = \) \_\_\_\_\_\_\_\_\_\_
+\item \( 100 - 2m^2 = \) \_\_\_\_\_\_\_\_\_\_
+\item \( \frac{4m^2}{3} = \) \_\_\_\_\_\_\_\_\_\_
+\item \( \frac{5m^3}{9} = \) \_\_\_\_\_\_\_\_\_\_
+\end{enumerate}
+
+\subsection*{Answers}
+\begin{enumerate}[label=\Roman*.]
+\item \( 3^2 + 5 = 14 \)
+\item \( 14 + 3^3 = 41 \)
+\item \( 3^2 - 19 = -10 \)
+\item \( 16 - 3^2 = 7 \)
+\item \( 4(3^3) + 3 = 111 \)
+\item \( 5(3^2) - 7 = 38 \)
+\item \( 8 + 3(3^3) = 83 \)
+\item \( 100 - 2(3^2) = 82 \)
+\item \( \frac{4(3^2)}{3} = 12 \)
+\item \( \frac{5(3^3)}{9} = 15 \)
+\end{enumerate}"
+Give me an algebra exercise for a 6th grade student learning mathematics. It should be an exercise on algebraic expressions. It should have multiple steps.,"Let \( p \) represent the number of pencils.
+
+\begin{enumerate}[label=\alph*.]
+\item Express the total cost of 12 pencils in terms of \( p \).
+
+\item If \( p = 3 \), find the total cost of 12 pencils.
+
+\item If \( p = 5 \), find the total cost of 12 pencils.
+\end{enumerate}","5 identical chairs weigh \( r \) kg altogether.
+
+\begin{enumerate}[label=\alph*.]
+\item Express the weight of each chair in terms of \( r \).
+\item If \( r = 15 \), find the weight of each chair.
+\item If \( r = 35 \), find the weight of each chair.
+\end{enumerate}"
+Give me a combination of an investigation and a partner activity for a 1st grade student learning science. It should have a subsection for materials. It should be an exercise on making things go faster or slower.,"\paragraph{Investigation} Make things go faster or slower
+\begin{enumerate}
+\item Try to make something move quickly.
+\item Tell your partner how you did it.
+\item Try to make something move slowly.
+\item Tell your partner how you did it.
+\end{enumerate}
+
+\subsection*{Materials}
+\begin{itemize}
+\item A toy car
+\item A balloon
+\item A paper airplane
+\end{itemize}","\paragraph{Investigation} How can you stop a moving toy car?
+\begin{itemize}
+\item Work with a partner.
+\item Explore how to stop a toy car moving.
+\item Take turns to push the toy car.
+\item How did you stop the toy car moving?
+\end{itemize}
+
+\subsection*{Materials}
+\begin{itemize}
+\item Toy car
+\end{itemize}"
+"Give me a combination of an investigation exercise, a partner activity, and a question for a 2nd grade student learning science. It should have a subsection for materials. It should be an exercise on light sources.","\paragraph{Investigation} Finding out about different kinds of light
+\begin{enumerate}
+  \item Investigate the different kinds of light with your partner.
+  \item Look at each source of light.
+  \begin{enumerate}[label=\alph*.]
+    \item Is it natural or man-made?
+    \item Is it bright or dim?
+    \item What colour is it?
+  \end{enumerate}
+  \item Talk about what you find and write down your answers.
+\end{enumerate}
+
+\subsection*{Materials}
+\begin{itemize}
+  \item Sources of light (natural and artificial)
+\end{itemize}","Investigate: Is a reflection a source of light? Work with a partner to hold a mirror in front of your face to look at your reflection. What happens to your reflection?
+
+\subsection*{Materials}
+\begin{itemize}
+\item A mirror
+\end{itemize}"

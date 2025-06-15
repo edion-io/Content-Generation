@@ -1,0 +1,54 @@
+Loading quantized model...
+Merging lora adapter to base model...
+Loading dataset...
+Saved output
+Max reserved memory on GPU 0: 4.95 GB
+Max reserved memory on GPU 1: 9.67 GB
+
+Total max reserved memory across GPUs: 14.62 GB
+
+###############################################################################
+Hábrók Cluster
+Job 17559329 for user s4702328
+Finished at: Fri May 23 08:07:39 CEST 2025
+
+Job details:
+============
+
+Job ID                         : 17559329
+Name                           : quantize-inf-qwen32
+User                           : s4702328
+Partition                      : gpumedium
+Nodes                          : v100v2gpu1
+Number of Nodes                : 1
+Cores                          : 16
+Number of Tasks                : 1
+State                          : COMPLETED  
+Submit                         : 2025-05-23T01:58:28
+Start                          : 2025-05-23T04:51:33
+End                            : 2025-05-23T08:07:35
+Reserved walltime              : 06:00:00
+Used walltime                  : 03:16:02
+Used CPU time                  : 03:15:56 (Efficiency:  6.25%)
+% User (Computation)           : 95.64%
+% System (I/O)                 :  4.35%
+Total memory reserved          : 70G
+Maximum memory used            : 2.47G
+Requested GPUs                 : 2
+Allocated GPUs                 : v100=2
+Max GPU utilization            : 123%
+Max GPU memory used            : 15.35G
+Hints and tips      :
+ 1) You requested much more CPU memory than your program used.
+    Please reduce the requested amount of memory.
+ *) For more information on these issues see:
+    https://wiki.hpc.rug.nl/habrok/additional_information/job_hints
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Hábrók in your publications:
+
+https://wiki.hpc.rug.nl/habrok/introduction/scientific_output
+
+################################################################################

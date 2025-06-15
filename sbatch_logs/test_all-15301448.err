@@ -1,0 +1,72 @@
+The token has not been saved to the git credentials helper. Pass `add_to_git_credential=True` in this function directly or `--add-to-git-credential` if using via `huggingface-cli` if you want to set the git credential as well.
+Token is valid (permission: write).
+The token `sft` has been saved to /scratch/s4702328/huggingface_cache/stored_tokens
+Your token has been saved to /scratch/s4702328/huggingface_cache/token
+Login successful.
+The current active token is: `sft`
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/30 [01:08<32:59, 68.24s/it]Loading checkpoint shards:   7%|▋         | 2/30 [02:46<40:10, 86.09s/it]Loading checkpoint shards:  10%|█         | 3/30 [04:02<36:39, 81.47s/it]Loading checkpoint shards:  13%|█▎        | 4/30 [05:15<33:50, 78.08s/it]Loading checkpoint shards:  17%|█▋        | 5/30 [07:36<41:57, 100.71s/it]Loading checkpoint shards:  20%|██        | 6/30 [08:47<36:17, 90.72s/it] Loading checkpoint shards:  23%|██▎       | 7/30 [09:57<32:10, 83.92s/it]Loading checkpoint shards:  27%|██▋       | 8/30 [11:12<29:44, 81.13s/it]Loading checkpoint shards:  30%|███       | 9/30 [12:28<27:49, 79.49s/it]Loading checkpoint shards:  33%|███▎      | 10/30 [13:40<25:44, 77.24s/it]Loading checkpoint shards:  37%|███▋      | 11/30 [15:12<25:47, 81.45s/it]Loading checkpoint shards:  40%|████      | 12/30 [17:48<31:17, 104.30s/it]Loading checkpoint shards:  43%|████▎     | 13/30 [19:52<31:12, 110.17s/it]Loading checkpoint shards:  47%|████▋     | 14/30 [22:37<33:47, 126.73s/it]Loading checkpoint shards:  50%|█████     | 15/30 [24:19<29:51, 119.42s/it]Loading checkpoint shards:  53%|█████▎    | 16/30 [25:45<25:29, 109.23s/it]Loading checkpoint shards:  57%|█████▋    | 17/30 [26:57<21:16, 98.16s/it] Loading checkpoint shards:  60%|██████    | 18/30 [29:22<22:26, 112.25s/it]Loading checkpoint shards:  63%|██████▎   | 19/30 [30:37<18:30, 100.96s/it]Loading checkpoint shards:  67%|██████▋   | 20/30 [31:46<15:12, 91.29s/it] Loading checkpoint shards:  70%|███████   | 21/30 [32:56<12:43, 84.88s/it]Loading checkpoint shards:  73%|███████▎  | 22/30 [34:06<10:43, 80.48s/it]Loading checkpoint shards:  77%|███████▋  | 23/30 [35:22<09:15, 79.31s/it]Loading checkpoint shards:  80%|████████  | 24/30 [36:35<07:44, 77.39s/it]Loading checkpoint shards:  83%|████████▎ | 25/30 [38:21<07:08, 85.80s/it]Loading checkpoint shards:  87%|████████▋ | 26/30 [39:37<05:31, 82.85s/it]Loading checkpoint shards:  90%|█████████ | 27/30 [40:46<03:55, 78.65s/it]Loading checkpoint shards:  93%|█████████▎| 28/30 [42:25<02:50, 85.03s/it]Loading checkpoint shards:  97%|█████████▋| 29/30 [43:39<01:21, 81.61s/it]Loading checkpoint shards: 100%|██████████| 30/30 [44:20<00:00, 69.40s/it]Loading checkpoint shards: 100%|██████████| 30/30 [44:20<00:00, 88.68s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/generation/utils.py:2097: UserWarning: You are calling .generate() with the `input_ids` being on a device type different than your model's device. `input_ids` is on cuda, whereas the model is on cpu. You may experience unexpected behaviors or slower generation. Please make sure that you have put `input_ids` to the correct device by calling for example input_ids = input_ids.to('cpu') before running `.generate()`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/tmp/cg/test_on_testset.py", line 52, in <module>
+    outputs = pipe(messages, max_new_tokens=1000, temperature=0.7)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/text_generation.py", line 267, in __call__
+    return super().__call__(Chat(text_inputs), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/base.py", line 1302, in __call__
+    return self.run_single(inputs, preprocess_params, forward_params, postprocess_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/base.py", line 1309, in run_single
+    model_outputs = self.forward(model_inputs, **forward_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/base.py", line 1209, in forward
+    model_outputs = self._forward(model_inputs, **forward_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/text_generation.py", line 370, in _forward
+    generated_sequence = self.model.generate(input_ids=input_ids, attention_mask=attention_mask, **generate_kwargs)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/generation/utils.py", line 2215, in generate
+    result = self._sample(
+             ^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/generation/utils.py", line 3206, in _sample
+    outputs = self(**model_inputs, return_dict=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/accelerate/hooks.py", line 170, in new_forward
+    output = module._old_forward(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/models/llama/modeling_llama.py", line 1190, in forward
+    outputs = self.model(
+              ^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/models/llama/modeling_llama.py", line 891, in forward
+    inputs_embeds = self.embed_tokens(input_ids)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/nn/modules/sparse.py", line 190, in forward
+    return F.embedding(
+           ^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/torch/nn/functional.py", line 2551, in embedding
+    return torch.embedding(weight, input, padding_idx, scale_grad_by_freq, sparse)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0! (when checking argument for argument index in method wrapper_CUDA__index_select)

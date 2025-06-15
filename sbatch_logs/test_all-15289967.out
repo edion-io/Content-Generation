@@ -1,0 +1,46 @@
+
+###############################################################################
+Hábrók Cluster
+Job 15289967 for user s4702328
+Finished at: Fri Feb 21 00:54:28 CET 2025
+
+Job details:
+============
+
+Job ID                         : 15289967
+Name                           : test_all
+User                           : s4702328
+Partition                      : gpumedium
+Nodes                          : a100gpu5
+Number of Nodes                : 1
+Cores                          : 16
+Number of Tasks                : 1
+State                          : OUT_OF_MEMORY  
+Submit                         : 2025-02-20T23:06:39
+Start                          : 2025-02-21T00:05:36
+End                            : 2025-02-21T00:54:24
+Reserved walltime              : 06:00:00
+Used walltime                  : 00:48:48
+Used CPU time                  : 01:11:31 (Efficiency:  9.16%)
+% User (Computation)           : 20.83%
+% System (I/O)                 : 79.18%
+Total memory reserved          : 32G
+Maximum memory used            : 31.37G
+Requested GPUs                 : a100=2
+Allocated GPUs                 : a100=2
+Max GPU utilization            : 1%
+Max GPU memory used            : 76.08G
+Hints and tips      :
+ 1) The GPU utilization is low, please check if your code can be optimized,
+    or if you can move your input data to fast local storage.
+ *) For more information on these issues see:
+    https://wiki.hpc.rug.nl/habrok/additional_information/job_hints
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Hábrók in your publications:
+
+https://wiki.hpc.rug.nl/habrok/introduction/scientific_output
+
+################################################################################

@@ -1,0 +1,60 @@
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+Unsloth: Failed to patch Gemma3ForConditionalGeneration.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Training model: Qwen2.5-72B-Instruct-Exercise-default-bs2-trainset
+Test dataset: True
+Test size: -1
+Train steps: -1
+Train epochs: 3
+Batch size: 2
+Dataset path: data/instruct_train_chatml_with_tag.json
+Max seq length: 2048
+Dtype: None
+Load in 4bit: True
+==((====))==  Unsloth 2025.3.19: Fast Qwen2 patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA A100-PCIE-40GB. Num GPUs = 1. Max memory: 39.496 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu124. CUDA: 8.0. CUDA Toolkit: 12.4. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+
+###############################################################################
+Hábrók Cluster
+Job 16366000 for user s4702328
+Finished at: Wed Apr  9 01:48:53 CEST 2025
+
+Job details:
+============
+
+Job ID                         : 16366000
+Name                           : fine-tune-qwen72
+User                           : s4702328
+Partition                      : gpumedium
+Nodes                          : a100gpu2
+Number of Nodes                : 1
+Cores                          : 8
+Number of Tasks                : 1
+State                          : FAILED  
+Submit                         : 2025-04-09T00:20:49
+Start                          : 2025-04-09T01:48:10
+End                            : 2025-04-09T01:48:49
+Reserved walltime              : 1-00:00:00
+Used walltime                  :   00:00:39
+Used CPU time                  :   00:00:18 (Efficiency:  5.89%)
+% User (Computation)           : 79.38%
+% System (I/O)                 : 20.61%
+Total memory reserved          : 80G
+Maximum memory used            : 789.26M
+Requested GPUs                 : a100=1
+Allocated GPUs                 : a100=1
+Max GPU utilization            : 1%
+Max GPU memory used            : 454.00M
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Hábrók in your publications:
+
+https://wiki.hpc.rug.nl/habrok/introduction/scientific_output
+
+################################################################################

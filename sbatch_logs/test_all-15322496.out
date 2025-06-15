@@ -1,0 +1,48 @@
+Saving merged model
+
+###############################################################################
+Hábrók Cluster
+Job 15322496 for user s4702328
+Finished at: Sat Feb 22 19:40:59 CET 2025
+
+Job details:
+============
+
+Job ID                         : 15322496
+Name                           : test_all
+User                           : s4702328
+Partition                      : gpumedium
+Nodes                          : a100gpu3
+Number of Nodes                : 1
+Cores                          : 16
+Number of Tasks                : 1
+State                          : COMPLETED  
+Submit                         : 2025-02-22T16:03:30
+Start                          : 2025-02-22T18:42:46
+End                            : 2025-02-22T19:40:55
+Reserved walltime              : 06:00:00
+Used walltime                  : 00:58:09
+Used CPU time                  : 01:59:49 (Efficiency: 12.88%)
+% User (Computation)           : 29.85%
+% System (I/O)                 : 70.15%
+Total memory reserved          : 200G
+Maximum memory used            : 134.45G
+Requested GPUs                 : a100=2
+Allocated GPUs                 : a100=2
+Max GPU utilization            : 0%
+Max GPU memory used            : 816.00M
+Hints and tips      :
+ 1) You are running on a GPU node without actually using the GPU, please fix this.
+ 2) You requested much more CPU memory than your program used.
+    Please reduce the requested amount of memory.
+ *) For more information on these issues see:
+    https://wiki.hpc.rug.nl/habrok/additional_information/job_hints
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Hábrók in your publications:
+
+https://wiki.hpc.rug.nl/habrok/introduction/scientific_output
+
+################################################################################

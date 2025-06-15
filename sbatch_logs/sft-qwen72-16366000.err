@@ -1,0 +1,33 @@
+The token has not been saved to the git credentials helper. Pass `add_to_git_credential=True` in this function directly or `--add-to-git-credential` if using via `huggingface-cli` if you want to set the git credential as well.
+Token is valid (permission: write).
+The token `sft` has been saved to /scratch/s4702328/huggingface_cache/stored_tokens
+Your token has been saved to /scratch/s4702328/huggingface_cache/token
+Login successful.
+The current active token is: `sft`
+Traceback (most recent call last):
+  File "/home1/s4702328/Content-Generation/fine_tune_unsloth.py", line 59, in <module>
+    model, tokenizer = FastLanguageModel.from_pretrained(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/Content-Generation/.qwen_unsloth_env/lib/python3.12/site-packages/unsloth/models/loader.py", line 363, in from_pretrained
+    model, tokenizer = dispatch_model.from_pretrained(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/Content-Generation/.qwen_unsloth_env/lib/python3.12/site-packages/unsloth/models/qwen2.py", line 87, in from_pretrained
+    return FastLlamaModel.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/Content-Generation/.qwen_unsloth_env/lib/python3.12/site-packages/unsloth/models/llama.py", line 1780, in from_pretrained
+    model = AutoModelForCausalLM.from_pretrained(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/Content-Generation/.qwen_unsloth_env/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 571, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/Content-Generation/.qwen_unsloth_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 279, in _wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/Content-Generation/.qwen_unsloth_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4380, in from_pretrained
+    device_map = _get_device_map(model, device_map, max_memory, hf_quantizer, torch_dtype, keep_in_fp32_regex)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/Content-Generation/.qwen_unsloth_env/lib/python3.12/site-packages/transformers/modeling_utils.py", line 1304, in _get_device_map
+    hf_quantizer.validate_environment(device_map=device_map)
+  File "/home1/s4702328/Content-Generation/.qwen_unsloth_env/lib/python3.12/site-packages/transformers/quantizers/quantizer_bnb_4bit.py", line 104, in validate_environment
+    raise ValueError(
+ValueError: Some modules are dispatched on the CPU or the disk. Make sure you have enough GPU RAM to fit the quantized model. If you want to dispatch the model on the CPU or the disk while keeping these modules in 32-bit, you need to set `llm_int8_enable_fp32_cpu_offload=True` and pass a custom `device_map` to `from_pretrained`. Check https://huggingface.co/docs/transformers/main/en/main_classes/quantization#offload-between-cpu-and-gpu for more details. 

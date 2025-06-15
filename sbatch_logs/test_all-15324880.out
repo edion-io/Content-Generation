@@ -1,0 +1,51 @@
+Reloading model and quantizing to 4bit
+Saving quantized model
+Quantized model saved
+
+###############################################################################
+Hábrók Cluster
+Job 15324880 for user s4702328
+Finished at: Sat Feb 22 22:33:12 CET 2025
+
+Job details:
+============
+
+Job ID                         : 15324880
+Name                           : test_all
+User                           : s4702328
+Partition                      : gpumedium
+Nodes                          : a100gpu2
+Number of Nodes                : 1
+Cores                          : 16
+Number of Tasks                : 1
+State                          : COMPLETED  
+Submit                         : 2025-02-22T21:35:21
+Start                          : 2025-02-22T21:35:22
+End                            : 2025-02-22T22:33:08
+Reserved walltime              : 06:00:00
+Used walltime                  : 00:57:46
+Used CPU time                  : 01:30:06 (Efficiency:  9.75%)
+% User (Computation)           : 28.41%
+% System (I/O)                 : 71.59%
+Total memory reserved          : 200G
+Maximum memory used            : 4.69G
+Requested GPUs                 : a100=2
+Allocated GPUs                 : a100=2
+Max GPU utilization            : 3%
+Max GPU memory used            : 40.83G
+Hints and tips      :
+ 1) The GPU utilization is low, please check if your code can be optimized,
+    or if you can move your input data to fast local storage.
+ 2) You requested much more CPU memory than your program used.
+    Please reduce the requested amount of memory.
+ *) For more information on these issues see:
+    https://wiki.hpc.rug.nl/habrok/additional_information/job_hints
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Hábrók in your publications:
+
+https://wiki.hpc.rug.nl/habrok/introduction/scientific_output
+
+################################################################################

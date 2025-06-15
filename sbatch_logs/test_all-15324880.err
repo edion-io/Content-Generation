@@ -1,0 +1,83 @@
+The token has not been saved to the git credentials helper. Pass `add_to_git_credential=True` in this function directly or `--add-to-git-credential` if using via `huggingface-cli` if you want to set the git credential as well.
+Token is valid (permission: write).
+The token `sft` has been saved to /scratch/s4702328/huggingface_cache/stored_tokens
+Your token has been saved to /scratch/s4702328/huggingface_cache/token
+Login successful.
+The current active token is: `sft`
+
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/30 [02:14<1:04:57, 134.41s/it]
+Loading checkpoint shards:   7%|▋         | 2/30 [04:03<55:50, 119.65s/it]  
+Loading checkpoint shards:  10%|█         | 3/30 [05:32<47:34, 105.73s/it]
+Loading checkpoint shards:  13%|█▎        | 4/30 [07:28<47:28, 109.56s/it]
+Loading checkpoint shards:  17%|█▋        | 5/30 [09:22<46:21, 111.28s/it]
+Loading checkpoint shards:  20%|██        | 6/30 [11:06<43:30, 108.78s/it]
+Loading checkpoint shards:  23%|██▎       | 7/30 [13:19<44:46, 116.82s/it]
+Loading checkpoint shards:  27%|██▋       | 8/30 [15:42<45:52, 125.10s/it]
+Loading checkpoint shards:  30%|███       | 9/30 [17:38<42:47, 122.25s/it]
+Loading checkpoint shards:  33%|███▎      | 10/30 [19:58<42:32, 127.64s/it]
+Loading checkpoint shards:  37%|███▋      | 11/30 [22:08<40:41, 128.50s/it]
+Loading checkpoint shards:  40%|████      | 12/30 [24:25<39:16, 130.92s/it]
+Loading checkpoint shards:  43%|████▎     | 13/30 [26:24<36:03, 127.24s/it]
+Loading checkpoint shards:  47%|████▋     | 14/30 [28:13<32:29, 121.83s/it]
+Loading checkpoint shards:  50%|█████     | 15/30 [29:52<28:43, 114.93s/it]
+Loading checkpoint shards:  53%|█████▎    | 16/30 [32:36<30:14, 129.59s/it]
+Loading checkpoint shards:  57%|█████▋    | 17/30 [34:17<26:16, 121.26s/it]
+Loading checkpoint shards:  60%|██████    | 18/30 [36:08<23:37, 118.11s/it]
+Loading checkpoint shards:  63%|██████▎   | 19/30 [39:01<24:40, 134.63s/it]
+Loading checkpoint shards:  67%|██████▋   | 20/30 [40:42<20:43, 124.32s/it]
+Loading checkpoint shards:  70%|███████   | 21/30 [42:17<17:21, 115.72s/it]
+Loading checkpoint shards:  73%|███████▎  | 22/30 [43:53<14:38, 109.80s/it]
+Loading checkpoint shards:  77%|███████▋  | 23/30 [45:35<12:31, 107.32s/it]
+Loading checkpoint shards:  80%|████████  | 24/30 [47:46<11:26, 114.42s/it]
+Loading checkpoint shards:  83%|████████▎ | 25/30 [49:22<09:03, 108.79s/it]
+Loading checkpoint shards:  87%|████████▋ | 26/30 [50:58<06:59, 105.00s/it]
+Loading checkpoint shards:  90%|█████████ | 27/30 [52:32<05:05, 101.92s/it]
+Loading checkpoint shards:  93%|█████████▎| 28/30 [54:15<03:24, 102.05s/it]
+Loading checkpoint shards:  97%|█████████▋| 29/30 [55:55<01:41, 101.44s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [56:37<00:00, 83.81s/it] 
+Loading checkpoint shards: 100%|██████████| 30/30 [56:37<00:00, 113.26s/it]
+Traceback (most recent call last):
+  File "/tmp/cg/test_quntize.py", line 58, in <module>
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/__init__.py", line 940, in pipeline
+    framework, model = infer_framework_load_model(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/base.py", line 303, in infer_framework_load_model
+    raise ValueError(
+ValueError: Could not load model quantized_model_llama3.3_70B with any of the following classes: (<class 'transformers.models.auto.modeling_auto.AutoModelForCausalLM'>, <class 'transformers.models.llama.modeling_llama.LlamaForCausalLM'>). See the original errors:
+
+while loading with AutoModelForCausalLM, an error is thrown:
+Traceback (most recent call last):
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/base.py", line 290, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py", line 564, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/modeling_utils.py", line 262, in _wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/modeling_utils.py", line 4262, in from_pretrained
+    hf_quantizer.validate_environment(device_map=device_map)
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/quantizers/quantizer_bnb_4bit.py", line 103, in validate_environment
+    raise ValueError(
+ValueError: Some modules are dispatched on the CPU or the disk. Make sure you have enough GPU RAM to fit the quantized model. If you want to dispatch the model on the CPU or the disk while keeping these modules in 32-bit, you need to set `llm_int8_enable_fp32_cpu_offload=True` and pass a custom `device_map` to `from_pretrained`. Check https://huggingface.co/docs/transformers/main/en/main_classes/quantization#offload-between-cpu-and-gpu for more details. 
+
+while loading with LlamaForCausalLM, an error is thrown:
+Traceback (most recent call last):
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/pipelines/base.py", line 290, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/modeling_utils.py", line 262, in _wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/modeling_utils.py", line 4262, in from_pretrained
+    hf_quantizer.validate_environment(device_map=device_map)
+  File "/home1/s4702328/.conda/envs/unsloth_env/lib/python3.11/site-packages/transformers/quantizers/quantizer_bnb_4bit.py", line 103, in validate_environment
+    raise ValueError(
+ValueError: Some modules are dispatched on the CPU or the disk. Make sure you have enough GPU RAM to fit the quantized model. If you want to dispatch the model on the CPU or the disk while keeping these modules in 32-bit, you need to set `llm_int8_enable_fp32_cpu_offload=True` and pass a custom `device_map` to `from_pretrained`. Check https://huggingface.co/docs/transformers/main/en/main_classes/quantization#offload-between-cpu-and-gpu for more details. 
+
+
+
