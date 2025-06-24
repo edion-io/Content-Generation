@@ -1,0 +1,97 @@
+original_id,original_instruction,original_subject,original_exercise_type,original_difficulty,original_grade_level,original_modifier,original_generation,new_instruction,new_subject,new_exercise_type,new_difficulty,new_grade_level,new_modifier,adherence_subject,adherence_exercise_type,adherence_difficulty,adherence_grade_level,adherence_modifier,annotation_timestamp
+45,Give me an activity for a 2nd grade student learning history. It should be an exercise on English queens and historical comparison.,History,Activity,D,2,Exercise on English queens and historical comparison,"\begin{enumerate}[label=\alph*.]
+\item Talk about the reigns of three English queens.
+\item Compare three different English queens.
+\item Compare life at different times in the past.
+\end{enumerate}",Give me an activity for a 2nd grade student learning history. It should be an exercise on English queens and historical comparison.,History,Activity,D,2,Exercise on English queens and historical comparison,1,4.0,0.0,3.0,4.0,2025-06-24T20:17:09.559011
+46,Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should have multiple steps.,Mathematics,Arithmetic Exercise,D,3,Multi-part,"Solve the following arithmetic operations:
+
+\begin{enumerate}[label=\Roman*.]
+\item \( 1988 + 650 = \underline{\hspace{1cm}} \)
+\item \( 4010 - 1256 = \underline{\hspace{1cm}} \)
+\item \( 684 \times 9 = \underline{\hspace{1cm}} \)
+\item \( 440 + 9 = \underline{\hspace{1cm}} \)
+\end{enumerate}",Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should have multiple steps.,Mathematics,Arithmetic Exercise,D,3,Multi-part,1,1.0,0.0,3.0,4.0,2025-06-24T20:19:25.160894
+47,Give me an arithmetic exercise for a 4th grade student learning mathematics. It should have a subsection for answers.,Mathematics,Arithmetic Exercise,D,4,With Answer,"Calculate the difference between 963 and 389.
+
+\subsection*{Answers}
+The difference is 574.","Give me an arithmetic exercise for a 6th grade student learning mathematics. It should have a subsection for answers. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Arithmetic Exercise,D,6,"With Answer, With Illustration",1,4.0,0.0,0.0,2.0,2025-06-24T20:21:42.336019
+48,"Give me a combination of an arithmetic exercise, a word problem, and a fill in the blank exercise for a 1st grade student learning mathematics. It should be an exercise involving complements to 10.",Mathematics,"Arithmetic Exercise, Word Problem, Fill in the Blank Exercise",D,1,Exercise with complements to 10,"Use complements to 10 to help you add. Then write the missing total.
+
+\[
+6 + 7 = \_\_\_
+\]","Give me a combination of an arithmetic exercise, a word problem, a fill in the blank exercise, and a geometry exercise for a 1st grade student learning history. It should be an exercise involving complements to 10.",History,"Arithmetic Exercise, Word Problem, Fill in the Blank Exercise, Geometry Exercise",D,1,Exercise with complements to 10,0,2.0,0.0,4.0,4.0,2025-06-24T20:23:59.426525
+49,Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should be an exercise involving matching.,Mathematics,Arithmetic Exercise,D,3,Exercise involving matching,"Match the equations with their answers.
+
+\begin{enumerate}
+\item \( 24 \div 8 \)
+\item \( 15 - 7 \)
+\item \( 6 \times 4 \)
+\item \( 9 + 5 \)
+\end{enumerate}
+
+To the right, there are numbered cups with the following corresponding answers:
+\begin{enumerate}
+\item 3
+\item 8
+\item 24
+\item 14
+\end{enumerate}",Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should be an exercise involving matching.,Mathematics,Arithmetic Exercise,D,3,Exercise involving matching,1,4.0,0.0,4.0,0.0,2025-06-24T20:26:36.626849
+50,Give me an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise involving division. It should be a with Answer.,Mathematics,Arithmetic Exercise,D,6,"Exercise with division, With Answer","Calculate \( 837 \div 9 \).
+
+\subsection*{Answers}
+The answer is 93.",Give me an arithmetic and algebra exercise for a 6th grade student learning mathematics. It should be an exercise involving division. It should have a subsection for answers.,Mathematics,Arithmetic Exercise,D,6,"Exercise with division, With Answer",1,2.0,0.0,4.0,4.0,2025-06-24T20:38:03.796443
+51,Give me a combination of a challenge exercise and a creative task for a 1st grade student learning history. It should be an activity on designing a book cover.,History,"Challenge Exercise, Creative Task",D,1,Activity on designing a book cover,Ibn Battuta wrote a book called Rihla. Design a front cover for Rihla.,"Give me a combination of a challenge exercise and a creative task for a 1st grade student learning history. It should have a subsection for answers, and hints. It should be an activity on designing a book cover.",History,"Challenge Exercise, Creative Task",D,1,"Activity on designing a book cover, With Answer, With Hint",1,4.0,0.0,4.0,1.0,2025-06-24T20:58:07.670344
+52,"Give me a combination of a measurement exercise and a drawing exercise for a 4th grade student learning mathematics. It should be an exercise involving thermometer. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,"Measurement Exercise, Drawing Exercise",D,4,"Exercise with thermometer, With Illustration","Draw an arrow on the thermometer pointing to -5 °C.
+
+[STRDGM] A thermometer with a scale ranging from -10 °C to 40 °C [STPDGM]","Give me a combination of a measurement exercise and a drawing exercise for a 4th grade student learning mathematics. It should have a subsection with answers. It should be an exercise involving thermometer. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,"Measurement Exercise, Drawing Exercise",D,4,"Exercise with thermometer, With Illustration, With Answer",1,4.0,0.0,4.0,3.0,2025-06-24T20:59:15.759485
+53,Give me a combination of a table completion exercise and an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise on decimal comparison.,Mathematics,"Table Completion Exercise, Arithmetic Exercise",D,6,Exercise on decimal comparison,"Complete this table to show fractions and their decimal equivalents.
+
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Decimal} & \textbf{Fraction} \\
+\hline
+0.3&  \\
+\hline
+0.7 &  \\
+\hline
+0.9 &  \\
+\hline
+\end{tabular}","Give me a combination of a table completion exercise, an arithmetic exercise, and a geometry exercise for a 6th grade student learning mathematics. It should be an exercise on decimal comparison.",Mathematics,"Table Completion Exercise, Arithmetic Exercise, Geometry Exercise",D,6,Exercise on decimal comparison,1,2.0,0.0,2.0,4.0,2025-06-24T21:03:31.283679
+54,Give me a punctuation exercise for a 1st grade student learning English.,English,Punctuation Exercise,D,1,M,"Add the missing punctuation.
+
+Ada had a nest\_\_\_\_ It had three eggs in it\_\_\_\_\\
+Mum said, “What's that\_\_\_\_”\\
+Ada said it was a nest\_\_\_\_\\
+Mum said, “That's my old red hat\_\_\_\_”",Give me a punctuation and conjugation exercise for a 1st grade student learning English.,English,"Punctuation Exercise, Conjugation Exercise",D,1,M,1,2.0,0.0,4.0,0.0,2025-06-24T21:04:30.572963
+55,Give me a combination of a drawing exercise and an activity for a 5th grade student learning history. It should be an exercise involving the creation of a timeline. It should be an exercise on the developments in transport.,History,"Drawing Exercise, Activity",D,5,"Exercise involving the creation of a timeline, Exercise on the developments in transport","Create a single timeline showing developments in transport. Include developments in road, rail, air and sea transport.",Give me a combination of a drawing exercise and an activity for a 3rd grade student learning history. It should be an exercise involving the creation of a timeline. It should be an exercise on the developments in transport.,History,"Drawing Exercise, Activity",D,3,"Exercise involving the creation of a timeline, Exercise on the developments in transport",1,4.0,0.0,2.0,4.0,2025-06-24T21:16:09.107980
+56,Give me a combination of a group activity and a creative exercise for a 3rd grade student learning history. It should be an exercise on Iron Age settlements. It should be an activity involving poster design.,History,"Group Activity, Creative Exercise",D,3,"Exercise on Iron Age settlements, Activity involving poster design",Work in a group. Find out about Iron Age settlements in your country. Create a large poster to show the information.,Give me a combination of a group activity and a creative exercise for a 6th grade student learning history. It should be an exercise on Iron Age settlements. It should be an activity involving poster design.,History,"Group Activity, Creative Exercise",D,6,"Exercise on Iron Age settlements, Activity involving poster design",1,4.0,0.0,3.0,3.0,2025-06-24T21:16:58.273541
+57,Give me a grammar exercise for a student learning Spanish. It should be an exercise on plural nouns. It should be a with Answer.,Spanish,Grammar Exercise,D,G,"Exercise on plural nouns, With Answer","Write the plural of the following nouns:  
+\begin{enumerate}
+    \item Actriz
+    \item Pantalones
+    \item Camión
+    \item Pez
+    \item Jueves
+\end{enumerate}
+
+\subsection*{Answers}
+\begin{enumerate}
+\item Actrices
+\item Pantalones
+\item Camiones
+\item Peces
+\item Jueves
+\end{enumerate}",Give me a combination of a grammar exercise and a vocabulary exercise for a student learning Spanish. It should have a subsection for answers. It should be an exercise on plural nouns.,Spanish,"Grammar Exercise, Vocabulary Exercise",D,G,"Exercise on plural nouns, With Answer",1,3.0,0.0,0.0,4.0,2025-06-24T21:19:08.192887
+58,Give me a fill in the blanks exercise for a 5th grade student learning English.,English,Fill in the Blanks Exercise,D,5,M,"Complete each sentence with a different word from the list: call, roll, walk, almost, sign, dog
+\begin{enumerate}
+\item My grandmother enjoys a \_\_\_\_\_\_\_\_\_\_\_\_\_\_ in the park.
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_ won, but was overtaken just before the finish line.
+\item My little brother wanted to \_\_\_\_\_\_\_\_\_\_\_\_\_\_ the ball down the hill.
+\item Will you \_\_\_\_\_\_\_\_\_\_\_\_\_\_ this letter for me?
+\end{enumerate}",Give me a fill in the blanks exercise for a 1st grade student learning English.,English,Fill in the Blanks Exercise,D,1,M,1,4.0,0.0,0.0,0.0,2025-06-24T21:24:45.140206
+59,Give me an arithmetic exercise for a 1st grade student learning mathematics. It should be an exercise involving addition. It should have multiple steps.,Mathematics,Arithmetic Exercise,D,1,"Exercise with addition, Multi-part","Calculate the following sums:
+\begin{enumerate}[label=\alph*.]
+\item \( 60 + 2 = \)
+\item \( 80 + 4 = \)
+\end{enumerate}",Give me an arithmetic exercise for a 6th grade student learning mathematics. It should have a subsection for answers. It should be an exercise involving addition. It should have multiple steps.,Mathematics,Arithmetic Exercise,D,6,"Exercise with addition, Multi-part, With Answer",0,4.0,0.0,0.0,2.0,2025-06-24T21:25:32.864252
