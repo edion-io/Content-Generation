@@ -537,16 +537,12 @@ def modifier(modifiers: list) -> str:
     w_mods, remaining, final = [], [], ''
     p = inflect.engine()
 
-    print(modifiers)
-
     # Separate the "With ..." modifiers first
     for modifier in modifiers:
         if modifier.strip() in 'With Answer With Material With Prerequisites With Context With Hint':
             w_mods.append(modifier.strip())
         else:
             remaining.append(modifier.strip())
-    
-    print(w_mods, remaining)
 
     # If there are any "With ..." modifiers, then create a sentence with them
     if w_mods:
