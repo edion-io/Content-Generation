@@ -9,6 +9,9 @@ from rapidfuzz import fuzz
 import matplotlib.pyplot as plt
 import json
 
+# Add your path here
+PATH = '/Users/sirnobody/EdionCode/datasets/data'
+
 def get_removed(param: str, removed: dict) -> str:
     """ Verifies whether a parameter tag is an alias. Outputs the source if it is.
 
@@ -691,27 +694,27 @@ if __name__ == "__main__":
     # Manually augments a dataset for instruction-tuning.
     if args.key == "i":
         # Turn the questions into an instruction tuning dataset
-        questions = make_instructions(f'data/{args.path}.txt')
+        questions = make_instructions(PATH+f'/{args.path}.txt')
         if args.t:
             # Write the new dataset to a text file
-            with open(f'data/instruct_{args.path}.txt', 'w') as f:
+            with open(PATH+f'/instruct_{args.path}.txt', 'w') as f:
                 for q in questions:
                     f.write(q[0] + '\n' + q[1] + '\n\n\n')
         elif args.j:
             #Write the new dataset to a json format.
             questions = [{'instruction': q[0], 'response': q[1]} for q in questions[1:]]
 
-            with open(f"data/{args.path}.json", "w") as f:
+            with open(PATH+f"/{args.path}.json", "w") as f:
                 json.dump(questions, f, indent=4)
         else:
             # Write the new dataset to a csv file
-            with open(f'data/instruct_{args.path}.csv', mode='w', newline='') as f:
+            with open(PATH+f'/instruct_{args.path}.csv', mode='w', newline='') as f:
                 writer = csv.writer(f)
                 writer.writerows(questions)
 
     # Performs data exploration
     elif args.key == 'v':
-        params = group_params('data/questions.txt')
+        params = group_params(PATH+'/questions.txt')
 
         # Print total number of unique parameters
         print('Number of subjects:', len(params['S']), 
@@ -753,7 +756,7 @@ if __name__ == "__main__":
             ratios = [int(r) for r in args.ratio.split(',')]
 
         # Stratified sampling of dataset
-        params = group_params('data/questions.txt', True)
+        params = group_params(PATH+'/questions.txt', True)
 
         # STEP 1: Stratify by Subject and partition by grade labels
         splits = stratified_split(params['Q_S'], classify=(True, (0, 2)), ratios=ratios)
@@ -773,6 +776,6 @@ if __name__ == "__main__":
 
         # Save the subsets into .txt files
         for split, label in zip(splits, ('train', 'val', 'test')):
-            with open(f'data/{label}.txt', 'w') as f:
+            with open(PATH+f'/{label}.txt', 'w') as f:
                 f.write("\n\n\n".join(split))
         
