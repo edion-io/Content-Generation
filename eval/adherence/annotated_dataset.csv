@@ -95,3 +95,91 @@ Mum said, “That's my old red hat\_\_\_\_”",Give me a punctuation and conjuga
 \item \( 60 + 2 = \)
 \item \( 80 + 4 = \)
 \end{enumerate}",Give me an arithmetic exercise for a 6th grade student learning mathematics. It should have a subsection for answers. It should be an exercise involving addition. It should have multiple steps.,Mathematics,Arithmetic Exercise,D,6,"Exercise with addition, Multi-part, With Answer",0,4.0,0.0,0.0,2.0,2025-06-24T21:25:32.864252
+32,Give me a multiple choice exercise for a 3rd grade student learning social studies. It should be an exercise on sensible clothing choices.,Social Studies,Multiple Choice Exercise,D,3,Exercise on sensible clothing choices,"It is sensible to wear a hat, sunscreen and sunglasses:
+\begin{enumerate}[label=\alph*.]
+\item at night
+\item during a rainstorm
+\item in bed
+\item when outside in the sunshine
+\end{enumerate}",Give me a multiple choice exercise for a 3rd grade student learning social studies. It should be an exercise on sensible clothing choices.,Social Studies,Multiple Choice Exercise,D,3,Exercise on sensible clothing choices,0,3.0,0.0,4.0,3.0,2025-06-27T19:30:09.983668
+31,Give me a combination of a word problem and an arithmetic exercise for a 6th grade student learning mathematics. It should have a subsection for answers.,Mathematics,"Word Problem, Arithmetic Exercise",D,6,With Answer,"The usual selling prices of a handbag and a set of jewellery were \$990 and \$550 respectively. Jane bought them at a 10\% discount during a sale. How much did she pay altogether?
+
+\subsection*{Answers}
+Jane paid \$1,386 altogether.",Give me a combination of a word problem and an arithmetic exercise for a 3rd grade student learning mathematics. It should have a subsection for hints.,Mathematics,"Word Problem, Arithmetic Exercise",D,3,With Hint,1,4.0,0.0,2.0,1.0,2025-06-27T19:32:30.570079
+30,Give me a combination of a question exercise and a discussion exercise for a 6th grade student learning history. It should be an exercise on the Renaissance period.,History,"Question Exercise, Discussion Exercise",D,6,Exercise on the Renaissance period,"\begin{enumerate}[label=\alph*.]
+\item What does the word ‘Renaissance' mean?
+\item Why do you think this period of European history is called the Renaissance?  
+\end{enumerate}",Give me an essay prompt for a 9th grade student learning history. It should be an exercise on European History.,History,Essay prompt,D,9,Exercise on European History,1,1.0,0.0,2.0,3.0,2025-06-27T19:33:32.098115
+33,Give me a combination of a question and a short answer exercise for a 1st grade student learning science. It should be an exercise on eating and drinking.,Science,"Question, Short Answer Exercise",D,1,Exercise on eating and drinking,What did you have to eat last night?,Give me a fill the gap for a 7th grade student learning social science. It should be an exercise on eating and drinking.,Social Science,Fill the gap,D,7,Exercise on eating and drinking,0,0.0,0.0,0.0,4.0,2025-06-28T10:08:57.072379
+34,Give me a combination of a discussion exercise and a comparison exercise for a 3rd grade student learning history. It should be an exercise on similarities and differences in early civilisations.,History,"Discussion Exercise, Comparison Exercise",D,3,Exercise on similarities and differences in early civilisations,Discuss similarities and differences between life in early civilisations.,Give me an essay type for a 3rd grade student learning history. It should be an exercise on early civilisations. It should be a with solution.,History,Essay type,D,3,"Exercise on early civilisations, with solution",1,3.0,0.0,3.0,2.0,2025-06-28T10:11:37.779335
+35,Give me a combination of a word problem and an arithmetic exercise for a 5th grade student learning mathematics. It should have a subsection for answers. It should be an exercise involving division.,Mathematics,"Word Problem, Arithmetic Exercise",D,5,"With Answer, Exercise with division","Sofia has \( \frac{3}{4} \) of a cake. She divides the cake into three pieces and eats one of the pieces. What fraction of Sofia's cake is left? Show your working.
+
+\subsection*{Answers}
+Sofia has \( \frac{3}{4} \) of a cake. After dividing it into three pieces, each piece is \( \frac{3}{4} \div 3 = \frac{3}{12} = \frac{1}{4} \). After eating one piece, she has \( \frac{3}{4} - \frac{1}{4} = \frac{2}{4} = \frac{1}{2} \) of the cake left.",Give me an arithmetic exercise for a 5th grade student learning mathematics. It should have a subsection for hints. It should be an exercise on long division.,Mathematics,Arithmetic Exercise,D,5,"With Hint, Exercise on long division",1,2.0,0.0,4.0,1.0,2025-06-28T10:18:55.493621
+36,Give me a drawing exercise for a 1st grade student learning mathematics. It should be an exercise on asymmetrical shapes.,Mathematics,Drawing Exercise,D,1,Exercise on asymmetrical shapes,Draw 2 shapes that are asymmetrical,Give me a multiple choice for a 1st grade student learning arts. It should be an exercise on symmetrical shapes.,Arts,Multiple choice,D,1,Exercise on symmetrical shapes,1,0.0,0.0,1.0,3.0,2025-06-28T10:21:12.803828
+37,Give me a short answer exercise for a 4th grade student learning computer science. It should have multiple steps.,Computer Science,Short Answer Exercise,D,4,Multi-part,"\begin{enumerate}
+\item What shape of box is used to show a logical test? Draw the shape.
+\item What shape of box is used to show output? Draw the shape.
+\end{enumerate}",Give me a short answer exercise for a 4th grade student learning computer science. It should have multiple steps. It should be an exercise on class diagrams.,Computer Science,Short Answer Exercise,D,4,"Multi-part, Exercise on class diagrams",1,2.0,0.0,4.0,2.0,2025-06-28T10:24:01.883738
+38,Give me a combination of a word problem and an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise on speed comparison.,Mathematics,"Word Problem, Arithmetic Exercise",D,6,Exercise on speed comparison,"Oliver and Paul started from Town M towards Town N at 10:40 a.m. Towns M and N were 360 km apart. If Oliver reached Town N at 3:10 p.m. and Paul reached Town N 18 minutes later, find the difference in their average speeds.",Give me a combination of a word problem and an arithmetic exercise for a 7th grade student learning mathematics. It should be an exercise on units of measurement.,Mathematics,"Word Problem, Arithmetic Exercise",D,7,Exercise on units of measurement,1,4.0,0.0,2.0,1.0,2025-06-28T10:26:01.105905
+39,Give me a combination of a punctuation exercise and a writing exercise for a 3rd grade student learning English. It should be an exercise on direct speech sentences.,English,"Punctuation Exercise, Writing Exercise",D,3,Exercise on direct speech sentences,"Copy and punctuate these direct speech sentences.
+\begin{enumerate}
+\item Rose said We are your new neighbours.
+\item We should make them feel welcome said Father Mouse.
+\item Shall we invite them for tea asked Mother Mouse.
+\end{enumerate}",Give me a combination of a punctuation exercise and a writing exercise for a 3rd grade student learning German. It should be an exercise on direct speech sentences.,German,"Punctuation Exercise, Writing Exercise",D,3,Exercise on direct speech sentences,0,4.0,0.0,4.0,4.0,2025-06-28T10:26:51.979141
+40,Give me a combination of a group activity and a research exercise for a 3rd grade student learning history. It should be an exercise on historical events in media.,History,"Group Activity, Research Exercise",D,3,Exercise on historical events in media,"Work in a group. Find out when:
+\begin{enumerate}[label=\alph*.] 
+\item daily newspapers were first printed in your country  
+\item television broadcasts were first shown in your country.  
+\end{enumerate}",Give me a combination of a group activity and a research exercise for a 3rd grade student learning social science. It should be an exercise on nationalist movements.,Social Science,"Group Activity, Research Exercise",D,3,Exercise on nationalist movements,0,4.0,0.0,3.0,1.0,2025-06-28T10:28:25.011222
+41,Give me a combination of a group activity and a research exercise for a 4th grade student learning social studies. It should be an exercise on recent public information campaigns.,Social Studies,"Group Activity, Research Exercise",D,4,Exercise on recent public information campaigns,Work in a group to find out about some recent public information campaigns in your country.,Give me a combination of an essay and a long answer for a 8th grade student learning social studies. It should be an exercise on recent public information campaigns.,Social Studies,"Essay, Long answer",D,8,Exercise on recent public information campaigns,1,2.0,0.0,1.0,4.0,2025-06-28T10:29:56.191315
+42,"Give me a word scramble exercise for a student learning Dutch. It should have a subsection for answers, and hints.",Dutch,Word Scramble Exercise,D,G,"With Answer, With Hint","All the letters of these words are jumbled up. Rearrange the letters so that they make meaningful words.
+\begin{enumerate}
+\item neniusatal
+\item stwgeee
+\item eensegmnt
+\item ceshrt
+\item nburi
+\end{enumerate}
+
+\subsection*{Hints}
+
+\begin{enumerate}
+\item The answer starts with the letter \emph{a}\\
+The meaning of this word (in English) :\\
+\emph{connect}
+\item The answer starts with the letter \emph{g}\\
+The meaning of this word (in English) :\\
+\emph{been}
+\item The answer starts with the letter \emph{s}\\
+The meaning of this word (in English) :\\
+\emph{segment}
+\item The answer starts with the letter \emph{r}\\
+The meaning of this word (in English) :\\
+\emph{right}
+\item The answer starts with the letter \emph{b}\\
+The meaning of this word (in English) :\\
+\emph{brown}
+\end{enumerate}
+
+\subsection*{Answers}
+\begin{enumerate}
+\item aansluiten
+\item geweest
+\item segmenten
+\item rechts
+\item bruin
+\end{enumerate}","Give me a combination of a word scramble exercise and a translation exercise for a student learning Spanish. It should have a subsection for answers, and hints.",Spanish,"Word Scramble Exercise, Translation Exercise",D,G,"With Answer, With Hint",0,1.0,0.0,0.0,4.0,2025-06-28T10:31:29.947448
+43,Give me a multiple choice exercise for a 1st grade student learning history.,History,Multiple Choice Exercise,D,1,M,"Edmund Hillary was the first person to climb:
+\begin{enumerate}[label=\alph*.]
+\item Mount Zealand  
+\item Mount Norgay  
+\item Mount Everest  
+\end{enumerate}",Give me a true or false for a 1st grade student learning geography.,Geography,True or False,D,1,M,0,1.0,0.0,4.0,0.0,2025-06-28T10:32:37.221027
+44,Give me a fill in the blank exercise for a 6th grade student learning mathematics. It should be an exercise on sentence completion.,Mathematics,Fill in the Blank Exercise,D,6,Exercise on sentence completion,"Complete these sentences: A shape is a polygon if it is a closed figure with straight sides.
+
+\begin{enumerate}[label=\alph*.]
+\item Examples of polygons include: \_\_\_\_\_\_.
+\item A polygon can have three sides, which is called a \_\_\_\_\_\_.
+\end{enumerate}",Give me a fill in the blank exercise for a 9th grade student learning English. It should be an exercise on sentence completion.,English,Fill in the Blank Exercise,D,9,Exercise on sentence completion,0,0.0,0.0,2.0,3.0,2025-06-28T10:34:26.009770
