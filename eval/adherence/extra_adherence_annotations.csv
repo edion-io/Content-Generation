@@ -1,0 +1,65 @@
+original_id,original_instruction,original_subject,original_exercise_type,original_difficulty,original_grade_level,original_modifier,original_generation,new_instruction,new_subject,new_exercise_type,new_difficulty,new_grade_level,new_modifier,adherence_subject,adherence_exercise_type,adherence_difficulty,adherence_grade_level,adherence_modifier
+61,,,,,,,"Two coins are flipped. What is the probability that the second coin is a tail, given that the first coin is a head?
+
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{4} \)
+\item \( \frac{1}{2} \)
+\item \( \frac{3}{4} \)
+\item \( \frac{2}{3} \)
+\end{enumerate}",Give me a multiple choice exercise for a student learning Mathematics. It should be an exercise on conditional probability.,,,,,,1,4,None,None,3
+62,,,,,,,"The spinner is spun 48 times and lands on red 18 times. What is the experimental probability of the spinner landing on red?
+
+\begin{enumerate}[label=\alph*.]
+\item 0.1
+\item 0.25
+\item 0.375
+\item 0.5
+\end{enumerate}",Give me a calculation exercise for an 8th grade student learning Mathematics. It should be an exercise on conditional probability.,,,,,,1,0,None,3,1
+63,,,,,,,"Given that it is a Monday, what is the probability that it is the 1st, 8th, 15th, 22nd, or 29th of the month?",Give me a short answer exercise for a 7th grade student learning Mathematics. It should be an exercise on conditional probability.,,,,,,1,4,None,4,3
+64,,,,,,,"Complete each sentence with a past perfect tense verb.
+\begin{enumerate}
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ our homework before we played outside.
+\item The sun \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ before we saw the rainbow.
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ their breakfast before they went to school.
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ my reading before I answered the questions.
+\end{enumerate}","Give me a fill-in-the-blanks exercise for a 5th grade student learning English. It should be an exercise on past perfect, with solutions.",,,,,,1,4,None,4,2
+65,,,,,,,"Alvin had 20 oranges. He gave some oranges to Roy and had 8 left. Roy had 16 oranges. How many oranges did Alvin give to Roy?
+
+Let \( x \) represent the number of oranges Alvin gave to Roy. Set up an equation based on the given information and solve for \( x \).
+
+\begin{equation*}
+20 - x = 8
+\end{equation*}
+
+Solving for \( x \) gives:
+
+\begin{equation*}
+x = 20 - 8
+\end{equation*}
+
+\begin{equation*}
+x = 12
+\end{equation*}
+
+Alvin gave Roy 12 oranges.",Give me a word problem exercise for a 7th grade student learning algebra. It should be an exercise on solving equations with variables on both sides.,,,,,,1,4,None,1,1
+66,,,,,,,"Photosynthesis is the process by which:
+\begin{enumerate}[label=\alph*.]
+\item animals make their own food
+\item plants make their own food
+\item plants and animals make their own food
+\item plants and animals take in oxygen and give out carbon dioxide
+\end{enumerate}",Give me a multiple choice exercise for a 8th grade student learning biology. It should be an exercise on the chemistry of photosynthesis.,,,,,,1,4,None,0,4
+67,,,,,,,What were the causes of World War I?,"Give me a short answer exercise for a 10th grade student learning history. It should be an exercise on the effects of World War I, with multiple steps.",,,,,,1,4,None,4,0
+68,,,,,,,"What is the acceleration of a 2000 kg car if a 1000 N force is applied to it?
+
+\begin{equation*}
+\text{Acceleration} = \frac{\text{Force}}{\text{Mass}} = \frac{1000 \text{ N}}{2000 \text{ kg}} = \_\_\_ \text{m/s}^2
+\end{equation*}",Give me a true or false exercise for a student learning physics. It should be an exercise on Newton's laws of motion.,,,,,,1,0,None,None,4
+69,,,,,,,"The effect of penicillin on bacterial cells is to:
+\begin{enumerate}[label=\alph*.]
+\item reduce the rate of cell division
+\item stop the cell from dividing
+\item reduce the rate of protein synthesis
+\item stop the cell from producing proteins
+\end{enumerate}",Give me a multiple choice answer exercise for a 10th grade student learning history. It should be an exercise on the effect of penecilin.,,,,,,0,4,None,4,4
+70,,,,,,," ""Describe how penicillin was used in the Second World War. Explain how penicillin changed the way doctors treated infections.""","Give me a multiple choice answer exercise for a 10th grade student learning biology. It should be an exercise on the effect of penecilin, with multiple steps.",,,,,,0,0,None,4,4
