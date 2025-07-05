@@ -1,0 +1,401 @@
+<<0 Prompt>>
+ Give me a multiple choice exercise for a 2nd grade student learning biology. It should be an exercise on photosynthesis.
+<<Prompt>>
+
+
+<exercise>Plants make their own food using sunlight, water and carbon dioxide. This process is called:
+\begin{enumerate}[label=\alph*.]
+\item evaporation
+\item condensation
+\item photosynthesis
+\item melting
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the way plants:
+\begin{enumerate}[label=\alph*.]
+\item grow their roots
+\item make their own food
+\item take in water
+\item keep cool
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the way that:
+\begin{enumerate}[label=\alph*.]
+\item animals make their own food
+\item plants make their own food
+\item fungi grow in the dark
+\item insects move
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is a process in which:
+\begin{enumerate}[label=\alph*.]
+\item plants make water
+\item plants make food from sunlight
+\item plants make oxygen
+\item plants make carbon dioxide
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is:
+\begin{enumerate}[label=\alph*.]
+\item how plants move water from the roots to the leaves
+\item how plants make food from sunlight
+\item how plants grow towards the Sun
+\item how plants keep cool
+\end{enumerate}</exercise>
+
+
+<<1 Prompt>>
+ Give me a multiple choice exercise for a 4th grade student learning biology. It should be an exercise on photosynthesis.
+<<Prompt>>
+
+
+<exercise>The energy from the sun is used to convert carbon dioxide and water into glucose and oxygen. This is called:
+\begin{enumerate}[label=\alph*.]
+\item respiration
+\item photosynthesis
+\item evaporation
+\item condensation
+\end{enumerate}</exercise>
+
+<exercise>What is the scientific word for making food from sunlight?
+\begin{enumerate}[label=\alph*.]
+\item Respiration
+\item Photosynthesis
+\item Irrigation
+\item Perspiration
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process by which:
+\begin{enumerate}[label=\alph*.]
+\item animals make their own food
+\item plants make their own food
+\item plants grow their roots
+\item plants grow their stems
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process by which plants:
+\begin{enumerate}[label=\alph*.]
+\item respire
+\item move towards light
+\item produce sugars from carbon dioxide and water
+\item produce flowers
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process by which plants:
+\begin{enumerate}[label=\alph*.]
+\item make proteins
+\item move water from the roots to the leaves
+\item take in carbon dioxide and release oxygen
+\item make sugars and release oxygen
+\end{enumerate}</exercise>
+
+
+<<2 Prompt>>
+ Give me a multiple choice exercise for a 6th grade student learning biology. It should be an exercise on photosynthesis.
+<<Prompt>>
+
+
+<exercise>During photosynthesis, plants convert carbon dioxide and water into glucose and:
+\begin{enumerate}[label=\alph*.]
+\item oxygen
+\item carbon dioxide
+\item water
+\item glucose
+\end{enumerate}</exercise>
+
+<exercise>The energy from sunlight is used to convert carbon dioxide and water into:
+\begin{enumerate}[label=\alph*.]
+\item glucose and oxygen
+\item glucose and water
+\item starch and oxygen
+\item starch and water
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process by which plants:
+\begin{enumerate}[label=\alph*.]
+\item make sugars from water and carbon dioxide
+\item make sugars from water and oxygen
+\item breathe in oxygen and breathe out carbon dioxide
+\item take in water through their roots
+\end{enumerate}</exercise>
+
+<exercise>What is the scientific word for making food from sunlight?
+\begin{enumerate}[label=\alph*.]
+\item Respiration
+\item Photosynthesis
+\item Transpiration
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process by which plants:
+\begin{enumerate}[label=\alph*.]
+\item make sugars from carbon dioxide and water
+\item make sugars from water and oxygen
+\item make water from carbon dioxide and sugars
+\item make oxygen from carbon dioxide and sugars
+\end{enumerate}</exercise>
+
+
+<<3 Prompt>>
+ Give me a multiple choice exercise for a 8th grade student learning biology. It should be an exercise on photosynthesis.
+<<Prompt>>
+
+
+<exercise>Which of the following statements is true?
+\begin{enumerate}[label=\alph*.]
+\item Photosynthesis occurs in animals and plants.
+\item Photosynthesis occurs only in the dark.
+\item Photosynthesis occurs only in plants.
+\item Photosynthesis occurs only in the light.
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process that plants use:
+\begin{enumerate}[label=\alph*.]
+\item to move water from the roots to the leaves
+\item to make sugars from carbon dioxide and water
+\item to breathe in oxygen and breathe out carbon dioxide
+\item to respond to light and dark
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process by which:
+\begin{enumerate}[label=\alph*.]
+\item animals make their own food
+\item plants make their own food
+\item plants and animals make their own food
+\item plants and animals take in oxygen and give out carbon dioxide
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process by which:
+\begin{enumerate}[label=\alph*.]
+\item plants and animals make glucose
+\item plants make glucose and oxygen
+\item animals make glucose
+\item plants and animals make water
+\end{enumerate}</exercise>
+
+<exercise>Photosynthesis is the process by which plants:
+\begin{enumerate}[label=\alph*.]
+\item respire
+\item make proteins
+\item move towards light
+\item make glucose
+\end{enumerate}</exercise>
+
+
+<<4 Prompt>>
+ Give me a word problem exercise for a 4th grade student learning algebra. It should be an exercise on solving equations with variables on both sides.
+<<Prompt>>
+
+
+<exercise>Alice has 5 apples and receives 3 more. How many apples does she have now?
+
+Let \( x \) represent the number of apples Alice has after receiving 3 more apples.
+
+Write an equation to represent this situation:
+
+\begin{equation*}
+x = 5 + 3
+\end{equation*}
+
+Solve for \( x \) to find the total number of apples Alice has now.</exercise>
+
+<exercise>Find the value of \( h \) in the equation \( h - 3 = 7 - h \).</exercise>
+
+<exercise>There are 25 eggs in a basket. \( d \) eggs are taken out. There are 5 eggs left. Find \( d \).
+
+\begin{equation*}
+25 - d = 5
+\end{equation*}</exercise>
+
+<exercise>Use the number 10 to help you find the solution to this equation: \( 2x + 5 = 3x - 5 \).
+
+\begin{enumerate}[label=\alph*.]
+\item Substitute 10 for \( x \) in the equation to check if it holds true.
+\item If it does not hold true, adjust the value of \( x \) accordingly until you find a solution.
+\end{enumerate}</exercise>
+
+<exercise>Alice has \( u \) marbles and \( v \) marbles. How many marbles does she have altogether? Write your answer in terms of \( u \) and \( v \).</exercise>
+
+
+<<5 Prompt>>
+ Give me a word problem exercise for a 7th grade student learning algebra. It should be an exercise on solving equations with variables on both sides.
+<<Prompt>>
+
+
+<exercise>Alvin had 20 oranges. He gave some oranges to Roy and had 8 left. Roy had 16 oranges. How many oranges did Alvin give to Roy?
+
+Let \( x \) represent the number of oranges Alvin gave to Roy. Set up an equation based on the given information and solve for \( x \).
+
+\begin{equation*}
+20 - x = 8
+\end{equation*}
+
+Solving for \( x \) gives:
+
+\begin{equation*}
+x = 20 - 8
+\end{equation*}
+
+\begin{equation*}
+x = 12
+\end{equation*}
+
+Alvin gave Roy 12 oranges.</exercise>
+
+<exercise>Here are two number sentences involving the variable \( x \). Solve for \( x \).
+
+\begin{enumerate}[label=\alph*.]
+\item \( 3x + 5 = 2x + 11 \)
+\item \( 5x - 3 = 3x + 9 \)
+\end{enumerate}</exercise>
+
+<exercise>Samy has \( d \) dollars and Jim has \( 8 \) dollars.
+
+\begin{enumerate}[label=\alph*.]
+\item Express the total amount of money they have in terms of \( d \).
+\item If \( d = 12 \), find the total amount of money they have.
+\item If \( d = 20 \), find the total amount of money they have.
+\end{enumerate}</exercise>
+
+<exercise>Find the value of \( x \) given the equation \( 2x + 5 = x + 11 \).</exercise>
+
+<<0 Prompt>>
+ Give me a word problem exercise for a 10th grade student learning algebra. It should be an exercise on solving equations with variables on both sides. 
+<<Prompt>>
+
+
+<exercise>Given \( 3x + 7 = 7x + 3 \), solve for \( x \) and find its value.</exercise> 
+
+<exercise>Marcus and Alfie have \$40 each.
+
+\begin{enumerate}[label=\alph*.]
+\item Express the amount of money Marcus has in terms of \( v \), where \( v \) represents the amount of money Alfie has.
+\item If \( v = 20 \), find the amount of money Marcus has.
+\end{enumerate}</exercise> 
+
+<exercise>Two numbers have a difference of 6. If one number is represented by \( x \), find the other number in terms of \( x \). Then, solve for \( x \) if the other number is 4 more than \( x \).</exercise> 
+
+<exercise>Given the equation \( 2x + 3 = x + 9 \), solve for \( x \).
+
+\begin{enumerate}[label=\alph*.]
+\item What is the value of \( x \) that satisfies the equation?
+\item Show your work to justify your answer.
+\end{enumerate}</exercise> 
+
+<exercise>Alvin spent \$45 on a book and \$15 on a magazine. He had \$20 left. How much money did he have at first?
+
+Let \( x \) be the amount of money Alvin had at first. Write an equation to represent the situation and solve for \( x \).</exercise> 
+
+
+<<1 Prompt>>
+ Give me a fill-in-the-blanks exercise for a 3rd grade student student learning history. It should be an exercise on nationalism. 
+<<Prompt>>
+
+
+<exercise>Fill in the blank with the correct answer.
+\begin{enumerate}
+\item Nationalism is when people feel very \_\_\_\_\_\_\_\_\_\_ to their country.
+\item Some people felt that Germany should be one country, not lots of small \_\_\_\_\_\_\_\_\_\_.
+\item These people were called \_\_\_\_\_\_\_\_\_\_.
+\end{enumerate}</exercise> 
+
+<exercise>Complete these sentences.
+\begin{enumerate}[label=\alph*.]
+\item Nationalism is when people feel \_\_\_\_\_\_\_\_\_\_ to their country.  
+\item Nationalists believe that their country should be \_\_\_\_\_\_\_\_\_\_.  
+\item Nationalism can be a \_\_\_\_\_\_\_\_\_\_ force for good.  
+\end{enumerate}</exercise> 
+
+<exercise>Complete this paragraph about nationalism.
+\begin{enumerate}[label=\alph*.]
+\item Nationalism is when people feel \_\_\_\_\_\_\_\_\_\_ to the country in which they live.
+\item Some nationalists believe that their country is \_\_\_\_\_\_\_\_\_\_ than other countries.
+\item Nationalism was an important idea in the \_\_\_\_\_\_\_\_\_\_ century.
+\end{enumerate}</exercise> 
+
+<exercise>Complete the paragraph about nationalism.
+
+Nationalism is when people have a strong feeling of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to their country. They are proud of their country and want it to be free and independent. They may also think that their country is better than other countries.</exercise> 
+
+<exercise>Fill in the gaps to explain what a nationalist is.
+A nationalist is someone who \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ their country and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to make it \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.</exercise> 
+
+
+<<2 Prompt>>
+ Give me a fill-in-the-blanks exercise for a 5th grade student student learning history. It should be an exercise on nationalism. 
+<<Prompt>>
+
+
+<exercise>Fill in the gaps.
+\begin{enumerate}[label=\alph*.]
+\item Nationalism is the feeling that people have when they \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+\item Nationalists \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the blank spaces.
+\begin{enumerate}[label=\alph*.]
+\item Nationalism is when people feel that their country is better than all other countries. It is the feeling of \_\_\_\_\_\_\_\_\_\_.
+\item Nationalists often \_\_\_\_\_\_\_\_\_\_ about their country and its people.
+\item Nationalism can be a very \_\_\_\_\_\_\_\_\_\_ force. It can make people fight to defend their country.
+\item Nationalism can also be a \_\_\_\_\_\_\_\_\_\_ force. It can make people dislike or even hate people from other countries.
+\end{enumerate}</exercise> 
+
+<exercise>Write a brief definition of the following terms in the context of nationalism:
+\begin{enumerate}[label=\alph*.]
+\item Nationalism: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\item National identity: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\item Unification: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the gaps.
+\begin{enumerate}[label=\alph*.]
+\item Nationalism is when people believe that their country is \_\_\_\_\_\_\_\_\_\_ and that they should be loyal only to their country.
+\item Nationalists wanted to create a country where all the people were from the same \_\_\_\_\_\_\_\_\_\_.
+\end{enumerate}</exercise> 
+
+<exercise>Write a brief definition for each of the following words to do with nationalism:  
+\begin{enumerate}[label=\alph*.]
+\item nation
+\item nationalist
+\item independence
+\end{enumerate}</exercise> 
+
+
+<<3 Prompt>>
+ Give me a fill-in-the-blanks exercise for a 7th grade student student learning history. It should be an exercise on nationalism. 
+<<Prompt>>
+
+
+<exercise>Fill in the gaps about nationalism.
+\begin{enumerate}[label=\alph*.]
+\item Nationalism is an idea that says people who share the same \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ should be ruled by their own people.
+\item Nationalists wanted to create a single \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ for all people who shared the same culture and language.
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the gaps with the correct words.
+\begin{enumerate}[label=\alph*.]
+\item Nationalism is the feeling of \_\_\_\_\_\_\_\_\_\_ that people have for their country.
+\item People who are very proud of their country are said to be \_\_\_\_\_\_\_\_\_\_.
+\item Nationalists often want their country to be \_\_\_\_\_\_\_\_\_\_.
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the gaps with the correct word.  
+\begin{enumerate}
+\item People who wanted \_\_\_\_\_\_\_\_\_\_\_ were inspired by the French Revolution.
+\item The \_\_\_\_\_\_\_\_\_\_\_ were a group of Italian nationalists.
+\item The \_\_\_\_\_\_\_\_\_\_\_ was the name given to the unification of Italy.
+\item \_\_\_\_\_\_\_\_\_\_\_ was the name given to the unification of Germany.
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the gaps with the correct word.
+\begin{enumerate}
+\item Nationalism is when people feel a strong \_\_\_\_\_\_\_\_\_\_ for their country and want to be \_\_\_\_\_\_\_\_\_\_.
+\item Nationalists want to \_\_\_\_\_\_\_\_\_\_ their country and make it \_\_\_\_\_\_\_\_\_\_.
+\item Nationalism can be a \_\_\_\_\_\_\_\_\_\_ force for change.
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the blanks with the correct words.
+\begin{enumerate}
+\item Nationalism is an \_\_\_\_\_\_\_\_\_\_ feeling that people have towards their country.
+\item People who feel strongly about their country and want it to be free are described as \_\_\_\_\_\_\_\_\_\_.
+\item Nationalism was one of the main causes of \_\_\_\_\_\_\_\_\_\_.
+\end{enumerate}</exercise> 

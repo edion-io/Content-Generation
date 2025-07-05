@@ -1,0 +1,1208 @@
+Start generation...
+
+<<0 Prompt>>
+ Give me a fill the blank exercise for a student learning German. It should be an exercise on modal verbs. 
+<<Prompt>>
+
+
+<exercise>Insert the correct form of the modal verbs in brackets.
+
+\begin{enumerate}
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (müssen) bis morgen früh auf.
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (sollen) dir ein neues Kleid kaufen.
+\item Ihr \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (wollen) heute Abend ausgehen.
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (können) Deutsch sprechen.
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (sollen) deine Hausaufgaben machen.
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the correct form of the modal verbs in the following sentences. Watch out for tense!
+\begin{enumerate}
+\item Ich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (können) eine Woche Urlaub nehmen. (I can take a week's vacation.)
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (müssen) nach Hause gehen. (You must go home.)
+\item Er \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (sollen) sich um die Kinder kümmern. (He is supposed to take care of the children.)
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (dürfen) nicht so spät aufbleiben. (We are not allowed to stay up so late.)
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (wollen) mit mir sprechen. (They want to talk to me.)
+\item Ich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (können) Deutsch. (I can speak German.)
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (müssen) morgen früh aufstehen. (We have to get up early tomorrow.)
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (soll) heute zu Hause bleiben. (You're supposed to stay home today.)
+\item Er \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (will) Deutsch lernen. (He wants to learn German.)
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (dürfen) nicht in den Garten gehen. (They are not allowed to go into the garden.)
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the blanks with the correct form of the modal verb.
+
+\begin{enumerate}
+\item Ich \_\_\_\_\_\_\_\_\_\_ Deutsch lernen. (I should learn German.)
+\item Du \_\_\_\_\_\_\_\_\_\_ mehr Deutsch sprechen. (You must speak more German.)
+\item Wir \_\_\_\_\_\_\_\_\_\_ uns beeilen. (We must hurry.)
+\item Sie \_\_\_\_\_\_\_\_\_\_ hier warten. (They should wait here.)
+\item Er \_\_\_\_\_\_\_\_\_\_ jetzt kommen. (He must come now.)
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the correct form of the modal verb in the following sentences:
+
+\begin{enumerate}
+\item Ich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ins Kino gehen. (müssen)
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Deutsch lernen. (sollen)
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ aufhören. (können)
+\item Ich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in die Stadt gehen. (darf)
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ein neues Auto kaufen. (wollen)
+\end{enumerate}</exercise> 
+
+<exercise>Insert the correct form of the modal verb into the spaces.
+
+\begin{enumerate}
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ins Kino gehen. (müssen)
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in der Schule Deutsch lernen. (sollen)
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ zu Hause bleiben. (darf)
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in der Bibliothek lernen. (können)
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Deutsch sprechen. (wollen)
+\item Ich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ins Kino gehen. (darf)
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Deutsch lernen. (müssen)
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Deutsch sprechen. (können)
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ins Kino gehen. (wollen)
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ 
+
+<exercise>Fill in the spaces with the correct form of the modal verb.
+
+\begin{enumerate}
+\item Ich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (müssen) um elf zu Hause sein.
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (sollen) mehr Deutsch sprechen.
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (können) es nicht verstehen.
+\item Er \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (will) mit dir sprechen.
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (dürfen) nicht mehr trinken.
+\end{enumerate}</exercise> 
+
+<exercise>Insert the correct modal verb into each sentence.
+
+\begin{enumerate}
+\item Ich \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Deutsch lernen. (I can speak German.)
+\item Wir \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in den Urlaub fliegen. (We can fly on holiday.)
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ das Buch verstehen. (You can understand the book.)
+\item Karl \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ heute kommen. (Karl can come today.)
+\item Ihr \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ mir helfen. (You can help me.)
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the blanks with the correct form of the modal verb in parentheses.
+
+\begin{enumerate}
+\item Ich \_\_\_\_\_\_ (können) nicht tanzen.
+\item Sie \_\_\_\_\_\_ (sollen) Deutsch lernen.
+\item Du \_\_\_\_\_\_ (müssen) ins Bett gehen.
+\item Sie \_\_\_\_\_\_ (müssen) sich beeilen.
+\item Er \_\_\_\_\_\_ (darf) nicht mitkommen.
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the correct form of the modal verbs in brackets.
+
+\begin{enumerate}
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (müssen) um 8:00 zu Hause sein.
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (können) Deutsch.
+\item Ihr \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (sollen) die Prüfung schreiben.
+\item Du \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (darf) nicht zu spät kommen.
+\item Sie \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (wollen) das neue Buch lesen.
+\end{enumerate}</exercise> 
+
+<exercise>Fill in the spaces with the correct form of the modal verb in brackets.
+\begin{enumerate}
+\item Ich \_\_\_\_\_\_\_\_\_\_ (müssen) heute leider zu Hause bleiben.
+\item Du \_\_\_\_\_\_\_\_\_\_ (sollen) das Buch lesen.
+\item Ihr \_\_\_\_\_\_\_\_\_\_ (können) mir helfen.
+\item Ich \_\_\_\_\_\_\_\_\_\_ (mögen) kein Bier mehr trinken.
+\item Sie \_\_\_\_\_\_\_\_\_\_ (dürfen) den Wagen nehmen.
+\end{enumerate}</exercise> 
+
+
+<<1 Prompt>>
+ Give me a multiple choice exercise for a student learning Mathematics. It should be an exercise on conditional probability. 
+<<Prompt>>
+
+
+<exercise>What is the probability that a random number between 1 and 100 is divisible by 3, given that it is divisible by 2?
+
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{3} \)
+\item \( \frac{1}{2} \)
+\item \( \frac{1}{4} \)
+\item \( \frac{1}{6} \)
+\end{enumerate}</exercise> 
+
+<exercise>What is the probability that a card drawn at random from a pack of 52 cards is an ace, given that the card is a spade?
+
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{52} \)
+\item \( \frac{1}{13} \)
+\item \( \frac{1}{4} \)
+\item \( \frac{1}{2} \)
+\end{enumerate}</exercise> 
+
+<exercise>What is the probability that a number is odd given that it is a multiple of 3?
+
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{2} \)
+\item \( \frac{1}{3} \)
+\item \( \frac{2}{3} \)
+\item \( \frac{3}{4} \)
+\end{enumerate}</exercise> 
+
+<exercise>What is the probability that a number is odd given that it is a square number?
+
+\begin{enumerate}[label=\alph*.]
+\item 0
+\item 1/4
+\item 1/2
+\item 1
+\end{enumerate}</exercise> 
+
+<exercise>A card is picked at random from a pack of 52 cards. The probability of picking a card that is a club or a spade is:  
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{4} \)  
+\item \( \frac{1}{2} \)  
+\item \( \frac{3}{4} \)  
+\item \( \frac{1}{13} \)  
+\end{enumerate}</exercise> 
+
+<exercise>Alice has a bag with 3 green balls and 1 red ball. What is the probability that the second ball she draws is green, given that the first ball she drew was red?
+
+\begin{enumerate}[label=\alph*.]
+\item \(\frac{3}{4}\)
+\item \(\frac{2}{3}\)
+\item \(\frac{1}{2}\)
+\item \(\frac{1}{4}\)
+\end{enumerate}</exercise> 
+
+<exercise>The spinner below has 8 sections. The sections are numbered from 1 to 8. What is the probability of spinning a 5 given that you spin a multiple of 2?  
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{4} \)
+\item \( \frac{1}{5} \)
+\item \( \frac{1}{2} \)
+\item \( \frac{1}{8} \)
+\end{enumerate}
+
+\begin{figure}[h!]
+    \centering
+\begin{tikzpicture}
+    \pie[text=legend, radius=3]{1/8, 1/8, 1/8, 1/8, 1/8, 1/8, 1/8, 1/8}
+\end{tikzpicture}
+\end{figure}</exercise> 
+
+<exercise>Given that \( \frac{1}{3} \) of the numbers in a list are 1s, \( \frac{1}{3} \) are 2s, and \( \frac{1}{6} \) are 3s, what is the probability that a randomly chosen number from the list is a 3?
+
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{6} \)
+\item \( \frac{1}{3} \)
+\item \( \frac{1}{2} \)
+\item \( \frac{2}{3} \)
+\end{enumerate}</exercise> 
+
+<exercise>Two events \( A \) and \( B \) are said to be independent if \( P(A \cap B) = \_\_\_\_ \).
+
+\begin{enumerate}[label=\alph*.]
+\item \( P(A) + P(B) \)
+\item \( P(A) - P(B) \)
+\item \( P(A) \times P(B) \)
+\item \( P(A) \div P(B) \)
+\end{enumerate}</exercise> 
+
+<exercise>What is the probability that a person is a boy given that he is a student?
+
+\begin{enumerate}[label=\alph*.]
+\item \( \frac{1}{3} \)
+\item \( \frac{1}{2} \)
+\item \( \frac{2}{3} \)
+\item \( \frac{3}{4} \)
+\end{enumerate}</exercise> 
+
+
+<<2 Prompt>>
+ Give me a short answer exercise for a student learning Mathematics. It should be an exercise on conditional probability. 
+<<Prompt>>
+
+
+<exercise>What is the probability that a randomly chosen triangle is isosceles given that it is a right triangle?</exercise> 
+
+<exercise>Given that a number is less than 20, what is the probability that it is odd?</exercise> 
+
+<exercise>Write down the conditional probability formula.</exercise> 
+
+<exercise>Write down two events that are not mutually exclusive.</exercise> 
+
+<exercise>Given that the sum of two dice is greater than 7, find the probability that the sum of the two dice is 11.</exercise> 
+
+<exercise>What is the probability that it is sunny given that it is not windy?</exercise> 
+
+<exercise>Alice has 5 blue beads and 3 green beads. She picks one bead at random. What is the probability that the bead is green given that the bead is not blue?</exercise> 
+
+<exercise>Let \( A \) and \( B \) be two events such that \( P(A) = 0.4 \), \( P(B) = 0.5 \), and \( P(A \cap B) = 0.2 \). Find \( P(A|B) \) and \( P(B|A) \).</exercise> 
+
+<exercise>Given that it is a Wednesday, what is the probability that it is the 15th? Explain your answer.</exercise> 
+
+<exercise>What is the probability that a number is odd given that it is a multiple of 3?</exercise> 
+
+
+<<3 Prompt>>
+ Give me a matching exercise for a student learning mathematics. It should be an exercise on types of triangles. 
+<<Prompt>>
+
+
+<exercise>Match the following types of triangles with their definitions.
+
+\begin{enumerate}[label=\alph*.]
+\item Equilateral Triangle
+\item Isosceles Triangle
+\item Scalene Triangle
+\end{enumerate}
+
+\begin{itemize}
+\item A triangle with all sides equal.
+\item A triangle with two sides equal.
+\item A triangle with all sides unequal.
+\end{itemize}</exercise> 
+
+<exercise>Draw a line from each triangle to the correct type of triangle.
+
+\begin{itemize}
+    \item Isosceles
+    \item Scalene
+    \item Equilateral
+    \item Right-angled
+\end{itemize}
+
+[STRDGM] An isosceles triangle with two sides labeled as 5 cm and one side labeled as 4 cm. [STPDGM]
+[STRDGM] A scalene triangle with sides labeled as 6 cm, 7 cm, and 8 cm. [STPDGM]
+[STRDGM] An equilateral triangle with all sides labeled as 3 cm. [STPDGM]
+[STRDGM] A right-angled triangle with sides labeled as 3 cm, 4 cm, and a hypotenuse labeled as 5 cm. [STPDGM]</exercise> 
+
+<exercise>Match the triangles with their descriptions.
+\begin{itemize}
+    \item Triangle A: A triangle with all sides equal.
+    \item Triangle B: A triangle with two sides equal.
+    \item Triangle C: A triangle with all sides unequal.
+\end{itemize}
+
+[STRDGM] Triangle A is an equilateral triangle, Triangle B is an isosceles triangle, Triangle C is a scalene triangle. [STPDGM]</exercise> 
+
+<exercise>Draw a line to match each type of triangle with its correct description.
+\begin{itemize}
+    \item Isosceles
+    \item Scalene
+    \item Equilateral
+\end{itemize}
+
+\begin{itemize}
+    \item All sides are equal.
+    \item Two sides are equal.
+    \item All sides are unequal.
+\end{itemize}</exercise> 
+
+<exercise>Draw lines to match the types of triangles with their descriptions.
+
+\begin{itemize}
+    \item Equilateral Triangle
+    \item Isosceles Triangle
+    \item Scalene Triangle
+\end{itemize}
+
+\begin{itemize}
+    \item All sides are equal.
+    \item Two sides are equal.
+    \item All sides are different.
+\end{itemize}</exercise> 
+
+<exercise>Match the type of triangle with the correct description.
+
+\begin{enumerate}[label=\alph*.]
+\item Isosceles
+\item Equilateral
+\item Scalene
+\end{enumerate}
+
+\begin{enumerate}[label=\arabic*.]
+\item All sides are equal.
+\item Two sides are equal.
+\item All sides are different.
+\end{enumerate}</exercise> 
+
+<exercise>Match the following types of triangles with their definitions:
+\begin{itemize}
+    \item Equilateral Triangle: All sides are equal in length.
+    \item Isosceles Triangle: Two sides are equal in length.
+    \item Scalene Triangle: All sides are unequal in length.
+\end{itemize}</exercise> 
+
+<exercise>Match the following types of triangles with their descriptions:
+\begin{enumerate}[label=\alph*.]
+\item Isosceles
+\item Equilateral
+\item Scalene
+\end{enumerate}
+\begin{enumerate}[label=\arabic*.]
+\item All sides are equal.
+\item Two sides are equal.
+\item All sides are different.
+\end{enumerate}</exercise> 
+
+<exercise>Match the type of triangle with the correct description.
+
+\begin{enumerate}[label=\alph*.]
+\item Isosceles
+\item Scalene
+\item Equilateral
+\end{enumerate}
+
+\begin{itemize}
+\item All sides are equal.
+\item Two sides are equal.
+\item All sides are unequal.
+\end{itemize}</exercise> 
+
+<exercise>Match the type of triangle to its definition.
+
+\begin{itemize}
+    \item A triangle with all sides equal.
+    \item A triangle with one angle equal to 90 degrees.
+    \item A triangle with two sides equal.
+\end{itemize}
+
+\begin{itemize}
+    \item Equilateral triangle
+    \item Right triangle
+    \item Isosceles triangle
+\end{itemize}</exercise> 
+
+
+<<4 Prompt>>
+ Give me a fill-in-the-blanks exercise for a student learning English. It should be an exercise on past perfect. 
+<<Prompt>>
+
+
+<exercise>Complete each sentence with the past perfect tense.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_ a postcard before I \_\_\_\_\_\_\_\_\_\_ home.
+\item They \_\_\_\_\_\_\_\_\_\_ the play before they \_\_\_\_\_\_\_\_\_\_ the film.
+\item She \_\_\_\_\_\_\_\_\_\_ the book before she \_\_\_\_\_\_\_\_\_\_ the film.
+\item We \_\_\_\_\_\_\_\_\_\_ the museum before we \_\_\_\_\_\_\_\_\_\_ the art gallery.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with a past perfect tense verb.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_ (to go) to the park before I \_\_\_\_\_\_\_\_\_\_ (to meet) you.
+\item They \_\_\_\_\_\_\_\_\_\_ (to write) the letter before they \_\_\_\_\_\_\_\_\_\_ (to leave) the house.
+\item We \_\_\_\_\_\_\_\_\_\_ (to finish) the puzzle before we \_\_\_\_\_\_\_\_\_\_ (to go) to bed.
+\item I \_\_\_\_\_\_\_\_\_\_ (to eat) breakfast before I \_\_\_\_\_\_\_\_\_\_ (to leave) the house.
+\item They \_\_\_\_\_\_\_\_\_\_ (to see) the film before they \_\_\_\_\_\_\_\_\_\_ (to read) the book.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense.
+\begin{enumerate}
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ for ten minutes when the car broke down.
+\item The play \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ by the time we arrived.
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ my homework before I went to bed.
+\end{enumerate}</exercise> 
+
+<exercise>Use the past perfect tense to complete each sentence
+\begin{enumerate}
+\item The rain \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ before we \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ before the rain \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+\item The bus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ before we \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+\end{enumerate}</exercise> 
+
+<exercise>Use the past perfect tense to complete each sentence.
+\begin{enumerate}
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to rain) before we left.
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to finish) my homework before I played with my friends.
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to eat) before we went to the cinema.
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to learn) about the history of cars before I bought one.
+\end{enumerate}</exercise> 
+
+<exercise>Use the past perfect tense to complete each sentence.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_ the book before I \_\_\_\_\_\_\_\_\_\_ the film.
+\item They \_\_\_\_\_\_\_\_\_\_ the door before they \_\_\_\_\_\_\_\_\_\_ the room.
+\item He \_\_\_\_\_\_\_\_\_\_ the play before he \_\_\_\_\_\_\_\_\_\_ the book.
+\item We \_\_\_\_\_\_\_\_\_\_ the car before we \_\_\_\_\_\_\_\_\_\_ the house.
+\item She \_\_\_\_\_\_\_\_\_\_ the letter before she \_\_\_\_\_\_\_\_\_\_ the parcel.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense of the verb in brackets.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to have) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ breakfast before I left home.
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to have) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ lunch by the time the storm started.
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to have) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ their holiday before the volcano erupted.
+\item The lion \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to have) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ the elephant before the hunters arrived.
+\item The children \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to have) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ their picnic before it started to rain.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to finish) my homework before I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to go) to the cinema.
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to visit) the museum before they \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to meet) their friends.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense of the verb in brackets.
+\begin{enumerate}
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to arrive) before the storm started.
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to send) the email by the time he replied.
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to finish) our project before the deadline.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with a past perfect tense verb.
+\begin{enumerate}
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ our homework before we played outside.
+\item The sun \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ before we saw the rainbow.
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ their breakfast before they went to school.
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ my reading before I answered the questions.
+\end{enumerate}</exercise> 
+
+
+<<5 Prompt>>
+ Give me a fill-in-the-blanks exercise for a student learning English. It should be an exercise on past perfect, with solutions. 
+<<Prompt>>
+
+
+<exercise>Complete the sentences. Use the past perfect tense.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to read) that book by the time I was 12.
+\item The play \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to start) by the time we got to the theatre.
+\item The children \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to finish) their homework by the time I got home.
+\item The bus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to leave) by the time I got to the bus stop.
+\item The sun \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to set) by the time we arrived at the campsite.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item I had read that book by the time I was 12.
+\item The play had started by the time we got to the theatre.
+\item The children had finished their homework by the time I got home.
+\item The bus had left by the time I got to the bus stop.
+\item The sun had set by the time we arrived at the campsite.
+\end{enumerate}</exercise> 
+
+<exercise>Use the past perfect tense to complete these sentences.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to work) at that company for five years before I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to move) to New York.
+\item It \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to rain) before the streets \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to flood).
+\item The children \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to play) outside before it \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to rain).
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to visit) the new shopping mall before we \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to go) to the restaurant.
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to get married) before they \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to have) children.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item I had worked at that company for five years before I moved to New York.
+\item It had rained before the streets flooded.
+\item The children had played outside before it rained.
+\item We had visited the new shopping mall before we went to the restaurant.
+\item They had got married before they had children.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the correct form of the past perfect tense.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to rain) before I left the house.
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to finish) their work before they went home.
+\item The play \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to start) before we arrived.
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to eat) before we went to the cinema.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item had rained
+\item had finished
+\item had started
+\item had eaten
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_ (to read) the book before I saw the film.
+\item The weather \_\_\_\_\_\_\_\_\_\_ (to be) awful all day.
+\item I \_\_\_\_\_\_\_\_\_\_ (to write) the letter before I sent it.
+\item They \_\_\_\_\_\_\_\_\_\_ (to have) lunch before they went to the theatre.
+\item I \_\_\_\_\_\_\_\_\_\_ (to buy) the paper before I read the review.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item I had read the book before I saw the film.
+\item The weather had been awful all day.
+\item I had written the letter before I sent it.
+\item They had had lunch before they went to the theatre.
+\item I had bought the paper before I read the review.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_ (to eat) \_\_\_\_\_\_\_\_\_\_ before I \_\_\_\_\_\_\_\_\_\_ (to go) to the cinema.
+\item We \_\_\_\_\_\_\_\_\_\_ (to write) the letter before we \_\_\_\_\_\_\_\_\_\_ (to send) it.
+\item They \_\_\_\_\_\_\_\_\_\_ (to buy) the house before they \_\_\_\_\_\_\_\_\_\_ (to get) married.
+\item It \_\_\_\_\_\_\_\_\_\_ (to rain) before the plants \_\_\_\_\_\_\_\_\_\_ (to grow).
+\item I \_\_\_\_\_\_\_\_\_\_ (to finish) my homework before I \_\_\_\_\_\_\_\_\_\_ (to go) to bed.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item I had eaten before I went to the cinema.
+\item We had written the letter before we sent it.
+\item They had bought the house before they got married.
+\item It had rained before the plants grew.
+\item I had finished my homework before I went to bed.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to write) a letter before I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to post) it.
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to visit) China before they \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to travel) to India.
+\item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to finish) our report before we \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to start) the project.
+\item The bus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to leave) before I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to arrive).
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to see) the film before I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to read) the book.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item I had written a letter before I posted it.
+\item They had visited China before they travelled to India.
+\item We had finished our report before we started the project.
+\item The bus had left before I arrived.
+\item I had seen the film before I read the book.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense of the verb in brackets. Use for or since if necessary.
+\begin{enumerate}
+\item We \_\_\_\_\_\_\_\_\_\_ (to wait) \_\_\_\_\_\_\_\_\_\_ for ten minutes when the taxi arrived.
+\item They \_\_\_\_\_\_\_\_\_\_ (to visit) the museum \_\_\_\_\_\_\_\_\_\_ before they went to the cafe.
+\item I \_\_\_\_\_\_\_\_\_\_ (to see) that movie \_\_\_\_\_\_\_\_\_\_ three times before I saw it last night.
+\item She \_\_\_\_\_\_\_\_\_\_ (to finish) her homework \_\_\_\_\_\_\_\_\_\_ by the time she went to bed.
+\item He \_\_\_\_\_\_\_\_\_\_ (to write) the report \_\_\_\_\_\_\_\_\_\_ before he went on holiday.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item had been waiting for
+\item had visited
+\item had seen
+\item had finished
+\item had written
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence by adding the correct past perfect tense.
+\begin{enumerate}
+\item The lion \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to sleep) before the mouse came.
+\item The mouse \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to eat) before the lion woke up.
+\item The lion \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to see) the mouse before he woke up.
+\item The mouse \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (to hide) before the lion woke up.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item The lion had slept before the mouse came.
+\item The mouse had eaten before the lion woke up.
+\item The lion had seen the mouse before he woke up.
+\item The mouse had hidden before the lion woke up.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense.
+\begin{enumerate}
+\item I \_\_\_\_\_\_\_\_\_\_ (to write) the letter before I \_\_\_\_\_\_\_\_\_\_ (to post) it.
+\item He \_\_\_\_\_\_\_\_\_\_ (to read) the book before he \_\_\_\_\_\_\_\_\_\_ (to see) the film.
+\item We \_\_\_\_\_\_\_\_\_\_ (to finish) dinner before we \_\_\_\_\_\_\_\_\_\_ (to go) for a walk.
+\item They \_\_\_\_\_\_\_\_\_\_ (to learn) the dance before they \_\_\_\_\_\_\_\_\_\_ (to perform) it.
+\item She \_\_\_\_\_\_\_\_\_\_ (to pack) the case before she \_\_\_\_\_\_\_\_\_\_ (to leave) the house.
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item I had written the letter before I posted it.
+\item He had read the book before he saw the film.
+\item We had finished dinner before we went for a walk.
+\item They had learned the dance before they performed it.
+\item She had packed the case before she left the house.
+\end{enumerate}</exercise> 
+
+<exercise>Complete each sentence with the past perfect tense.
+\begin{enumerate}
+\item By the time I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (finish) my homework, it was dark.
+\item The play \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (start) before we \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (arrive).
+\item When we \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (reach) the hotel, they \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (check) out.
+\item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (eat) before I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (go) to the cinema.
+\item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (fly) before the storm \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (start).
+\end{enumerate}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item had finished
+\item had started, had arrived
+\item had reached, had checked
+\item had eaten, went
+\item had flown, had started
+\end{enumerate}</exercise> 
+
+
+<<6 Prompt>>
+ Give me a multiple choice exercise for a student learning biology. It should be an exercise on photosynthesis. 
+<<Prompt>>
+
+
+<exercise>Photosynthesis is the process by which:
+\begin{enumerate}[label=\alph*.]
+\item plants make proteins
+\item animals make energy
+\item plants make carbohydrates
+\item animals and plants make energy
+\end{enumerate}</exercise> 
+
+<exercise>Photosynthesis is the process by which plants:
+\begin{enumerate}[label=\alph*.]
+\item respire and produce carbon dioxide
+\item produce seeds and fruits
+\item produce sugars and oxygen from carbon dioxide and water
+\item absorb water through their roots
+\end{enumerate}</exercise> 
+
+<exercise>Photosynthesis is the process by which plants:
+\begin{enumerate}[label=\alph*.]
+\item breathe in oxygen and breathe out carbon dioxide
+\item make proteins from amino acids
+\item produce sugars from carbon dioxide and water
+\item produce sugars from starch
+\end{enumerate}</exercise> 
+
+<exercise>The scientific word for making food from sunlight is:
+\begin{enumerate}[label=\alph*.]
+\item respiration
+\item photosynthesis
+\item perspiration
+\item decomposition
+\end{enumerate}</exercise> 
+
+<exercise>Photosynthesis is the process by which:
+\begin{enumerate}[label=\alph*.]
+\item plants move towards light
+\item plants absorb water
+\item plants make sugars from carbon dioxide and water
+\item plants grow towards the Sun
+\end{enumerate}</exercise> 
+
+<exercise>Photosynthesis produces glucose and:
+\begin{enumerate}[label=\alph*.]
+\item water
+\item carbon dioxide
+\item oxygen
+\item starch
+\end{enumerate}</exercise> 
+
+<exercise>Photosynthesis is the process by which:
+\begin{enumerate}[label=\alph*.]
+\item animals make food
+\item plants and some bacteria make food
+\item plants and animals make food
+\item plants move water from the roots to the leaves
+\end{enumerate}</exercise> 
+
+<exercise>Which word equation is correct for photosynthesis?
+\begin{enumerate}[label=\alph*.]
+\item Carbon dioxide + water $\rightarrow$ glucose + oxygen
+\item Water + light $\rightarrow$ glucose + oxygen
+\item Glucose + oxygen $\rightarrow$ water + carbon dioxide
+\item Glucose + water $\rightarrow$ carbon dioxide + oxygen
+\end{enumerate}</exercise> 
+
+<exercise>Photosynthesis is the process by which:
+\begin{enumerate}[label=\alph*.]
+\item plants move towards light
+\item plants absorb water through their roots
+\item plants make their own food from light, water and carbon dioxide
+\item plants release water vapour into the air
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following statements about photosynthesis is true?
+\begin{enumerate}[label=\alph*.]
+\item Photosynthesis occurs in the mitochondria.
+\item Photosynthesis requires water and carbon dioxide.
+\item Photosynthesis produces glucose and oxygen.
+\item Photosynthesis occurs in the dark.
+\end{enumerate}</exercise> 
+
+
+<<7 Prompt>>
+ Give me a short answer exercise for a student learning history. It should be an exercise on the causes of World War I. 
+<<Prompt>>
+
+
+<exercise>Identify the causes of World War I.</exercise> 
+
+<exercise>Identify the main causes of World War I.</exercise> 
+
+<exercise>Describe some of the causes of World War I.</exercise> 
+
+<exercise>What were the causes of World War I?</exercise> 
+
+<exercise>What were the causes of World War I?</exercise> 
+
+<exercise>Identify the main causes of World War I.</exercise> 
+
+<exercise>Identify the main causes of World War I.</exercise> 
+
+<exercise>Identify the main causes of World War I.</exercise> 
+
+<exercise>What were the causes of World War I?</exercise> 
+
+<exercise>Identify the causes of World War I.</exercise> 
+
+
+<<8 Prompt>>
+ Give me a fill-in-the-blank exercise for a student learning Spanish. It should be an exercise on irregular verbs in the past tense. 
+<<Prompt>>
+
+
+<exercise>Complete the following sentences with the correct form of the irregular verb in brackets in the past tense.  
+\begin{enumerate}
+    \item Ellos \_\_\_\_\_\_ (ir) a la playa ayer.
+    \item Yo \_\_\_\_\_\_ (salir) de la casa a las 7:00 a.m.
+    \item Tú \_\_\_\_\_\_ (tomar) jugo de naranja esta mañana.
+    \item Nosotros \_\_\_\_\_\_ (comer) ceviche en el restaurante.
+    \item Ellos \_\_\_\_\_\_ (vender) su casa.
+\end{enumerate}</exercise> 
+
+<exercise>Complete the sentences with the correct past tense form of the irregular verb in brackets.
+\begin{enumerate}
+    \item Pepe \_\_\_\_\_ (conocer) a su novia en una fiesta. (Pepe met his girlfriend at a party.)
+    \item Sus padres \_\_\_\_\_ (vender) su casa. (His parents sold their house.)
+    \item El perro \_\_\_\_\_ (morder) a mi hermano. (The dog bit my brother.)
+    \item La maestra \_\_\_\_\_ (ayudar) a los estudiantes. (The teacher helped the students.)
+    \item Los niños \_\_\_\_\_ (bajar) por el tobogán. (The children went down the slide.)
+\end{enumerate}</exercise> 
+
+<exercise>Complete the following sentences with the correct form of the irregular verb in brackets in the past tense.  
+\begin{enumerate}
+    \item (Ir) \_\_\_\_\_\_\_\_ a la fiesta de Ana ayer. (I went to Ana's party yesterday.)
+    \item (Ser) \_\_\_\_\_\_\_\_ una buena película. (It was a good movie.)
+    \item (Estar) \_\_\_\_\_\_\_\_ muy bien. (I was very well.)
+    \item (Venir) \_\_\_\_\_\_\_\_ de la ciudad de México. (I came from Mexico City.)
+    \item (Haber) \_\_\_\_\_\_\_\_ un concierto en el parque. (There was a concert in the park.)
+\end{enumerate}</exercise> 
+
+<exercise>Complete the sentences with the right form of the irregular verbs in brackets in the simple past tense.
+\begin{enumerate}
+    \item Camila \_\_\_\_\_\_ (ir) a la India.
+    \item Pablo \_\_\_\_\_\_ (tomar) una siesta de dos horas.
+    \item Nosotros \_\_\_\_\_\_ (bajar) a la playa.
+    \item Ellos \_\_\_\_\_\_ (pagar) el dinero.
+    \item Tú \_\_\_\_\_\_ (conocer) a mi novio.
+\end{enumerate}</exercise> 
+
+<exercise>Complete the sentences with the right form of the irregular verb in brackets in the past tense.  
+\begin{enumerate}
+    \item Ayer por la tarde, Ana \_\_\_\_ (ir) al gimnasio.
+    \item Ayer por la mañana, Camila \_\_\_\_ (venir) de la panadería.
+    \item Ayer por la noche, Pedro \_\_\_\_ (tomar) jugo de naranja.
+    \item Ayer por la tarde, Andrés \_\_\_\_ (leer) el diario.
+    \item Ayer por la mañana, Sara \_\_\_\_ (bajar) las escaleras.
+\end{enumerate}</exercise> 
+
+<exercise>Complete the sentences with the correct form of the irregular verb in brackets in the past tense.
+\begin{enumerate}
+    \item Ellos (ir) \_\_\_\_ a la India el año pasado. (They went to India last year.)
+    \item Ella (tomar) \_\_\_\_ el refresco. (She drank the soda.)
+    \item Yo (conocer) \_\_\_\_ a mis mejores amigos en la universidad. (I met my best friends in college.)
+    \item Nosotros (bajar) \_\_\_\_ por la escalera. (We went down the stairs.)
+    \item Ellos (elegir) \_\_\_\_ un buen vino. (They chose a good wine.)
+\end{enumerate}</exercise> 
+
+<exercise>Complete the sentences with the correct form of the irregular verb in the past tense.
+\begin{enumerate}
+    \item Ayer por la mañana \_\_\_ (ir) al gimnasio. (Yesterday morning I went to the gym.)
+    \item El año pasado \_\_\_ (tomar) unas vacaciones. (Last year I took a vacation.)
+    \item La semana pasada \_\_\_ (conocer) a una chica nueva. (Last week I met a new girl.)
+    \item Ayer por la tarde \_\_\_ (hacer) una prueba. (Yesterday afternoon I did a test.)
+    \item El mes pasado \_\_\_ (comer) en un restaurante nuevo. (Last month I ate at a new restaurant.)
+\end{enumerate}</exercise> 
+
+<exercise>Complete the sentences with the correct form of the irregular verb in brackets in the past tense.  
+\begin{enumerate}
+    \item Ellos \_\_\_\_\_\_ (estar) en la casa. (They were at home.)
+    \item Ella \_\_\_\_\_\_ (ir) al cine. (She went to the movies.)
+    \item Yo \_\_\_\_\_\_ (tomar) una siesta. (I had a nap.)
+    \item Ellos \_\_\_\_\_\_ (comer) una pizza. (They ate a pizza.)
+    \item Yo \_\_\_\_\_\_ (hacer) una llamada. (I made a phone call.)
+\end{enumerate}</exercise> 
+
+<exercise>Complete the following sentences with the correct form of the irregular verbs in the past tense.  
+\begin{enumerate}
+    \item Ayer por la tarde \_\_\_\_\_\_\_\_\_\_\_\_\_ (ir) \_\_\_\_\_\_\_\_\_\_\_\_\_ (estar) en el cine.
+    \item Anoche \_\_\_\_\_\_\_\_\_\_\_\_\_ (ir) \_\_\_\_\_\_\_\_\_\_\_\_\_ (estar) en el teatro.
+    \item La semana pasada \_\_\_\_\_\_\_\_\_\_\_\_\_ (ir) \_\_\_\_\_\_\_\_\_\_\_\_\_ (estar) en el museo.
+    \item El año pasado \_\_\_\_\_\_\_\_\_\_\_\_\_ (ir) \_\_\_\_\_\_\_\_\_\_\_\_\_ (estar) en Brasil.
+    \item El mes pasado \_\_\_\_\_\_\_\_\_\_\_\_\_ (ir) \_\_\_\_\_\_\_\_\_\_\_\_\_ (estar) en una cafetería.
+\end{enumerate}</exercise> 
+
+<exercise>Complete the following sentences with the correct form of the irregular verb in brackets in the past tense.  
+\begin{enumerate}
+    \item (Ella) \_\_\_\_\_\_ (ir) al centro comercial el sábado pasado. (She went to the mall last Saturday.)
+    \item (Ellos) \_\_\_\_\_\_ (tomar) una siesta muy larga ayer. (They took a long nap yesterday.)
+    \item (El perro) \_\_\_\_\_\_ (morder) al cartero. (The dog bit the mailman.)
+    \item (Ellos) \_\_\_\_\_\_ (dormir) toda la noche. (They slept all night.)
+    \item (Ellos) \_\_\_\_\_\_ (comer) en el restaurante de la esquina. (They ate at the restaurant on the corner.)
+\end{enumerate}</exercise> 
+
+
+<<9 Prompt>>
+ Give me a true or false exercise for a student learning physics. It should be an exercise on Newton's laws of motion. 
+<<Prompt>>
+
+
+<exercise>For each of the following statements, write true or false.
+\begin{enumerate}
+\item Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.
+\item Newton's second law of motion relates force and acceleration.
+\item Newton's third law of motion states that for every action, there is an equal and opposite reaction.
+\end{enumerate}</exercise> 
+
+<exercise>Decide whether the following statements are true or false.
+\begin{enumerate}[label=\alph*.]
+\item According to Newton’s second law of motion, the greater the mass of an object, the smaller its acceleration.
+\item According to Newton’s third law of motion, every action has an equal and opposite reaction.
+\end{enumerate}</exercise> 
+
+<exercise>True or False?
+
+\begin{enumerate}[label=\alph*.]
+\item Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.
+\item Newton's second law of motion relates the force applied to an object to its resulting acceleration.
+\item Newton's third law of motion states that for every action, there is an equal and opposite reaction.
+\end{enumerate}</exercise> 
+
+<exercise>True or False?
+\begin{enumerate}[label=\alph*.]
+\item Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.
+\item Newton's second law of motion relates the force applied to an object to its resulting acceleration.
+\item Newton's third law of motion states that for every action, there is an equal and opposite reaction.
+\end{enumerate}</exercise> 
+
+<exercise>True or False: Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.</exercise> 
+
+<exercise>Decide whether the following statements are true or false. Write 'True' or 'False' for your answer.
+\begin{enumerate}
+\item Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.
+\item Newton's second law of motion relates the force applied to an object to its resulting acceleration.
+\item Newton's third law of motion states that for every action, there is an equal and opposite reaction.
+\end{enumerate}</exercise> 
+
+<exercise>True or False: Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.</exercise> 
+
+<exercise>True or false?
+\begin{enumerate}
+\item Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.
+\item Newton's second law of motion relates the force applied to an object to its resulting acceleration.
+\item Newton's third law of motion states that every action has an equal and opposite reaction.
+\end{enumerate}</exercise> 
+
+<exercise>True or False?
+
+\begin{enumerate}[label=\alph*.]
+\item Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.
+\item Newton's second law of motion relates the force applied to an object to its resulting acceleration.
+\item Newton's third law of motion states that for every action, there is an equal and opposite reaction.
+\end{enumerate}</exercise> 
+
+<exercise>Decide whether the following statements are true or false.
+\begin{enumerate}[label=\alph*.]
+\item Newton's first law of motion states that an object at rest will remain at rest unless acted upon by an external force.
+\item Newton's second law of motion relates the force applied to an object to its resulting acceleration.
+\item Newton's third law of motion states that for every action, there is an equal and opposite reaction.
+\end{enumerate}</exercise> 
+
+
+<<10 Prompt>>
+ Give me a problem-solving exercise for a student learning computer science. It should be an exercise on sorting algorithms. 
+<<Prompt>>
+
+
+<exercise>Think about how you would sort a list of numbers. Describe the steps you would take to sort the list. Now, imagine you have a list of words. How would you sort the words? Write down your steps.</exercise> 
+
+<exercise>Write a program to sort the following list of numbers in ascending order using the Bubble Sort algorithm: 64, 34, 25, 12, 22, 11, 90.
+
+\paragraph{Materials}
+\begin{itemize}
+\item A computer or device with a programming environment or application that lets someone use code blocks or text-based code to animate or program, like Scratch.
+\end{itemize}</exercise> 
+
+<exercise>Imagine you have a list of numbers. You want to sort them in order. How would you do it? Write a step-by-step guide on how you would sort a list of numbers.</exercise> 
+
+<exercise>Work out how the bubble sort algorithm sorts the following list of numbers in ascending order:
+
+\begin{enumerate}[label=\alph*.]
+\item Start with the list: 5, 2, 8, 3, 1, 6, 4
+\item Compare the first pair of numbers. If the first number is greater than the second, swap them.
+\item Move to the next pair of numbers and repeat the comparison and swapping process until the end of the list is reached.
+\item Repeat the process from the beginning of the list until no more swaps are needed, indicating the list is sorted.
+\end{enumerate}</exercise> 
+
+<exercise>Write a sorting algorithm for a list of numbers. Your algorithm should have a way to stop. For example, it could stop when all the numbers are sorted. Write the steps in your algorithm. Then test your algorithm with a list of numbers.</exercise> 
+
+<exercise>How would you sort your books at home? Describe a method that works for you.</exercise> 
+
+<exercise>Describe how the Bubble Sort algorithm works. What is its time complexity?</exercise> 
+
+<exercise>Why do we need to sort data? Give an example of a situation where sorting makes a difference.</exercise> 
+
+<exercise>Think of a way to sort a list of 10 words in alphabetical order without using a computer. Describe your method step by step.</exercise> 
+
+<exercise>Work out the steps of the Bubble Sort algorithm for the following list of numbers: 5, 2, 8, 3, 1, 4, 6, 7. Write them out in a table format.</exercise> 
+
+
+<<11 Prompt>>
+ Give me a coding exercise for a student learning computer science. It should be an exercise on writing functions with parameters in python. 
+<<Prompt>>
+
+
+<exercise>Write a function called "greeting" that takes one parameter called "name". It should print out "Hello, " followed by the name. For example, if you call greeting("Alice"), it should print "Hello, Alice". Write another function called "add" that takes two parameters. It should print out the result of adding the two numbers together. For example, if you call add(3, 4), it should print 7.</exercise> 
+
+<exercise>Write a function called 'greet' that takes one parameter, 'name'. Write a call to the function with the argument 'Alice'. Run the code to check it works.</exercise> 
+
+<exercise>Write a function called `greeting` that takes a name as a parameter and prints a personalized greeting.</exercise> 
+
+<exercise>Write a function called 'greeting' that takes one parameter. Use that parameter to print out a greeting message.</exercise> 
+
+<exercise>Write a function called 'greeting' that takes a parameter called 'name' and prints out a greeting message for the given name.</exercise> 
+
+<exercise>Write a function called `print_numbers` that takes an integer as a parameter. The function should print the numbers from 1 to the number you entered.</exercise> 
+
+<exercise>Write a function called “hello” that takes one parameter called “name” and prints out “Hello, name!”</exercise> 
+
+<exercise>Write a function called ‘greet' that takes one parameter called ‘name'. When called, it prints out a greeting message with the name. Run the function with the argument ‘Alice' to check it works.</exercise> 
+
+<exercise>Write a function called 'print_name' which takes one parameter called 'name'. The function should print out the name.
+
+\paragraph{Think With Me}
+How could you use this function to print out your name?
+
+\paragraph{Bonus Question}
+How could you use this function to print out lots of different names?</exercise> 
+
+<exercise>Write a function called `hello` that takes a parameter called `name`. When called, it prints out a greeting message that includes the name. For example: `hello('John')` prints `Hello John!`.</exercise> 
+
+
+<<12 Prompt>>
+ Give me a coding exercise for a student learning Python programming. It should be an exercise on writing functions with parameters. 
+<<Prompt>>
+
+
+<exercise>Write a function called `greeting` that takes one parameter called `name`. The function should print a greeting message. Call the function with your name.</exercise> 
+
+<exercise>Write a function called `make_dough` that takes a type of flour and an amount of butter as parameters.</exercise> 
+
+<exercise>Write a function called `greet` that takes a name as a parameter.  
+When you run the function, it prints out a greeting message with the name.  
+For example, `greet('John')` prints `Hello, John!`.</exercise> 
+
+<exercise>Write a function called `greet` that takes one parameter called `name`. The function should print out a greeting message that includes the name.</exercise> 
+
+<exercise>Write a function called `greet` that takes one parameter, `name`. When called with an argument (like "John"), it prints a greeting message with that name. Then call `greet("John")`.</exercise> 
+
+<exercise>Write a function called `hello_name` that takes a name as a parameter and prints "Hello, \_\_\_\_\_\_\_\_\_\_!"</exercise> 
+
+<exercise>Write a function called `hello()` that prints "Hello, World!" to the screen. Then, rewrite the function so that it has a parameter called `name` that allows it to print out a personalized greeting.</exercise> 
+
+<exercise>Write a function called `greet` which takes a name as a parameter. It should print out a greeting message that includes the name.</exercise> 
+
+<exercise>Write a function called `greet` that takes a name as a parameter. The function should print out a greeting message with the name.</exercise> 
+
+<exercise>Write a function called `greeting` that takes a `name` as a parameter and prints a greeting message. Then call this function with your name.</exercise> 
+
+
+<<13 Prompt>>
+ Give me an open-ended essay exercise for a student learning literature. It should be an exercise on themes in To Kill a Mockingbird. 
+<<Prompt>>
+
+
+<exercise>Write a brief essay on the themes of racial injustice and the loss of innocence in To Kill a Mockingbird.</exercise> 
+
+<exercise>Choose a theme from the novel. Write a brief essay explaining how the author explores this theme.</exercise> 
+
+<exercise>Write a short essay on one of the themes of To Kill a Mockingbird. Choose one of the following themes: tolerance, injustice, prejudice, growing up.</exercise> 
+
+<exercise>Write an essay on how Harper Lee explores the themes of racial injustice and childhood innocence in To Kill a Mockingbird.</exercise> 
+
+<exercise>Write about the themes of racial prejudice and injustice in To Kill a Mockingbird.</exercise> 
+
+<exercise>Write about the themes of racial prejudice and injustice in To Kill a Mockingbird.</exercise> 
+
+<exercise>Write about the themes of racial prejudice and injustice in To Kill a Mockingbird.</exercise> 
+
+<exercise>Write about the themes of prejudice, understanding, and growing up in To Kill a Mockingbird.</exercise> 
+
+<exercise>Write about some of the themes in To Kill a Mockingbird.</exercise> 
+
+<exercise>Write an essay on the theme of racial prejudice in To Kill a Mockingbird.</exercise> 
+
+
+<<14 Prompt>>
+ Give me a diagram labeling exercise for a student learning human anatomy. It should be an exercise on the respiratory system. 
+<<Prompt>>
+
+
+<exercise>Look at the diagram of the respiratory system. Label the different parts.
+
+\begin{figure}[h!]
+    \centering
+    \begin{tikzpicture}
+    \begin{axis}[
+        axis lines=none, % No axis lines
+        ticks=none, % No ticks
+        grid=none, % No grid
+        xmin=0, xmax=10, % Set x-axis limits
+        ymin=0, ymax=10, % Set y-axis limits
+        enlargelimits=true, % Ensure all nodes are visible
+        width=8cm, height=8cm, % Set figure size
+        clip=false, % Allow nodes to be outside the axis
+        ]
+        % Define nodes for the respiratory system
+        \node (nose) at (2, 8) [draw, circle, minimum size=1cm, align=center] {Nose};
+        \node (trachea) at (2, 5) [draw, circle, minimum size=1cm, align=center] {Trachea};
+        \node (lung1) at (0, 3) [draw, circle, minimum size=1cm, align=center] {Lung};
+        \node (lung2) at (4, 3) [draw, circle, minimum size=1cm, align=center] {Lung};
+        \node (diaphragm) at (2, 1) [draw, circle, minimum size=1cm, align=center] {Diaphragm};
+        
+        % Draw arrows indicating the flow of air
+        \draw[->, thick] (nose) -- (trachea);
+        \draw[->, thick] (trachea) -- (lung1);
+        \draw[->, thick] (trachea) -- (lung2);
+        \draw[->, thick] (lung1) -- (diaphragm);
+        \draw[->, thick] (lung2) -- (diaphragm);
+        
+    \end{axis}
+    \end{tikzpicture}
+    \caption{The Respiratory System}
+\end{figure}</exercise> 
+
+<exercise>Label the diagram of the respiratory system.
+
+[STRDGM] A diagram showing the respiratory system with labeled components including the trachea, lungs, and diaphragm. [STPDGM]</exercise> 
+
+<exercise>Label the diagram of the respiratory system.
+
+[STRDGM] A diagram showing the respiratory system, including the lungs, trachea, and diaphragm. [STPDGM]</exercise> 
+
+<exercise>Label the diagram of the respiratory system.
+[STRDGM] The image shows a diagram of the human respiratory system, including the lungs, trachea, and diaphragm. There are labels for "Trachea," "Lungs," and "Diaphragm" that need to be placed in their correct positions. [STPDGM]</exercise> 
+
+<exercise>Label the diagram of the respiratory system.
+
+[STRDGM] A diagram showing the respiratory system with a nose, mouth, trachea, bronchi, lungs, and diaphragm. Each component is clearly illustrated and ready for labeling. [STPDGM]</exercise> 
+
+<exercise>Label the diagram of the respiratory system.
+[STRDGM] The image shows a diagram of the human respiratory system, including the lungs, trachea, and mouth, with spaces for labeling each component. [STPDGM]</exercise> 
+
+<exercise>Label the diagram of the respiratory system.
+
+\begin{figure}[h!]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            width=10cm, height=6cm,
+            axis x line=center,
+            axis y line=left,
+            symbolic x coords={0, 1, 2, 3, 4},
+            xticklabels={0, 20, 40, 60, 80},
+            ymin=0, ymax=100,
+            ylabel={Percentage},
+            xlabel={Time (minutes)},
+            grid=both,
+            smooth,
+            thick,
+            ]
+            \addplot coordinates {(0,0) (1,20) (2,40) (3,60) (4,80)};
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Respiratory System Diagram}
+\end{figure}</exercise> 
+
+<exercise>Label the diagram with the following terms:
+\begin{itemize}
+    \item Trachea
+    \item Bronchus
+    \item Lung
+    \item Diaphragm
+    \item Rib cage
+\end{itemize}
+
+[STRDGM] A diagram showing the respiratory system with a trachea, bronchus, lung, diaphragm, and rib cage. [STPDGM]</exercise> 
+
+<exercise>Label the diagram of the respiratory system.
+
+[STRDGM] A diagram showing the respiratory system with lungs, trachea, bronchi, and diaphragm. [STPDGM]</exercise> 
+
+<exercise>Label the diagram of the respiratory system.
+\begin{enumerate}[label=\alph*.]
+\item Name the organ that brings oxygen into the body.
+\item Identify the tube that carries air from the throat to the lungs.
+\item What is the term for the air sacs where gas exchange occurs?
+\item Label the muscles used for breathing.
+\end{enumerate}
+
+[STRDGM] A diagram showing the respiratory system with labeled parts including the lungs, trachea, bronchi, and diaphragm. [STPDGM]</exercise> 
+
+
+<<15 Prompt>>
+ Give me a word problem exercise for a student learning algebra. It should be an exercise on solving equations with variables on both sides. 
+<<Prompt>>
+
+
+<exercise>For how many values of \( x \) does \( 5x - 3 = 3x + 9 \)?
+
+\begin{enumerate}[label=\alph*.]
+\item What is the value of \( x \) that satisfies the equation?
+\item How many solutions does the equation have?
+\end{enumerate}</exercise> 
+
+<exercise>Sam had 5 pens. He gave \( x \) pens to John and \( y \) pens to Tom. How many pens did he have left?
+
+\begin{equation*}
+5 - x - y = \_\_
+\end{equation*}</exercise> 
+
+<exercise>Two numbers have a difference of 20. If the bigger number is \( x \) and the smaller number is \( y \), express the relationship between \( x \) and \( y \) in an equation.
+
+\begin{equation*}
+x = \_\_\_
+\end{equation*}</exercise> 
+
+<exercise>Alvin had 13 stickers and received 5 more. He had as many stickers as Bernard. If \( x \) represents the number of stickers Bernard had, write an equation to represent the situation and solve for \( x \).</exercise> 
+
+<exercise>There are 25 boys and 15 girls in a class. Let \( b \) represent the number of boys and \( g \) represent the number of girls. Solve for \( b \) in the equation \( b + g = 40 \).</exercise> 
+
+<exercise>Find the value of \( x \) in the equation \( 2x + 3 = 7 \).</exercise> 
+
+<exercise>Find the value of \( x \) in the equation \( 3x - 2 = 7 - x \).</exercise> 
+
+<exercise>There are 7 boxes each containing \( b \) balls. There are 3 boxes each containing \( a \) balls. If there are 65 balls altogether, find \( a \).
+
+\begin{equation*}
+7b + 3a = 65
+\end{equation*}</exercise> 
+
+<exercise>There are 5 more boys than girls. If \( b \) represents the number of boys and \( g \) represents the number of girls, solve the equation \( b = g + 5 \) for \( b \) when \( g = 20 \).</exercise> 
+
+<exercise>There are 7 boxes, each containing 5 apples.
+
+\begin{enumerate}[label=\alph*.]
+\item How many apples are there in total?
+\item If \( x \) represents the number of apples and \( y \) represents the number of boxes, write an equation based on the given information.
+\item Solve for \( x \) if \( y = 7 \).
+\end{enumerate}</exercise> 
+
+
+
+JOB STATISTICS
+==============
+Job ID: 12371070
+Cluster: snellius
+User/Group: scur1403/scur1403
+State: FAILED (exit code 1)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:30:34
+CPU Efficiency: 6.19% of 08:13:52 core-walltime
+Job Wall-clock time: 00:30:52
+Memory Utilized: 1.11 GB
+Memory Efficiency: 0.62% of 180.00 GB (180.00 GB/node)
