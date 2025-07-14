@@ -17,7 +17,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_id)
 tokenizer.pad_token = tokenizer.eos_token
 
 # Load the dataset
-dataset = load_dataset("json", data_files="data/instruct_train_v2.json", split="train", num_proc=4)
+dataset = load_dataset("json", data_files="../datasets/data/instruction_sets/instruct_questions_chatml_with_tag.json", split="train", num_proc=4)
 
 # BitsAndBytesConfig int-4 config, quantize the model to 4bit.
 bnb_config = BitsAndBytesConfig(

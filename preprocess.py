@@ -812,27 +812,27 @@ if __name__ == "__main__":
     # Manually augments a dataset for instruction-tuning.
     if args.key == "i":
         # Turn the questions into an instruction tuning dataset
-        questions = make_instructions(PATH + f"/{args.path}.txt")
+        questions = make_instructions(PATH + f"/raw_datasets/{args.path}.txt")
         if args.t:
             # Write the new dataset to a text file
-            with open(PATH + f"/instruct_{args.path}.txt", "w") as f:
+            with open(PATH + f"/instruction_sets/instruct_{args.path}.txt", "w") as f:
                 for q in questions:
                     f.write(q[0] + "\n" + q[1] + "\n\n\n")
         elif args.j:
             # Write the new dataset to a json format.
             questions = [{"instruction": q[0], "response": q[1]} for q in questions[1:]]
 
-            with open(PATH + f"/{args.path}.json", "w") as f:
+            with open(PATH + f"/instruction_sets/{args.path}.json", "w") as f:
                 json.dump(questions, f, indent=4)
         else:
             # Write the new dataset to a csv file
-            with open(PATH + f"/instruct_{args.path}.csv", mode="w", newline="") as f:
+            with open(PATH + f"/instruction_sets/instruct_{args.path}.csv", mode="w", newline="") as f:
                 writer = csv.writer(f)
                 writer.writerows(questions)
 
     # Performs data exploration
     elif args.key == "v":
-        params = group_params(PATH + "/questions.txt")
+        params = group_params(PATH + "/raw_datasets/questions.txt")
 
         # Print total number of unique parameters
         print(
@@ -914,7 +914,7 @@ if __name__ == "__main__":
             ratios = [int(r) for r in args.ratio.split(",")]
 
         # Stratified sampling of dataset
-        params = group_params(PATH + "/questions.txt", True)
+        params = group_params(PATH + "/raw_datasets/questions.txt", True)
 
         # STEP 1: Stratify by Subject and partition by grade labels
         splits = stratified_split(params["Q_S"], classify=(True, (0, 2)), ratios=ratios)
@@ -938,13 +938,13 @@ if __name__ == "__main__":
 
         # Save the subsets into .txt files
         for split, label in zip(splits, ("train", "val", "test")):
-            with open(PATH + f"/{label}.txt", "w") as f:
+            with open(PATH + f"/raw_datasets/{label}.txt", "w") as f:
                 f.write("\n\n\n".join(split))
 
     # Converts a csv instruction tuning dataset to ChatML format
     elif args.key == "p":
         # Verify that the path exists
-        dataset_path = f"{PATH}/{args.file}.csv"
+        dataset_path = f"{PATH}/instruction_sets/{args.file}.csv"
         if os.path.exists(dataset_path):
             instruction_set_csv = pd.read_csv(dataset_path)
 
@@ -963,5 +963,5 @@ if __name__ == "__main__":
                 )
             ]
 
-            with open(f"{PATH}/{args.file}_chatml_with_tag.json", "w") as f:
+            with open(f"{PATH}/instruction_sets/{args.file}_chatml_with_tag.json", "w") as f:
                 json.dump(instruction_set_json, f)
