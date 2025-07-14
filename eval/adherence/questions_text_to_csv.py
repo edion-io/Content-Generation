@@ -16,7 +16,7 @@ def parse_params(text):
     return params
 
 # Read original text file
-with open("data/questions.txt", "r") as f:
+with open("data/raw_datasets/questions.txt", "r") as f:
     text = f.read()
 
 # Split parameters head and corresponding exercise
@@ -43,4 +43,4 @@ for i, title in enumerate(titles):
     )
 
 struct_data = pd.DataFrame(data)
-struct_data.to_csv("data/questions.csv", index=False)
+struct_data.to_csv("data/raw_datasets/questions.csv", index=False)

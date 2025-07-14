@@ -95,7 +95,7 @@ def generate(prompt, max_new_tokens=512):
 
 print("Start generation...")
 count = 0
-data = pd.read_csv("data/instruct_test.csv")
+data = pd.read_csv("data/instruction_sets/instruct_test.csv")
 result = []
 for prompt in data.Input:
     print(f"<<{count} Prompt>>", prompt, "<<Prompt>>") 

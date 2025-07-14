@@ -21,7 +21,7 @@ train_epochs = 3 # default -1 (invalid)
 batch_size = 2
 
 # dataset_path = "data/instruct_chatml_with_tag.json" # Full dataset
-dataset_path = "data/instruct_train_chatml_with_tag.json" # Training set
+dataset_path = "data/instruction_sets/instruct_train_chatml_with_tag.json" # Training set
 
 max_seq_length = 2048 # Choose any! We auto support RoPE Scaling internally!
 dtype = None # None for auto detection. Float16 for Tesla T4, V100, Bfloat16 for Ampere+
@@ -209,7 +209,7 @@ else:
     import os
     
     # Load test data from CSV
-    test_file = "data/instruct_test.csv"
+    test_file = "data/instruction_sets/instruct_test.csv"
     try:
         if test_size != -1:
             test_df = pd.read_csv(test_file)[:test_size]
