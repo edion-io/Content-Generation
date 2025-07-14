@@ -1,0 +1,390 @@
+Quantized model not found, downloading...
+Start generation...
+<<0 Prompt>>
+ Give me true or false exercise for a student learning literature. It should be an exercise on the characters of Ray Bradburys Fahrenheit 451. 
+<<Prompt>>
+
+
+<exercise>Decide if these statements are true or false. Write 'True' or 'False' for each one.
+\begin{enumerate}
+\item Mildred's friends came to visit her.  
+\item Mildred's friends were very kind to her.  
+\item Mildred's friends did not like her.  
+\item Mildred's friends talked about books.  
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write ‘True' or ‘False' for your answer.
+\begin{enumerate}
+\item Guy Montag is a fireman.  
+\item Guy Montag's wife is called Millie.  
+\item Guy Montag is unhappy in his job.  
+\item Mildred Montag is a happy person.  
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write ‘True' or ‘False' for your answer.
+\begin{enumerate}
+\item The main character in the story is Guy Montag.  
+\item The author of the story is Ray Bradbury.  
+\item The story is set in the future.  
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write ‘True' or ‘False' for each one.
+\begin{enumerate}
+\item The protagonist's name is Guy Montag.
+\item The protagonist's wife is named Mildred Montag.
+\item The protagonist's friend is named Fabian.
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write 'True' or 'False' for your answer.
+\begin{enumerate}
+\item The protagonist of the novel is Guy Montag.  
+\item Guy Montag is a fireman.  
+\item Guy Montag has a wife.  
+\item The antagonist of the novel is Captain Beatty.  
+\item The story takes place in the future.  
+\item The society in the novel does not like books.  
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write 'True' or 'False' for each one.
+\begin{enumerate}
+\item Clarisse McClellan is a fireman.
+\item Mildred Montag is Guy Montag's wife.
+\item Fabian is a character from a television show.
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write ‘True' or ‘False' for each one.
+\begin{enumerate}
+\item The story is set in the future.
+\item The main character is called Guy Montag.
+\item Montag's job is to burn books.
+\item Montag's wife is called Clarisse.
+\item The story was written by an American author.
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write ‘True' or ‘False' for each one.
+\begin{enumerate}
+\item Ray Bradbury's novel is set in a future where books are banned.
+\item The main character is called Guy Montag.
+\item The main character's job is to burn books.
+\item The main character's wife is called Clarisse.
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write ‘True' or ‘False' for your answer.
+\begin{enumerate}
+\item The character who says, “I'm antisocial, they say” is Guy Montag.
+\item The character who says, “Let's get out of here” is Mildred Montag.
+\item The character who says, “Don't look at me” is Captain Beatty.
+\item The character who says, “I'm afraid of children” is Clarisse McClellan.
+\end{enumerate}</exercise> 
+
+<exercise>Decide if these statements are true or false. Write 'True' or 'False' for each one.
+\begin{enumerate}
+\item The character Faber is a former professor.
+\item The character Mildred is a neighbour of Guy Montag.
+\item The character Granger is a leader of a group of people who memorized books.
+\end{enumerate}</exercise> 
+
+
+<<1 Prompt>>
+ Give me a multiple choice exercise for a student learning physics. It should be an exercise on force and acceleration. 
+<<Prompt>>
+
+
+<exercise>When a force is applied to an object, the object will:
+
+\begin{enumerate}[label=\alph*.]
+\item speed up
+\item slow down
+\item change direction
+\item change shape
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following statements is correct?
+\begin{enumerate}[label=\alph*.]
+\item A force can change the speed of a moving object.
+\item A force can change the direction of a moving object.
+\item A force can change the acceleration of a moving object.
+\item A force can change the velocity of a moving object.
+\end{enumerate}</exercise> 
+
+<exercise>According to Newton's second law of motion, if the same force acts on two different objects, the object with the larger mass will:
+\begin{enumerate}[label=\alph*.]
+\item accelerate more slowly
+\item accelerate more quickly
+\item have the same acceleration
+\item have a larger acceleration
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following statements about force and acceleration is correct?
+\begin{enumerate}[label=\alph*.]
+\item An increase in force will lead to a decrease in acceleration.
+\item An increase in force will lead to an increase in acceleration.
+\item An increase in force will not affect acceleration.
+\item An increase in force will lead to a constant acceleration.
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following statements is true?
+\begin{enumerate}[label=\alph*.]
+\item A force is a push or a pull that can change the direction of an object.
+\item An acceleration is the change in velocity of an object over time.
+\item A force is measured in units of meters per second.
+\item An acceleration is a type of force that changes the shape of an object.
+\end{enumerate}</exercise> 
+
+<exercise>What force does a car engine provide to the car?
+
+\begin{enumerate}[label=\alph*.]
+\item Forward force
+\item Backward force
+\item Friction force
+\item Drag force
+\end{enumerate}</exercise> 
+
+<exercise>When an object changes direction, it has:
+\begin{enumerate}[label=\alph*.]
+\item increased speed
+\item decreased speed
+\item changed shape
+\item increased acceleration
+\end{enumerate}</exercise> 
+
+<exercise>When a force makes an object change direction, the force has:  
+\begin{enumerate}[label=\alph*.]
+\item increased the object's speed
+\item decreased the object's speed
+\item changed the object's direction of motion
+\item increased the object's mass
+\end{enumerate}</exercise> 
+
+<exercise>According to Newton's second law of motion, the force on an object is equal to:
+\begin{enumerate}[label=\alph*.]
+\item the acceleration divided by the mass
+\item the acceleration times the mass
+\item the mass divided by the acceleration
+\item the mass times the acceleration
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following statements is true?
+\begin{enumerate}[label=\alph*.]
+\item If there is no force acting on an object, the object will accelerate.
+\item If there is a force acting on an object, the object will decelerate.
+\item If there is a force acting on an object, the object will accelerate.
+\item If there is no force acting on an object, the object will decelerate.
+\end{enumerate}</exercise> 
+
+
+<<2 Prompt>>
+ Give me a multiple choice exercise for a student learning science. It should be an exercise on force and acceleration. 
+<<Prompt>>
+
+
+<exercise>When a force changes the shape of an object, it is called:
+\begin{enumerate}[label=\alph*.]
+\item changing the speed of an object
+\item changing the direction of an object
+\item changing the shape of an object
+\item changing the size of an object
+\end{enumerate}</exercise> 
+
+<exercise>The faster a bus goes, the \_\_\_\_\_\_\_\_\_\_ the passengers are.
+
+\begin{enumerate}[label=\alph*.]
+\item more force there is on them
+\item less force there is on them
+\item same force there is on them
+\item no force there is on them
+\end{enumerate}</exercise> 
+
+<exercise>What is the unit of measurement of force?
+
+\begin{enumerate}[label=\alph*.]
+\item Newton (N)
+\item Meter (m)
+\item Second (s)
+\item Liter (L)
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following statements is true?
+\begin{enumerate}[label=\alph*.]
+\item A force makes things move faster.
+\item A force makes things stop.
+\item A force makes things change direction.
+\item All of the above.
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following statements about force and acceleration is correct?
+\begin{enumerate}[label=\alph*.]
+\item A force can change the direction of an object.
+\item A force can change the shape of an object.
+\item A force can change the size of an object.
+\item A force can change the speed of an object.
+\end{enumerate}</exercise> 
+
+<exercise>When there is a force on an object, the object:
+\begin{enumerate}[label=\alph*.]
+\item moves in the direction of the force
+\item stops moving
+\item moves faster
+\item turns around
+\end{enumerate}</exercise> 
+
+<exercise>According to Newton's second law of motion, if you increase the force on an object, its \_\_\_\_\_\_\_\_\_\_ will increase.
+
+\begin{enumerate}[label=\alph*.]
+\item mass
+\item acceleration
+\item friction
+\item velocity
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following is true about the relationship between force and acceleration?
+\begin{enumerate}[label=\alph*.]
+\item The more force applied, the less acceleration there is.
+\item The less force applied, the more acceleration there is.
+\item The more force applied, the more acceleration there is.
+\item The amount of force applied has no effect on acceleration.
+\end{enumerate}</exercise> 
+
+<exercise>Which of the following statements is not true?
+\begin{enumerate}[label=\alph*.]
+\item A force can change the direction of a moving object.
+\item A force can change the shape of an object.
+\item A force can increase the speed of a moving object.
+\item A force cannot slow down a moving object.
+\end{enumerate}</exercise> 
+
+<exercise>A force makes something:
+\begin{enumerate}[label=\alph*.]
+\item stop
+\item move
+\item change shape
+\item go faster
+\end{enumerate}</exercise> 
+
+
+<<3 Prompt>>
+ Give me a calculations exercise for a student learning physics. It should be an exercise on force and acceleration. 
+<<Prompt>>
+
+
+<exercise>Calculate the acceleration of a 10 kg mass when a force of 50 N is applied.
+
+\begin{equation*}
+F = ma
+\end{equation*}
+
+\begin{equation*}
+a = \frac{F}{m}
+\end{equation*}
+
+\begin{equation*}
+a = \frac{50}{10} = 5 \, \text{m/s}^2
+\end{equation*}</exercise> 
+
+<exercise>Calculate the acceleration of a 5 kg object when a force of 10 N is applied.
+
+\begin{equation*}
+a = \frac{F}{m} = \frac{10 \text{ N}}{5 \text{ kg}} = 2 \text{ m/s}^2
+\end{equation*}</exercise> 
+
+<exercise>Calculate the acceleration of a 1000 kg car that increases its speed from 36 km/h to 54 km/h in 5 seconds.</exercise> 
+
+<exercise>What is the acceleration of a 2000 kg car if a 1000 N force is applied to it?
+
+\begin{equation*}
+\text{Acceleration} = \frac{\text{Force}}{\text{Mass}} = \frac{1000 \text{ N}}{2000 \text{ kg}} = \_\_\_ \text{m/s}^2
+\end{equation*}</exercise> 
+
+<exercise>What is the acceleration of a 1000 kg car when the engine produces a forward force of 1000 N?
+
+\begin{equation*}
+F = ma
+\end{equation*}</exercise> 
+
+<exercise>What is the acceleration of a 10 N force acting on a 2 kg object? Write your answer in m/s².</exercise> 
+
+<exercise>Given that the force on an object is 50 N and its mass is 10 kg, calculate its acceleration.</exercise> 
+
+<exercise>Calculate the force acting on an object given its mass and acceleration.
+
+\begin{equation*}
+F = ma
+\end{equation*}
+
+where:
+\begin{itemize}
+\item \( F \) is the force in Newtons (N),
+\item \( m \) is the mass in kilograms (kg),
+\item \( a \) is the acceleration in meters per second squared (m/s²).
+\end{itemize}</exercise> 
+
+<exercise>What is the acceleration of a 2000 kg car if a 2000 N force is applied to it?</exercise> 
+
+<exercise>Calculate the acceleration of a 2000 kg car if a force of 4000 N is applied.</exercise> 
+
+
+<<4 Prompt>>
+ Give me a mix of a open-ended essay and a agree/disagree exercise for a student learning history. It should be an exercise on the causes of World War I. 
+<<Prompt>>
+
+
+<exercise>Some historians argue that the main cause of World War I was the complex system of alliances between European countries. Do you agree? Write a paragraph to explain your answer.</exercise> 
+
+<exercise>Do you agree that the main cause of World War I was the growing rivalry between European countries? Explain your ideas.</exercise> 
+
+<exercise>Some historians believe that the First World War was caused by the growing tensions between European countries. Others believe that the assassination of Archduke Franz Ferdinand was the main cause of the war. Which historian do you agree with? Write a brief explanation of your answer.</exercise> 
+
+<exercise>Do you agree that the assassination of Archduke Franz Ferdinand was the main cause of the outbreak of World War I? Write a brief essay to explain your answer.</exercise> 
+
+<exercise>Do you agree that the main cause of World War I was the system of alliances? Explain your ideas.</exercise> 
+
+<exercise>Do you agree that the main cause of World War I was the system of alliances between European countries? Explain your ideas.</exercise> 
+
+<exercise>Some historians say that the causes of World War I were mainly the result of long-term factors. Other historians disagree and say that the causes were mainly short-term. Write a brief essay to explain why you agree or disagree with these historians.</exercise> 
+
+<exercise>Some historians believe that the main cause of the First World War was the rise of Germany as a major power and its challenge to other European countries. Do you agree or disagree with this view? Give reasons for your answer.</exercise> 
+
+<exercise>Do you agree that the assassination of Archduke Franz Ferdinand was the main cause of World War I? Explain your answer.</exercise> 
+
+<exercise>Some historians say that the main cause of World War I was the system of alliances between European countries. Do you agree? Give reasons for your answer.</exercise> 
+
+
+<<5 Prompt>>
+ Give me a mix of a open-ended essay and a agree/disagree exercise for a student learning history. It should be an exercise on the causes of World War I, with an introduction paragraph. 
+<<Prompt>>
+
+
+<exercise>There is a lot of debate about the causes of World War I. Some historians believe that Germany was to blame for the war. They point out that Germany was a rapidly growing country with a powerful army and navy. Germany wanted to challenge Britain, which was then the most powerful country in the world. Other historians do not agree. They point out that many European countries were rapidly building up their armies and navies at the time. They also point out that there were many crises in the years leading up to the war, such as the Balkans crisis. These historians argue that it is unfair to blame just one country for the outbreak of war.
+
+Do you agree or disagree with the statement below? Give reasons for your answer.
+
+\begin{quotation}
+Germany was to blame for the outbreak of World War I.
+\end{quotation}</exercise> 
+
+<exercise>Some people believe that the main cause of World War I was the growing competition between European countries. Others believe that it was the complicated system of alliances between countries that led to the outbreak of war. Do you agree or disagree with these ideas? Explain your answer.</exercise> 
+
+<exercise>Historians continue to debate the causes of World War I. Some argue that the war was caused by the complex system of alliances between European powers, while others believe that the rise of nationalism and imperialism played a more significant role. Write a short essay explaining whether you agree or disagree with the statement: "The system of alliances was the main cause of World War I."</exercise> 
+
+<exercise>Some historians think that one country was to blame for the outbreak of World War I. Other historians think that all the countries were equally to blame. What do you think? Write a short essay to explain your ideas.</exercise> 
+
+<exercise>Historians still disagree about the causes of World War I. Some say it was all the fault of one country, while others blame many countries and many different factors. Do you agree or disagree with the following statements? Write a sentence or two to explain your answer.
+
+\begin{enumerate}[label=\alph*.]
+\item Germany was the main cause of the war.
+\item The war was caused by the fact that some countries formed alliances.
+\item The war was caused by the fact that some countries had empires.
+\item The war was caused by the fact that countries had modern armies and weapons.
+\end{enumerate}</exercise> 
+
+<exercise>Some people say that Germany was to blame for causing World War I. Do you agree? Write an essay to explain your ideas.</exercise> 
+
+<exercise>Some historians argue that the murder of Archduke Franz Ferdinand was the main cause of World War I. Do you agree or disagree? Write a paragraph to explain your answer.</exercise> 
+
+<exercise>Historians continue to debate the causes of World War I. Some believe that the murder of Archduke Franz Ferdinand was the main cause of the war. Others think that the war was the result of a combination of long-term and short-term causes. Do you agree or disagree with these historians? Write a short essay to explain your ideas.</exercise> 
+
+<exercise>Some people believe that the main cause of World War I was the complex system of alliances between European countries. Others believe that the main cause of the war was imperialism. What do you think? Write a paragraph to explain your ideas.</exercise> 
+
+<exercise>Historians do not all agree about the causes of World War I. Some say it was all the fault of Kaiser Wilhelm. Others say it was the fault of Emperor Franz Joseph of Austria-Hungary. Some historians blame the system of alliances. Some say that it was the rise of Germany that caused the war. Do you agree with any of these ideas? Write a short essay to explain your ideas.</exercise> 
+
+
