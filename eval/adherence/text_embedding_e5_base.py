@@ -38,7 +38,7 @@ def embed(docs: list[str]) -> list[list[float]]:
     return doc_embeds.detach().cpu()
 
 
-struct_data = pd.read_csv('data/questions.csv')
+struct_data = pd.read_csv('data/raw_datasets/questions.csv')
 
 # Sample 50 excercises from each subject as train data
 sample_subjects_train = struct_data.groupby(by="subject").apply(lambda x: x.sample(n=50)).reset_index(drop=True)

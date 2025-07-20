@@ -13,7 +13,7 @@ len(prompts), len(generations)
 
 generations = [one.replace("<exercise>", "").replace("</exercise>", "") for one in generations]
 
-test_data = pd.read_csv(os.path.join(project_dir, "data/instruct_test.csv"))
+test_data = pd.read_csv(os.path.join(project_dir, "data/instruction_sets/instruct_test.csv"))
 references = test_data.Output.tolist()
 
 from lexicality.lexicality_eval import lexicality
