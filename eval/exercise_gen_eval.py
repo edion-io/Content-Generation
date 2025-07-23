@@ -8,9 +8,9 @@ from typing import Dict, List, Tuple
 from tqdm import tqdm
 
 # Import the evaluation modules
-from adherence.adherence_eval import adherence_score
-from lexicality.lexicality_eval import lexicality
-from semantic_similarity import SemanticSimilarity
+from eval.adherence.adherence_eval import AdherenceEvaluator
+from eval.lexicality.lexicality_eval import lexicality
+from eval.semantic_similarity import SemanticSimilarity
 
 # Optional imports for visualization
 try:
@@ -31,7 +31,10 @@ class ExerciseGenEval:
     3. Semantic Similarity - How similar the generated content is to reference content
     """
     
-    def __init__(self, 
+    def __init__(self,
+                 adherence_model: str = "gpt-4o-mini",
+                 adherence_system_prompt: str = None,
+                 adherence_temperature: float = 0.1,
                  semantic_models=None, 
                  semantic_modes=None,
                  semantic_weights=None,
@@ -40,6 +43,9 @@ class ExerciseGenEval:
         Initialize the exercise generation evaluator.
         
         Args:
+            adherence_model: Model to use for adherence evaluation
+            adherence_system_prompt: System prompt to use for adherence evaluation
+            adherence_temperature: Temperature to use for adherence evaluation
             semantic_models: List of models to use for semantic similarity
             semantic_modes: Pooling modes ("CLS" or "token_mean") for semantic models
             semantic_weights: Weights to combine similarity scores from multiple models.
@@ -59,28 +65,29 @@ class ExerciseGenEval:
             weights=semantic_weights,
             power_transform=semantic_power_transform
         )
+
+        self.adherence_temperature = adherence_temperature
+
+        self.adherence_evaluator = AdherenceEvaluator(
+            generator_model=adherence_model,
+            system_prompt=adherence_system_prompt
+        )
     
-    def evaluate_adherence(self, instruction: str, generation: str) -> Dict:
+    def evaluate_adherence(self, instructions: List[str], generations: List[str], masks: List[List[int]] = None) -> Dict:
         """
         Evaluate how well the generated exercise adheres to the instruction.
         
         Args:
-            instruction: The instruction given to generate the exercise
-            generation: The generated exercise
+            instructions: List of instructions given to generate the exercises
+            generations: List of generated exercises
+            masks: List of masks for each exercise, each mask is a list of 4 integers, 1 means the field is active, 0 means the field is inactive.
             
         Returns:
             Dict: Dictionary containing adherence scores for each dimension
         """
-        result = adherence_score(instruction, generation)
-        if result is None:
-            # If there was an error, return a default dictionary with zeros
-            return {
-                "Subject score": 0,
-                "Exercise type score": 0,
-                "Grade level score": 0,
-                "Modification score": 0,
-                "Total score": 0
-            }
+        print(masks)
+        result = self.adherence_evaluator.adherence_score(instructions, generations, masks, temperature=self.adherence_temperature)
+        print(result)
         return result
     
     def evaluate_lexicality(self, generations: List[str], references: List[str]) -> Dict:
@@ -116,17 +123,20 @@ class ExerciseGenEval:
             "individual_similarities": similarities
         }
     
-    def load_data(self, file_path: str) -> Tuple[List[str], List[str], List[str]]:
+    def load_data(self, file_path: str) -> Tuple[List[str], List[str], List[str], List[List[int]]|np.ndarray]:
         """
         Load data from a CSV or TSV file.
         
         Expected columns: instruction, generation, groundtruth
+        Optional columns: subject, exercise_type, grade_level, modifier
         
         Args:
             file_path: Path to the data file
             
         Returns:
-            Tuple of (instructions, generations, groundtruths)
+            Tuple of (instructions, generations, groundtruths, masks)
+            masks: List[List[int]] or numpy array where each inner list contains masks for 
+                   [subject, exercise_type, grade_level, modifier] columns
         """
         # Determine file format based on extension
         if file_path.endswith('.csv'):
@@ -149,11 +159,20 @@ class ExerciseGenEval:
             if missing_columns:
                 raise ValueError(f"Missing required columns: {', '.join(missing_columns)}")
             
+            # Create masks based on empty param fields, where 1 if value is in mask_values, 0 otherwise
+            mask_columns = ['subject', 'exercise_type', 'grade_level', 'modifier']
+            mask_values = {'S', 'G', 'T', 'D', 'M'}
+
+            if set(mask_columns) & set(data.columns):
+                masks = data[mask_columns].isin(mask_values).astype(int).to_numpy()
+            else:
+                masks = np.zeros((len(data), len(mask_columns)))
+            
             instructions = data['instruction'].tolist()
             generations = data['generation'].tolist()
             groundtruths = data['groundtruth'].tolist()
             
-            return instructions, generations, groundtruths
+            return instructions, generations, groundtruths, masks
             
         except Exception as e:
             print(f"Error loading data file: {e}")
@@ -184,19 +203,18 @@ class ExerciseGenEval:
             Dict: Combined evaluation metrics
         """
         # Load the data
-        instructions, generations, groundtruths = self.load_data(file_path)
+        instructions, generations, groundtruths, masks = self.load_data(file_path)
 
         # Calculate adherence scores
         print("Running adherence metric")
-        adherence_results = [self.evaluate_adherence(instr, gen) 
-                           for instr, gen in tqdm(zip(instructions, generations), total=len(instructions))]
+        adherence_results = self.evaluate_adherence(instructions, generations, masks)
         
         # Extract individual subscores
-        subject_scores = [result.get("Subject score", 0) for result in adherence_results]
-        exercise_type_scores = [result.get("Exercise type score", 0) for result in adherence_results]
-        grade_level_scores = [result.get("Grade level score", 0) for result in adherence_results]
-        modification_scores = [result.get("Modification score", 0) for result in adherence_results]
-        total_scores = [result.get("Total score", 0) for result in adherence_results]
+        subject_scores = [result.get("subject_score", 0) for result in adherence_results]
+        exercise_type_scores = [result.get("exercise_type_score", 0) for result in adherence_results]
+        grade_level_scores = [result.get("grade_level_score", 0) for result in adherence_results]
+        modification_scores = [result.get("modifier_score", 0) for result in adherence_results]
+        total_scores = [result.get("overall_score", 0) for result in adherence_results]
         
         # Calculate lexicality metrics
         print("Running lexicality metric")
@@ -222,7 +240,7 @@ class ExerciseGenEval:
                     "scores": grade_level_scores,
                     "mean_score": float(np.mean(grade_level_scores))
                 },
-                "modification": {
+                "modifier": {
                     "scores": modification_scores,
                     "mean_score": float(np.mean(modification_scores))
                 },
@@ -243,7 +261,7 @@ class ExerciseGenEval:
                 "individual_scores": sem_metrics["individual_similarities"]
             },
             "overall_score": (
-                float(np.mean(total_scores)) / 4.0 * 0.4 +  # Normalize adherence to 0-1 scale and weight by 40%
+                float(np.mean(total_scores)) * 0.4 +  # Weight adherence by 40%
                 lex_metrics["weighted_score"] * 0.3 +        # Weight lexicality by 30%
                 sem_metrics["semantic_similarity"] * 0.3      # Weight semantic similarity by 30%
             )
@@ -302,7 +320,7 @@ class ExerciseGenEval:
                 comparison["comparison"]["adherence_details"]["subject"][model_name] = 0.0
                 comparison["comparison"]["adherence_details"]["exercise_type"][model_name] = 0.0
                 comparison["comparison"]["adherence_details"]["grade_level"][model_name] = 0.0
-                comparison["comparison"]["adherence_details"]["modification"][model_name] = 0.0
+                comparison["comparison"]["adherence_details"]["modifier"][model_name] = 0.0
                 comparison["comparison"]["lexicality_scores"][model_name] = 0.0
                 comparison["comparison"]["semantic_similarity_scores"][model_name] = 0.0
                 comparison["comparison"]["lexicality_details"]["fre_similarity"][model_name] = 0.0
@@ -320,7 +338,7 @@ class ExerciseGenEval:
             comparison["comparison"]["adherence_details"]["subject"][model_name] = adherence_data.get("subject", {}).get("mean_score", 0.0)
             comparison["comparison"]["adherence_details"]["exercise_type"][model_name] = adherence_data.get("exercise_type", {}).get("mean_score", 0.0)
             comparison["comparison"]["adherence_details"]["grade_level"][model_name] = adherence_data.get("grade_level", {}).get("mean_score", 0.0)
-            comparison["comparison"]["adherence_details"]["modification"][model_name] = adherence_data.get("modification", {}).get("mean_score", 0.0)
+            comparison["comparison"]["adherence_details"]["modifier"][model_name] = adherence_data.get("modifier", {}).get("mean_score", 0.0)
             
             lexicality_data = results.get("lexicality", {})
             comparison["comparison"]["lexicality_scores"][model_name] = lexicality_data.get("weighted_score", 0.0)
@@ -389,7 +407,7 @@ class ExerciseGenEval:
         metrics = ['Overall', 'Adherence', 'Lexicality', 'Semantic']
         values = [
             results['overall_score'],
-            results['adherence']['mean_score'] / 4.0,  # Normalize to 0-1
+            results['adherence']['mean_score'],
             results['lexicality']['weighted_score'],
             results['semantic_similarity']['mean_score']
         ]
@@ -400,12 +418,12 @@ class ExerciseGenEval:
         axs[0, 0].set_ylabel('Score (0-1)')
         
         # Plot 2: Adherence subscores
-        adherence_metrics = ['Subject', 'Exercise Type', 'Grade Level', 'Modification']
+        adherence_metrics = ['Subject', 'Exercise Type', 'Grade Level', 'Modifier']
         adherence_values = [
             results['adherence']['subject']['mean_score'],
             results['adherence']['exercise_type']['mean_score'],
             results['adherence']['grade_level']['mean_score'],
-            results['adherence']['modification']['mean_score']
+            results['adherence']['modifier']['mean_score']
         ]
         
         axs[0, 1].bar(adherence_metrics, adherence_values, color='green')
@@ -633,7 +651,7 @@ if __name__ == "__main__":
     # Simple test case
     import tempfile
     # import os # os is already imported at the top
-    
+
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Evaluate exercise generation models')
     parser.add_argument('--input', type=str, help='Input file path (CSV or TSV) for single model evaluation.')
@@ -644,9 +662,12 @@ if __name__ == "__main__":
     parser.add_argument('--visualize', action='store_true', help='Create visualizations of results. Works with --input, --inputs_file (if --compare is also active), or --test.')
     parser.add_argument('--viz-output', type=str, help='Output path for visualization file (e.g., plot.png).')
     args = parser.parse_args()
-    
+
     # Initialize evaluator
-    evaluator = ExerciseGenEval()
+    evaluator = ExerciseGenEval(
+        adherence_model="gpt-4o-mini",
+        adherence_temperature=0.1,
+    )
     results = None # Initialize results to handle cases where it might not be set
     comparison_summary = None # Initialize for similar reasons
 
@@ -661,7 +682,7 @@ if __name__ == "__main__":
                     if not line or ',' not in line:
                         if line: print(f"Skipping malformed line: {line}")
                         continue
-                    
+
                     parts = line.split(',', 1)
                     model_name = parts[0].strip()
                     csv_path = parts[1].strip()
@@ -674,7 +695,7 @@ if __name__ == "__main__":
                     except Exception as e:
                         print(f"Error evaluating model {model_name} from {csv_path}: {e}")
                         eval_result = None # Ensure eval_result is None on error
-                    
+
                     end_time = time.time()
                     run_time = end_time - start_time
 
@@ -709,7 +730,7 @@ if __name__ == "__main__":
                 comparison_output_json_path = f"{base}.comparison{ext}"
             else:
                 comparison_output_json_path = "model_comparison_results.json"
-            
+
             try:
                 comparison_summary = evaluator.generate_comparison_from_results_dict(
                     model_eval_results_for_comparison,
@@ -749,7 +770,7 @@ if __name__ == "__main__":
                 print(f"Adherence Score: {results.get('adherence', {}).get('mean_score', 0.0):.4f}")
                 print(f"Lexicality Score: {results.get('lexicality', {}).get('weighted_score', 0.0):.4f}")
                 print(f"Semantic Similarity Score: {results.get('semantic_similarity', {}).get('mean_score', 0.0):.4f}")
-            
+
                 if args.visualize:
                     evaluator.visualize_results(results, args.viz_output)
             else:
@@ -775,18 +796,18 @@ if __name__ == "__main__":
         print("Running with built-in test data...")
         test_data = """instruction,generation,groundtruth
 "Create a math exercise for 5th grade on fractions.","Write the following fractions in order from smallest to largest: 3/4, 2/3, 5/6. Explain how you determined the order.","Order these fractions from smallest to largest: 2/3, 3/4, 5/6. Explain your method and reasoning."
-"Generate a science question about the solar system for 3rd grade.","Name the eight planets in our solar system in order from closest to farthest from the sun.","List all planets in our solar system starting from the one closest to the sun."
-"Create a language arts exercise about adjectives for 4th grade.","Identify all the adjectives in the following sentence: The big, brown dog chased the small, yellow cat.","Find all adjectives in this sentence: The large, brown dog ran after the tiny, orange cat."
+"Generate a science question about the solar system for 3rd grade.","How many continents on earth?","List all planets in our solar system starting from the one closest to the sun."
+"Create a language arts exercise about adjectives for 4th grade.","How many chemical elements?","Find all adjectives in this sentence: The large, brown dog ran after the tiny, orange cat."
 """
-        
+
         temp_file_path = None
         try:
             with tempfile.NamedTemporaryFile(mode='w', suffix='.csv', delete=False) as f:
                 f.write(test_data)
                 temp_file_path = f.name
-            
+
             results = evaluator.run(temp_file_path, args.output) # args.output can be None
-            
+
             print("\nTest Evaluation Results:")
             if results:
                 print(f"Overall Score: {results.get('overall_score', 0.0):.4f}")
@@ -803,39 +824,3 @@ if __name__ == "__main__":
         finally:
             if temp_file_path and os.path.exists(temp_file_path):
                 os.unlink(temp_file_path)
-    
-    else: # Default behavior: if no specific mode is chosen, run test as a fallback
-        print("No input specified. Running with default built-in test data...")
-        # This is similar to args.test but ensures it runs if no other flags are set.
-        test_data = """instruction,generation,groundtruth
-"Create a math exercise for 5th grade on fractions.","Write the following fractions in order from smallest to largest: 3/4, 2/3, 5/6. Explain how you determined the order.","Order these fractions from smallest to largest: 2/3, 3/4, 5/6. Explain your method and reasoning."
-"Generate a science question about the solar system for 3rd grade.","Name the eight planets in our solar system in order from closest to farthest from the sun.","List all planets in our solar system starting from the one closest to the sun."
-"Create a language arts exercise about adjectives for 4th grade.","Identify all the adjectives in the following sentence: The big, brown dog chased the small, yellow cat.","Find all adjectives in this sentence: The large, brown dog ran after the tiny, orange cat."
-"""
-        temp_file_path = None
-        try:
-            with tempfile.NamedTemporaryFile(mode='w', suffix='.csv', delete=False) as f:
-                f.write(test_data)
-                temp_file_path = f.name
-            
-            # For default run, output to console, not to a file unless --output is explicitly given
-            # However, args.output would be None here unless user *only* specifies --output and no other mode.
-            # Let's keep it simple: default run does not save JSON unless --output is *also* passed.
-            results = evaluator.run(temp_file_path, args.output if args.output else None)
-            
-            print("\nDefault Test Evaluation Results:")
-            if results:
-                print(f"Overall Score: {results.get('overall_score', 0.0):.4f}")
-                print(f"Adherence Score: {results.get('adherence', {}).get('mean_score', 0.0):.4f}")
-                print(f"Lexicality Score: {results.get('lexicality', {}).get('weighted_score', 0.0):.4f}")
-                print(f"Semantic Similarity Score: {results.get('semantic_similarity', {}).get('mean_score', 0.0):.4f}")
-
-                if args.visualize:
-                    evaluator.visualize_results(results, args.viz_output)
-            else:
-                print("Default test evaluation did not produce results.")
-        except Exception as e:
-            print(f"Error during default test run: {e}")
-        finally:
-            if temp_file_path and os.path.exists(temp_file_path):
-                os.unlink(temp_file_path) 
