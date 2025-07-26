@@ -213,7 +213,7 @@ class ExerciseGenEval:
         subject_scores = [result.get("subject_score", 0) for result in adherence_results]
         exercise_type_scores = [result.get("exercise_type_score", 0) for result in adherence_results]
         grade_level_scores = [result.get("grade_level_score", 0) for result in adherence_results]
-        modification_scores = [result.get("modifier_score", 0) for result in adherence_results]
+        modifier_scores = [result.get("modifier_score", 0) for result in adherence_results]
         total_scores = [result.get("overall_score", 0) for result in adherence_results]
         
         # Calculate lexicality metrics
@@ -241,8 +241,8 @@ class ExerciseGenEval:
                     "mean_score": float(np.mean(grade_level_scores))
                 },
                 "modifier": {
-                    "scores": modification_scores,
-                    "mean_score": float(np.mean(modification_scores))
+                    "scores": modifier_scores,
+                    "mean_score": float(np.mean(modifier_scores))
                 },
                 "individual_scores": total_scores
             },
@@ -294,7 +294,7 @@ class ExerciseGenEval:
                     "subject": {},
                     "exercise_type": {},
                     "grade_level": {},
-                    "modification": {}
+                    "modifier": {}
                 },
                 "lexicality_scores": {},
                 "semantic_similarity_scores": {},
@@ -362,7 +362,7 @@ class ExerciseGenEval:
         best_subject = get_best_model(comparison["comparison"]["adherence_details"]["subject"])
         best_exercise_type = get_best_model(comparison["comparison"]["adherence_details"]["exercise_type"])
         best_grade_level = get_best_model(comparison["comparison"]["adherence_details"]["grade_level"])
-        best_modification = get_best_model(comparison["comparison"]["adherence_details"]["modification"])
+        best_modifier = get_best_model(comparison["comparison"]["adherence_details"]["modifier"])
         best_lexicality = get_best_model(comparison["comparison"]["lexicality_scores"])
         best_semantic = get_best_model(comparison["comparison"]["semantic_similarity_scores"])
         
@@ -373,7 +373,7 @@ class ExerciseGenEval:
                 "subject": best_subject,
                 "exercise_type": best_exercise_type,
                 "grade_level": best_grade_level,
-                "modification": best_modification
+                "modifier": best_modifier
             },
             "lexicality": best_lexicality,
             "semantic_similarity": best_semantic
@@ -534,14 +534,14 @@ class ExerciseGenEval:
             'subject',
             'exercise_type',
             'grade_level',
-            'modification'
+            'modifier'
         ]
         
         adh_labels = [
             'Subject', 
             'Exercise Type', 
             'Grade Level', 
-            'Modification'
+            'modifier'
         ]
         
         for model in model_names:

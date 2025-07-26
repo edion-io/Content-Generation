@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import sys
+import re
 from pathlib import Path
 
 # Add the root directory to Python path to import preprocess module
@@ -12,8 +13,13 @@ from preprocess import get_questions, match_params, get_params
 
 questions = get_questions(os.path.join(datasets_dir, "data/raw_datasets/test.txt"))
 instructions = pd.read_csv(os.path.join(datasets_dir, "data/instruction_sets/instruct_test.csv"))
+generations = pd.read_csv(os.path.join(datasets_dir, "data/test_results/test_output_llama70b-post-q4.csv"))
 
 params_list = []
+
+
+def remove_exercise_tag(text):
+    return re.findall("<exercise>([\s\S]+?)(?:</exercise>|$)", text)[0]
 
 for question in questions:
     header, body = question.strip().split("\n", 1)
@@ -51,6 +57,13 @@ else:
     # Reset indices to ensure proper alignment and concatenate the DataFrames column-wise
     instructions = pd.concat([instructions.reset_index(drop=True), 
                               params_df.reset_index(drop=True)], axis=1)
+    instructions["generation"] = generations["Generated"].apply(remove_exercise_tag)
+    instructions.rename(columns={"Input": "instruction", "Output": "groundtruth"}, inplace=True)
     print("New columns appended successfully. Updated 'instructions' shape:", instructions.shape)
 
-instructions.to_csv(os.path.join(datasets_dir, "data/eval_datasets/eval_dataset.csv"), index=False)
+
+save_dir = os.path.join(datasets_dir, "data/eval_datasets")
+if not os.path.exists(save_dir):
+    os.makedirs(save_dir)
+
+instructions.to_csv(os.path.join(save_dir, "eval_dataset.csv"), index=False)
