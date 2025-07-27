@@ -30,11 +30,12 @@ class ExerciseGenEval:
     2. Lexicality - How well the exercise matches reference text style
     3. Semantic Similarity - How similar the generated content is to reference content
     """
-    
+
     def __init__(self,
                  adherence_model: str = "gpt-4o-mini",
                  adherence_system_prompt: str = None,
                  adherence_temperature: float = 0.1,
+                 adherence_batch_size: int = 20,
                  semantic_models=None, 
                  semantic_modes=None,
                  semantic_weights=None,
@@ -57,7 +58,7 @@ class ExerciseGenEval:
                 "intfloat/multilingual-e5-large",
                 "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
             ]
-        
+
         # Initialize semantic similarity evaluator
         self.semantic_sim = SemanticSimilarity(
             models=semantic_models,
@@ -67,12 +68,13 @@ class ExerciseGenEval:
         )
 
         self.adherence_temperature = adherence_temperature
+        self.adherence_batch_size = adherence_batch_size
 
         self.adherence_evaluator = AdherenceEvaluator(
             generator_model=adherence_model,
             system_prompt=adherence_system_prompt
         )
-    
+
     def evaluate_adherence(self, instructions: List[str], generations: List[str], masks: List[List[int]] = None) -> Dict:
         """
         Evaluate how well the generated exercise adheres to the instruction.
@@ -85,11 +87,18 @@ class ExerciseGenEval:
         Returns:
             Dict: Dictionary containing adherence scores for each dimension
         """
-        print(masks)
-        result = self.adherence_evaluator.adherence_score(instructions, generations, masks, temperature=self.adherence_temperature)
-        print(result)
-        return result
-    
+        results = []
+        for i in tqdm(range(0, len(instructions), self.adherence_batch_size), total=len(instructions) // self.adherence_batch_size):
+            results.extend(
+                self.adherence_evaluator.adherence_score(
+                    instructions[i : i + self.adherence_batch_size],
+                    generations[i : i + self.adherence_batch_size],
+                    masks[i : i + self.adherence_batch_size],
+                    temperature=self.adherence_temperature,
+                )
+            )
+        return results
+
     def evaluate_lexicality(self, generations: List[str], references: List[str]) -> Dict:
         """
         Evaluate the lexical similarity between generated exercises and references.
@@ -102,7 +111,7 @@ class ExerciseGenEval:
             Dict: Dictionary containing lexicality metrics
         """
         return lexicality(generations, references)
-    
+
     def evaluate_semantic_similarity(self, generations: List[str], references: List[str]) -> Dict:
         """
         Evaluate the semantic similarity between generated exercises and references.
@@ -117,12 +126,12 @@ class ExerciseGenEval:
         similarities = []
         for gen, ref in tqdm(zip(generations, references), total=len(generations)):
             similarities.append(self.semantic_sim.get_similarity(gen, ref))
-        
+
         return {
             "semantic_similarity": float(np.mean(similarities)),
             "individual_similarities": similarities
         }
-    
+
     def load_data(self, file_path: str) -> Tuple[List[str], List[str], List[str], List[List[int]]|np.ndarray]:
         """
         Load data from a CSV or TSV file.
@@ -147,18 +156,18 @@ class ExerciseGenEval:
             # Default to CSV
             print(f"Warning: Unknown file extension for {file_path}. Assuming CSV format.")
             delimiter = ','
-        
+
         # Read the file
         try:
             data = pd.read_csv(file_path, delimiter=delimiter)
-            
+
             # Check if required columns exist
             required_columns = ['instruction', 'generation', 'groundtruth']
             missing_columns = [col for col in required_columns if col not in data.columns]
-            
+
             if missing_columns:
                 raise ValueError(f"Missing required columns: {', '.join(missing_columns)}")
-            
+
             # Create masks based on empty param fields, where 1 if value is in mask_values, 0 otherwise
             mask_columns = ['subject', 'exercise_type', 'grade_level', 'modifier']
             mask_values = {'S', 'G', 'T', 'D', 'M'}
@@ -167,17 +176,17 @@ class ExerciseGenEval:
                 masks = data[mask_columns].isin(mask_values).astype(int).to_numpy()
             else:
                 masks = np.zeros((len(data), len(mask_columns)))
-            
+
             instructions = data['instruction'].tolist()
             generations = data['generation'].tolist()
             groundtruths = data['groundtruth'].tolist()
-            
+
             return instructions, generations, groundtruths, masks
-            
+
         except Exception as e:
             print(f"Error loading data file: {e}")
             raise
-    
+
     def save_results(self, results: Dict, output_path: str) -> None:
         """
         Save evaluation results to a JSON file.
@@ -188,9 +197,9 @@ class ExerciseGenEval:
         """
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(results, f, indent=2, ensure_ascii=False)
-        
+
         print(f"Results saved to {output_path}")
-    
+
     def run(self, file_path: str, output_path: str = None) -> Dict:
         """
         Run the complete evaluation on a dataset.
@@ -208,22 +217,22 @@ class ExerciseGenEval:
         # Calculate adherence scores
         print("Running adherence metric")
         adherence_results = self.evaluate_adherence(instructions, generations, masks)
-        
+
         # Extract individual subscores
         subject_scores = [result.get("subject_score", 0) for result in adherence_results]
         exercise_type_scores = [result.get("exercise_type_score", 0) for result in adherence_results]
         grade_level_scores = [result.get("grade_level_score", 0) for result in adherence_results]
         modifier_scores = [result.get("modifier_score", 0) for result in adherence_results]
         total_scores = [result.get("overall_score", 0) for result in adherence_results]
-        
+
         # Calculate lexicality metrics
         print("Running lexicality metric")
         lex_metrics = self.evaluate_lexicality(generations, groundtruths)
-        
+
         # Calculate semantic similarity
         print("Running semantic similarity metric")
         sem_metrics = self.evaluate_semantic_similarity(generations, groundtruths)
-        
+
         # Combine results
         results = {
             "adherence": {
@@ -266,13 +275,13 @@ class ExerciseGenEval:
                 sem_metrics["semantic_similarity"] * 0.3      # Weight semantic similarity by 30%
             )
         }
-        
+
         # Save results if output path is provided
         if output_path:
             self.save_results(results, output_path)
-        
+
         return results
-    
+
     def generate_comparison_from_results_dict(self, model_eval_results: Dict[str, Dict], output_path: str = None) -> Dict:
         """
         Generate a comparison report from a dictionary of pre-computed model evaluation results.
@@ -312,7 +321,7 @@ class ExerciseGenEval:
         # Extract relevant metrics for each model
         for model_name, results in model_eval_results.items():
             comparison["models"][model_name] = results  # Store the full result
-            
+
             if not results: # Handle cases where a model might have failed evaluation
                 print(f"Warning: No results found for model {model_name}. Skipping in comparison.")
                 comparison["comparison"]["overall_scores"][model_name] = 0.0
@@ -332,14 +341,14 @@ class ExerciseGenEval:
                 continue
 
             comparison["comparison"]["overall_scores"][model_name] = results.get("overall_score", 0.0)
-            
+
             adherence_data = results.get("adherence", {})
             comparison["comparison"]["adherence_scores"][model_name] = adherence_data.get("mean_score", 0.0)
             comparison["comparison"]["adherence_details"]["subject"][model_name] = adherence_data.get("subject", {}).get("mean_score", 0.0)
             comparison["comparison"]["adherence_details"]["exercise_type"][model_name] = adherence_data.get("exercise_type", {}).get("mean_score", 0.0)
             comparison["comparison"]["adherence_details"]["grade_level"][model_name] = adherence_data.get("grade_level", {}).get("mean_score", 0.0)
             comparison["comparison"]["adherence_details"]["modifier"][model_name] = adherence_data.get("modifier", {}).get("mean_score", 0.0)
-            
+
             lexicality_data = results.get("lexicality", {})
             comparison["comparison"]["lexicality_scores"][model_name] = lexicality_data.get("weighted_score", 0.0)
             comparison["comparison"]["lexicality_details"]["fre_similarity"][model_name] = lexicality_data.get("fre_similarity", 0.0)
@@ -365,7 +374,7 @@ class ExerciseGenEval:
         best_modifier = get_best_model(comparison["comparison"]["adherence_details"]["modifier"])
         best_lexicality = get_best_model(comparison["comparison"]["lexicality_scores"])
         best_semantic = get_best_model(comparison["comparison"]["semantic_similarity_scores"])
-        
+
         comparison["best_models"] = {
             "overall": best_overall,
             "adherence": {
@@ -384,9 +393,9 @@ class ExerciseGenEval:
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump(comparison, f, indent=2, ensure_ascii=False)
             print(f"Comparison results saved to {output_path}")
-        
+
         return comparison
-    
+
     def visualize_results(self, results: Dict, output_path: str = None) -> None:
         """
         Create visualizations of evaluation results.
@@ -398,11 +407,11 @@ class ExerciseGenEval:
         if not VISUALIZATION_AVAILABLE:
             print("Visualization not available. Install matplotlib and seaborn to enable this feature.")
             return
-        
+
         # Create figure with subplots
         fig, axs = plt.subplots(2, 2, figsize=(14, 12))
         fig.suptitle('Exercise Generation Evaluation Results', fontsize=16)
-        
+
         # Plot 1: Overall score and component scores
         metrics = ['Overall', 'Adherence', 'Lexicality', 'Semantic']
         values = [
@@ -411,12 +420,12 @@ class ExerciseGenEval:
             results['lexicality']['weighted_score'],
             results['semantic_similarity']['mean_score']
         ]
-        
+
         axs[0, 0].bar(metrics, values, color=['blue', 'green', 'orange', 'red'])
         axs[0, 0].set_ylim(0, 1)
         axs[0, 0].set_title('Overall Evaluation Scores')
         axs[0, 0].set_ylabel('Score (0-1)')
-        
+
         # Plot 2: Adherence subscores
         adherence_metrics = ['Subject', 'Exercise Type', 'Grade Level', 'Modifier']
         adherence_values = [
@@ -425,13 +434,13 @@ class ExerciseGenEval:
             results['adherence']['grade_level']['mean_score'],
             results['adherence']['modifier']['mean_score']
         ]
-        
+
         axs[0, 1].bar(adherence_metrics, adherence_values, color='green')
         axs[0, 1].set_ylim(0, 1)
         axs[0, 1].set_title('Adherence Component Scores')
         axs[0, 1].set_ylabel('Score (0-1)')
         plt.setp(axs[0, 1].xaxis.get_majorticklabels(), rotation=45)
-        
+
         # Plot 3: Lexicality component metrics
         lex_metrics = [
             results['lexicality']['fre_similarity'],
@@ -449,33 +458,33 @@ class ExerciseGenEval:
             'ROUGE-S', 
             'Punct Sim'
         ]
-        
+
         axs[1, 0].bar(lex_labels, lex_metrics, color='orange')
         axs[1, 0].set_ylim(0, 1)
         axs[1, 0].set_title('Lexicality Component Scores')
         axs[1, 0].set_ylabel('Score (0-1)')
         plt.setp(axs[1, 0].xaxis.get_majorticklabels(), rotation=45)
-        
+
         # Plot 4: Weights visualization
         weights = {
             'Adherence': 0.4,
             'Lexicality': 0.3,
             'Semantic': 0.3
         }
-        
+
         axs[1, 1].pie(weights.values(), labels=weights.keys(), autopct='%1.1f%%', 
                     startangle=90, colors=['green', 'orange', 'red'])
         axs[1, 1].set_title('Evaluation Weight Distribution')
-        
+
         plt.tight_layout()
-        
+
         # Save figure if output path is provided
         if output_path:
             plt.savefig(output_path, dpi=300, bbox_inches='tight')
             print(f"Visualization saved to {output_path}")
         else:
             plt.show()
-    
+
     def visualize_comparison(self, comparison: Dict, output_path: str = None) -> None:
         """
         Create visualizations comparing multiple models.
@@ -487,76 +496,84 @@ class ExerciseGenEval:
         if not VISUALIZATION_AVAILABLE:
             print("Visualization not available. Install matplotlib and seaborn to enable this feature.")
             return
-        
+
         # Create three plots: main metrics, adherence details, and lexicality details
         fig, (ax1, ax2, ax3) = plt.subplots(3, 1, figsize=(14, 20))
-        fig.suptitle('Model Comparison Results', fontsize=16)
-        
+        fig.suptitle('Model Comparison Results', fontsize=16, y=0.98)
+
         # Extract data for main metrics plotting
         model_names = list(comparison['comparison']['overall_scores'].keys())
         metrics = ['Overall', 'Adherence', 'Lexicality', 'Semantic']
-        
+
         data_main = {
             'Model': [],
             'Metric': [],
             'Score': []
         }
-        
+
         for model in model_names:
             # Add overall scores
             data_main['Model'].append(model)
             data_main['Metric'].append('Overall')
             data_main['Score'].append(comparison['comparison']['overall_scores'][model])
-            
-            # Add adherence scores (normalized to 0-1)
+
+            # Add adherence scores (already normalized to 0-1)
             data_main['Model'].append(model)
             data_main['Metric'].append('Adherence')
-            data_main['Score'].append(comparison['comparison']['adherence_scores'][model] / 4.0)
-            
+            data_main['Score'].append(comparison['comparison']['adherence_scores'][model])
+
             # Add lexicality scores
             data_main['Model'].append(model)
             data_main['Metric'].append('Lexicality')
             data_main['Score'].append(comparison['comparison']['lexicality_scores'][model])
-            
+
             # Add semantic similarity scores
             data_main['Model'].append(model)
             data_main['Metric'].append('Semantic')
             data_main['Score'].append(comparison['comparison']['semantic_similarity_scores'][model])
-        
+
         # Create data for adherence details
         data_adherence = {
             'Model': [],
             'Metric': [],
             'Score': []
         }
-        
+
         adh_metrics = [
             'subject',
             'exercise_type',
             'grade_level',
             'modifier'
         ]
-        
+
         adh_labels = [
             'Subject', 
             'Exercise Type', 
             'Grade Level', 
             'modifier'
         ]
-        
+
         for model in model_names:
             for metric, label in zip(adh_metrics, adh_labels):
                 data_adherence['Model'].append(model)
                 data_adherence['Metric'].append(label)
-                data_adherence['Score'].append(comparison['comparison']['adherence_details'][metric][model])
-        
+                # Normalize 0-4 scale scores to 0-1, except subject which is already 0-1
+                score = comparison['comparison']['adherence_details'][metric][model]
+                if metric == 'subject':
+                    # Subject is already 0-1 (binary score)
+                    normalized_score = score
+                else:
+                    # exercise_type, grade_level, modifier are 0-4 scale, normalize to 0-1
+                    normalized_score = score / 4.0
+                data_adherence['Score'].append(normalized_score)
+
         # Create data for lexicality details
         data_lex = {
             'Model': [],
             'Metric': [],
             'Score': []
         }
-        
+
         lex_metrics = [
             'fre_similarity',
             'sentence_length_similarity',
@@ -565,7 +582,7 @@ class ExerciseGenEval:
             'rougeS',
             'punctuation_similarity'
         ]
-        
+
         lex_labels = [
             'FRE Sim', 
             'Sent Length', 
@@ -574,28 +591,32 @@ class ExerciseGenEval:
             'ROUGE-S', 
             'Punct Sim'
         ]
-        
+
         for model in model_names:
             for metric, label in zip(lex_metrics, lex_labels):
                 data_lex['Model'].append(model)
                 data_lex['Metric'].append(label)
                 data_lex['Score'].append(comparison['comparison']['lexicality_details'][metric][model])
-        
+
         # Create DataFrames
         df_main = pd.DataFrame(data_main)
         df_adherence = pd.DataFrame(data_adherence)
         df_lex = pd.DataFrame(data_lex)
-        
+
         # Create grouped bar chart for main metrics
         sns.barplot(x='Metric', y='Score', hue='Model', data=df_main, ax=ax1)
-        
+
         # Customize plot
         ax1.set_title('Main Evaluation Metrics', fontsize=14)
         ax1.set_xlabel('Evaluation Metric', fontsize=12)
         ax1.set_ylabel('Score (0-1)', fontsize=12)
-        ax1.set_ylim(0, 1)
+        ax1.set_ylim(0, 1.1)  # Increase y-limit to accommodate labels
         ax1.legend(title='Model')
-        
+
+        # Add data value labels on top of bars
+        for container in ax1.containers:
+            ax1.bar_label(container, fmt='%.3f', fontsize=9, padding=3)
+
         # Add the "best model" labels above each group
         for i, metric in enumerate(metrics):
             if metric == 'Adherence':
@@ -606,39 +627,47 @@ class ExerciseGenEval:
                 best_model = comparison['best_models']['lexicality']
             else:  # Semantic
                 best_model = comparison['best_models']['semantic_similarity']
-                
-            ax1.text(i, 0.95, f"Best: {best_model}", ha='center', fontsize=10, 
+
+            ax1.text(i, 1.05, f"Best: {best_model}", ha='center', fontsize=10, 
                      bbox=dict(facecolor='white', alpha=0.8, boxstyle='round,pad=0.5'))
-        
+
         # Create grouped bar chart for adherence details
         sns.barplot(x='Metric', y='Score', hue='Model', data=df_adherence, ax=ax2)
-        
+
         # Customize plot
         ax2.set_title('Adherence Detail Metrics', fontsize=14)
         ax2.set_xlabel('Adherence Component', fontsize=12)
         ax2.set_ylabel('Score (0-1)', fontsize=12)
-        ax2.set_ylim(0, 1)
+        ax2.set_ylim(0, 1.1)  # Increase y-limit to accommodate labels
         ax2.legend(title='Model')
-        
+
+        # Add data value labels on top of bars
+        for container in ax2.containers:
+            ax2.bar_label(container, fmt='%.3f', fontsize=9, padding=3)
+
         # Add the "best model" labels above each adherence detail
         for i, metric in enumerate(adh_labels):
             metric_key = metric.lower().replace(' ', '_')
             best_model = comparison['best_models']['adherence'].get(metric_key, '')
-            ax2.text(i, 0.95, f"Best: {best_model}", ha='center', fontsize=10, 
+            ax2.text(i, 1.05, f"Best: {best_model}", ha='center', fontsize=10, 
                      bbox=dict(facecolor='white', alpha=0.8, boxstyle='round,pad=0.5'))
-        
+
         # Create grouped bar chart for lexicality details
         sns.barplot(x='Metric', y='Score', hue='Model', data=df_lex, ax=ax3)
-        
+
         # Customize plot
         ax3.set_title('Lexicality Detail Metrics', fontsize=14)
         ax3.set_xlabel('Lexicality Component', fontsize=12)
         ax3.set_ylabel('Score (0-1)', fontsize=12)
-        ax3.set_ylim(0, 1)
+        ax3.set_ylim(0, 1.1)  # Increase y-limit to accommodate labels
         ax3.legend(title='Model')
-        
-        plt.tight_layout()
-        
+
+        # Add data value labels on top of bars
+        for container in ax3.containers:
+            ax3.bar_label(container, fmt='%.3f', fontsize=9, padding=3)
+
+        plt.tight_layout(pad=3.0)  # Add more padding to prevent overlap
+
         # Save figure if output path is provided
         if output_path:
             plt.savefig(output_path, dpi=300, bbox_inches='tight')
