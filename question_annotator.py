@@ -4,7 +4,6 @@ import tkinter as tk
 from tkinter.font import Font
 from tkinter import filedialog, messagebox, Menu
 import re
-import ctypes as ct
 
 # TODO:     1. Implement config for chunk size and regex
 #           2. Automated header (+ footer?) annotation
@@ -261,7 +260,7 @@ class TextEditor:
             for section in self.sections[:self.last_viewed_section+1]:
                 while section and section[-1] == "\n":
                     section = section[:-1]
-                file.write(section + f"\n\n\n")
+                file.write(section + "\n\n\n")
 
         messagebox.showinfo("Saved Sections", f"Saved {self.last_viewed_section + 1} sections in chunks "
                                               f"{self.start_chunk} to {self.current_chunk}")
@@ -685,7 +684,7 @@ class TextEditor:
         except tk.TclError:
             messagebox.showwarning("No Selection", "Please select text to format.")
 
-    def _list_to_latex(self, args: dict, body: str) -> (dict, str):
+    def _list_to_latex(self, args: dict, body: str) -> tuple[dict, str]:
         # Pattern to detect numbered lists (e.g., 1. Text 2. Text ...)
         list_pattern = r'(?:\d+\.?\s)([^\d]+)'
 
@@ -703,7 +702,7 @@ class TextEditor:
 
         return args, new_body
 
-    def _sections_to_latex(self, args: dict, body: str) -> (dict, str):
+    def _sections_to_latex(self, args: dict, body: str) -> tuple[dict, str]:
         if "\nAnswers" in body:
             body = re.sub(r'(?<=\n)Answers', r"\\section{Answers}", body)
             if args and "With Answers" not in args["modifier"] and "With Answer" not in args["modifier"]:
@@ -720,7 +719,7 @@ class TextEditor:
                 args["modifier"].append("With Hint")
         return args, body
 
-    def _text_format_to_latex(self, args: dict, body: str) -> (dict, str):
+    def _text_format_to_latex(self, args: dict, body: str) -> tuple[dict, str]:
         # Pattern for bold text with double stars (**bold**)
         bold_pattern = r"(?<=\s)\*\*(\w+)\*\*(?=\s)"
         # Replace bold matches with \textbf{}

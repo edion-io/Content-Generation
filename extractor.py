@@ -5,7 +5,6 @@ import glob
 import json
 import argparse
 import re
-from utils import SUBJECTS
 
 # -------------------------
 # Parameters

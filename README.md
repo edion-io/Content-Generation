@@ -21,8 +21,6 @@ separated by the name of the subject enclosed in parentheses. The file is roughl
 | Science          | 600                 | 43900-50000   |
 | Maths            | 5160                | 50000-89900   |
 
-
-
 ## Modules
 
 ### Extractor

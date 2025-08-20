@@ -6,7 +6,6 @@ import fitz
 import json
 import cloudinary
 import cloudinary.uploader
-import cloudinary.api
 from openai import OpenAI
 from PIL import Image
 import io
