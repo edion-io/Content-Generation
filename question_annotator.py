@@ -1,12 +1,15 @@
 # Copyright (C) 2025  Edion Management Systems
 import sys
+import pandas as pd
 import tkinter as tk
 from tkinter.font import Font
-from tkinter import filedialog, messagebox, Menu
+from tkinter import filedialog, messagebox, Menu, ttk, scrolledtext, simpledialog
+from pathlib import Path
 import re
+from typing import Dict, List, Optional, Union
 
-# TODO:     1. Implement config for chunk size and regex
-#           2. Automated header (+ footer?) annotation
+# TODO:     1. Implement config for regex patterns
+#           2. Enhanced TXT parsing with better pattern recognition
 
 SEP = "\n\n\n"
 try:
@@ -15,44 +18,49 @@ except ImportError:
     SUBJECTS = ["Computer Science", "Science", "Mathematics", "Social Studies", "History", "Geography",
                 "Spanish", "French", "German", "Dutch", "English"]
 
+# Column names for CSV format
+CSV_COLUMNS = ["subject", "exercise_type", "grade_level", "difficulty", "modifier", "instruction", "generation"]
+STATUS_OPTIONS = ["pending", "pass", "reject"]
 
-class TextEditor:
+
+class QuestionAnnotator:
     """
-    A simple text editor for annotating questions in the specified format
+    An improved text editor for annotating questions with CSV support and verify mode
     """
 
     def __init__(self, root: tk.Tk, input_file: str = None, output_file: str = None):
-        """Initialize the TextEditor class.
+        """Initialize the QuestionAnnotator class.
 
         Args:
             root: Tkinter root object
-            input_file: Path to the input file, optional
+            input_file: Path to the input file (CSV or TXT), optional
             output_file: Path to the output file, optional
         """
         self.root = root
-        # Initialize variables
+        
+        # Initialize data variables
         self.filepath_in = input_file
-        self.file_in = None
         self.filepath_out = output_file
-        self.file_out = None
+        self.sessions: List[Dict[str, Union[str, None]]] = []
+        self.current_session_idx = 0
+        self.verify_mode = False
+        
+        # UI variables
         self.textbox_font = Font(family="Courier", size=10)
-        self.chunk_size = 100  # lines per chunk
-        self.start_chunk = 0
-        self.current_chunk = 0
-        self.chunks = []
-        self.current_section = 0
-        self.last_viewed_section = 0
-        self.sections = []
-        self.current_subject = ""
-        self.subject_idx = []
         self.last_replace = None
-        # self.subs = re.compile(r"\(?(" + "|".join(SUBJECTS) + ")")
+        
+        # Subject regex for TXT parsing
         self.subs = re.compile(r"\((" + "|".join(SUBJECTS) + r")\)")
-
+        
+        # Initialize UI
         self.load_window_toolbar()
         self.keybindings()
-        if self.filepath_in and self.filepath_out:
+        
+        # Auto-load files if provided
+        if self.filepath_in:
             self.load_files(ask_paths=False, warn_user=False)
+            
+        # Color schemes
         self.color_scheme = "dark_jb"
         self.color_schemes = {
             "default": {
@@ -89,91 +97,198 @@ class TextEditor:
         self.apply_color_scheme()
 
     def load_window_toolbar(self) -> None:
-        self.root.title("Text Section Editor")
+        self.root.title("Question Annotator - CSV/TXT Editor")
+        self.root.geometry("1200x800")
 
-        # Create a toolbar at the top
+        # Create main container
+        main_container = ttk.PanedWindow(self.root, orient=tk.HORIZONTAL)
+        main_container.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
+
+        # Left panel for parameters and controls
+        left_panel = ttk.Frame(main_container)
+        main_container.add(left_panel, weight=1)
+
+        # Right panel for instruction and generation
+        right_panel = ttk.Frame(main_container)
+        main_container.add(right_panel, weight=2)
+
+        # Create toolbar menu
+        self.create_toolbar_menu()
+        
+        # Setup left panel
+        self.setup_left_panel(left_panel)
+        
+        # Setup right panel
+        self.setup_right_panel(right_panel)
+        
+        # Status bar
+        self.setup_status_bar()
+
+    def create_toolbar_menu(self) -> None:
+        """Create the menu bar."""
         self.toolbar = Menu(self.root)
         self.root.config(menu=self.toolbar)
 
         file_menu = Menu(self.toolbar, tearoff=0)
         file_menu.add_command(label="Load File (F1)", command=self.load_files)
-        file_menu.add_command(label="Save Sections (F2)", command=self.save_sections)
+        file_menu.add_command(label="Save Data (F2)", command=self.save_data)
+        file_menu.add_separator()
+        file_menu.add_command(label="Toggle Verify Mode (F9)", command=self.toggle_verify_mode)
         self.toolbar.add_cascade(label="File", menu=file_menu)
 
         edit_menu = Menu(self.toolbar, tearoff=0)
-        edit_menu.add_command(label="Detect Type (F5)", command=self.detect_type)
-        edit_menu.add_command(label="Delete Section (F6)", command=self.delete_section)
+        edit_menu.add_command(label="Delete Session (F6)", command=self.delete_session)
         edit_menu.add_command(label="Detect List (F7)", command=self.to_latex)
-        edit_menu.add_command(label="Remove parentheses (F8)" , command=self.remove_brackets)
+        edit_menu.add_command(label="Remove parentheses (F8)", command=self.remove_brackets)
         self.toolbar.add_cascade(label="Edit", menu=edit_menu)
 
         view_menu = Menu(self.toolbar, tearoff=0)
-        view_menu.add_command(label="Increase Font Size", command=lambda:self.scale_font_size(1.2))
-        view_menu.add_command(label="Decrease Font Size", command=lambda:self.scale_font_size(0.8))
+        view_menu.add_command(label="Increase Font Size", command=lambda: self.scale_font_size(1.2))
+        view_menu.add_command(label="Decrease Font Size", command=lambda: self.scale_font_size(0.8))
         view_menu.add_command(label="Toggle Color Scheme", command=self.toggle_color_scheme)
         self.toolbar.add_cascade(label="View", menu=view_menu)
 
         navigate_menu = Menu(self.toolbar, tearoff=0)
-        navigate_menu.add_command(label="Previous Section (F3)", command=self.previous_section)
-        navigate_menu.add_command(label="Next Section (F4)", command=self.next_section)
-        navigate_menu.add_command(label="Next Subject", command=self.previous_section)
-        navigate_menu.add_command(label="Jump to Chunk ...", command=self.jump_chunk)
+        navigate_menu.add_command(label="Previous Session (F3)", command=self.previous_session)
+        navigate_menu.add_command(label="Next Session (F4)", command=self.next_session)
+        navigate_menu.add_command(label="Jump to Session...", command=self.jump_session)
         self.toolbar.add_cascade(label="Navigate", menu=navigate_menu)
 
-        # Create the main textbox
-        self.textbox_frame = tk.Frame(self.root)
-        self.textbox_frame.pack(expand=1, fill='both', padx=20, pady=20)
+    def setup_left_panel(self, parent: ttk.Frame) -> None:
+        """Setup the left panel with parameters and controls."""
+        # Parameters frame
+        params_frame = ttk.LabelFrame(parent, text="Parameters")
+        params_frame.pack(fill=tk.X, padx=5, pady=5)
 
-        self.textbox = tk.Text(self.textbox_frame, wrap='word', font=self.textbox_font, undo=True)
-        self.textbox.pack(expand=1, fill='both')
+        # Subject
+        ttk.Label(params_frame, text="Subject:").grid(row=0, column=0, sticky=tk.W, padx=5, pady=2)
+        self.subject_var = tk.StringVar()
+        subject_combo = ttk.Combobox(params_frame, textvariable=self.subject_var, values=SUBJECTS, state="readonly")
+        subject_combo.grid(row=0, column=1, sticky=tk.EW, padx=5, pady=2)
+        subject_combo.bind('<<ComboboxSelected>>', self.on_parameter_change)
 
-        # create footer
-        self.button_frame = tk.Frame(self.root)
-        self.button_frame.pack(fill='x')
+        # Exercise Type
+        ttk.Label(params_frame, text="Exercise Type:").grid(row=1, column=0, sticky=tk.W, padx=5, pady=2)
+        self.exercise_type_var = tk.StringVar()
+        self.exercise_type_entry = ttk.Entry(params_frame, textvariable=self.exercise_type_var)
+        self.exercise_type_entry.grid(row=1, column=1, sticky=tk.EW, padx=5, pady=2)
+        self.exercise_type_entry.bind('<KeyRelease>', self.on_parameter_change)
 
-        self.section_label = tk.Label(self.button_frame, text="Section: ")
-        self.section_label.pack(side='left')
+        # Grade Level
+        ttk.Label(params_frame, text="Grade Level:").grid(row=2, column=0, sticky=tk.W, padx=5, pady=2)
+        self.grade_level_var = tk.StringVar()
+        self.grade_level_entry = ttk.Entry(params_frame, textvariable=self.grade_level_var)
+        self.grade_level_entry.grid(row=2, column=1, sticky=tk.EW, padx=5, pady=2)
+        self.grade_level_entry.bind('<KeyRelease>', self.on_parameter_change)
 
-        self.section_entry = tk.Entry(self.button_frame, width=8)
-        self.section_entry.bind("<Return>", lambda _: self.jump_section())
-        self.section_entry.pack(side='left')
+        # Difficulty
+        ttk.Label(params_frame, text="Difficulty:").grid(row=3, column=0, sticky=tk.W, padx=5, pady=2)
+        self.difficulty_var = tk.StringVar()
+        self.difficulty_entry = ttk.Entry(params_frame, textvariable=self.difficulty_var)
+        self.difficulty_entry.grid(row=3, column=1, sticky=tk.EW, padx=5, pady=2)
+        self.difficulty_entry.bind('<KeyRelease>', self.on_parameter_change)
 
-        self.section_number_label = tk.Label(self.button_frame, text="/ -")
-        self.section_number_label.pack(side='left')
+        # Modifier
+        ttk.Label(params_frame, text="Modifier:").grid(row=4, column=0, sticky=tk.W, padx=5, pady=2)
+        self.modifier_var = tk.StringVar()
+        self.modifier_entry = ttk.Entry(params_frame, textvariable=self.modifier_var)
+        self.modifier_entry.grid(row=4, column=1, sticky=tk.EW, padx=5, pady=2)
+        self.modifier_entry.bind('<KeyRelease>', self.on_parameter_change)
 
-        self.chunk_number_label = tk.Label(self.button_frame, text="/ -")
-        self.chunk_number_label.pack(side='right')
+        params_frame.columnconfigure(1, weight=1)
 
-        self.chunk_entry = tk.Entry(self.button_frame, width=8)
-        self.chunk_entry.bind("<Return>", lambda _: self.jump_chunk())
-        self.chunk_entry.pack(side='right')
+        # Status frame (for verify mode)
+        self.status_frame = ttk.LabelFrame(parent, text="Status (Verify Mode)")
+        self.status_frame.pack(fill=tk.X, padx=5, pady=5)
 
-        self.chunk_label = tk.Label(self.button_frame, text="Chunk:")
-        self.chunk_label.pack(side='right')
+        self.status_var = tk.StringVar(value="pending")
+        for i, status in enumerate(STATUS_OPTIONS):
+            ttk.Radiobutton(self.status_frame, text=status.capitalize(), variable=self.status_var, 
+                           value=status, command=self.on_status_change).grid(row=0, column=i, padx=10, pady=5)
+
+        # Verify mode buttons
+        buttons_frame = ttk.Frame(self.status_frame)
+        buttons_frame.grid(row=1, column=0, columnspan=3, pady=10)
+
+        self.pass_btn = ttk.Button(buttons_frame, text="✓ Pass (Ctrl+P)", command=lambda: self.set_status("pass"))
+        self.pass_btn.pack(side=tk.LEFT, padx=5)
+
+        self.reject_btn = ttk.Button(buttons_frame, text="✗ Reject (Ctrl+R)", command=lambda: self.set_status("reject"))
+        self.reject_btn.pack(side=tk.LEFT, padx=5)
+
+        self.pending_btn = ttk.Button(buttons_frame, text="? Pending (Ctrl+?)", command=lambda: self.set_status("pending"))
+        self.pending_btn.pack(side=tk.LEFT, padx=5)
+
+        # Navigation frame
+        nav_frame = ttk.LabelFrame(parent, text="Navigation")
+        nav_frame.pack(fill=tk.X, padx=5, pady=5)
+
+        ttk.Label(nav_frame, text="Session:").grid(row=0, column=0, padx=5, pady=5)
+        self.session_var = tk.StringVar()
+        self.session_entry = ttk.Entry(nav_frame, textvariable=self.session_var, width=10)
+        self.session_entry.grid(row=0, column=1, padx=5, pady=5)
+        self.session_entry.bind("<Return>", lambda _: self.jump_session())
+
+        self.session_label = ttk.Label(nav_frame, text="/ 0")
+        self.session_label.grid(row=0, column=2, padx=5, pady=5)
+
+        ttk.Button(nav_frame, text="◀ Previous (F3)", command=self.previous_session).grid(row=1, column=0, padx=2, pady=5)
+        ttk.Button(nav_frame, text="▶ Next (F4)", command=self.next_session).grid(row=1, column=1, padx=2, pady=5)
+
+    def setup_right_panel(self, parent: ttk.Frame) -> None:
+        """Setup the right panel with instruction and generation text areas."""
+        # Instruction frame
+        instruction_frame = ttk.LabelFrame(parent, text="Instruction")
+        instruction_frame.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+
+        self.instruction_text = scrolledtext.ScrolledText(instruction_frame, wrap=tk.WORD, font=self.textbox_font, height=10)
+        self.instruction_text.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+        self.instruction_text.bind('<KeyRelease>', self.on_text_change)
+
+        # Generation frame
+        generation_frame = ttk.LabelFrame(parent, text="Generation")
+        generation_frame.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+
+        self.generation_text = scrolledtext.ScrolledText(generation_frame, wrap=tk.WORD, font=self.textbox_font, height=10)
+        self.generation_text.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+        self.generation_text.bind('<KeyRelease>', self.on_text_change)
+
+    def setup_status_bar(self) -> None:
+        """Setup the status bar at the bottom."""
+        self.status_bar = ttk.Frame(self.root)
+        self.status_bar.pack(fill=tk.X, side=tk.BOTTOM)
+
+        self.mode_label = ttk.Label(self.status_bar, text="Mode: Normal")
+        self.mode_label.pack(side=tk.LEFT, padx=10)
+
+        self.file_label = ttk.Label(self.status_bar, text="File: None")
+        self.file_label.pack(side=tk.LEFT, padx=10)
 
     def keybindings(self) -> None:
+        """Setup keyboard shortcuts."""
         self.root.bind("<F1>", lambda _: self.load_files())
-        self.root.bind("<F2>", lambda _: self.save_sections())
-        self.root.bind("<F3>", lambda _: self.previous_section())
-        self.root.bind("<F4>", lambda _: self.next_section())
-        self.root.bind("<F5>", lambda _: self.detect_type())
-        self.root.bind("<F6>", lambda _: self.delete_section())
+        self.root.bind("<F2>", lambda _: self.save_data())
+        self.root.bind("<F3>", lambda _: self.previous_session())
+        self.root.bind("<F4>", lambda _: self.next_session())
+        self.root.bind("<F6>", lambda _: self.delete_session())
         self.root.bind("<F7>", lambda _: self.to_latex())
         self.root.bind("<F8>", lambda _: self.remove_brackets())
-        self.root.bind("<Control-s>", self.keybinding_event(self.save_sections))
+        self.root.bind("<F9>", lambda _: self.toggle_verify_mode())
+        
+        # Ctrl shortcuts
+        self.root.bind("<Control-s>", self.keybinding_event(self.save_data))
         self.root.bind("<Control-o>", self.keybinding_event(self.load_files))
-        self.root.bind("<Control-Alt-Left>", self.keybinding_event(self.previous_section))
-        self.root.bind("<Control-Alt-Right>", self.keybinding_event(self.next_section))
-        self.textbox.bind("<Control-l>", self.keybinding_event(self.to_latex))
-        self.textbox.bind("<Control-Alt-l>", self.keybinding_event(self.format_selected_list))
-        self.textbox.bind("<Control-b>", self.keybinding_event(self.apply_bold))
-        self.textbox.bind("<Control-i>", self.keybinding_event(self.apply_italic))
-        self.textbox.bind("<Control-u>", self.keybinding_event(self.apply_underline))
-        self.textbox.bind("<Control-t>", self.keybinding_event(self.detect_type))
-        self.textbox.bind("<Control-r>", self.keybinding_event(self.replace_selected_text))
-        self.textbox.bind("<Control-Alt-r>", self.keybinding_event(self.replace_selected_text, True))
-        self.textbox.bind("<Control-plus>", self.keybinding_event(self.scale_font_size, 1.2))
-        self.textbox.bind("<Control-minus>", self.keybinding_event(self.scale_font_size, 0.8))
+        self.root.bind("<Control-Alt-Up>", self.keybinding_event(self.previous_session))
+        self.root.bind("<Control-Alt-Down>", self.keybinding_event(self.next_session))
+        
+        # Verify mode shortcuts
+        self.root.bind("<Control-p>", self.keybinding_event(self.set_status, "pass"))
+        self.root.bind("<Control-r>", self.keybinding_event(self.set_status, "reject"))
+        self.root.bind("<Control-question>", self.keybinding_event(self.set_status, "pending"))
+        
+        # Font sizing
+        self.root.bind("<Control-plus>", self.keybinding_event(self.scale_font_size, 1.2))
+        self.root.bind("<Control-minus>", self.keybinding_event(self.scale_font_size, 0.8))
 
     @staticmethod
     def keybinding_event(function, *args, **kwargs):
@@ -182,568 +297,454 @@ class TextEditor:
             return "break"
         return dummy_function
 
-    def apply_color_scheme(self):
-        scheme = self.color_schemes[self.color_scheme]
-        self.root.config(bg=scheme["bg"])
-        self.textbox.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
-                            relief=scheme["relief"], insertbackground=scheme["caret"])
-        self.button_frame.config(bg=scheme["bg"])
-        for widget in self.button_frame.winfo_children():
-            widget.config(bg=scheme["button_bg"], fg=scheme["button_fg"])
-        self.section_entry.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
-                                  relief=scheme["relief"], insertbackground=scheme["caret"])
-        self.chunk_entry.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
-                                relief=scheme["relief"], insertbackground=scheme["caret"])
-
-    def toggle_color_scheme(self):
-        self.color_scheme = "dark_jb" if self.color_scheme == "default" else "default"
-        self.apply_color_scheme()
-
-    def load_files(self, ask_paths=True, warn_user=True) -> None:
-        """Load a text file to read from and a text file to write to.
+    # Data Loading and Saving Methods
+    
+    def load_files(self, ask_paths: bool = True, warn_user: bool = True) -> None:
+        """Load a data file (CSV or TXT format) for annotation.
 
         Args:
-            ask_paths: If True, ask the user for the paths. If False, use class attributes.
-            warning: If True, show a warning dialog before loading a new file.
-
-        Returns:
-
+            ask_paths: If True, ask the user for file paths. If False, use class attributes.
+            warn_user: If True, show a warning dialog before loading new files.
         """
-        if warn_user:
-            if self.chunks and not messagebox.askokcancel("Warning", "Loading new files will overwrite any unsaved progress. "
-                                                                     "Do you want to continue?"):
+        if warn_user and self.sessions:
+            if not messagebox.askokcancel("Warning", "Loading new files will overwrite any unsaved progress. "
+                                                   "Do you want to continue?"):
                 return
 
         if ask_paths:
-            self.filepath_in = filedialog.askopenfilename(title="Select a Text File to read from",
-                                                          filetypes=(("Text Files", "*.txt"),))
+            self.filepath_in = filedialog.askopenfilename(
+                title="Select a data file to read from",
+                filetypes=(("CSV Files", "*.csv"), ("Text Files", "*.txt"), ("All Files", "*.*"))
+            )
             if not self.filepath_in:
                 return
 
-            self.filepath_out = filedialog.askopenfilename(title="Select a Text File to write to",
-                                                           filetypes=(("Text Files", "*.txt"),))
+        try:
+            # Determine file type and load accordingly
+            file_path = Path(self.filepath_in)
+            if file_path.suffix.lower() == '.csv':
+                self._load_csv_file()
+            elif file_path.suffix.lower() == '.txt':
+                self._load_txt_file()
+            else:
+                # Try to detect format by content
+                if self._detect_csv_format():
+                    self._load_csv_file()
+                else:
+                    self._load_txt_file()
+
+            if self.sessions:
+                self.current_session_idx = 0
+                self._show_session()
+                self._update_status_labels()
+                self.file_label.config(text=f"File: {Path(self.filepath_in).name}")
+                messagebox.showinfo("Success", f"Loaded {len(self.sessions)} sessions from {Path(self.filepath_in).name}")
+            else:
+                messagebox.showwarning("No Data", "No valid sessions found in the file.")
+                
+        except Exception as e:
+            messagebox.showerror("Error", f"Failed to load file: {str(e)}")
+
+    def _detect_csv_format(self) -> bool:
+        """Detect if file is in CSV format by examining its content."""
+        try:
+            with open(self.filepath_in, 'r', encoding='utf-8') as f:
+                first_line = f.readline().strip()
+                # Check if first line contains expected CSV headers
+                expected_headers = set(CSV_COLUMNS)
+                line_headers = set([h.strip().lower() for h in first_line.split(',')])
+                return len(expected_headers.intersection(line_headers)) >= 4  # At least 4 matching headers
+        except Exception:
+            return False
+
+    def _load_csv_file(self) -> None:
+        """Load data from CSV file using built-in csv module."""
+        try:
+            data = pd.read_csv(self.filepath_in)
+                
+                    
+            data['status'] = ["pending"] * len(data) if self.verify_mode else ["pass"] * len(data)
+
+            # Replace existing sessions with the CSV rows (each row -> dict)
+            self.sessions = data.to_dict(orient='records')
+                
+        except Exception as e:
+            raise Exception(f"Error loading CSV file: {str(e)}")
+
+    def _load_txt_file(self) -> None:
+        """Load and parse data from TXT file format."""
+        try:
+            with open(self.filepath_in, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            # Regular expression to match headers
+            header_pattern = r"\n(?=\(.*?\) \(.*?\)|\(.*?\) T D \d)"
+
+            questions = re.split(header_pattern, content)
+
+            self.sessions = []
+
+            for question in questions:
+
+                header, body = question.strip().split("\n", 1)
+
+                # Create a pattern for splitting
+                pattern = r"""
+                (\([^)]*\)|S)\s       # Capture group 1: subject
+                (\([^)]*\)|T)\s       # Capture group 2: exercise_type  
+                (D)\s                 # Capture group 3: "D" (now captured!)
+                (\d+|G)\s             # Capture group 4: grade_level
+                (\([^)]*\)|M)         # Capture group 5: modifier
+                """
+                match =re.match(pattern, header, re.VERBOSE)
+
+                params = [
+                    p.replace("(", "").replace(")", "") if "(" in p else p for p in match.groups()
+                ]
+
+                self.sessions.append(
+                    {
+                        "subject": params[0], 
+                        "exercise_type": params[1], 
+                        "difficulty": params[2],  # Now this is "D"
+                        "grade_level": params[3], 
+                        "modifier": params[4],
+                        "generation": body.strip()
+                    }
+                )
+                        
+        except Exception as e:
+            raise Exception(f"Error loading TXT file: {str(e)}")
+
+
+    def save_data(self) -> None:
+        """Save the current sessions to a CSV file."""
+        if not self.sessions:
+            messagebox.showwarning("No Data", "No sessions to save.")
+            return
+
+        # Update current session before saving
+        self._update_current_session()
+
+        # Ask for output file if not provided
+        if not self.filepath_out or not messagebox.askyesno("Save Location", 
+            f"Save to {self.filepath_out}?\nClick 'No' to choose a different location."):
+            
+            self.filepath_out = filedialog.asksaveasfilename(
+                title="Save annotated data as CSV",
+                defaultextension=".csv",
+                filetypes=(("CSV Files", "*.csv"), ("All Files", "*.*")),
+                initialfile=f"{Path(self.filepath_in).stem}_annotated.csv" if self.filepath_in else "annotated_data.csv"
+            )
             if not self.filepath_out:
                 return
 
-        with open(self.filepath_in, 'r', encoding="utf8") as file:
-            self.chunks = []
-            text_chunk = ""
-            count = 0
-            for line in file:
-                text_chunk += line
-                count += 1
-                if count == self.chunk_size:
-                    self.chunks.append(text_chunk)
-                    text_chunk = ""
-                    count = 0
+        try:
+            # Save to csv file
+            new_data = pd.DataFrame(self.sessions)
+            new_data.to_csv(self.filepath_out, index=False)
+            
+            messagebox.showinfo("Success", f"Saved {len(self.sessions)} sessions to {Path(self.filepath_out).name}")
+            
+        except Exception as e:
+            messagebox.showerror("Error", f"Failed to save file: {str(e)}")
 
-        self.current_chunk = 0
-        self.current_section = 0
-        self._load_sections()
-        self._show_section()
-        self.chunk_number_label.config(text=f"/ {len(self.chunks)}")
-
-    def save_sections(self) -> None:
-        """
-        Saves loaded sections to file
-
-        Returns: None
-        """
-
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to save. Load a file first.")
-            return
-
-        self._update_section()
-
-        with open(self.filepath_out, 'w', encoding="utf8") as file:
-            for section in self.sections[:self.last_viewed_section+1]:
-                while section and section[-1] == "\n":
-                    section = section[:-1]
-                file.write(section + "\n\n\n")
-
-        messagebox.showinfo("Saved Sections", f"Saved {self.last_viewed_section + 1} sections in chunks "
-                                              f"{self.start_chunk} to {self.current_chunk}")
-
-    def next_section(self) -> None:
-        """Displays the next section in the textbox
-
-        Returns: None
-        """
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
-            return
-
-        if self.current_section + 1 == len(self.sections):
-            self._load_sections()
-
-        if self.current_section + 1 == len(self.sections):
-            messagebox.showinfo("End of File", "No more sections to display.")
-
-        # Update the current subject if we have moved to a new one
-        if self.current_subject not in self.sections[self.current_section]:
-            self.current_subject = self.subs.search(self.sections[self.current_section]).group(0).replace("(", "").replace(")", "")
-
-        self._update_section()
-        self.current_section += 1
-        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
-        self._show_section()
-
-    def previous_section(self) -> None  :
-        """
-        Displays the previous section in the textbox
-
-        Returns: None
-        """
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
-            return
-
-        if self.current_section == 0:
-            messagebox.showinfo("No previous section", "The current section is the first loaded section. "
-                                                       "To go back further, save and jump to a previous chunk.")
-            return
-
-        self._update_section()
-        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
-        self.current_section -= 1
-        self._show_section()
+    # UI Event Handlers
     
-    def delete_section(self) -> None:
-        """ Delete the current section.
-        """
-        # Failsafe to make sure a file is loaded
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
-            return
-        # Update section parameters
-        self._update_section()
-        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
-        # Delete the current section
-        self.sections.pop(self.current_section)
-        # If the current section is the last section, move back one section instead of forward
-        if self.current_section == len(self.sections):
-            self.current_section -= 1
-        self._show_section()
+    def on_parameter_change(self, event=None) -> None:
+        """Handle parameter field changes."""
+        if self.sessions and 0 <= self.current_session_idx < len(self.sessions):
+            self._update_current_session()
 
-    def jump_section(self) -> None:
-        """ Jump to a specific section.
-        """
-        # Failsafe to make sure a file is loaded
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+    def on_text_change(self, event=None) -> None:
+        """Handle instruction/generation text changes."""
+        if self.sessions and 0 <= self.current_session_idx < len(self.sessions):
+            self._update_current_session()
+
+    def on_status_change(self, event=None) -> None:
+        """Handle status change in verify mode."""
+        if self.sessions and 0 <= self.current_session_idx < len(self.sessions):
+            self._update_current_session()
+
+    # Session Navigation Methods
+
+    def next_session(self) -> None:
+        """Navigate to the next session."""
+        if not self.sessions:
+            messagebox.showwarning("No Data", "No sessions loaded. Load a file first.")
             return
-        # Check input
+
+        if self.current_session_idx < len(self.sessions) - 1:
+            self._update_current_session()
+            self.current_session_idx += 1
+            self._show_session()
+        else:
+            messagebox.showinfo("End of Data", "This is the last session.")
+
+    def previous_session(self) -> None:
+        """Navigate to the previous session."""
+        if not self.sessions:
+            messagebox.showwarning("No Data", "No sessions loaded. Load a file first.")
+            return
+
+        if self.current_session_idx > 0:
+            self._update_current_session()
+            self.current_session_idx -= 1
+            self._show_session()
+        else:
+            messagebox.showinfo("Beginning of Data", "This is the first session.")
+
+    def jump_session(self) -> None:
+        """Jump to a specific session number."""
+        if not self.sessions:
+            messagebox.showwarning("No Data", "No sessions loaded. Load a file first.")
+            return
+
         try:
-            section_num = int(self.section_entry.get())
-        except ValueError:
-            messagebox.showwarning("Invalid Input", "Please enter a valid integer for section number.")
-            return
-        if section_num < 1 or section_num > len(self.sections):
-            messagebox.showwarning("Invalid Section", "Section number out of range.")
-            return
-        # Update section parameters
-        self._update_section()
-        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
-        # Jump to the desired section
-        self.current_section = section_num - 1
-        self._show_section()
-
-    def next_subject(self) -> None:
-        """ Move to the next subject.
-        """
-        # Failsafe to make sure a file is loaded
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
-            return
-        # Update section parameters
-        self._update_section()
-        self.last_viewed_section = max(self.last_viewed_section, self.current_section)
-        # Find the next subject
-        for j in range(self.current_chunk, len(self.chunks)):
-            self.current_chunk = j
-            self._load_sections()
-            if self._find_subject():
-                if all((c != j and s != self.current_section) for s, c in self.subject_idx):
-                    self.subject_idx.append((self.current_section, j))
-                self.current_sub_idx += 1
-                break
-        self._show_section()
-
-    def jump_chunk(self) -> None:
-        """
-        Loads sections from a desired chunk
-
-        Returns: None
-        """
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
-            return
-
-        # Show warning dialog before loading a specific chunk
-        if messagebox.askokcancel("Warning", "Loading a specific chunk will overwrite any unsaved progress. "
-                                             "Do you want to continue?"):
-
-            # check input
-            try:
-                chunk_num = int(self.chunk_entry.get())
-            except ValueError:
-                messagebox.showwarning("Invalid Input", "Please enter a valid integer for chunk number.")
-                return
-
-            if chunk_num >= len(self.chunks):
-                messagebox.showwarning("Invalid Chunk", "Chunk number out of range.")
-                return
-
-            self.current_chunk = chunk_num
-            self.current_section = 0
-            self.last_viewed_section = 0
-
-            self.sections = []
-            searching = True
-            start_chunk = self.current_chunk
-            while searching:
-                searching = False
-                start_chunk = self.current_chunk
-                try:
-                    self._load_sections()  # Load sections from the specific chunk
-                except ValueError:
-                    searching = True
-                    self.current_chunk += 1
-                    if chunk_num >= len(self.chunks):
-                        messagebox.showwarning("Invalid Chunk", "Chunk number out of range.")
-                        return
-
-            self.start_chunk = start_chunk
-            self._show_section()
-
-    def detect_type(self) -> None:
-        """
-        If no type parameter is present, remove the first line and set it as the type parameter
-
-        Returns: None
-        """
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
-            return
-
-        self._update_section()
-        lines = self.sections[self.current_section].split("\n")
-        result = re.search(r" T ", lines[0])
-
-        # If type is already present, move on
-        if result is None:
-            return
-
-        # If type is not present, use the first non empty line to determine the type
-        line_index = 1
-        while line_index < len(lines):
-            if question_type := lines[line_index].strip():
-                break
+            session_num = int(self.session_var.get())
+            if 1 <= session_num <= len(self.sessions):
+                self._update_current_session()
+                self.current_session_idx = session_num - 1
+                self._show_session()
             else:
-                line_index += 1
+                messagebox.showwarning("Invalid Session", f"Session number must be between 1 and {len(self.sessions)}.")
+        except ValueError:
+            messagebox.showwarning("Invalid Input", "Please enter a valid session number.")
 
-        if line_index == len(lines):
-            messagebox.showinfo("No type detected", "Sections seems to be empty, so no type could be extracted")
+    def delete_session(self) -> None:
+        """Delete the current session."""
+        if not self.sessions:
+            messagebox.showwarning("No Data", "No sessions loaded. Load a file first.")
             return
 
-        if question_type[0] == "[" or question_type[0] == "(" or question_type[0] == "{":
-            question_type = question_type[1:-1]
+        if messagebox.askyesno("Confirm Delete", "Are you sure you want to delete this session?"):
+            self.sessions.pop(self.current_session_idx)
+            
+            if not self.sessions:
+                self._clear_session_display()
+                messagebox.showinfo("All Deleted", "All sessions have been deleted.")
+            else:
+                if self.current_session_idx >= len(self.sessions):
+                    self.current_session_idx = len(self.sessions) - 1
+                self._show_session()
 
-        if len(question_type) > 40:
-            question_type = question_type[:40]
+    # Verify Mode Methods
 
-        # Replace the type in the header
-        lines[0] = f"{lines[0][:result.span()[0]]} ({question_type}) {lines[0][result.span()[1]:]}"
+    def toggle_verify_mode(self) -> None:
+        """Toggle between normal and verify mode."""
+        self.verify_mode = not self.verify_mode
+        mode_text = "Verify" if self.verify_mode else "Normal"
+        self.mode_label.config(text=f"Mode: {mode_text}")
+        
+        # Update status for all sessions if switching to/from verify mode
+        for session in self.sessions:
+            if not self.verify_mode and session['status'] == 'pending':
+                session['status'] = 'pass'
+            elif self.verify_mode and session['status'] == 'pass':
+                session['status'] = 'pending'
+        
+        self._show_session()
+        
+        messagebox.showinfo("Mode Changed", f"Switched to {mode_text} mode")
 
-        # Remove the first line from the section
-        del lines[line_index]
+    def set_status(self, status: str) -> None:
+        """Set the status of the current session."""
+        if not self.sessions:
+            messagebox.showwarning("No Data", "No sessions loaded.")
+            return
+            
+        if status in STATUS_OPTIONS:
+            self.status_var.set(status)
+            self._update_current_session()
+            
+            # Auto-advance to next session in verify mode
+            if self.verify_mode and self.current_session_idx < len(self.sessions) - 1:
+                self.current_session_idx += 1
+                self._show_session()
 
-        self.sections[self.current_section] = "\n".join(lines)
-        self._show_section()
+    # Display Methods
 
-    def to_latex(self) -> None:
-        """Detects various patterns and formats them according to latex
-
-        Returns: None
-        """
-
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
+    def _show_session(self) -> None:
+        """Load the current session data into the UI."""
+        if not self.sessions or self.current_session_idx >= len(self.sessions):
+            self._clear_session_display()
             return
 
-        self._update_section()
-        text = self.sections[self.current_section]
-        header = text.split("\n")[0]
-        args = re.findall(r'\(.*?\)|\w+', header)
-        if len(args) != 5:
-            print(f"Expected five arguments, got \"{args}\" instead")
-            args = None
+        session = self.sessions[self.current_session_idx]
+        
+        # Update parameter fields
+        self.subject_var.set(session.get('subject', ''))
+        self.exercise_type_var.set(session.get('exercise_type', ''))
+        self.grade_level_var.set(session.get('grade_level', ''))
+        self.difficulty_var.set(session.get('difficulty', ''))
+        self.modifier_var.set(session.get('modifier', ''))
+        
+        # Update text areas
+        self.instruction_text.delete('1.0', tk.END)
+        self.instruction_text.insert('1.0', session.get('instruction', ''))
+        
+        self.generation_text.delete('1.0', tk.END)
+        self.generation_text.insert('1.0', session.get('generation', ''))
+        
+        # Update status
+        self.status_var.set(session.get('status', 'pending'))
+        
+        # Update navigation
+        self._update_status_labels()
+
+    def _clear_session_display(self) -> None:
+        """Clear all session data from the UI."""
+        self.subject_var.set('')
+        self.exercise_type_var.set('')
+        self.grade_level_var.set('')
+        self.difficulty_var.set('')
+        self.modifier_var.set('')
+        
+        self.instruction_text.delete('1.0', tk.END)
+        self.generation_text.delete('1.0', tk.END)
+        
+        self.status_var.set('pending')
+        self._update_status_labels()
+
+    def _update_current_session(self) -> None:
+        """Update the current session with data from UI fields."""
+        if not self.sessions or self.current_session_idx >= len(self.sessions):
+            return
+
+        session = self.sessions[self.current_session_idx]
+        
+        # Update from parameter fields
+        session['subject'] = self.subject_var.get().strip()
+        session['exercise_type'] = self.exercise_type_var.get().strip()
+        session['grade_level'] = self.grade_level_var.get().strip()
+        session['difficulty'] = self.difficulty_var.get().strip()
+        session['modifier'] = self.modifier_var.get().strip()
+        
+        # Update from text areas
+        session['instruction'] = self.instruction_text.get('1.0', tk.END).strip()
+        session['generation'] = self.generation_text.get('1.0', tk.END).strip()
+        
+        # Update status
+        session['status'] = self.status_var.get()
+
+    def _update_status_labels(self) -> None:
+        """Update the status labels in the UI."""
+        if self.sessions:
+            self.session_var.set(str(self.current_session_idx + 1))
+            self.session_label.config(text=f"/ {len(self.sessions)}")
         else:
-            args = {k: v.strip("()") for k, v in zip(["subject", "type", "difficulty", "grade", "modifier"], args)}
-            args["modifier"] = args["modifier"].split(", ")
+            self.session_var.set("0")
+            self.session_label.config(text="/ 0")
 
-        body = text[len(header):]
-        body = re.sub(r'^\s*$', '', body, flags=re.MULTILINE)
+    # Utility Methods (keeping some original functionality)
 
-        args, body = self._list_to_latex(args, body)
-        args, body = self._sections_to_latex(args, body)
-        args, body = self._text_format_to_latex(args, body)
+    def apply_color_scheme(self) -> None:
+        """Apply the current color scheme to UI elements."""
+        scheme = self.color_schemes[self.color_scheme]
+        self.root.config(bg=scheme["bg"])
+        
+        # Apply to text areas
+        if hasattr(self, 'instruction_text'):
+            self.instruction_text.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
+                                       insertbackground=scheme["caret"])
+        if hasattr(self, 'generation_text'):
+            self.generation_text.config(bg=scheme["textbox_bg"], fg=scheme["textbox_fg"],
+                                      insertbackground=scheme["caret"])
 
-        if args:
-            new_header = ""
-            for v in args.values():
-                if isinstance(v, list):
-                    v = ", ".join(v)
-                if isinstance(v, str):
-                    if len(v) > 1:
-                        new_header += f"({v}) "
-                    else:
-                        new_header += f"{v} "
-            new_header += "\n"
-            header = new_header
-
-        self.sections[self.current_section] = header + body
-        self._show_section()
-
-    def remove_brackets(self) -> None:
-        """Removes all square and wavy brackets from the current section
-
-        Returns: None
-        """
-        if not self.chunks:
-            messagebox.showwarning("No Sections", "No sections to display. Load a file first.")
-            return
-
-        self._update_section()
-        text = self.sections[self.current_section]
-        header = text.split("\n")[0]
-        body = text[len(header):]
-        body = re.sub(r"[(\[\]{}]", "", body)
-        self.sections[self.current_section] = header + body
-        self._show_section()
-
-    def replace_selected_text(self, repeat=False) -> None:
-        """Replace all occurrences of the currently selected text with a new text."""
-        if repeat and self.last_replace:
-            selected_text, new_text = self.last_replace
-        else:
-            try:
-                selected_text = self.textbox.get(tk.SEL_FIRST, tk.SEL_LAST)
-            except (tk.TclError, UnboundLocalError):
-                selected_text = tk.simpledialog.askstring("Modify Text", f"Replace all instances of:")
-                if selected_text is None:
-                    return
-
-            new_text = tk.simpledialog.askstring("Replace Text", f"Replace '{selected_text}' with:")
-            self.last_replace = (selected_text, new_text)
-
-        self.textbox.tag_remove("highlight", "1.0", tk.END)
-        start_pos = "1.0"
-        while True:
-            start_pos = self.textbox.search(selected_text, start_pos, stopindex=tk.END)
-            if not start_pos:
-                break
-            end_pos = f"{start_pos}+{len(selected_text)}c"
-            self.textbox.delete(start_pos, end_pos)
-            self.textbox.insert(start_pos, new_text)
-            start_pos = f"{start_pos}+{len(new_text)}c"
-
-    def format_selected_list(self) -> None:
-        """Format the selected text as a LaTeX list."""
-        try:
-            selected_text = self.textbox.get(tk.SEL_FIRST, tk.SEL_LAST)
-        except tk.TclError:
-            messagebox.showwarning("No Selection", "Please select text to format.")
-            return
-
-        self.textbox.delete(tk.SEL_FIRST, tk.SEL_LAST)
-        lines = selected_text.split("\n")
-        if all(re.match(r"(^\w|\d+)[.)]? ", line) for line in lines):
-            lines = [re.sub(r"(^\w|\d+)[.)]? ", "", line) for line in lines]
-        items = "\\item " + "\n\\item ".join(lines)
-        self.textbox.insert(tk.INSERT, f"\\begin{{enumerate}}\n{items}\n\\end{{enumerate}}")
+    def toggle_color_scheme(self) -> None:
+        """Toggle between color schemes."""
+        self.color_scheme = "dark_jb" if self.color_scheme == "default" else "default"
+        self.apply_color_scheme()
 
     def scale_font_size(self, factor: float) -> None:
+        """Scale font size by the given factor."""
         self.textbox_font.config(size=int(self.textbox_font["size"] * factor))
 
-    def _load_sections(self) -> None:
-        """
-        Loads all sections from the current chunk and move to next chuck.
-
-        Sections are detected by subject names (SUBJECTS). The last section
-        might contain contents of next chuck.
-
-        Returns: None
-        """
-        # Find the start of the first section, there should always be one
-        result = self.subs.search(self.chunks[self.current_chunk])
-        if result is None:
-            raise ValueError(f"Chunk {self.current_chunk} has no beginning question")
-
-        section_start = result.span()[0]
-        # Find the end of the first section
-        result = self.subs.search(self.chunks[self.current_chunk],
-                                  pos=result.span()[1])
-
-        # while there is a beginning of a new section, add old section and repeat
-        while result is not None:
-            section_end = result.span()[0]
-            self.sections.append(self.chunks[self.current_chunk][section_start:section_end])
-            section_start = section_end
-            result = self.subs.search(self.chunks[self.current_chunk],
-                                      pos=result.span()[1])
-
-        # look at the next chunk to get the last section
-        text = self.chunks[self.current_chunk][section_start:]
-        if self.current_chunk + 1 < len(self.chunks):
-            self.current_chunk += 1
-            result = self.subs.search(self.chunks[self.current_chunk])
-            # In case there is no new section in the next chunk, continue to next chunk
-            while result is None and self.current_chunk < len(self.chunks):
-                text += self.chunks[self.current_chunk]
-                self.current_chunk += 1
-                result = self.subs.search(self.chunks[self.current_chunk])
-            # If there is a new section in the next chunk, add the text up to that point
-            if result is not None:
-                section_end = result.span()[0]
-                text += self.chunks[self.current_chunk][:section_end]
-        self.sections.append(text)
-
-    def _show_section(self) -> None:
-        """
-        Load current section into textbox
-
-        Returns:
-        """
-        if self.current_section < len(self.sections):
-            self.textbox.delete(1.0, tk.END)
-            self.textbox.insert(tk.END, self.sections[self.current_section])
-            self._update_section_label()
-            self._update_chunk_label()
-
-    def _update_section_label(self) -> None:
-        """
-        Set the section label to current section
-
-        Returns: None
-        """
-        self.section_entry.delete(0, tk.END)
-        self.section_entry.insert(1, str(self.current_section + 1))
-        self.section_number_label.config(text=f"/ {len(self.sections)}")
-
-    def _update_chunk_label(self) -> None:
-        """
-        Set the chunk label to current chunk
-
-        Returns: None
-        """
-        self.chunk_entry.delete(0, tk.END)
-        self.chunk_entry.insert(1, str(self.current_chunk - 1))
-
-    def _update_section(self) -> None:
-        """
-        Replace local contents of the current section with contents of the textbox
-
-        Returns: None
-        """
-        self.sections[self.current_section] = self.textbox.get(1.0, tk.END).strip()
-
-    def _find_subject(self) -> bool:
-        """ Find the next subject in the sections list.
-
-        Returns:
-            bool: True if a new subject was found in this section, False otherwise.
-        """
-        for i in range(self.current_section + 1, len(self.sections)):
-            subj = self.subs.search(self.sections[i]).group(0).replace("(", "").replace(")", "")
-            if  subj != self.current_subject and "(" + subj + ")" in self.sections[i] and " D " in self.sections[i]:
-                self.current_section = i
-                self.current_subject = subj
-                return True
-        return False
-
-    def apply_bold(self) -> None:
-        """Apply LaTeX bold formatting to the selected text."""
-        self._apply_latex_format("\\textbf{", "}")
-
-    def apply_italic(self) -> None:
-        """Apply LaTeX italic formatting to the selected text."""
-        self._apply_latex_format("\\textit{", "}")
-
-    def apply_underline(self) -> None:
-        """Apply LaTeX underline formatting to the selected text."""
-        self._apply_latex_format("\\underline{", "}")
-
-    def _apply_latex_format(self, prefix: str, suffix: str) -> None:
-        """Apply a given LaTeX format (prefix and suffix) to the selected text."""
+    def to_latex(self) -> None:
+        """Format selected text or current instruction as LaTeX."""
+        # Try to get selected text from instruction area first
         try:
-            selected_text = self.textbox.get(tk.SEL_FIRST, tk.SEL_LAST)
-            self.textbox.delete(tk.SEL_FIRST, tk.SEL_LAST)
-            self.textbox.insert(tk.INSERT, f"{prefix}{selected_text}{suffix}")
+            selected = self.instruction_text.get(tk.SEL_FIRST, tk.SEL_LAST)
+            if selected:
+                formatted = self._format_text_to_latex(selected)
+                self.instruction_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
+                self.instruction_text.insert(tk.INSERT, formatted)
+                return
         except tk.TclError:
-            messagebox.showwarning("No Selection", "Please select text to format.")
+            pass
+        
+        # If no selection, try generation area
+        try:
+            selected = self.generation_text.get(tk.SEL_FIRST, tk.SEL_LAST)
+            if selected:
+                formatted = self._format_text_to_latex(selected)
+                self.generation_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
+                self.generation_text.insert(tk.INSERT, formatted)
+                return
+        except tk.TclError:
+            pass
+        
+        messagebox.showwarning("No Selection", "Please select text to format as LaTeX.")
 
-    def _list_to_latex(self, args: dict, body: str) -> tuple[dict, str]:
-        # Pattern to detect numbered lists (e.g., 1. Text 2. Text ...)
+    def _format_text_to_latex(self, text: str) -> str:
+        """Format text with LaTeX patterns."""
+        # Pattern for numbered lists (e.g., 1. Text 2. Text ...)
         list_pattern = r'(?:\d+\.?\s)([^\d]+)'
-
-        # Function to convert the detected lists to a single LaTeX list
-        def convert(match):
-            items = re.findall(list_pattern, match.group(), re.DOTALL)
+        
+        # Check if it's a list
+        if re.search(r'\d+\.?\s', text):
+            items = re.findall(list_pattern, text, re.DOTALL)
             latex_list = "\\begin{enumerate}\n"
             for item in items:
                 latex_list += f"\\item {item.strip()}\n"
             latex_list += "\\end{enumerate}"
             return latex_list
+        
+        # Format other patterns
+        # Bold text with double stars (**bold**)
+        text = re.sub(r'\*\*(\w+)\*\*', r'\\textbf{\1}', text)
+        
+        # Italic text with single stars (*italic*)
+        text = re.sub(r'\*(\w+)\*', r'\\emph{\1}', text)
+        
+        # Underlined text with underscores (_underlined_)
+        text = re.sub(r'_(\w+)_', r'\\underline{\1}', text)
+        
+        return text
 
-        # Replace all detected lists with their LaTeX versions
-        new_body = re.sub(r'((?:\d+\.?\s+.+?)(?=(?:\d+\.?\s+)|\n\n|$))+', convert, body, flags=re.DOTALL)
-
-        return args, new_body
-
-    def _sections_to_latex(self, args: dict, body: str) -> tuple[dict, str]:
-        if "\nAnswers" in body:
-            body = re.sub(r'(?<=\n)Answers', r"\\section{Answers}", body)
-            if args and "With Answers" not in args["modifier"] and "With Answer" not in args["modifier"]:
-                args["modifier"].append("With Answer")
-
-        if "\nSolution" in body:
-            body = re.sub(r'(?<=\n)Answers', r"\\section{Answers}", body)
-            if args and "With Answers" not in args["modifier"] and "With Answer" not in args["modifier"]:
-                args["modifier"].append("With Answer")
-
-        if "\nHints" in body:
-            body = re.sub(r'(?<=\n)Hints', r"\\section{Hints}", body)
-            if args and "With Hints" not in args["modifier"] and "With Hint" not in args["modifier"]:
-                args["modifier"].append("With Hint")
-        return args, body
-
-    def _text_format_to_latex(self, args: dict, body: str) -> tuple[dict, str]:
-        # Pattern for bold text with double stars (**bold**)
-        bold_pattern = r"(?<=\s)\*\*(\w+)\*\*(?=\s)"
-        # Replace bold matches with \textbf{}
-        text = re.sub(bold_pattern, r"\\textbf{\1}", body)
-
-        # Pattern for italic text with single stars (*italic*)
-        italic_pattern = r"(?<=\s)\*(\w+)\*(?=\s)"
-        # Replace italic matches with \emph{}
-        text = re.sub(italic_pattern, r"\\emph{\1}", text)
-
-        # Pattern for underlined text with underscores (_underlined_)
-        underline_pattern = r"(?<=\s)_(\w+)_(?=\s)"
-        # Replace underlined matches with \underline{}
-        text = re.sub(underline_pattern, r"\\underline{\1}", text)
-
-        return args, text
+    def remove_brackets(self) -> None:
+        """Remove brackets from selected text or current instruction."""
+        # Try instruction area first
+        try:
+            selected = self.instruction_text.get(tk.SEL_FIRST, tk.SEL_LAST)
+            if selected:
+                cleaned = re.sub(r'[[\]{}()]', '', selected)
+                self.instruction_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
+                self.instruction_text.insert(tk.INSERT, cleaned)
+                return
+        except tk.TclError:
+            pass
+        
+        # Try generation area
+        try:
+            selected = self.generation_text.get(tk.SEL_FIRST, tk.SEL_LAST)
+            if selected:
+                cleaned = re.sub(r'[[\]{}()]', '', selected)
+                self.generation_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
+                self.generation_text.insert(tk.INSERT, cleaned)
+                return
+        except tk.TclError:
+            pass
+        
+        messagebox.showwarning("No Selection", "Please select text to remove brackets from.")
 
 
 if __name__ == "__main__":
     root = tk.Tk()
     if len(sys.argv) == 1:
-        app = TextEditor(root)
+        app = QuestionAnnotator(root)
     elif len(sys.argv) == 3:
-        app = TextEditor(root, sys.argv[1], sys.argv[2])
+        app = QuestionAnnotator(root, sys.argv[1], sys.argv[2])
     else:
         raise ValueError("Invalid number of arguments. Please provide either no arguments or two arguments (filepath_in, filepath_out).")
     root.mainloop()
