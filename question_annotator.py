@@ -110,7 +110,7 @@ class QuestionAnnotator:
 
         # Right panel for instruction and generation
         right_panel = ttk.Frame(main_container)
-        main_container.add(right_panel, weight=2)
+        main_container.add(right_panel, weight=9)
 
         # Create toolbar menu
         self.create_toolbar_menu()
@@ -130,8 +130,8 @@ class QuestionAnnotator:
         self.root.config(menu=self.toolbar)
 
         file_menu = Menu(self.toolbar, tearoff=0)
-        file_menu.add_command(label="Load File (F1)", command=self.load_files)
-        file_menu.add_command(label="Save Data (F2)", command=self.save_data)
+        file_menu.add_command(label="Load File (Ctrl+F)", command=self.load_files)
+        file_menu.add_command(label="Save Data (Ctrl+S)", command=self.save_data)
         file_menu.add_separator()
         file_menu.add_command(label="Toggle Verify Mode (F9)", command=self.toggle_verify_mode)
         self.toolbar.add_cascade(label="File", menu=file_menu)
@@ -149,8 +149,8 @@ class QuestionAnnotator:
         self.toolbar.add_cascade(label="View", menu=view_menu)
 
         navigate_menu = Menu(self.toolbar, tearoff=0)
-        navigate_menu.add_command(label="Previous Session (F3)", command=self.previous_session)
-        navigate_menu.add_command(label="Next Session (F4)", command=self.next_session)
+        navigate_menu.add_command(label="Previous Session (Ctrl+Left)", command=self.previous_session)
+        navigate_menu.add_command(label="Next Session (Ctrl+Right)", command=self.next_session)
         navigate_menu.add_command(label="Jump to Session...", command=self.jump_session)
         self.toolbar.add_cascade(label="Navigate", menu=navigate_menu)
 
@@ -210,12 +210,12 @@ class QuestionAnnotator:
         buttons_frame = ttk.Frame(self.status_frame)
         buttons_frame.grid(row=1, column=0, columnspan=3, pady=10)
 
-        self.pass_btn = ttk.Button(buttons_frame, text="✓ Pass (Ctrl+P)", command=lambda: self.set_status("pass"))
+        self.pass_btn = ttk.Button(buttons_frame, text="✓ Pass (Ctrl+Enter)", command=lambda: self.set_status("pass"))
         self.pass_btn.pack(side=tk.LEFT, padx=5)
-
-        self.reject_btn = ttk.Button(buttons_frame, text="✗ Reject (Ctrl+R)", command=lambda: self.set_status("reject"))
+        
+        self.reject_btn = ttk.Button(buttons_frame, text="✗ Reject (Ctrl+Backspace)", command=lambda: self.set_status("reject"))
         self.reject_btn.pack(side=tk.LEFT, padx=5)
-
+        
         self.pending_btn = ttk.Button(buttons_frame, text="? Pending (Ctrl+?)", command=lambda: self.set_status("pending"))
         self.pending_btn.pack(side=tk.LEFT, padx=5)
 
@@ -232,24 +232,33 @@ class QuestionAnnotator:
         self.session_label = ttk.Label(nav_frame, text="/ 0")
         self.session_label.grid(row=0, column=2, padx=5, pady=5)
 
-        ttk.Button(nav_frame, text="◀ Previous (F3)", command=self.previous_session).grid(row=1, column=0, padx=2, pady=5)
-        ttk.Button(nav_frame, text="▶ Next (F4)", command=self.next_session).grid(row=1, column=1, padx=2, pady=5)
+        ttk.Button(nav_frame, text="◀ Previous (Ctrl+Left)", command=self.previous_session).grid(row=1, column=0, padx=2, pady=5)
+        ttk.Button(nav_frame, text="▶ Next (Ctrl+Right)", command=self.next_session).grid(row=1, column=1, padx=2, pady=5)
 
     def setup_right_panel(self, parent: ttk.Frame) -> None:
-        """Setup the right panel with instruction and generation text areas."""
-        # Instruction frame
-        instruction_frame = ttk.LabelFrame(parent, text="Instruction")
-        instruction_frame.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+        """Setup the right panel with instruction and generation text areas using a 3:7 height split."""
+        # Use grid on the parent to create a 3:7 vertical split between instruction and generation.
+        parent.columnconfigure(0, weight=1)
+        parent.rowconfigure(0, weight=2)
+        parent.rowconfigure(1, weight=8)
 
-        self.instruction_text = scrolledtext.ScrolledText(instruction_frame, wrap=tk.WORD, font=self.textbox_font, height=10)
+        # Instruction frame (row 0)
+        instruction_frame = ttk.LabelFrame(parent, text="Instruction")
+        instruction_frame.grid(row=0, column=0, sticky=tk.NSEW, padx=5, pady=5)
+
+        self.instruction_text = scrolledtext.ScrolledText(
+            instruction_frame, wrap=tk.WORD, font=self.textbox_font, height=10
+        )
         self.instruction_text.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
         self.instruction_text.bind('<KeyRelease>', self.on_text_change)
 
-        # Generation frame
+        # Generation frame (row 1)
         generation_frame = ttk.LabelFrame(parent, text="Generation")
-        generation_frame.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+        generation_frame.grid(row=1, column=0, sticky=tk.NSEW, padx=5, pady=5)
 
-        self.generation_text = scrolledtext.ScrolledText(generation_frame, wrap=tk.WORD, font=self.textbox_font, height=10)
+        self.generation_text = scrolledtext.ScrolledText(
+            generation_frame, wrap=tk.WORD, font=self.textbox_font, height=10
+        )
         self.generation_text.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
         self.generation_text.bind('<KeyRelease>', self.on_text_change)
 
@@ -277,14 +286,16 @@ class QuestionAnnotator:
         
         # Ctrl shortcuts
         self.root.bind("<Control-s>", self.keybinding_event(self.save_data))
-        self.root.bind("<Control-o>", self.keybinding_event(self.load_files))
-        self.root.bind("<Control-Alt-Up>", self.keybinding_event(self.previous_session))
-        self.root.bind("<Control-Alt-Down>", self.keybinding_event(self.next_session))
+        self.root.bind("<Control-f>", self.keybinding_event(self.load_files))
+        self.root.bind("<Control-Left>", self.keybinding_event(self.previous_session))
+        self.root.bind("<Control-Right>", self.keybinding_event(self.next_session))
         
         # Verify mode shortcuts
-        self.root.bind("<Control-p>", self.keybinding_event(self.set_status, "pass"))
-        self.root.bind("<Control-r>", self.keybinding_event(self.set_status, "reject"))
-        self.root.bind("<Control-question>", self.keybinding_event(self.set_status, "pending"))
+        self.root.bind("<Control-Return>", self.keybinding_event(self.set_status, "pass"))
+        self.root.bind("<Control-KP_Enter>", self.keybinding_event(self.set_status, "pass"))
+        self.root.bind("<Control-BackSpace>", self.keybinding_event(self.set_status, "reject"))
+        self.root.bind("<Control-Shift-slash>", self.keybinding_event(self.set_status, "pending"))
+        self.root.bind("<Control-slash>", self.keybinding_event(self.set_status, "pending"))
         
         # Font sizing
         self.root.bind("<Control-plus>", self.keybinding_event(self.scale_font_size, 1.2))
@@ -361,13 +372,17 @@ class QuestionAnnotator:
         """Load data from CSV file using built-in csv module."""
         try:
             data = pd.read_csv(self.filepath_in)
-                
-                    
+
+            # Ensure required columns exist; default to missing values (pd.NA) when missing
+            for col in CSV_COLUMNS:
+                if col not in data.columns:
+                    data[col] = pd.NA
+
+            # Ensure status column exists and set defaults according to verify_mode
             data['status'] = ["pending"] * len(data) if self.verify_mode else ["pass"] * len(data)
 
             # Replace existing sessions with the CSV rows (each row -> dict)
             self.sessions = data.to_dict(orient='records')
-                
         except Exception as e:
             raise Exception(f"Error loading CSV file: {str(e)}")
 
