@@ -98,16 +98,23 @@ For each low-scoring example, the table shows: Query, Answer, Reference Scores, 
 ---
 
 ### Why these samples scored low (analysis)
-- **Subject mismatches** (e.g., indices 8–10, 33, 49): subject in the answer differs from the requested domain or the reference marks subject as incorrect while the evaluator predicted correct.
-- **Exercise type misalignment** (1, 31, 34, 59): generated exercise_type_score diverges from the reference expectation (e.g., multiple choice vs. not, presence/absence of answer section).
-- **Grade level disagreements** (5, 16, 26–27): evaluator often predicts stronger grade alignment than the reference (e.g., marks as 3–4 while reference is 0–2), or vice versa.
-- **Modifier adherence gaps** (20, 25, 50, 60): additional constraints (e.g., “with multiple steps”, “with solutions”, “design a cover”) are partially satisfied, leading to lower modifier_score.
-- **Ambiguity/noise in prompts/answers** (18, 41, 53): long narrative or multilingual text and ambiguous tasks can cause the evaluator to over/under-estimate adherence to type/grade/modifiers.
+- These are low matching scores between the evaluator’s judgments and the reference annotations—not the original QA adherence itself. In other words, they reflect where the LLM-as-judge disagreed with the human labels.
+- Patterns of evaluator–reference mismatches:
+  - Grade-level overestimation (e.g., 5, 16, 26–27, 59, 60, 62, 85, 94): the judge tends to assign higher grade alignment (3–4) where the reference is lower (0–2).
+  - Exercise-type misclassification (1, 31, 34, 59): the judge misreads format/structure (e.g., multiple-choice vs. not, presence of answer sections) and awards a higher type score than the reference.
+  - Modifier detection gaps (20, 25, 50, 60, 66): the judge is inconsistent on constraints like “with multiple steps/answers/hints/diagram,” leading to higher/lower modifier scores than reference.
+  - Subject labeling errors (8–10, 33, 49): the judge marks subject as correct where the reference labels it incorrect (or vice versa).
+  - Multilingual/long-form responses (18, 41): non-English and lengthy narrative content appear to confound the judge’s identification of subject/type and modifier satisfaction.
+- Many mismatches are small (off by 1 on a 0–4 scale → per-field 0.75), but across multiple active fields the weighted average dips below 0.8.
 
-#### Recommendations
-- Strengthen prompt/schema checks to explicitly verify each criterion (e.g., dedicated checks for “has answer section”, “has hints”, “has diagram”).
-- Calibrate grade-level rubric with clearer anchors and examples to reduce leniency/harshness variance.
-- Add rule-based post-validation to catch obvious subject/type contradictions (e.g., “symmetrical” vs. “asymmetrical”).
-- Expand training/evaluation examples covering edge cases (multilingual, very long answers, mixed-task prompts) to reduce ambiguity.
+#### Recommendations (to improve matching accuracy)
+- Tighten the judge prompt with a field-by-field checklist: explicitly require null when a criterion is not specified in the query, and ask for concise evidence for each decision.
+- Add few-shot counterexamples covering the observed failure modes (subject flips, type misreads, grade overestimation, modifier presence/absence).
+- Provide rubric anchors for each grade-level band (0–4) with concrete behavioral examples to reduce leniency/harshness variance.
+- Feed lightweight deterministic cues to the judge (as structured flags alongside the QA pair), e.g., presence of: an answers section (`subsection*{Answers}`), hints (“hint”), diagram markers (`[STRDGM]`/`[STPDGM]`), multiple-choice option patterns. Instruct the judge to use these cues.
+- Enforce schema rigor: keep temperature 0–0.1, ensure numeric types for scored fields and null for unspecified; reject/repair outputs missing active fields before scoring.
+- Use self-consistency (e.g., 3-sample judge with median per field) or a judge+critique step to reduce variance and systematic bias.
+- Calibrate on a small validation set: track per-field confusion, then refine instructions and examples until field-wise matching improves.
+- Improve multilingual handling: instruct the judge to translate or reason bilingually before scoring; include non-English few-shots.
 
 
