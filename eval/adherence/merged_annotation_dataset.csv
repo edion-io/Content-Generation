@@ -548,7 +548,7 @@ Mum said, “That's my old red hat\_\_\_\_”",Give me a combination of a punctu
 \begin{equation*}
    8, 6, 4, 2, 0
 \end{equation*}
-How do you know?",Give me a combination of a sequence exercise and a pattern exercise for a 5th grade student learning mathematics. It should be an exercise on identifying a sequence.,Mathematics,"Sequence Exercise, Pattern Exercise",D,5,Exercise on identifying a sequence,1,4,,4,4,2025-07-16T01:18:10.638316
+How do you know?",Give me a combination of a sequence exercise and a pattern exercise for a 5th grade student learning mathematics. It should be an exercise on identifying a sequence.,Mathematics,"Sequence Exercise, Pattern Exercise",D,5,Exercise on identifying a sequence,1,4,,4,4,2025-07-20T21:00:40.841339
 5403,Give me a data analysis exercise for a 3rd grade student learning mathematics. It should be an exercise on data collection.,Mathematics,Data Analysis Exercise,D,3,Exercise on data collection,"Collect data about the number of letters in students' names that range from three to twelve.
 
 \begin{table}[h]
@@ -589,7 +589,7 @@ Now construct a frequency table.
 12 &  \\ \hline
 \hline
 \end{tabular}
-\end{table}",Give me a data analysis exercise for a 3rd grade student learning mathematics. It should be an exercise on data collection.,Mathematics,Data Analysis Exercise,D,3,Exercise on data collection,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{table}",Give me a data analysis exercise for a 3rd grade student learning mathematics. It should be an exercise on data collection.,Mathematics,Data Analysis Exercise,D,3,Exercise on data collection,1,4,,4,4,2025-07-20T21:00:40.841339
 7861,Give me an identification exercise for a 3rd grade student learning mathematics. It should be an exercise on fraction comparison. It should have multiple steps.,Mathematics,Identification Exercise,D,3,"Exercise on fraction comparison, Multi-part","Ring the smallest fraction:
 
 \begin{enumerate}[label=\alph*.]
@@ -597,21 +597,21 @@ Now construct a frequency table.
 \item \( \frac{1}{4} \), \( \frac{1}{10} \), \( \frac{1}{6} \)
 \item \( \frac{3}{5} \), \( \frac{3}{7} \), \( \frac{3}{4} \)
 \item \( \frac{5}{7} \), \( \frac{5}{12} \), \( \frac{5}{8} \)
-\end{enumerate}",Give me an identification exercise for a 3rd grade student learning mathematics. It should be an exercise on fraction comparison. It should have multiple steps.,Mathematics,Identification Exercise,D,3,"Exercise on fraction comparison, Multi-part",1,4,,4,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me an identification exercise for a 3rd grade student learning mathematics. It should be an exercise on fraction comparison. It should have multiple steps.,Mathematics,Identification Exercise,D,3,"Exercise on fraction comparison, Multi-part",1,4,,4,4,2025-07-20T21:00:40.841339
 4819,Give me a true-false exercise for a 5th grade student learning science. It should be an exercise on light. It should be a with Answer.,Science,True-False Exercise,D,5,"Exercise on light, With Answer","Brightness depends on light intensity. True / False
 
 \subsection*{Answer}
 \begin{itemize}
 \item True
-\end{itemize}",Give me a true-false exercise for a 5th grade student learning science. It should be an exercise on light. It should be a with Answer.,Science,True-False Exercise,D,5,"Exercise on light, With Answer",1,4,,4,4,2025-07-16T01:18:10.638316
-6862,Give me a drawing exercise for a 3rd grade student learning mathematics. It should be an exercise involving line measurement.,Mathematics,Drawing Exercise,D,3,Exercise with line measurement,"Draw lines of lengths 2 cm, 5 cm, and 7 cm. Label each line with its corresponding length.",Give me a drawing exercise for a 3rd grade student learning mathematics. It should be an exercise involving line measurement.,Mathematics,Drawing Exercise,D,3,Exercise with line measurement,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{itemize}",Give me a true-false exercise for a 5th grade student learning science. It should be an exercise on light. It should be a with Answer.,Science,True-False Exercise,D,5,"Exercise on light, With Answer",1,4,,4,4,2025-07-20T21:00:40.841339
+6862,Give me a drawing exercise for a 3rd grade student learning mathematics. It should be an exercise involving line measurement.,Mathematics,Drawing Exercise,D,3,Exercise with line measurement,"Draw lines of lengths 2 cm, 5 cm, and 7 cm. Label each line with its corresponding length.",Give me a drawing exercise for a 3rd grade student learning mathematics. It should be an exercise involving line measurement.,Mathematics,Drawing Exercise,D,3,Exercise with line measurement,1,4,,4,4,2025-07-20T21:00:40.841339
 6078,"Give me a counting exercise for a 2nd grade student learning mathematics. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Counting Exercise,D,2,With Illustration,"Count in fours. Label each mark on the number line.
 
-[STRDGM] A horizontal number line starting from 0, with marks at integers but with no labels except for 0. [STPDGM]","Give me a counting exercise for a 2nd grade student learning mathematics. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Counting Exercise,D,2,With Illustration,1,4,,4,4,2025-07-16T01:18:10.638316
-263,Give me a combination of a discussion exercise and a group activity for a 4th grade student learning computer science.,Computer Science,"Discussion Exercise, Group Activity",D,4,M,Jobs that used to be done by humans are being replaced by automation and robots. Talk about this with classmates and your family. What are the good and bad things about automation?,Give me a combination of a discussion exercise and a group activity for a 4th grade student learning computer science.,Computer Science,"Discussion Exercise, Group Activity",D,4,M,1,4,,4,,2025-07-16T01:18:10.638316
-2542,Give me a question exercise for a 2nd grade student learning social studies. It should be an exercise on family.,Social Studies,Question Exercise,D,2,Exercise on family,How does your family spend time together?,Give me a question exercise for a 2nd grade student learning social studies. It should be an exercise on family.,Social Studies,Question Exercise,D,2,Exercise on family,1,4,,4,4,2025-07-16T01:18:10.638316
-2835,Give me a question exercise for a 3rd grade student learning social studies. It should be an exercise on climate change. It should be an exercise on human impact on the environment.,Social Studies,Question Exercise,D,3,"Exercise on climate change, Exercise on human impact on the environment",How does human activity change the environment?,Give me a question exercise for a 3rd grade student learning social studies. It should be an exercise on climate change. It should be an exercise on human impact on the environment.,Social Studies,Question Exercise,D,3,"Exercise on climate change, Exercise on human impact on the environment",1,4,,4,4,2025-07-16T01:18:10.638316
-1345,Give me a long answer exercise for a 4th grade student learning history. It should be an exercise on historical evidence.,History,Long Answer Exercise,D,4,Exercise on historical evidence,Explain how different forms of historical evidence are used.,Give me a long answer exercise for a 4th grade student learning history. It should be an exercise on historical evidence.,History,Long Answer Exercise,D,4,Exercise on historical evidence,1,4,,4,4,2025-07-16T01:18:10.638316
+[STRDGM] A horizontal number line starting from 0, with marks at integers but with no labels except for 0. [STPDGM]","Give me a counting exercise for a 2nd grade student learning mathematics. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Counting Exercise,D,2,With Illustration,1,4,,4,4,2025-07-20T21:00:40.841339
+263,Give me a combination of a discussion exercise and a group activity for a 4th grade student learning computer science.,Computer Science,"Discussion Exercise, Group Activity",D,4,M,Jobs that used to be done by humans are being replaced by automation and robots. Talk about this with classmates and your family. What are the good and bad things about automation?,Give me a combination of a discussion exercise and a group activity for a 4th grade student learning computer science.,Computer Science,"Discussion Exercise, Group Activity",D,4,M,1,4,,4,,2025-07-20T21:00:40.841339
+2542,Give me a question exercise for a 2nd grade student learning social studies. It should be an exercise on family.,Social Studies,Question Exercise,D,2,Exercise on family,How does your family spend time together?,Give me a question exercise for a 2nd grade student learning social studies. It should be an exercise on family.,Social Studies,Question Exercise,D,2,Exercise on family,1,4,,4,4,2025-07-20T21:00:40.841339
+2835,Give me a question exercise for a 3rd grade student learning social studies. It should be an exercise on climate change. It should be an exercise on human impact on the environment.,Social Studies,Question Exercise,D,3,"Exercise on climate change, Exercise on human impact on the environment",How does human activity change the environment?,Give me a question exercise for a 3rd grade student learning social studies. It should be an exercise on climate change. It should be an exercise on human impact on the environment.,Social Studies,Question Exercise,D,3,"Exercise on climate change, Exercise on human impact on the environment",1,4,,4,4,2025-07-20T21:00:40.841339
+1345,Give me a long answer exercise for a 4th grade student learning history. It should be an exercise on historical evidence.,History,Long Answer Exercise,D,4,Exercise on historical evidence,Explain how different forms of historical evidence are used.,Give me a long answer exercise for a 4th grade student learning history. It should be an exercise on historical evidence.,History,Long Answer Exercise,D,4,Exercise on historical evidence,1,4,,4,4,2025-07-20T21:00:40.841339
 3455,Give me a translation exercise for a student learning Spanish. It should be an exercise on translating sentences. It should be a with Answer.,Spanish,Translation Exercise,D,G,"Exercise on translating sentences, With Answer","Translate the following sentences from Spanish to English.  
 \begin{enumerate}
     \item Me gustan mucho sus pinturas.
@@ -628,8 +628,8 @@ Now construct a frequency table.
 \item When does Mateo celebrate his birthday?
 \item Pepe can't find his keys.
 \item A cousin of yours lives in New York.
-\end{enumerate}",Give me a translation exercise for a student learning Spanish. It should be an exercise on translating sentences. It should be a with Answer.,Spanish,Translation Exercise,D,G,"Exercise on translating sentences, With Answer",1,4,,,4,2025-07-16T01:18:10.638316
-8176,Give me a combination of a word problem and an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise on distance and speed calculation. It should have multiple steps.,Mathematics,"Word Problem, Arithmetic Exercise",D,6,"Exercise on distance and speed calculation, Multi-part","Angela cycled from Village A to Village B. She took 30 minutes to cover \( \frac{3}{10} \) of the journey, 1 hour to cover \( \frac{3}{8} \) of the journey, and 1 hour to cover the remaining 6.5 km. What was her average speed for the whole journey?",Give me a combination of a word problem and an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise on distance and speed calculation. It should have multiple steps.,Mathematics,"Word Problem, Arithmetic Exercise",D,6,"Exercise on distance and speed calculation, Multi-part",1,4,,4,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me a translation exercise for a student learning Spanish. It should be an exercise on translating sentences. It should be a with Answer.,Spanish,Translation Exercise,D,G,"Exercise on translating sentences, With Answer",1,4,,,4,2025-07-20T21:00:40.841339
+8176,Give me a combination of a word problem and an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise on distance and speed calculation. It should have multiple steps.,Mathematics,"Word Problem, Arithmetic Exercise",D,6,"Exercise on distance and speed calculation, Multi-part","Angela cycled from Village A to Village B. She took 30 minutes to cover \( \frac{3}{10} \) of the journey, 1 hour to cover \( \frac{3}{8} \) of the journey, and 1 hour to cover the remaining 6.5 km. What was her average speed for the whole journey?",Give me a combination of a word problem and an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise on distance and speed calculation. It should have multiple steps.,Mathematics,"Word Problem, Arithmetic Exercise",D,6,"Exercise on distance and speed calculation, Multi-part",1,4,,4,4,2025-07-20T21:00:40.841339
 6017,Give me a classification exercise for a 2nd grade student learning mathematics. It should be an exercise involving Carroll Diagram.,Mathematics,Classification Exercise,D,2,Exercise with Carroll Diagram,"Group the animals by writing the names in the correct areas in the Carroll diagram: a sparrow, a bat, a penguin, a squirrel
 
 \begin{table}[h!]
@@ -640,12 +640,12 @@ Now construct a frequency table.
 \rule{0pt}{3ex} 2 or Fewer Legs       &                        &                        \\ [2ex] \hline
 \rule{0pt}{3ex} Not 2 or Fewer Legs   &                        &                        \\ [2ex] \hline
 \end{tabular}
-\end{table}",Give me a classification exercise for a 2nd grade student learning mathematics. It should be an exercise involving Carroll Diagram.,Mathematics,Classification Exercise,D,2,Exercise with Carroll Diagram,1,4,,4,4,2025-07-16T01:18:10.638316
-33,Give me an organizing exercise for a 4th grade student learning computer science. It should be an exercise on using browsers.,Computer Science,Organizing Exercise,D,4,Exercise on using browsers,"Create bookmarks for five websites, then group them into bookmark folders.",Give me an organizing exercise for a 4th grade student learning computer science. It should be an exercise on using browsers.,Computer Science,Organizing Exercise,D,4,Exercise on using browsers,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{table}",Give me a classification exercise for a 2nd grade student learning mathematics. It should be an exercise involving Carroll Diagram.,Mathematics,Classification Exercise,D,2,Exercise with Carroll Diagram,1,4,,4,4,2025-07-20T21:00:40.841339
+33,Give me an organizing exercise for a 4th grade student learning computer science. It should be an exercise on using browsers.,Computer Science,Organizing Exercise,D,4,Exercise on using browsers,"Create bookmarks for five websites, then group them into bookmark folders.",Give me an organizing exercise for a 4th grade student learning computer science. It should be an exercise on using browsers.,Computer Science,Organizing Exercise,D,4,Exercise on using browsers,1,4,,4,4,2025-07-20T21:00:40.841339
 4395,"Give me a question exercise for a 3rd grade student learning science. It should be an exercise on forces. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Science,Question Exercise,D,3,"Exercise on forces, With Illustration","When you throw a ball at a wall, what force makes it go back?
 
-[STRDGM] The image features children playing with balls and toy cars, illustrating the concept of forces in motion. [STPDGM]","Give me a question exercise for a 3rd grade student learning science. It should be an exercise on forces. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Science,Question Exercise,D,3,"Exercise on forces, With Illustration",1,4,,4,4,2025-07-16T01:18:10.638316
-2166,Give me a research exercise for a 6th grade student learning social studies. It should be an exercise on government communications. It should be an activity on internet and social media use.,Social Studies,Research Exercise,D,6,"Exercise on government communications, Activity on internet and social media use",Choose a government department. Carry out some research into how it uses the internet or social media to communicate with citizens.,Give me a research exercise for a 6th grade student learning social studies. It should be an exercise on government communications. It should be an activity on internet and social media use.,Social Studies,Research Exercise,D,6,"Exercise on government communications, Activity on internet and social media use",1,4,,4,4,2025-07-16T01:18:10.638316
+[STRDGM] The image features children playing with balls and toy cars, illustrating the concept of forces in motion. [STPDGM]","Give me a question exercise for a 3rd grade student learning science. It should be an exercise on forces. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Science,Question Exercise,D,3,"Exercise on forces, With Illustration",1,4,,4,4,2025-07-20T21:00:40.841339
+2166,Give me a research exercise for a 6th grade student learning social studies. It should be an exercise on government communications. It should be an activity on internet and social media use.,Social Studies,Research Exercise,D,6,"Exercise on government communications, Activity on internet and social media use",Choose a government department. Carry out some research into how it uses the internet or social media to communicate with citizens.,Give me a research exercise for a 6th grade student learning social studies. It should be an exercise on government communications. It should be an activity on internet and social media use.,Social Studies,Research Exercise,D,6,"Exercise on government communications, Activity on internet and social media use",1,4,,4,4,2025-07-20T21:00:40.841339
 7590,Give me an arithmetic exercise for a 1st grade student learning mathematics. It should be an exercise involving addition. It should be an exercise involving subtraction. It should have multiple steps.,Mathematics,Arithmetic Exercise,D,1,"Exercise with addition, Exercise with subtraction, Multi-part","\begin{enumerate}[label=\Roman*.]
 \item \( 5 + 4 = \)
 \item \( 4 + 10 = \)
@@ -667,8 +667,8 @@ Now construct a frequency table.
 \item \( 23 - 8 = \)
 \item \( 40 - 0 = \)
 \item \( 35 - 10 = \)
-\end{enumerate}",Give me an arithmetic exercise for a 1st grade student learning mathematics. It should be an exercise involving addition. It should be an exercise involving subtraction. It should have multiple steps.,Mathematics,Arithmetic Exercise,D,1,"Exercise with addition, Exercise with subtraction, Multi-part",1,4,,4,4,2025-07-16T01:18:10.638316
-4291,Give me a combination of an exercise and a drawing exercise for a 4th grade student learning science. It should be an exercise on steam. It should be an exercise involving a diagram. It should be an exercise involving drawing. It should be an exercise on changes of state.,Science,"Exercise, Drawing Exercise",D,4,"Exercise on steam, Exercise involving a diagram, Exercise involving drawing, Exercise on changes of state",Draw a diagram showing changes of state.,Give me a combination of an exercise and a drawing exercise for a 4th grade student learning science. It should be an exercise on steam. It should be an exercise involving a diagram. It should be an exercise involving drawing. It should be an exercise on changes of state.,Science,"Exercise, Drawing Exercise",D,4,"Exercise on steam, Exercise involving a diagram, Exercise involving drawing, Exercise on changes of state",1,4,,4,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me an arithmetic exercise for a 1st grade student learning mathematics. It should be an exercise involving addition. It should be an exercise involving subtraction. It should have multiple steps.,Mathematics,Arithmetic Exercise,D,1,"Exercise with addition, Exercise with subtraction, Multi-part",1,4,,4,4,2025-07-20T21:00:40.841339
+4291,Give me a combination of an exercise and a drawing exercise for a 4th grade student learning science. It should be an exercise on steam. It should be an exercise involving a diagram. It should be an exercise involving drawing. It should be an exercise on changes of state.,Science,"Exercise, Drawing Exercise",D,4,"Exercise on steam, Exercise involving a diagram, Exercise involving drawing, Exercise on changes of state",Draw a diagram showing changes of state.,Give me a combination of an exercise and a drawing exercise for a 4th grade student learning science. It should be an exercise on steam. It should be an exercise involving a diagram. It should be an exercise involving drawing. It should be an exercise on changes of state.,Science,"Exercise, Drawing Exercise",D,4,"Exercise on steam, Exercise involving a diagram, Exercise involving drawing, Exercise on changes of state",1,4,,4,4,2025-07-20T21:00:40.841339
 6063,"Give me a word problem for a 4th grade student learning mathematics. It should have multiple steps. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Word Problem,D,4,"Multi-part, With Illustration","Answer the following questions based on the calendar for the year 2050:
 
 \begin{enumerate}[label=\alph*.]
@@ -682,13 +682,13 @@ Now construct a frequency table.
 \item What day will 2051 start on?
 \end{enumerate}
 
-[STRDGM]  A calendar of the year 2050. [STPDGM]","Give me a word problem for a 4th grade student learning mathematics. It should have multiple steps. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Word Problem,D,4,"Multi-part, With Illustration",1,4,,4,4,2025-07-16T01:18:10.638316
+[STRDGM]  A calendar of the year 2050. [STPDGM]","Give me a word problem for a 4th grade student learning mathematics. It should have multiple steps. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Word Problem,D,4,"Multi-part, With Illustration",1,4,,4,4,2025-07-20T21:00:40.841339
 6310,"Give me an arithmetic exercise for a 2nd grade student learning mathematics. It should be an exercise involving counting. It should be an exercise involving number line. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Arithmetic Exercise,D,2,"Exercise with counting, Exercise with number line, With Illustration","Start at 0. Draw 5 jumps of 2.
 
-[STRDGM] A number line from 0 to 10 with marks. [STPDGM]","Give me an arithmetic exercise for a 2nd grade student learning mathematics. It should be an exercise involving counting. It should be an exercise involving number line. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Arithmetic Exercise,D,2,"Exercise with counting, Exercise with number line, With Illustration",1,4,,4,4,2025-07-16T01:18:10.638316
+[STRDGM] A number line from 0 to 10 with marks. [STPDGM]","Give me an arithmetic exercise for a 2nd grade student learning mathematics. It should be an exercise involving counting. It should be an exercise involving number line. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,Arithmetic Exercise,D,2,"Exercise with counting, Exercise with number line, With Illustration",1,4,,4,4,2025-07-20T21:00:40.841339
 4339,"Give me a combination of a question and a description exercise for a 1st grade student learning science. It should be an exercise on materials. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should be an exercise on textures.",Science,"Question, Description Exercise",D,1,"Exercise on materials, With Illustration, Exercise on textures","Imagine you are holding one of the toys in the picture. Describe this toy. What does it feel like?
 
-[STRDGM] The image shows a kitchen counter with various materials and objects, including bowls, cups, and food items. There are also toys like a teddy bear and a toy car, illustrating different textures and uses. [STPDGM]","Give me a combination of a question and a description exercise for a 1st grade student learning science. It should be an exercise on materials. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should be an exercise on textures.",Science,"Question, Description Exercise",D,1,"Exercise on materials, With Illustration, Exercise on textures",1,4,,4,4,2025-07-16T01:18:10.638316
+[STRDGM] The image shows a kitchen counter with various materials and objects, including bowls, cups, and food items. There are also toys like a teddy bear and a toy car, illustrating different textures and uses. [STPDGM]","Give me a combination of a question and a description exercise for a 1st grade student learning science. It should be an exercise on materials. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should be an exercise on textures.",Science,"Question, Description Exercise",D,1,"Exercise on materials, With Illustration, Exercise on textures",1,4,,4,4,2025-07-20T21:00:40.841339
 3395,Give me a translation exercise for a student learning Spanish. It should have a subsection for answers.,Spanish,Translation Exercise,D,G,With Answer,"Translate the following sentences from English to Spanish.  
 \begin{enumerate}
     \item I am very tired.
@@ -705,7 +705,7 @@ Now construct a frequency table.
 \item El español es un idioma difícil.
 \item Ellos son comunicativos.
 \item Charles es muy pobre.
-\end{enumerate}",Give me a translation exercise for a student learning Spanish. It should have a subsection for answers.,Spanish,Translation Exercise,D,G,With Answer,1,4,,,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me a translation exercise for a student learning Spanish. It should have a subsection for answers.,Spanish,Translation Exercise,D,G,With Answer,1,4,,,4,2025-07-20T21:00:40.841339
 6807,Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should be an exercise on conversion.,Mathematics,Arithmetic Exercise,D,3,Exercise on conversion,"Convert the following distances from kilometers to meters:
 
 \begin{enumerate}[label=\alph*.]
@@ -713,7 +713,7 @@ Now construct a frequency table.
 \item 4 km = \_\_ m
 \item 5 km = \_\_ m
 \item 8 km = \_\_ m
-\end{enumerate}",Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should be an exercise on conversion.,Mathematics,Arithmetic Exercise,D,3,Exercise on conversion,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should be an exercise on conversion.,Mathematics,Arithmetic Exercise,D,3,Exercise on conversion,1,4,,4,4,2025-07-20T21:00:40.841339
 6201,Give me a combination of a drawing exercise and a word problem for a 4th grade student learning mathematics. It should have multiple steps.,Mathematics,"Drawing Exercise, Word Problem",D,4,Multi-part,"\begin{enumerate}
 \item Draw as many different rectangles with a perimeter of 20 cm as you can.
   \begin{enumerate}[label=\alph*.]
@@ -730,7 +730,7 @@ Now construct a frequency table.
     \item How many did you find? \_\_\_\_\_\_\_\_\_\_\_\_
     \item Do you think that you have found them all? \_\_\_\_\_\_\_\_\_
   \end{enumerate}
-\end{enumerate}",Give me a combination of a drawing exercise and a word problem for a 4th grade student learning mathematics. It should have multiple steps.,Mathematics,"Drawing Exercise, Word Problem",D,4,Multi-part,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me a combination of a drawing exercise and a word problem for a 4th grade student learning mathematics. It should have multiple steps.,Mathematics,"Drawing Exercise, Word Problem",D,4,Multi-part,1,4,,4,4,2025-07-20T21:00:40.841339
 676,Give me a vocabulary exercise for a 5th grade student learning English. It should be an exercise on table completion.,English,Vocabulary Exercise,D,5,Exercise on table completion,"Complete the table of words with different endings. Come up with 4 words per column.
 
 \begin{table}[]
@@ -742,8 +742,8 @@ Now construct a frequency table.
  & \\
  & \\
 \end{tabular}
-\end{table}",Give me a vocabulary exercise for a 5th grade student learning English. It should be an exercise on table completion.,English,Vocabulary Exercise,D,5,Exercise on table completion,1,4,,4,4,2025-07-16T01:18:10.638316
-1533,Give me a combination of a map exercise and an activity for a 1st grade student learning history. It should be an exercise on finding locations.,History,"Map Exercise, Activity",D,1,Exercise on finding locations,Can you find Morocco on the map?,Give me a combination of a map exercise and an activity for a 1st grade student learning history. It should be an exercise on finding locations.,History,"Map Exercise, Activity",D,1,Exercise on finding locations,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{table}",Give me a vocabulary exercise for a 5th grade student learning English. It should be an exercise on table completion.,English,Vocabulary Exercise,D,5,Exercise on table completion,1,4,,4,4,2025-07-20T21:00:40.841339
+1533,Give me a combination of a map exercise and an activity for a 1st grade student learning history. It should be an exercise on finding locations.,History,"Map Exercise, Activity",D,1,Exercise on finding locations,Can you find Morocco on the map?,Give me a combination of a map exercise and an activity for a 1st grade student learning history. It should be an exercise on finding locations.,History,"Map Exercise, Activity",D,1,Exercise on finding locations,1,4,,4,4,2025-07-20T21:00:40.841339
 318,Give me a fill in the blank exercise for a 2nd grade student learning English. It should be an exercise involving present tense verbs.,English,Fill in the Blank Exercise,D,2,Exercise with present tense verbs,"Complete each sentence with a present tense verb.
 \begin{enumerate}
 \item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_ with my ears.
@@ -751,7 +751,7 @@ Now construct a frequency table.
 \item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_ with their legs.
 \item He \_\_\_\_\_\_\_\_\_\_\_\_\_\_ with his nose.
 \item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_ with our brains.
-\end{enumerate}",Give me a fill in the blank exercise for a 2nd grade student learning English. It should be an exercise involving present tense verbs.,English,Fill in the Blank Exercise,D,2,Exercise with present tense verbs,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me a fill in the blank exercise for a 2nd grade student learning English. It should be an exercise involving present tense verbs.,English,Fill in the Blank Exercise,D,2,Exercise with present tense verbs,1,4,,4,4,2025-07-20T21:00:40.841339
 3149,Give me a grammar exercise for a student learning French. It should be an exercise on conjugation. It should be a with Answer.,French,Grammar Exercise,D,G,"Exercise on conjugation, With Answer","Mettre au présent les verbes entre parenthèses.
 \begin{enumerate}
     \item Nous (avoir)           quelques minutes.
@@ -778,15 +778,15 @@ Now construct a frequency table.
 \item n'avons pas
 \item n'avez pas
 \item J'ai
-\end{enumerate}",Give me a grammar exercise for a student learning French. It should be an exercise on conjugation. It should be a with Answer.,French,Grammar Exercise,D,G,"Exercise on conjugation, With Answer",1,4,,,4,2025-07-16T01:18:10.638316
-4077,Give me a question exercise for a 1st grade student learning science. It should be an exercise on making sounds.,Science,Question Exercise,D,1,Exercise on making sounds,How many sounds can you make?,Give me a question exercise for a 1st grade student learning science. It should be an exercise on making sounds.,Science,Question Exercise,D,1,Exercise on making sounds,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me a grammar exercise for a student learning French. It should be an exercise on conjugation. It should be a with Answer.,French,Grammar Exercise,D,G,"Exercise on conjugation, With Answer",1,4,,,4,2025-07-20T21:00:40.841339
+4077,Give me a question exercise for a 1st grade student learning science. It should be an exercise on making sounds.,Science,Question Exercise,D,1,Exercise on making sounds,How many sounds can you make?,Give me a question exercise for a 1st grade student learning science. It should be an exercise on making sounds.,Science,Question Exercise,D,1,Exercise on making sounds,1,4,,4,4,2025-07-20T21:00:40.841339
 7922,Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should be an exercise on money calculation.,Mathematics,Arithmetic Exercise,D,3,Exercise on money calculation,"How much money is there in each purse?
 
 \begin{enumerate}[label=\alph*.]
 \item Purse (a) has two \$10 bills.
 \item Purse (b) contains three \$20 bills.
 \item Purse (c) has two \$100 bills.
-\end{enumerate}",Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should be an exercise on money calculation.,Mathematics,Arithmetic Exercise,D,3,Exercise on money calculation,1,4,,4,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me an arithmetic exercise for a 3rd grade student learning mathematics. It should be an exercise on money calculation.,Mathematics,Arithmetic Exercise,D,3,Exercise on money calculation,1,4,,4,4,2025-07-20T21:00:40.841339
 3209,Give me a translation exercise for a student learning French. It should have a subsection for answers.,French,Translation Exercise,D,G,With Answer,"Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire.
 \begin{enumerate}
     \item Could you help clean the house after the party?
@@ -813,4 +813,4 @@ Now construct a frequency table.
     \item Je pense qu'elle pourrait mieux faire.
     \item Quand vous étiez enfant, vous jouiez avec vos poupées pendant des heures.
     \item Pourriez-vous m'apprendre à jouer de la guitare?
-\end{enumerate}",Give me a translation exercise for a student learning French. It should have a subsection for answers.,French,Translation Exercise,D,G,With Answer,1,4,,,4,2025-07-16T01:18:10.638316
+\end{enumerate}",Give me a translation exercise for a student learning French. It should have a subsection for answers.,French,Translation Exercise,D,G,With Answer,1,4,,,4,2025-07-20T21:00:40.841339

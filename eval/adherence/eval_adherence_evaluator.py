@@ -388,9 +388,9 @@ Note: If the query does not mention any of the subject, exercise type, grade lev
 Return your response using the structured format provided. For each score, please explain your reasoning clearly, detailing how the exercise aligns or misaligns with the criteria.
 """
 
-def main(save_scores: bool = False):
+def main(load_path, save_path_json, save_path_csv, save_scores: bool = False):
     dataset = Dataset(
-        data_path="merged_annotation_dataset.csv",
+        data_path=load_path,
         batch_size=100,
         load_from_annotation=True,
     )
@@ -420,6 +420,16 @@ def main(save_scores: bool = False):
     # Use the *full* set of inputs / references when computing the final score
     score, individual_scores = evaluator.run_detailed(all_inputs, all_references, generated_outputs)
     logger.info(f"Score: {score}")
+    
+    with open(save_path_json, "w") as f:
+        json.dump(
+            {
+                "score": score, 
+                "individual_scores": individual_scores,
+                "generations": generated_outputs,
+                "inputs": all_inputs,
+                "references": all_references
+            }, f, indent=2)
 
     # Save generated outputs to csv
     if save_scores:
@@ -427,9 +437,13 @@ def main(save_scores: bool = False):
         eval_result["match_scores"] = individual_scores
         eval_result["inputs"] = all_inputs
         eval_result["references"] = all_references
-        eval_result.to_csv("match_scores.csv", index=False)
+        eval_result.to_csv(save_path_csv, index=False)
 
 
 
 if __name__ == "__main__":
-    main(save_scores=True)
+    import os
+    load_path = os.path.join(os.path.dirname(__file__), "merged_annotation_dataset.csv")
+    save_path_json = os.path.join(os.path.dirname(__file__), "eval_adherence_evaluator_results.json")
+    save_path_csv = os.path.join(os.path.dirname(__file__), "eval_adherence_evaluator_results.csv")
+    main(load_path, save_path_json, save_path_csv, save_scores=True)
