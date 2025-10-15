@@ -34,16 +34,16 @@ import argparse
 from pathlib import Path
 
 # Add project root to Python path for imports
-project_root = Path(__file__).parent.parent.parent
+project_root = Path(__file__).parent.parent.parent.parent
 sys.path.insert(0, str(project_root))
 
 # Import functions from preprocess.py
-from preprocess import instructionize, get_params, match_params
+from eval.adherence.legacy.preprocess import instructionize
 
 # --- Argument Parsing ---
 parser = argparse.ArgumentParser(description="Dataset Annotation Tool")
-parser.add_argument("--input-data", default=os.path.join(project_root, "data", "ig_with_params_subset.csv"), help="Path to the input CSV file.")
-parser.add_argument("--annotated-data", default=os.path.join(project_root, "annotated_dataset.csv"), help="Path to save/load annotated data.")
+parser.add_argument("--input-data", help="Path to the input CSV file.")
+parser.add_argument("--annotated-data", default=os.path.join(project_root, "eval", "adherence", "annotated_dataset.csv"), help="Path to save/load annotated data.")
 args = parser.parse_args()
 
 # Load the dataset
