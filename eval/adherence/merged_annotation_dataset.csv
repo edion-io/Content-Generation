@@ -1,4 +1,4 @@
-original_id,original_generation,new_instruction,new_subject,new_exercise_type,new_grade_level,new_modifier,adherence_subject,adherence_exercise_type,adherence_grade_level,adherence_modifier
+original_id,original_generation,new_instruction,new_instruction,new_exercise_type,new_grade_level,new_modifier,adherence_subject,adherence_exercise_type,adherence_grade_level,adherence_modifier
 61,"Two coins are flipped. What is the probability that the second coin is a tail, given that the first coin is a head?
 
 \begin{enumerate}[label=\alph*.]
@@ -41,15 +41,15 @@ x = 20 - 8
 x = 12
 \end{equation*}
 
-Alvin gave Roy 12 oranges.",Give me a word problem exercise for a 7th grade student learning algebra. It should be an exercise on solving equations with variables on both sides.,,,,,1,4,1,1
+Alvin gave Roy 12 oranges.",Give me a word problem exercise for a 7th grade student learning algebra. It should be an exercise on solving equations with variables on both sides.,,,,,1,4,4,0
 66,"Photosynthesis is the process by which:
 \begin{enumerate}[label=\alph*.]
 \item animals make their own food
 \item plants make their own food
 \item plants and animals make their own food
 \item plants and animals take in oxygen and give out carbon dioxide
-\end{enumerate}",Give me a multiple choice exercise for a 8th grade student learning biology. It should be an exercise on the chemistry of photosynthesis.,,,,,1,4,0,4
-67,What were the causes of World War I?,"Give me a short answer exercise for a 10th grade student learning history. It should be an exercise on the effects of World War I, with multiple steps.",,,,,1,4,4,0
+\end{enumerate}",Give me a multiple choice exercise for a 8th grade student learning biology. It should be an exercise on the chemistry of photosynthesis.,,,,,1,4,4,3
+67,What were the causes of World War I?,"Give me a short answer exercise for a 10th grade student learning history. It should be an exercise on the effects of World War I, with multiple steps.",,,,,1,4,4,1
 68,"What is the acceleration of a 2000 kg car if a 1000 N force is applied to it?
 
 \begin{equation*}
@@ -62,7 +62,7 @@ Alvin gave Roy 12 oranges.",Give me a word problem exercise for a 7th grade stud
 \item reduce the rate of protein synthesis
 \item stop the cell from producing proteins
 \end{enumerate}",Give me a multiple choice answer exercise for a 10th grade student learning history. It should be an exercise on the effect of penecilin.,,,,,0,4,4,4
-70," ""Describe how penicillin was used in the Second World War. Explain how penicillin changed the way doctors treated infections.""","Give me a multiple choice answer exercise for a 10th grade student learning biology. It should be an exercise on the effect of penecilin, with multiple steps.",,,,,0,0,4,4
+70," ""Describe how penicillin was used in the Second World War. Explain how penicillin changed the way doctors treated infections.""","Give me a multiple choice answer exercise for a 10th grade student learning biology. It should be an exercise on the effect of penecilin, with multiple steps.",,,,,0,0,4,1
 48,"Use complements to 10 to help you add. Then write the missing total.
 
 \[
@@ -72,17 +72,17 @@ Alvin gave Roy 12 oranges.",Give me a word problem exercise for a 7th grade stud
 31,"The usual selling prices of a handbag and a set of jewellery were \$990 and \$550 respectively. Jane bought them at a 10\% discount during a sale. How much did she pay altogether?
 
 \subsection*{Answers}
-Jane paid \$1,386 altogether.",Give me a combination of a word problem and an arithmetic exercise for a 3rd grade student learning mathematics. It should have a subsection for hints.,Mathematics,"Word Problem, Arithmetic Exercise",3,With Hint,1,4,2,1
+Jane paid \$1,386 altogether.",Give me a combination of a word problem and an arithmetic exercise for a 3rd grade student learning mathematics. It should have a subsection for hints.,Mathematics,"Word Problem, Arithmetic Exercise",3,With Hint,1,4,2,0
 30,"\begin{enumerate}[label=\alph*.]
 \item What does the word ‘Renaissance' mean?
 \item Why do you think this period of European history is called the Renaissance?  
-\end{enumerate}",Give me an essay prompt for a 9th grade student learning history. It should be an exercise on European History.,History,Essay prompt,9,Exercise on European History,1,1,2,3
-34,Discuss similarities and differences between life in early civilisations.,Give me an essay type for a 3rd grade student learning history. It should be an exercise on early civilisations. It should be a with solution.,History,Essay type,3,"Exercise on early civilisations, with solution",1,3,3,2
+\end{enumerate}",Give me an essay prompt for a 9th grade student learning history. It should be an exercise on European History.,History,Essay prompt,9,Exercise on European History,1,1,4,4
+34,Discuss similarities and differences between life in early civilisations.,Give me an essay type for a 3rd grade student learning history. It should be an exercise on early civilisations. It should be a with solution.,History,Essay type,3,"Exercise on early civilisations, with solution",1,3,4,2
 35,"Sofia has \( \frac{3}{4} \) of a cake. She divides the cake into three pieces and eats one of the pieces. What fraction of Sofia's cake is left? Show your working.
 
 \subsection*{Answers}
-Sofia has \( \frac{3}{4} \) of a cake. After dividing it into three pieces, each piece is \( \frac{3}{4} \div 3 = \frac{3}{12} = \frac{1}{4} \). After eating one piece, she has \( \frac{3}{4} - \frac{1}{4} = \frac{2}{4} = \frac{1}{2} \) of the cake left.",Give me an arithmetic exercise for a 5th grade student learning mathematics. It should have a subsection for hints. It should be an exercise on long division.,Mathematics,Arithmetic Exercise,5,"With Hint, Exercise on long division",1,2,4,1
-38,"Oliver and Paul started from Town M towards Town N at 10:40 a.m. Towns M and N were 360 km apart. If Oliver reached Town N at 3:10 p.m. and Paul reached Town N 18 minutes later, find the difference in their average speeds.",Give me a combination of a word problem and an arithmetic exercise for a 7th grade student learning mathematics. It should be an exercise on units of measurement.,Mathematics,"Word Problem, Arithmetic Exercise",7,Exercise on units of measurement,1,4,2,1
+Sofia has \( \frac{3}{4} \) of a cake. After dividing it into three pieces, each piece is \( \frac{3}{4} \div 3 = \frac{3}{12} = \frac{1}{4} \). After eating one piece, she has \( \frac{3}{4} - \frac{1}{4} = \frac{2}{4} = \frac{1}{2} \) of the cake left.",Give me an arithmetic exercise for a 5th grade student learning mathematics. It should have a subsection for hints. It should be an exercise on long division.,Mathematics,Arithmetic Exercise,5,"With Hint, Exercise on long division",1,4,4,0
+38,"Oliver and Paul started from Town M towards Town N at 10:40 a.m. Towns M and N were 360 km apart. If Oliver reached Town N at 3:10 p.m. and Paul reached Town N 18 minutes later, find the difference in their average speeds.",Give me a combination of a word problem and an arithmetic exercise for a 7th grade student learning mathematics. It should be an exercise on units of measurement.,Mathematics,"Word Problem, Arithmetic Exercise",7,Exercise on units of measurement,1,4,3,0
 39,"Copy and punctuate these direct speech sentences.
 \begin{enumerate}
 \item Rose said We are your new neighbours.
@@ -125,15 +125,15 @@ The meaning of this word (in English) :\\
 \item segmenten
 \item rechts
 \item bruin
-\end{enumerate}","Give me a combination of a word scramble exercise and a translation exercise for a student learning Spanish. It should have a subsection for answers, and hints.",Spanish,"Word Scramble Exercise, Translation Exercise",G,"With Answer, With Hint",0,1,,4
-1,Explain the concept of an orbit and what it means for a planet to revolve around the Sun.,Give me a combination of a long answer exercise and a discussion exercise for a 5th grade student learning social science. It should be an exercise on the solar system. It should be an exercise on orbits. It should be a with solution.,Social Science,"Long Answer Exercise, Discussion Exercise",5,"Exercise on the solar system, Exercise on orbits, With solution",0,2,4,1
+\end{enumerate}","Give me a combination of a word scramble exercise and a translation exercise for a student learning Spanish. It should have a subsection for answers, and hints.",Spanish,"Word Scramble Exercise, Translation Exercise",G,"With Answer, With Hint",0,2,,4
+1,Explain the concept of an orbit and what it means for a planet to revolve around the Sun.,Give me a combination of a long answer exercise and a discussion exercise for a 5th grade student learning social science. It should be an exercise on the solar system. It should be an exercise on orbits. It should be a with solution.,Social Science,"Long Answer Exercise, Discussion Exercise",5,"Exercise on the solar system, Exercise on orbits, With solution",0,2,4,2
 3,"Come up with as many ways of communicating as you can. Make sure to also come up with ways that rely on the usage of electronics.
 \begin{enumerate}
 \item Which way or ways are reliable?  
 \item Which way or ways are private?  
 \item Which way or ways are quick?  
 \item Which way or ways are easy to use?  
-\end{enumerate}",Give me a combination of a true or false and a short answer exercise for a 3rd grade student learning biology.,Biology,"True or False, Short Answer Exercise",3,M,0,1,4,
+\end{enumerate}",Give me a combination of a true or false and a short answer exercise for a 3rd grade student learning biology.,Biology,"True or False, Short Answer Exercise",3,M,0,2,4,
 5,"Fill in the missing numbers for the following equations:
 
 \begin{enumerate}[label=(\arabic*)]
@@ -141,7 +141,7 @@ The meaning of this word (in English) :\\
 \item \( \_\_ + \_\_ = 8  \)
 \item \( 1 + 4 = \_\_  \)
 \item \( 4 + 2 = \_\_  \)
-\end{enumerate}",Give me a combination of a creative exercise and a fill in the blank exercise for a 3rd grade student learning mathematics. It should have multiple steps. It should be an exercise on addition of integers up to 100.,Mathematics,"Creative Exercise, Fill in the Blank Exercise",3,"Multi-part, Exercise on addition of integers up to 100",1,3,3,3
+\end{enumerate}",Give me a combination of a creative exercise and a fill in the blank exercise for a 3rd grade student learning mathematics. It should have multiple steps. It should be an exercise on addition of integers up to 100.,Mathematics,"Creative Exercise, Fill in the Blank Exercise",3,"Multi-part, Exercise on addition of integers up to 100",1,2,3,4
 8,6 children bought a present for \$42. They shared the cost equally. How much did each child pay?,Give me a combination of a word problem and an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise involving division and fractions.,Mathematics,"Word Problem, Arithmetic Exercise",6,Exercise with division and fractions,1,4,2,3
 9,"A person's physical identity is to do with:
 \begin{enumerate}[label=\alph*.]
@@ -149,26 +149,26 @@ The meaning of this word (in English) :\\
 \item the features of his or her face and body
 \item the way he or she feels about things
 \item the things he or she is very good at
-\end{enumerate}",Give me a short answer exercise for a 2nd grade student learning biology. It should be an exercise on identity.,Biology,Short answer Exercise,2,Exercise on identity,0,2,2,4
+\end{enumerate}",Give me a short answer exercise for a 2nd grade student learning biology. It should be an exercise on identity.,Biology,Short answer Exercise,2,Exercise on identity,0,0,3,4
 11,"Imagine that you are going to visit Lata in Parsoiya.
 \begin{enumerate}[label=\alph*.]
 \item Make a list of the things you want to find out about the village.
 \item Design a postcard with a picture of the village on the front.
 \item Write a description on the back of the postcard about what you would have done in the village if you stayed with Lata for a day.
-\end{enumerate}",Give me a combination of a writing exercise and an activity for a 2nd grade student learning geography. It should be an exercise on list writing. It should be an exercise on India.,Geography,"Writing Exercise, Activity",2,"Exercise on list writing, Exercise on India",1,3,4,3
+\end{enumerate}",Give me a combination of a writing exercise and an activity for a 2nd grade student learning geography. It should be an exercise on list writing. It should be an exercise on India.,Geography,"Writing Exercise, Activity",2,"Exercise on list writing, Exercise on India",1,4,3,4
 2,"Invent your own robot which would help with cleaning. Think of a name for your robot. List the main functions of your robot and the advantages of using it to do the cleaning.
 
 \paragraph{Think With Me}
 Is your robot cleaner humanoid or not? Why did you make that choice?
 
 \paragraph{Bonus Activity}
-Design a poster to advertise the new robot cleaner.",Give me a combination of a creative exercise and a short answer exercise for a 10th grade student learning computer science. It should be an exercise on designing a robot.,Computer Science,"Creative Exercise, Short Answer Exercise",10,Exercise on designing a robot,1,4,1,1
+Design a poster to advertise the new robot cleaner.",Give me a combination of a creative exercise and a short answer exercise for a 10th grade student learning computer science. It should be an exercise on designing a robot.,Computer Science,"Creative Exercise, Short Answer Exercise",10,Exercise on designing a robot,1,4,1,3
 4,"Calculate:
 \begin{enumerate}[label=\alph*.]
 \item \( 46.3 \times 11 \)
 \item \( 39.3 \times 23 \)
 \item \( 23.8 \times 35 \)
-\end{enumerate}",Give me an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise on adding and subtracting decimal numbers. It should have multiple steps.,Mathematics,Arithmetic Exercise,6,"Exercise on adding and subtracting decimal numbers, Multi-part",1,4,4,2
+\end{enumerate}",Give me an arithmetic exercise for a 6th grade student learning mathematics. It should be an exercise on adding and subtracting decimal numbers. It should have multiple steps.,Mathematics,Arithmetic Exercise,6,"Exercise on adding and subtracting decimal numbers, Multi-part",1,4,4,1
 6,"Find the missing numbers.
 
 \begin{enumerate}[label=\alph*.]
@@ -178,14 +178,14 @@ Design a poster to advertise the new robot cleaner.",Give me a combination of a 
 \item \( 4.12 \times 10 = \, \, \, \)
 \item \( 191 \div 100 = \, \, \, \)
 \item \( 6.3 \div 10 = \, \, \, \)
-\end{enumerate}",Give me a fill-in-the-gap for a 6th grade student learning mathematics. It should be an exercise involving multiplication and division of fractions. It should have multiple steps.,Mathematics,Fill-in-the-gap,6,"Exercise with multiplication and division of fractions, Multi-part",1,2,4,3
-7,Can you think of all the ways of sharing photos between devices? Write down your suggestions. Write down the advantages and disadvantages of each of your suggestions.,Give me a combination of a short answer exercise and a writing exercise for a 8th grade student learning computer science. It should be an exercise on data transfer.,Computer Science,"Short Answer Exercise, Writing Exercise",8,Exercise on data transfer,1,4,2,4
+\end{enumerate}",Give me a fill-in-the-gap for a 6th grade student learning mathematics. It should be an exercise involving multiplication and division of fractions. It should have multiple steps.,Mathematics,Fill-in-the-gap,6,"Exercise with multiplication and division of fractions, Multi-part",1,4,4,2
+7,Can you think of all the ways of sharing photos between devices? Write down your suggestions. Write down the advantages and disadvantages of each of your suggestions.,Give me a combination of a short answer exercise and a writing exercise for a 8th grade student learning computer science. It should be an exercise on data transfer.,Computer Science,"Short Answer Exercise, Writing Exercise",8,Exercise on data transfer,1,4,1,4
 10,"Choose an animal to research. Here are some suggestions: tiger, bee, kangaroo, tortoise.
 \begin{enumerate}
 \item What animal have you chosen to write about?
 \item Make notes on what you already know.
 \item Do your research and make notes on new information.
-\end{enumerate}",Give me a combination of a writing exercise and a research exercise for a 7th grade student learning English. It should be an exercise on animal behaviour.,English,"Writing Exercise, Research Exercise",7,Exercise on animal behaviour,1,4,2,2
+\end{enumerate}",Give me a combination of a writing exercise and a research exercise for a 7th grade student learning English. It should be an exercise on animal behaviour.,English,"Writing Exercise, Research Exercise",7,Exercise on animal behaviour,1,4,4,2
 12,"How many shapes are in each pattern?
 
 \begin{enumerate}[label=\alph*.]
@@ -196,7 +196,7 @@ Design a poster to advertise the new robot cleaner.",Give me a combination of a 
 
 [STRDGM] Pattern A contains 3 triangles and 2 circles. [STPDGM]
 [STRDGM] Pattern B contains 4 squares and 1 hexagon. [STPDGM]
-[STRDGM] Pattern C contains 2 triangles, 1 circle, and 3 squares. [STPDGM]","Give me a pattern recognition exercise for a 6th grade student learning mathematics. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should have multiple steps.",Mathematics,Pattern Recognition Exercise,6,"With Illustration, Multi-part",1,4,2,4
+[STRDGM] Pattern C contains 2 triangles, 1 circle, and 3 squares. [STPDGM]","Give me a pattern recognition exercise for a 6th grade student learning mathematics. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should have multiple steps.",Mathematics,Pattern Recognition Exercise,6,"With Illustration, Multi-part",1,4,1,4
 13,"Find all the possible modifications you can make to the calculation below to make it correct.
 \begin{align} 
 \frac{1}{3} = \frac{3}{3}
@@ -210,30 +210,30 @@ ery & ary & ory \\
  &  &  \\
 &  &  \\
 \end{tabular}
-\end{table}",Give me a writing exercise for a 6th grade student learning English. It should be an exercise on word endings. It should be a with Solution section.,English,Writing Exercise,6,"Exercise on word endings, With Solution section",1,4,4,2
+\end{table}",Give me a writing exercise for a 6th grade student learning English. It should be an exercise on word endings. It should be a with Solution section.,English,Writing Exercise,6,"Exercise on word endings, With Solution section",1,4,4,1
 15,What is the process of steam changing back to water called?,Give me a question exercise for a 4th grade student learning art. It should be an about history of oil painting.,Art,Question Exercise,4,About history of oil painting,0,4,4,0
 16,"Write two addition sentences and two subtraction sentences for the picture.
 
-[STRDGM] A diagram showing four chickens in the top row and two chickens in the bottom row. [STPDGM]","Give me a combination of a word problem and an arithmetic exercise for a 5th grade student learning mathematics. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,"Word Problem, Arithmetic Exercise",5,With Illustration,1,4,0,4
+[STRDGM] A diagram showing four chickens in the top row and two chickens in the bottom row. [STPDGM]","Give me a combination of a word problem and an arithmetic exercise for a 5th grade student learning mathematics. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc).",Mathematics,"Word Problem, Arithmetic Exercise",5,With Illustration,1,1,0,4
 17,"Make a four-part picture story about pocket money. Label your drawings to say what each one shows. You should show:
 \begin{itemize}
 \item an adult at work
 \item a child doing a simple chore
 \item a child being paid pocket money
 \item and the child doing something with that pocket money.
-\end{itemize}",Give me a creative exercise for a 3rd grade student learning social studies. It should be an exercise on pocket money.,Social Studies,Creative Exercise,3,Exercise on pocket money,1,2,3,4
+\end{itemize}",Give me a creative exercise for a 3rd grade student learning social studies. It should be an exercise on pocket money.,Social Studies,Creative Exercise,3,Exercise on pocket money,0,4,3,4
 18,Find out about the levels of local government in your country and suggest a local issue that could be addressed by local government.,Give me a questionnaire for a 4th grade student learning social studies. It should be an exercise on local government.,Social Studies,Questionnaire ,4,Exercise on local government,1,0,2,4
 19,"A stamp album costs \$12.50. A photo album costs \$3.50 more than the stamp album. Find the total cost of the two albums.
 
 \subsection*{Answers}
-The total cost of the two albums is \$19.00.",Give me a word problem for a 3rd grade student learning mathematics. It should be a with Answer and detailed explaination.,Mathematics,Word Problem,3,With Answer and detailed explaination,1,2,4,2
+The total cost of the two albums is \$19.00.",Give me a word problem for a 3rd grade student learning mathematics. It should be a with Answer and detailed explaination.,Mathematics,Word Problem,3,With Answer and detailed explaination,1,4,4,2
 20,"Copy these sentences. Use these words to fill in the gaps: food, ears, speak, teeth, eyes.
 \begin{enumerate}
   \item We use our mouth to \_\_\_ and to \_\_\_ and to breathe.
   \item We use our \_\_\_ to bite and chew our \_\_\_.
-\end{enumerate}",Give me a fill-in-the-gaps exercise for a 2nd grade student learning science. It should be an exercise on animals.,Science,Fill-in-the-Gaps Exercise,2,Exercise on animals,1,2,4,0
-21,"Imagine a classmate has sent you an email. Think and write about how you would reply to them, sharing what you found interesting about the fact.",Give me a writing exercise for a 3rd grade student learning English. It should be an exercise on grammar.,English,Writing Exercise,3,Exercise on grammar,0,4,4,0
-22,Share 10 biscuits between 3 students. Each student receives how many biscuits? How many biscuit will be left over?,Give me a word problem for a 1st grade student learning mathematics. It should be an exercise on sharing objects.,Mathematics,Word Problem,1,Exercise on sharing objects,1,2,3,4
+\end{enumerate}",Give me a fill-in-the-gaps exercise for a 2nd grade student learning science. It should be an exercise on animals.,Science,Fill-in-the-Gaps Exercise,2,Exercise on animals,1,4,4,1
+21,"Imagine a classmate has sent you an email. Think and write about how you would reply to them, sharing what you found interesting about the fact.",Give me a writing exercise for a 3rd grade student learning English. It should be an exercise on grammar.,English,Writing Exercise,3,Exercise on grammar,1,4,4,0
+22,Share 10 biscuits between 3 students. Each student receives how many biscuits? How many biscuit will be left over?,Give me a word problem for a 1st grade student learning mathematics. It should be an exercise on sharing objects.,Mathematics,Word Problem,1,Exercise on sharing objects,1,4,4,4
 23,"C'était calme et silencieux chez les Walter, mis à part les sons de claquement de fourchettes contre les plats. \\
 Toute la famille était réunie pour savourer leur déjeuner ensemble et bien qu'ils parlèrent à certains moments, ils étaient principalement concentrés sur leurs assiettes. \\
 
@@ -386,7 +386,7 @@ to enjoy         & they \_\_\_       & they \_\_\_           \\ \hline
 to call          & she \_\_\_        & she \_\_\_            \\ \hline
 \end{tabular}
 \end{table}",Give me a grammar exercise for a 8th grade student learning English. It should be an exercise on table completion.,English,Grammar Exercise,8,Exercise on table completion,1,4,0,4
-25,Open a search engine. Enter the search string 'pizza recipe vegetarian' and look at the first page of results. Now enter 'pizza recipe vegetarian -margherita'. Are there any changes in the search results?,Give me an activity for a 3rd grade student learning computer science.,Computer Science,Activity,3,M,1,1,3,
+25,Open a search engine. Enter the search string 'pizza recipe vegetarian' and look at the first page of results. Now enter 'pizza recipe vegetarian -margherita'. Are there any changes in the search results?,Give me an activity for a 3rd grade student learning computer science.,Computer Science,Activity,3,M,1,3,3,
 26,"Are these statements true or false?
 
 \begin{itemize}
@@ -396,19 +396,19 @@ to call          & she \_\_\_        & she \_\_\_            \\ \hline
 \item 384 is divisible by 2
 \item 645 is divisible by 5
 \item 700 is divisible by 9
-\end{itemize}",Give me a true/false exercise for a 2nd grade student learning mathematics.,Mathematics,True/False Exercise,2,M,1,4,3,
+\end{itemize}",Give me a true/false exercise for a 2nd grade student learning mathematics.,Mathematics,True/False Exercise,2,M,1,4,1,
 27,"Different kinds of pushing and pulling forces can change the shape of an object. True / False
 
 \subsection*{Answers}
 \begin{itemize}
 \item True
-\end{itemize}",Give me a fill in the blank for a 3rd grade student learning science. It should be an exercise on forces.,Science,Fill in the blank,3,Exercise on forces,1,0,4,2
+\end{itemize}",Give me a fill in the blank for a 3rd grade student learning science. It should be an exercise on forces.,Science,Fill in the blank,3,Exercise on forces,1,0,4,4
 28,"Decide whether the following statements are true or false.
 \begin{enumerate}[label=\alph*.]
 \item Air contains water vapour.
 \item Humidity affects the length of your hair.
 \item Water leaks out of the glass if water is left on the outside of the glass.
-\end{enumerate}",Give me a true-false exercise for a 4th grade student learning history. It should be an exercise on Europe history.,History,True-False Exercise,4,Exercise on Europe history,0,4,3,0
+\end{enumerate}",Give me a true-false exercise for a 4th grade student learning history. It should be an exercise on Europe history.,History,True-False Exercise,4,Exercise on Europe history,0,4,4,0
 29,"You will need: a balloon, a ticking watch, and a timer, paper (or Workbooks) and a pen or pencil.
 \begin{itemize}
 \item Fill the balloon with water and place it beside your head so that it touches your ear.
@@ -418,14 +418,14 @@ to call          & she \_\_\_        & she \_\_\_            \\ \hline
 \item Discuss the observations you both made and come to a conclusion about sound travelling through water.
 \end{itemize}
 
-[STRDGM] A diagram depicting a person holding a water-filled balloon next to their ear while another person is hitting a watch on the opposite side of the balloon. This setup demonstrates how sound travels through liquids. [STPDGM]","Give me a combination of an activity and an experiment for a 4th grade student learning science. It should have a subsection for materials. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should be an exercise on sound. It should be an activity on sound traveling through liquids.",Science,"Activity, Experiment",4,"With Material, With Illustration, Exercise on sound, Activity on sound traveling through liquids",1,2,4,4
+[STRDGM] A diagram depicting a person holding a water-filled balloon next to their ear while another person is hitting a watch on the opposite side of the balloon. This setup demonstrates how sound travels through liquids. [STPDGM]","Give me a combination of an activity and an experiment for a 4th grade student learning science. It should have a subsection for materials. The exercise should contain some kind of a graphic component (illustration, diagram, table, etc). It should be an exercise on sound. It should be an activity on sound traveling through liquids.",Science,"Activity, Experiment",4,"With Material, With Illustration, Exercise on sound, Activity on sound traveling through liquids",1,4,4,4
 32,"It is sensible to wear a hat, sunscreen and sunglasses:
 \begin{enumerate}[label=\alph*.]
 \item at night
 \item during a rainstorm
 \item in bed
 \item when outside in the sunshine
-\end{enumerate}",Give me a fill in the blank for a 3rd grade student learning social studies. It should be an exercise on sensible clothing.,Social Studies,Fill in the blank,3,Exercise on sensible clothing,1,0,4,3
+\end{enumerate}",Give me a fill in the blank for a 3rd grade student learning social studies. It should be an exercise on sensible clothing.,Social Studies,Fill in the blank,3,Exercise on sensible clothing,0,0,4,4
 36,Draw 2 shapes that are asymmetrical,Give me a multiple choice for a 1st grade student learning arts. It should be an exercise on symmetrical shapes.,Arts,Multiple choice,1,Exercise on symmetrical shapes,0,0,4,4
 37,"\begin{enumerate}
 \item What shape of box is used to show a logical test? Draw the shape.
