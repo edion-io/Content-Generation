@@ -136,7 +136,7 @@ def convert_latex_to_html(text):
         text = re.sub(r'\\begin\{equation\}(.*?)\\end\{equation\}', r'$$\1$$', text, flags=re.DOTALL)
 
         # Handle align environments
-        text = re.sub(r'\\begin\{align\*\}(.*?)\\end\{align\*\}', r'$$\\begin{align}\1\\end{align}$$', text, flags=re.DOTALL)
+        text = re.sub(r'\\begin\{align\*\}(.*?)\\end\{align\*\}', r'$$\begin{align}\1\end{align}$$', text, flags=re.DOTALL)
     except re.error:
         # Fall back to returning the raw text (escaped for markdown) if regex fails
         return _escape_backslashes_for_markdown(text)
@@ -265,8 +265,8 @@ def get_sample_list():
 def load_sample(selected_id):
     """Load a sample based on selected ID"""
     if not selected_id:
-        # Return empty strings for adherence values so the UI displays them as empty
-        return "", "", "", "", "", "", "", "", "", "", "", "**No sample selected**", "", "", "", "", ""
+        # Return None for adherence values so the UI displays them as empty
+        return "", "", "", "", "", "", "", "", "", "", "", "**No sample selected**", None, None, None, None, None
     
     try:
         # Extract ID from the selection string
@@ -355,8 +355,8 @@ def load_sample(selected_id):
                 edit_grade_level,
                 edit_modifier,
                 edit_instruction_md,
-                # Return adherence scores (convert None -> empty string for initial UI)
-                *([s if s is not None else "" for s in adherence_scores])
+                # Return adherence scores (keep None for empty, don't convert to empty string)
+                *adherence_scores
             )
         else:
             # Load from annotated data
@@ -391,6 +391,17 @@ def load_sample(selected_id):
             edit_grade_level = str(annotation.get('new_grade_level', annotation.get('original_grade_level', '')))
             edit_modifier = annotation.get('new_modifier', annotation.get('original_modifier', ''))
             edit_instruction_md = _escape_backslashes_for_markdown(f"**Current Instruction:**\n\n{annotation.get('new_instruction', annotation.get('original_instruction', ''))}")
+
+            # Ensure current_sample contains the edited/new values so saving without
+            # further edits preserves them (prevents overwriting new_instruction with original)
+            current_sample.update({
+                'new_instruction': annotation.get('new_instruction', annotation.get('original_instruction', '')),
+                'new_subject': annotation.get('new_subject', annotation.get('original_subject', '')),
+                'new_exercise_type': annotation.get('new_exercise_type', annotation.get('original_exercise_type', '')),
+                'new_difficulty': annotation.get('new_difficulty', annotation.get('original_difficulty', '')),
+                'new_grade_level': annotation.get('new_grade_level', annotation.get('original_grade_level', '')),
+                'new_modifier': annotation.get('new_modifier', annotation.get('original_modifier', '')),
+            })
             
             # Load adherence scores (None means empty/unset)
             adherence_scores = [
@@ -416,8 +427,8 @@ def load_sample(selected_id):
                 edit_grade_level,
                 edit_modifier,
                 edit_instruction_md,
-                # Adherence scores (convert None -> empty string for initial UI)
-                *([s if s is not None else "" for s in adherence_scores])
+                # Adherence scores (keep None for empty, don't convert to empty string)
+                *adherence_scores
             )
     except Exception as e:
         print(f"Error loading sample: {e}")
@@ -488,16 +499,22 @@ def save_annotation(adherence_subject, adherence_exercise, adherence_difficulty,
             if subject_val not in (0, 1):
                 return "Subject adherence must be 0 or 1.", "", gr.Dropdown(choices=get_sample_list())
 
-        # Other adherence scores: if provided, must be between 0-5
+        # Other adherence scores: if provided, must be integers between 0-4
+        # Cast values to int (int(float(x))) to accept numeric strings like "2" or "2.0"
         other_vals = []
         for raw in (adherence_exercise, adherence_difficulty, adherence_grade, adherence_modifier):
             if raw is None or raw == "":
                 other_vals.append(None)
             else:
-                val = float(raw)
-                if val < 0 or val > 5:
-                    return "Exercise, Difficulty, Grade, and Modifier adherence must be between 0-5.", "", gr.Dropdown(choices=get_sample_list())
-                other_vals.append(val)
+                # Convert to int via float to tolerate inputs like "2.0" and numeric widgets
+                val_int = int(float(raw))
+                if val_int < 0 or val_int > 4:
+                    return (
+                        "Exercise, Difficulty, Grade, and Modifier adherence must be integers between 0-4.",
+                        "",
+                        gr.Dropdown(choices=get_sample_list()),
+                    )
+                other_vals.append(val_int)
 
         adherence_scores = [subject_val, other_vals[0], other_vals[1], other_vals[2], other_vals[3]]
     except (ValueError, TypeError):
@@ -584,6 +601,35 @@ def save_annotation(adherence_subject, adherence_exercise, adherence_difficulty,
     # Save to file
     annotated_df = pd.DataFrame(annotated_data)
     output_file = args.annotated_data
+    
+    # Ensure adherence columns are saved as integers, not floats
+    # (pandas may infer float type when reading CSV with empty cells)
+    adherence_cols = ['adherence_subject', 'adherence_exercise_type', 'adherence_difficulty', 
+                      'adherence_grade_level', 'adherence_modifier']
+    for col in adherence_cols:
+        if col in annotated_df.columns:
+            # Convert any float values to int, preserve empty strings
+            annotated_df[col] = annotated_df[col].apply(
+                lambda x: int(x) if isinstance(x, (int, float)) and x != '' else x
+            )
+    
+    # Preserve column order from original file if it exists
+    if os.path.exists(output_file):
+        try:
+            # Read the existing file to get column order
+            original_df = pd.read_csv(output_file)
+            original_columns = original_df.columns.tolist()
+            # Ensure all original columns are in the new dataframe
+            for col in original_columns:
+                if col not in annotated_df.columns:
+                    annotated_df[col] = ''
+            # Reorder to match original column order, then add any new columns
+            cols_to_use = [col for col in original_columns if col in annotated_df.columns]
+            new_cols = [col for col in annotated_df.columns if col not in cols_to_use]
+            annotated_df = annotated_df[cols_to_use + new_cols]
+        except Exception as e:
+            print(f"⚠️  Could not preserve column order: {e}. Using default order.")
+    
     annotated_df.to_csv(output_file, index=False)
     
     # Update the dropdown with new annotation status
@@ -822,6 +868,17 @@ with gr.Blocks(title="Dataset Annotation Tool", theme=gr.themes.Soft(), css="""
         fn=next_sample,
         inputs=[sample_dropdown],
         outputs=[sample_dropdown]
+    )
+
+    # Initialize form on page load to ensure adherence scores are properly displayed as empty
+    # This fixes the issue where adherence scores show 0 on initial page load
+    demo.load(
+        fn=load_sample,
+        inputs=[sample_dropdown],
+        outputs=[orig_subject, orig_exercise_type, orig_difficulty, orig_grade_level, 
+                orig_modifier, orig_instruction, orig_generation, edit_subject, edit_exercise_type, 
+                edit_difficulty, edit_grade_level, edit_modifier, edit_instruction,
+                adherence_subject, adherence_exercise, adherence_difficulty, adherence_grade, adherence_modifier]
     )
 
 if __name__ == "__main__":
