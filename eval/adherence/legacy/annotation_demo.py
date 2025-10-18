@@ -3,26 +3,37 @@ Dataset Annotation Tool
 
 This script provides a Gradio-based web interface for annotating datasets.
 It allows users to load samples, edit parameters, generate new instructions,
-and save annotations with adherence scores. Resuming is supported if both 
---input-data and --annotated-data are provided.
+and save annotations with adherence scores.
 
-Usage:
-    **Install dependencies:**
+FLEXIBLE USAGE MODES:
+
+1. **Annotation with Input Data (Recommended):**
+   ```bash
+   python annotation_demo.py \
+       --input-data /path/to/original/data.csv \
+       --annotated-data /path/to/annotations/annotated_dataset.csv
+   ```
+   - Loads all samples from input data
+   - Resumes previous annotations if output file exists
+   - Saves ALL samples (annotated + unannotated) to output file
+   - Next time, can load output file directly for review
+
+2. **Review Existing Annotations (Standalone):**
+   ```bash
+   python annotation_demo.py \
+       --annotated-data /path/to/annotations/annotated_dataset.csv
+   ```
+   - Reviews and edits existing annotations without needing input data
+   - All samples are already in the annotation file
+
+**Key Feature:** When saving annotations, ALL samples (both annotated and unannotated)
+are saved to the output file. Unannotated samples have empty/default values, allowing
+you to resume annotation later without needing the original input data.
+
+Installation:
     `pip install gradio pandas pyspellchecker inflect rapidfuzz matplotlib`
 
-    **Run the script:**
-    ```bash
-    python annotation_demo.py \
-        --input-data /home/xxx/xxx/datasets/data/complete_data_subset-60.csv \
-        --annotated-data /home/xxx/xxx/Content-Generation/eval/adherence/annotated_dataset.csv
-    ```
-    replace the paths with your own absolute paths.
-
-    If you got an error like this: `AttributeError: 'int' object has no attribute 'expandtabs'`,
-    you need to check the data path again and make sure they are correct.
-
-    **Open your browser and visit url:**
-    `http://0.0.0.0:7860`
+Open your browser and visit: `http://0.0.0.0:7860`
 """
 import gradio as gr
 import pandas as pd
@@ -32,6 +43,7 @@ from datetime import datetime
 import re
 import argparse
 from pathlib import Path
+from typing import Optional
 
 # Add project root to Python path for imports
 project_root = Path(__file__).parent.parent.parent.parent
@@ -41,13 +53,25 @@ sys.path.insert(0, str(project_root))
 from eval.adherence.legacy.preprocess import instructionize
 
 # --- Argument Parsing ---
-parser = argparse.ArgumentParser(description="Dataset Annotation Tool")
-parser.add_argument("--input-data", help="Path to the input CSV file.")
+parser = argparse.ArgumentParser(description="Dataset Annotation Tool - Uniform Mode")
+parser.add_argument("--input-data", default=None, help="Path to the input CSV file (optional).")
 parser.add_argument("--annotated-data", default=os.path.join(project_root, "eval", "adherence", "annotated_dataset.csv"), help="Path to save/load annotated data.")
 args = parser.parse_args()
 
+# Determine mode based on available inputs
+if args.input_data and os.path.exists(args.input_data):
+    MODE = "ANNOTATION"  # Has input data to annotate
+elif os.path.exists(args.annotated_data):
+    MODE = "REVIEW"      # Only has annotated data
+else:
+    MODE = "ANNOTATION"  # Default to annotation mode (will error if no data found)
+
 # Load the dataset
 def load_data():
+    """Load original dataset (if available)"""
+    if args.input_data is None:
+        return pd.DataFrame()
+    
     try:
         df = pd.read_csv(args.input_data)
         # Add ID column if not present
@@ -65,16 +89,23 @@ def load_existing_annotations():
     try:
         if os.path.exists(args.annotated_data):
             annotated_df = pd.read_csv(args.annotated_data)
+            # Normalize missing values so downstream code gets empty strings instead of NaN
+            annotated_df.fillna('', inplace=True)
             print(f"📄 Found existing annotations file with {len(annotated_df)} records: {args.annotated_data}")
             
             # Convert dataframe back to list of dictionaries
             annotated_data = annotated_df.to_dict('records')
             
-            # Populate the annotated_ids set
-            annotated_ids = set(annotated_df['original_id'].tolist())
+            # Populate the annotated_ids set (only count records that have been annotated)
+            annotated_ids = set()
+            for record in annotated_data:
+                # Consider a record as annotated if it has a non-zero/non-empty adherence score
+                if record.get('adherence_subject') or record.get('adherence_exercise_type') or \
+                   record.get('adherence_difficulty') or record.get('adherence_grade_level') or \
+                   record.get('adherence_modifier'):
+                    annotated_ids.add(record.get('original_id'))
             
-            print(f"✅ Loaded {len(annotated_data)} previous annotations")
-            print(f"📝 Annotated IDs: {sorted(list(annotated_ids))}")
+            print(f"✅ Loaded {len(annotated_data)} total records ({len(annotated_ids)} annotated)")
             return True
         else:
             print(f"📄 No existing annotations file found ('{args.annotated_data}'). Starting fresh.")
@@ -90,16 +121,25 @@ def load_existing_annotations():
 
 def convert_latex_to_html(text):
     """Convert LaTeX content to HTML with MathJax support"""
-    if not text:
+    # Ensure input is a string
+    if text is None:
+        return ""
+    text = str(text)
+    if text == "":
         return ""
     
-    # Convert LaTeX equations to MathJax format
-    # Handle display equations \[ ... \]
-    text = re.sub(r'\\begin\{equation\*\}(.*?)\\end\{equation\*\}', r'$$\1$$', text, flags=re.DOTALL)
-    text = re.sub(r'\\begin\{equation\}(.*?)\\end\{equation\}', r'$$\1$$', text, flags=re.DOTALL)
-    
-    # Handle inline math \( ... \)
-    text = re.sub(r'\\begin\{align\*\}(.*?)\\end\{align\*\}', r'$$\\begin{align}\1\\end{align}$$', text, flags=re.DOTALL)
+    # Convert LaTeX equations to MathJax format. Wrap substitutions in try/except
+    # to avoid failing on unexpected escape sequences in user-provided text.
+    try:
+        # Handle display equations \[ ... \]
+        text = re.sub(r'\\begin\{equation\*\}(.*?)\\end\{equation\*\}', r'$$\1$$', text, flags=re.DOTALL)
+        text = re.sub(r'\\begin\{equation\}(.*?)\\end\{equation\}', r'$$\1$$', text, flags=re.DOTALL)
+
+        # Handle align environments
+        text = re.sub(r'\\begin\{align\*\}(.*?)\\end\{align\*\}', r'$$\\begin{align}\1\\end{align}$$', text, flags=re.DOTALL)
+    except re.error:
+        # Fall back to returning the raw text (escaped for markdown) if regex fails
+        return _escape_backslashes_for_markdown(text)
     
     # Convert enumerate environments to HTML lists
     text = re.sub(r'\\begin\{enumerate\}', '<ol>', text)
@@ -148,6 +188,44 @@ def convert_latex_to_html(text):
     
     return html_content
 
+
+def _escape_backslashes_for_markdown(s: object) -> str:
+    """Return a Markdown-safe string by escaping backslashes.
+
+    Gradio's Markdown component runs inspect.cleandoc on values which can
+    raise errors for certain backslash sequences coming from LaTeX. Escape
+    backslashes so the string is safe to pass to gr.Markdown and always
+    return a string.
+    """
+    if s is None:
+        return ""
+    t = str(s)
+    return t.replace("\\", "\\\\")
+
+
+def _safe_int(val: object, default: Optional[int] = None) -> Optional[int]:
+    """Safely convert a value to integer, handling None, empty strings, and invalid inputs.
+
+    If the input is None or an empty string, this function returns ``None`` by
+    default (or the provided ``default``), preserving empty/unknown adherence
+    values instead of converting them to zero. This ensures empty adherence
+    fields remain empty when displayed in the UI.
+
+    Args:
+        val: Value to convert (can be None, empty string, or any type)
+        default: Default value to return if conversion fails (default: None)
+
+    Returns:
+        Converted integer, or ``default`` (often ``None``) if conversion fails
+    """
+    if val is None or val == "":
+        return default
+    try:
+        return int(float(val))  # float() handles string representations of numbers
+    except (ValueError, TypeError):
+        return default
+
+
 # Global variables
 df = load_data()
 current_sample = {}
@@ -156,115 +234,194 @@ load_existing_annotations()  # This will populate annotated_data and annotated_i
 
 def get_sample_list():
     """Get list of sample IDs for selection with annotation status"""
-    if df.empty:
-        return []
     sample_list = []
-    for i, row in df.iterrows():
-        # Mark annotated samples with ✅
-        status_mark = "✅ " if i in annotated_ids else ""
-        sample_list.append(f"{status_mark}ID {i}: {row['subject']} - {row['exercise_type'][:50]}...")
+    
+    if MODE == "ANNOTATION" and not df.empty:
+        # Show samples from input data with annotation status
+        for i, row in df.iterrows():
+            # Mark annotated samples with ✅
+            status_mark = "✅ " if i in annotated_ids else ""
+            exercise_preview = row['exercise_type'][:50] if isinstance(row['exercise_type'], str) else str(row['exercise_type'])[:50]
+            sample_list.append(f"{status_mark}ID {i}: {row['subject']} - {exercise_preview}...")
+    else:
+        # Show samples from annotated data
+        if annotated_data:
+            for record in annotated_data:
+                original_id = record.get('original_id', '')
+                new_subject = record.get('new_subject', record.get('original_subject', ''))
+                new_exercise = record.get('new_exercise_type', record.get('original_exercise_type', ''))
+                
+                # Check if annotated
+                is_annotated = bool(record.get('adherence_subject') or record.get('adherence_exercise_type') or 
+                                   record.get('adherence_difficulty') or record.get('adherence_grade_level') or 
+                                   record.get('adherence_modifier'))
+                status_mark = "✅ " if is_annotated else ""
+                
+                exercise_preview = new_exercise[:50] if isinstance(new_exercise, str) else str(new_exercise)[:50]
+                sample_list.append(f"{status_mark}ID {original_id}: {new_subject} - {exercise_preview}...")
+    
     return sample_list
 
 def load_sample(selected_id):
     """Load a sample based on selected ID"""
     if not selected_id:
-        return "", "", "", "", "", "", "", "", "", "", "", "**No sample selected**", 0, 0, 0, 0, 0
+        # Return empty strings for adherence values so the UI displays them as empty
+        return "", "", "", "", "", "", "", "", "", "", "", "**No sample selected**", "", "", "", "", ""
     
-    # Extract ID from the selection string (handle both marked and unmarked)
     try:
-        # Remove the ✅ mark if present
+        # Extract ID from the selection string
         clean_id = selected_id.replace("✅ ", "")
         id_num = int(clean_id.split(':')[0].replace('ID ', ''))
-        row = df.iloc[id_num]
         
         global current_sample
-        current_sample = {
-            'id': id_num,
-            'instruction': row['instruction'],
-            'subject': row['subject'],
-            'exercise_type': row['exercise_type'],
-            'difficulty': row['difficulty'],
-            'grade_level': str(row['grade_level']),
-            'modifier': row['modifier'],
-            'generation': row['generation']
-        }
         
-        # Check if this sample has previous annotations
-        previous_annotation = None
-        for annotation in annotated_data:
-            if annotation['original_id'] == id_num:
-                previous_annotation = annotation
-                break
-        
-        # Prepare content for display with LaTeX rendering
-        orig_instruction_md = f"**Instruction:**\n\n{row['instruction']}"
-        orig_generation_html = convert_latex_to_html(row['generation'])
-        
-        # Initialize adherence scores
-        adherence_scores = [0, 0, 0, 0, 0]  # Default values
-        
-        # If there's a previous annotation, use the edited values
-        if previous_annotation:
-            edit_subject = previous_annotation['new_subject']
-            edit_exercise_type = previous_annotation['new_exercise_type']
-            edit_difficulty = previous_annotation['new_difficulty']
-            edit_grade_level = str(previous_annotation['new_grade_level'])
-            edit_modifier = previous_annotation['new_modifier']
-            edit_instruction_md = f"**Updated Instruction:\n\n** {previous_annotation['new_instruction']}"
+        if MODE == "ANNOTATION" and not df.empty:
+            # Load from input data
+            row = df.iloc[id_num]
+            current_sample = {
+                'id': id_num,
+                'instruction': row['instruction'],
+                'subject': row['subject'],
+                'exercise_type': row['exercise_type'],
+                'difficulty': row['difficulty'],
+                'grade_level': str(row['grade_level']),
+                'modifier': row['modifier'],
+                'generation': row['generation'],
+            }
             
-            # Load previous adherence scores
-            adherence_scores = [
-                int(previous_annotation.get('adherence_subject', 0)),
-                int(previous_annotation.get('adherence_exercise_type', 0)),
-                int(previous_annotation.get('adherence_difficulty', 0)),
-                int(previous_annotation.get('adherence_grade_level', 0)),
-                int(previous_annotation.get('adherence_modifier', 0))
-            ]
+            # Check if this sample has previous annotations
+            previous_annotation = None
+            for annotation in annotated_data:
+                if annotation['original_id'] == id_num:
+                    previous_annotation = annotation
+                    break
             
-            # Update current_sample with previous edits
-            current_sample.update({
-                'new_instruction': previous_annotation['new_instruction'],
-                'new_subject': edit_subject,
-                'new_exercise_type': edit_exercise_type,
-                'new_difficulty': edit_difficulty,
-                'new_grade_level': edit_grade_level,
-                'new_modifier': edit_modifier
-            })
+            # Prepare content for display with LaTeX rendering
+            orig_instruction_md = _escape_backslashes_for_markdown(f"**Instruction:**\n\n{row['instruction']}")
+            orig_generation_html = convert_latex_to_html(str(row['generation']))
+            
+            # Initialize adherence scores (use None to represent empty/unset)
+            adherence_scores = [None, None, None, None, None]
+            
+            # If there's a previous annotation, use the edited values
+            if previous_annotation:
+                edit_subject = previous_annotation['new_subject']
+                edit_exercise_type = previous_annotation['new_exercise_type']
+                edit_difficulty = previous_annotation['new_difficulty']
+                edit_grade_level = str(previous_annotation['new_grade_level'])
+                edit_modifier = previous_annotation['new_modifier']
+                edit_instruction_md = _escape_backslashes_for_markdown(f"**Updated Instruction:**\n\n{previous_annotation['new_instruction']}")
+                
+                # Load previous adherence scores (None means empty/unset)
+                adherence_scores = [
+                    _safe_int(previous_annotation.get('adherence_subject', None)),
+                    _safe_int(previous_annotation.get('adherence_exercise_type', None)),
+                    _safe_int(previous_annotation.get('adherence_difficulty', None)),
+                    _safe_int(previous_annotation.get('adherence_grade_level', None)),
+                    _safe_int(previous_annotation.get('adherence_modifier', None))
+                ]
+                
+                # Update current_sample with previous edits
+                current_sample.update({
+                    'new_instruction': previous_annotation['new_instruction'],
+                    'new_subject': edit_subject,
+                    'new_exercise_type': edit_exercise_type,
+                    'new_difficulty': edit_difficulty,
+                    'new_grade_level': edit_grade_level,
+                    'new_modifier': edit_modifier
+                })
+            else:
+                # Use original values if no previous annotation
+                edit_subject = row['subject']
+                edit_exercise_type = row['exercise_type']
+                edit_difficulty = row['difficulty']
+                edit_grade_level = str(row['grade_level'])
+                edit_modifier = row['modifier']
+                edit_instruction_md = _escape_backslashes_for_markdown(f"**Instruction:** {row['instruction']}")
+            
+            # Return values for left panel (original data), right panel (editable), and adherence scores
+            return (
+                row['subject'],
+                row['exercise_type'], 
+                row['difficulty'],
+                str(row['grade_level']),
+                row['modifier'],
+                orig_instruction_md,
+                orig_generation_html,
+                # Return values for right panel (editable)
+                edit_subject,
+                edit_exercise_type,
+                edit_difficulty, 
+                edit_grade_level,
+                edit_modifier,
+                edit_instruction_md,
+                # Return adherence scores (convert None -> empty string for initial UI)
+                *([s if s is not None else "" for s in adherence_scores])
+            )
         else:
-            # Use original values if no previous annotation
-            edit_subject = row['subject']
-            edit_exercise_type = row['exercise_type']
-            edit_difficulty = row['difficulty']
-            edit_grade_level = str(row['grade_level'])
-            edit_modifier = row['modifier']
-            edit_instruction_md = f"**Instruction:** {row['instruction']}"
-        
-        # Return values for left panel (original data), right panel (editable), and adherence scores
-        return (
-            row['subject'],
-            row['exercise_type'], 
-            row['difficulty'],
-            str(row['grade_level']),
-            row['modifier'],
-            orig_instruction_md,
-            orig_generation_html,
-            # Return values for right panel (editable)
-            edit_subject,
-            edit_exercise_type,
-            edit_difficulty, 
-            edit_grade_level,
-            edit_modifier,
-            edit_instruction_md,
-            # Return adherence scores
-            adherence_scores[0],  # subject
-            adherence_scores[1],  # exercise
-            adherence_scores[2],  # difficulty
-            adherence_scores[3],  # grade
-            adherence_scores[4]   # modifier
-        )
+            # Load from annotated data
+            annotation = None
+            for rec in annotated_data:
+                if rec['original_id'] == id_num:
+                    annotation = rec
+                    break
+            
+            if not annotation:
+                return "", "", "", "", "", "", "", "", "", "", "", "**No annotation found**", None, None, None, None, None
+            
+            current_sample = {
+                'id': id_num,
+                'instruction': annotation.get('original_instruction', ''),
+                'subject': annotation.get('original_subject', ''),
+                'exercise_type': annotation.get('original_exercise_type', ''),
+                'difficulty': annotation.get('original_difficulty', ''),
+                'grade_level': str(annotation.get('original_grade_level', '')),
+                'modifier': annotation.get('original_modifier', ''),
+                'generation': annotation.get('original_generation', ''),
+            }
+            
+            # Show original values on left
+            orig_instruction_md = _escape_backslashes_for_markdown(f"**Original Instruction:**\n\n{annotation.get('original_instruction', '')}")
+            orig_generation_html = convert_latex_to_html(str(annotation.get('original_generation', '')))
+            
+            # Show current edited values on right
+            edit_subject = annotation.get('new_subject', annotation.get('original_subject', ''))
+            edit_exercise_type = annotation.get('new_exercise_type', annotation.get('original_exercise_type', ''))
+            edit_difficulty = annotation.get('new_difficulty', annotation.get('original_difficulty', ''))
+            edit_grade_level = str(annotation.get('new_grade_level', annotation.get('original_grade_level', '')))
+            edit_modifier = annotation.get('new_modifier', annotation.get('original_modifier', ''))
+            edit_instruction_md = _escape_backslashes_for_markdown(f"**Current Instruction:**\n\n{annotation.get('new_instruction', annotation.get('original_instruction', ''))}")
+            
+            # Load adherence scores (None means empty/unset)
+            adherence_scores = [
+                _safe_int(annotation.get('adherence_subject', None)),
+                _safe_int(annotation.get('adherence_exercise_type', None)),
+                _safe_int(annotation.get('adherence_difficulty', None)),
+                _safe_int(annotation.get('adherence_grade_level', None)),
+                _safe_int(annotation.get('adherence_modifier', None))
+            ]
+
+            return (
+                annotation.get('original_subject', ''),
+                annotation.get('original_exercise_type', ''),
+                annotation.get('original_difficulty', ''),
+                str(annotation.get('original_grade_level', '')),
+                annotation.get('original_modifier', ''),
+                orig_instruction_md,
+                orig_generation_html,
+                # Editable values
+                edit_subject,
+                edit_exercise_type,
+                edit_difficulty,
+                edit_grade_level,
+                edit_modifier,
+                edit_instruction_md,
+                # Adherence scores (convert None -> empty string for initial UI)
+                *([s if s is not None else "" for s in adherence_scores])
+            )
     except Exception as e:
         print(f"Error loading sample: {e}")
-        return "", "", "", "", "", "**No data available**", "", "", "", "", "", "**No data available**", 0, 0, 0, 0, 0
+        return "", "", "", "", "", "**No data available**", "", "", "", "", "", "**No data available**", None, None, None, None, None
 
 def update_instruction(subject, exercise_type, difficulty, grade_level, modifier):
     """Generate new instruction based on edited parameters using the instructionize function"""
@@ -308,7 +465,12 @@ def update_instruction(subject, exercise_type, difficulty, grade_level, modifier
 
 def save_annotation(adherence_subject, adherence_exercise, adherence_difficulty, 
                    adherence_grade, adherence_modifier):
-    """Save the annotated data with adherence scores"""
+    """Save the annotated data with adherence scores.
+    
+    When saving:
+    1. Update/add the current sample annotation
+    2. If using input-data mode, ensure ALL samples (annotated + unannotated) are in the output
+    """
     global current_sample, annotated_data, annotated_ids
     
     if not current_sample:
@@ -316,23 +478,28 @@ def save_annotation(adherence_subject, adherence_exercise, adherence_difficulty,
     
     # Validate adherence scores with new constraints
     try:
-        # Subject adherence: 0 or 1 only
-        if adherence_subject not in [0, 1]:
-            return "Subject adherence must be 0 or 1.", "", gr.Dropdown(choices=get_sample_list())
-        
-        # Other adherence scores: 0-5
-        other_scores = [adherence_exercise, adherence_difficulty, adherence_grade, adherence_modifier]
-        for score in other_scores:
-            if score < 0 or score > 5:
-                return "Exercise, Difficulty, Grade, and Modifier adherence must be between 0-5.", "", gr.Dropdown(choices=get_sample_list())
-        
-        adherence_scores = [
-            int(adherence_subject),  # 0 or 1
-            float(adherence_exercise),  # 0-5
-            float(adherence_difficulty),  # 0-5
-            float(adherence_grade),  # 0-5
-            float(adherence_modifier)  # 0-5
-        ]
+        # Allow empty/unset values (None) — treat as not provided
+        # Subject adherence: if provided, must be 0 or 1
+        subject_val: Optional[int]
+        if adherence_subject is None or adherence_subject == "":
+            subject_val = None
+        else:
+            subject_val = int(adherence_subject)
+            if subject_val not in (0, 1):
+                return "Subject adherence must be 0 or 1.", "", gr.Dropdown(choices=get_sample_list())
+
+        # Other adherence scores: if provided, must be between 0-5
+        other_vals = []
+        for raw in (adherence_exercise, adherence_difficulty, adherence_grade, adherence_modifier):
+            if raw is None or raw == "":
+                other_vals.append(None)
+            else:
+                val = float(raw)
+                if val < 0 or val > 5:
+                    return "Exercise, Difficulty, Grade, and Modifier adherence must be between 0-5.", "", gr.Dropdown(choices=get_sample_list())
+                other_vals.append(val)
+
+        adherence_scores = [subject_val, other_vals[0], other_vals[1], other_vals[2], other_vals[3]]
     except (ValueError, TypeError):
         return "Invalid adherence scores. Subject: 0 or 1, Others: 0-5.", "", gr.Dropdown(choices=get_sample_list())
     
@@ -352,11 +519,11 @@ def save_annotation(adherence_subject, adherence_exercise, adherence_difficulty,
         'new_difficulty': current_sample.get('new_difficulty', current_sample['difficulty']),
         'new_grade_level': current_sample.get('new_grade_level', current_sample['grade_level']),
         'new_modifier': current_sample.get('new_modifier', current_sample['modifier']),
-        'adherence_subject': adherence_scores[0],
-        'adherence_exercise_type': adherence_scores[1],
-        'adherence_difficulty': adherence_scores[2],
-        'adherence_grade_level': adherence_scores[3],
-        'adherence_modifier': adherence_scores[4],
+        'adherence_subject': adherence_scores[0] if adherence_scores[0] is not None else "",
+        'adherence_exercise_type': adherence_scores[1] if adherence_scores[1] is not None else "",
+        'adherence_difficulty': adherence_scores[2] if adherence_scores[2] is not None else "",
+        'adherence_grade_level': adherence_scores[3] if adherence_scores[3] is not None else "",
+        'adherence_modifier': adherence_scores[4] if adherence_scores[4] is not None else "",
         'annotation_timestamp': datetime.now().isoformat()
     }
     
@@ -377,6 +544,43 @@ def save_annotation(adherence_subject, adherence_exercise, adherence_difficulty,
     # Mark this ID as annotated
     annotated_ids.add(current_sample['id'])
     
+    # If in ANNOTATION mode with input data, ensure ALL samples are in annotated_data
+    # (including unannotated ones)
+    if MODE == "ANNOTATION" and not df.empty:
+        print("💾 Consolidating all samples into annotation file...")
+        for i, row in df.iterrows():
+            # Check if this sample already has an annotation
+            has_annotation = any(rec['original_id'] == i for rec in annotated_data)
+            
+            if not has_annotation:
+                # Create an unannotated record for this sample
+                unannotated_record = {
+                    'original_id': i,
+                    'original_instruction': row['instruction'],
+                    'original_subject': row['subject'],
+                    'original_exercise_type': row['exercise_type'],
+                    'original_difficulty': row['difficulty'],
+                    'original_grade_level': row['grade_level'],
+                    'original_modifier': row['modifier'],
+                    'original_generation': row['generation'],
+                    'new_instruction': '',
+                    'new_subject': '',
+                    'new_exercise_type': '',
+                    'new_difficulty': '',
+                    'new_grade_level': '',
+                    'new_modifier': '',
+                    'adherence_subject': '',
+                    'adherence_exercise_type': '',
+                    'adherence_difficulty': '',
+                    'adherence_grade_level': '',
+                    'adherence_modifier': '',
+                    'annotation_timestamp': ''
+                }
+                annotated_data.append(unannotated_record)
+        
+        # Sort by original_id for consistency
+        annotated_data.sort(key=lambda x: x['original_id'])
+    
     # Save to file
     annotated_df = pd.DataFrame(annotated_data)
     output_file = args.annotated_data
@@ -385,27 +589,24 @@ def save_annotation(adherence_subject, adherence_exercise, adherence_difficulty,
     # Update the dropdown with new annotation status
     updated_choices = get_sample_list()
 
-    # Find the current sample in the updated choices (it should now have the ✅ mark)
+    # Find the current sample in the updated choices
     current_sample_with_mark = None
     for choice in updated_choices:
         if f"ID {current_sample['id']}:" in choice:
             current_sample_with_mark = choice
             break
 
+    total_samples = len(df) if not df.empty else len(annotated_data)
+    progress_pct = (len(annotated_ids) / total_samples * 100) if total_samples > 0 else 0
+
     return (
-        f"✅ Annotation {action}! Total annotations: {len(annotated_data)}", 
+        f"✅ Annotation {action}! Progress: {len(annotated_ids)}/{total_samples} ({progress_pct:.1f}%)", 
         f"Saved to: {output_file}",
         gr.Dropdown(choices=updated_choices, value=current_sample_with_mark)
     )
 
 def next_sample(current_dropdown_value):
     """Move to the next sample in the dataset"""
-    global df
-    
-    if df.empty:
-        return gr.Dropdown(value=None)
-    
-    # Get the current sample list (this will have updated annotation marks)
     sample_list = get_sample_list()
     
     if not sample_list:
@@ -482,21 +683,27 @@ with gr.Blocks(title="Dataset Annotation Tool", theme=gr.themes.Soft(), css="""
     </script>
     """)
     
-    gr.Markdown("# 📊 Dataset Annotation Tool")
-    gr.Markdown("Select a sample from the list below to start annotation. ✅ indicates already annotated samples.")
-    gr.Markdown("**Resume Feature:** Previously saved annotations are automatically loaded. Annotated samples show their previous values and scores.")
+    # Mode indicator
+    mode_indicator = "🔄 REVIEW MODE" if MODE == "REVIEW" else "✏️ ANNOTATION MODE"
+    gr.Markdown(f"# 📊 Dataset Annotation Tool ({mode_indicator})")
+    
+    if MODE == "ANNOTATION":
+        gr.Markdown("Select a sample from the list below to start annotation. ✅ indicates already annotated samples.")
+        gr.Markdown("**Note:** When you save, ALL samples (annotated + unannotated) are saved to the annotation file. You can review them later without the original data.")
+    else:
+        gr.Markdown("**REVIEW MODE:** Edit existing annotations. ✅ indicates fully annotated samples.")
     
     # Get initial sample data
     sample_choices = get_sample_list()
     initial_sample = sample_choices[0] if sample_choices else None
-    initial_data = load_sample(initial_sample) if initial_sample else ("", "", "", "", "", "", "", "", "", "", "", "**No sample selected**", 0, 0, 0, 0, 0)
+    initial_data = load_sample(initial_sample) if initial_sample else ("", "", "", "", "", "", "", "", "", "", "", "**No sample selected**", None, None, None, None, None)
     
     with gr.Row():
         # Sample selection
         sample_dropdown = gr.Dropdown(
             choices=sample_choices,
             label="📋 Select Sample",
-            info="Choose a sample to annotate (✅ = already annotated)",
+            info="Choose a sample to annotate/review",
             interactive=True,
             value=initial_sample
         )
@@ -505,7 +712,8 @@ with gr.Blocks(title="Dataset Annotation Tool", theme=gr.themes.Soft(), css="""
     with gr.Row():
         # Left panel - Original data (read-only)
         with gr.Column(scale=1):
-            gr.Markdown("### 📖 Original Data")
+            left_panel_title = "📖 Original Data" if MODE == "ANNOTATION" else "📖 Original Data (Reference)"
+            gr.Markdown(f"### {left_panel_title}")
             with gr.Group():
                 orig_subject = gr.Textbox(label="Subject", interactive=False, value=initial_data[0])
                 orig_exercise_type = gr.Textbox(label="Exercise Type", interactive=False, value=initial_data[1])
@@ -519,7 +727,8 @@ with gr.Blocks(title="Dataset Annotation Tool", theme=gr.themes.Soft(), css="""
         
         # Right panel - Editable data
         with gr.Column(scale=1):
-            gr.Markdown("### ✏️ Editable Data")
+            right_panel_title = "✏️ Editable Data" if MODE == "ANNOTATION" else "✏️ Edit Values"
+            gr.Markdown(f"### {right_panel_title}")
             with gr.Group():
                 edit_subject = gr.Textbox(label="Subject", interactive=True, value=initial_data[7])
                 edit_exercise_type = gr.Textbox(label="Exercise Type", interactive=True, value=initial_data[8])
@@ -581,7 +790,7 @@ with gr.Blocks(title="Dataset Annotation Tool", theme=gr.themes.Soft(), css="""
     with gr.Row():
         with gr.Column(scale=1):
             next_btn = gr.Button("➡️ Next Sample", variant="secondary", size="lg")
-            save_btn = gr.Button("💾 Save Annotation", variant="primary", size="lg")
+            save_btn = gr.Button("💾 Save Changes" if MODE == "REVIEW" else "💾 Save Annotation", variant="primary", size="lg")
         status_msg = gr.Textbox(label="Status", interactive=False)
         file_info = gr.Textbox(label="File Info", interactive=False)
     
@@ -616,16 +825,28 @@ with gr.Blocks(title="Dataset Annotation Tool", theme=gr.themes.Soft(), css="""
     )
 
 if __name__ == "__main__":
-    # Check if data file exists
-    if not os.path.exists(args.input_data):
-        print(f"⚠️  Data file not found. Please ensure '{args.input_data}' exists.")
-    else:
-        print(f"📊 Loaded {len(df)} samples from dataset: {args.input_data}")
-        if len(annotated_data) > 0:
-            print(f"🎯 Resumed with {len(annotated_data)} existing annotations")
-            print(f"📝 Progress: {len(annotated_ids)}/{len(df)} samples annotated ({len(annotated_ids)/len(df)*100:.1f}%)")
+    # Check and display startup info
+    if MODE == "ANNOTATION":
+        if not os.path.exists(args.input_data):
+            print(f"⚠️  Data file not found. Please ensure '{args.input_data}' exists.")
         else:
-            print(f"🆕 Starting fresh annotation session. Annotations will be saved to '{args.annotated_data}'")
+            print(f"📊 ANNOTATION MODE: Loaded {len(df)} samples from dataset")
+            print(f"📂 Input data: {args.input_data}")
+            print(f"💾 Output file: {args.annotated_data}")
+            if len(annotated_data) > 0:
+                print(f"🎯 Resumed with {len(annotated_data)} total records ({len(annotated_ids)} annotated)")
+                total = len(df)
+                pct = (len(annotated_ids) / total * 100) if total > 0 else 0
+                print(f"📝 Progress: {len(annotated_ids)}/{total} samples annotated ({pct:.1f}%)")
+            else:
+                print(f"🆕 Starting fresh annotation session")
+    else:
+        total = len(annotated_data)
+        annotated = len(annotated_ids)
+        pct = (annotated / total * 100) if total > 0 else 0
+        print(f"🔄 REVIEW MODE: Loaded {total} records ({annotated} annotated, {total - annotated} unannotated)")
+        print(f"💾 File: {args.annotated_data}")
+        print(f"📝 Progress: {annotated}/{total} samples annotated ({pct:.1f}%)")
     
     demo.launch(
         server_name="0.0.0.0",
